@@ -4,6 +4,8 @@ The _BioAssay Express_ (BAE) project allows bioassay protocols to be convenientl
 
 See the [Production Server](https://www.bioassayexpress.com) for an example of it running in real life.
 
+The project has been open source (Apache) since 11 September 2023.
+
 ## Requisites
 
 The primary codebase is written in **Java 8**. Web content uses **HTML5**, and works with evergreen browsers (ca. 2016). Development is done with **Eclipse EE** and **Visual Studio Code**. Production builds use **Ant**. The server runs with **Apache Tomcat 8**, and uses **MongoDB** for its content. Supporting _JavaScript_ libraries are written in **TypeScript** and cross-compiled. All of these tools should be installed in their usual way. The full software stack has been tested on Linux and macOS, and should not be sensitive to minor versions.
