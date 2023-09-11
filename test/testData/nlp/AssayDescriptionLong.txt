@@ -1,0 +1,27 @@
+qHTS RealTime-Glo MT Cell Viability Assay in HEK293 cells - 16 hour
+
+U.S. Tox21 Program
+
+National Center for Advancing Translational Sciences [NCATS]
+NIH Chemical Genomics Center [NCGC]
+U.S. Environmental Protection Agency [EPA]
+National Institutes of Environmental Health Sciences [NIEHS]
+National Toxicology Program [NTP]
+U.S. Food and Drug Administration [FDA]
+
+Tox21 Assay Overview:
+
+Measure of cell viability is critical in the cell-base assay. Analysis of cell viability is necessary for the characterization of cell responses to cytotoxic drugs and environmental stress. A RealTime-Glo MT Cell Viability Assay to monitor cell viability in real time of continues cell culture during 40 hours of compound treatment was used to screen Tox21 10K library compounds in Hek293 cells. The RealTime-Glo MT Cell Viability Assay is a nonlytic, homogeneous, bioluminescent method to measure cell viability in real time using a simple, plate-based method. The assay involves adding NanoLuc luciferase and a cell-permeant prosubstrate to cells in culture. Viable cells reduce the proprietary prosubstrate to generate a substrate for NanoLuc luciferase. This substrate diffuses from cells into the surrounding culture medium, where it is rapidly used by the NanoLuc Enzyme to produce a luminescent signal. The signal correlates with the number of viable cells, making the assay well suited for cytotoxicity studies.
+
+Disclaimer:
+
+Although all reasonable efforts have been made to ensure the accuracy and reliability of the data, caution should be exercised when interpreting the results as artifacts are possible from nonspecific effects such as assay signal interference. The curve fitting and activity calls presented here are based on the NCATS analysis methods. Alternative analysis methods and interpretations of the data are available at EPA (http://actor.epa.gov) and NTP (http://tools.niehs.nih.gov/cebs3/ui/).
+
+Compound Ranking:
+
+1. Compounds are first classified as having full titration curves, partial modulation, partial curve (weaker actives), single point activity (at highest concentration only), or inactive. See data field "Curve Description". For this assay, apparent inhibitors are ranked higher than compounds that showed apparent activation.
+2. For all inactive compounds, PUBCHEM_ACTIVITY_SCORE is 0. For all active compounds, a score range was given for each curve class type given above.  Active compounds have PUBCHEM_ACTIVITY_SCORE between 40 and 100.  Inconclusive compounds have PUBCHEM_ACTIVITY_SCORE between 1 and 39.  Fit_LogAC50 was used for determining relative score and was scaled to each curve class' score range.
+
+Tox21 Assay Protocol Summary:
+
+The mixture of Hek293 cell suspension and reagents were dispensed at 600cells/6 ul/well in 1536-well tissue culture treated black solid bottom plates using a Multidrop dispenser. After the assay plates were incubated at a 37 C/5% CO2 incubator for 5 hours, 23 nL of compounds dissolved in DMSO, positive and negative controls was transferred to the assay plate by a pintool work station. The plates were incubated at 37 C for 40 hours. The luminescence intensity were measured at 0h, 8h, 16h, 24h, 32h and 40h time points using ViewLux plate reader during compound treatment.

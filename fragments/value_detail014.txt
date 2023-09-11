@@ -1,0 +1,688 @@
+obo:CLO_0002420
+  A CHL-1
+obo:CLO_0003433
+  D "Homo sapiens (human); skin; malignant melanoma cell line; established from a 31 year old caucasian male."
+obo:CLO_0000520
+  D "An immortal skin-derived cell line cell that derives from mouse."
+obo:CLO_0007344
+  D "Hepatocellular carcinoma cell line."
+obo:CLO_0007347
+  D "Hepatocellular carcinoma cell line."
+obo:CLO_0009041
+  D "Human melanoma cell line."
+obo:CLO_0009617
+  D "Human melanoma cell line, derived from the primary radial growth phase tumor site."
+obo:CLO_0050011
+  D "A immortal human cell line cell that has the characteristics: High level of EGF receptor"
+obo:CLO_0050012
+  D "A immortal human cell line cell that has the characteristics: Human cell line derivd from epidermoid carcinoma. TKG0182 (Deposited from Tohoku Univ.)."
+obo:CLO_0050697
+  D "A immortal human skin-derived cell line cell that has the characteristics: Melanoma from a 47 year old female. Backup of ECA87061210."
+obo:CLO_0001794
+  D "Mouse, C57BL/6, melanoma cell line."
+obo:CLO_0050701
+  D "A immortal human skin-derived cell line cell that has the characteristics: Human primary adherent cells derived from Werner syndrome patient's skin. The same patient as GMC0001."
+obo:CLO_0050712
+  D "A immortal human skin-derived cell line cell that has the characteristics: Human primary adherent cells derived from Werner syndrome (questionable)  patient's skin."
+obo:CLO_0050696
+  D "A immortal human skin-derived cell line cell that has the characteristics: Accelerated aging in vitro, Werner's syndrome"
+obo:CLO_0050699
+  D "A immortal human skin-derived cell line cell that has the characteristics: Accelerated aging in vitro, Werner's syndrome."
+obo:CLO_0050694
+  D "A immortal human skin-derived cell line cell that has the characteristics: Werner's syndrome fibroblast"
+obo:CLO_0050700
+  D "A immortal human skin-derived cell line cell that has the characteristics: Questionable Werner's syndrome-like. Life span in vitro was over 60 PDL."
+obo:CLO_0050695
+  D "A immortal human skin-derived cell line cell that has the characteristics: Once thought Werner's Syndrome, but the life span in vitro was more than 50 PDL."
+obo:CLO_0050704
+  D "A immortal human skin-derived cell line cell that has the characteristics: Human primary adherent cells derived from Werner syndrome patient's skin. The same patient as GMC0005."
+obo:CLO_0050705
+  D "A immortal human skin-derived cell line cell that has the characteristics: Human primary adherent cells derived from Werner syndrome (questionable)  patient's skin. The same patient as GMC0015."
+obo:CLO_0050718
+  D "A immortal human skin-derived cell line cell that has the characteristics: Human primary adherent cells derived from Werner syndrome patient's skin. The same patient as GMC0016."
+obo:CLO_0050706
+  D "A immortal human skin-derived cell line cell that has the characteristics: Human primary adherent cells derived from Werner syndrome patient's skin. The same patient as GMC00017."
+obo:CLO_0050708
+  D "A immortal human skin-derived cell line cell that has the characteristics: Human primary adherent cells derived from Werner syndrome (questionable)  patient's skin. The same patient as GMC0020."
+obo:CLO_0050709
+  D "A immortal human skin-derived cell line cell that has the characteristics: Human primary adherent cells derived from Werner syndrome patient's skin. The same patient as GMC0029."
+obo:CLO_0050710
+  D "A immortal human skin-derived cell line cell that has the characteristics: Human primary adherent cells derived from Werner syndrome patient's skin. The same patient as GMC0030."
+obo:CLO_0050711
+  D "A immortal human skin-derived cell line cell that has the characteristics: Human primary adherent cells derived from Werner syndrome patient's skin. The same patient as GMC00035."
+obo:CLO_0050642
+  D "A immortal human skin-derived cell line cell that has the characteristics: Normal human skin fibroblast"
+obo:CLO_0050643
+  D "A immortal human skin-derived cell line cell that has the characteristics: Normal diploid fibroblast from Japanese"
+obo:CLO_0050707
+  D "A immortal human skin-derived cell line cell that has the characteristics: Diploid fibroblast from normal Japanese skin."
+obo:CLO_0050717
+  D "A immortal human skin-derived cell line cell that has the characteristics: Normal human skin fibroblast, RCB original"
+obo:CLO_0050644
+  D "A immortal human skin-derived cell line cell that has the characteristics: SV40-transformed Werner's syndrome fibroblast"
+obo:CLO_0050714
+  D "A immortal human skin-derived cell line cell that has the characteristics: Pseudo congenital lactic acidosis."
+obo:CLO_0050645
+  D "A immortal human skin-derived cell line cell that has the characteristics: Ehlers-Danlos syndrome"
+obo:CLO_0050646
+  D "A immortal human skin-derived cell line cell that has the characteristics: Morquio syndrome"
+obo:CLO_0050647
+  D "A immortal human skin-derived cell line cell that has the characteristics: Wilson's disease"
+obo:CLO_0050648
+  D "A immortal human skin-derived cell line cell that has the characteristics: Wilson's disease"
+obo:CLO_0050649
+  D "A immortal human skin-derived cell line cell that has the characteristics: Citrullinemia"
+obo:CLO_0050650
+  D "A immortal human skin-derived cell line cell that has the characteristics: Citrullinemia"
+obo:CLO_0050651
+  D "A immortal human skin-derived cell line cell that has the characteristics: Wilson's disease"
+obo:CLO_0050652
+  D "A immortal human skin-derived cell line cell that has the characteristics: Cockayne's syndrome"
+obo:CLO_0050653
+  D "A immortal human skin-derived cell line cell that has the characteristics: Werner's syndrome"
+obo:CLO_0050654
+  D "A immortal human skin-derived cell line cell that has the characteristics: Werner's syndrome, the same patient as RCB0433 WS1TKB2."
+obo:CLO_0050655
+  D "A immortal human skin-derived cell line cell that has the characteristics: Werner's syndrome, the same patient as RCB0409 WS1TKB."
+obo:CLO_0050656
+  D "A immortal human skin-derived cell line cell that has the characteristics: OTC(-), X-linked, dominant (XD)"
+obo:CLO_0050715
+  D "A immortal human skin-derived cell line cell that has the characteristics: Pyruvate dehydrogenase deficiency fibroblasts."
+obo:CLO_0050758
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Melanin pigment producing mouse melanoma"
+obo:CLO_0050657
+  D "A immortal human skin-derived cell line cell that has the characteristics: Control from a nonexposed individual with breast cancer, different specimen from RCB0635"
+obo:CLO_0050658
+  D "A immortal human skin-derived cell line cell that has the characteristics: Control from a nonexposed individual without cancer"
+obo:CLO_0050688
+  D "A immortal human skin-derived cell line cell that has the characteristics: Control from a nonexposed individual without cancer."
+obo:CLO_0050659
+  D "A immortal human skin-derived cell line cell that has the characteristics: Control from a nonexposed individual without cancer."
+obo:CLO_0050660
+  D "A immortal human skin-derived cell line cell that has the characteristics: Control from a nonexposed individual with stomach cancer"
+obo:CLO_0050661
+  D "A immortal human skin-derived cell line cell that has the characteristics: Atomic bomb survivor with breast cancer"
+obo:CLO_0050689
+  D "A immortal human skin-derived cell line cell that has the characteristics: Atomic bomb survivor with breast cancer."
+obo:CLO_0050690
+  D "A immortal human skin-derived cell line cell that has the characteristics: Control from a nonexposed individual without cancer."
+obo:CLO_0050662
+  D "A immortal human skin-derived cell line cell that has the characteristics: Atomic bomb survivor with breast cancer."
+obo:CLO_0050663
+  D "A immortal human skin-derived cell line cell that has the characteristics: Atomic bomb survivor with breast cancer"
+obo:CLO_0050664
+  D "A immortal human skin-derived cell line cell that has the characteristics: Control from a non-exposed individual without breast cancer but with thyroid & colon cancer."
+obo:CLO_0050691
+  D "A immortal human skin-derived cell line cell that has the characteristics: Atomic bomb survivor without cancer."
+obo:CLO_0050716
+  D "A immortal human skin-derived cell line cell that has the characteristics: Atomic bomb survivor without breast cancer but with thyroid cancer."
+obo:CLO_0050665
+  D "A immortal human skin-derived cell line cell that has the characteristics: Atomic bomb survivor with breast cancer"
+obo:CLO_0050666
+  D "A immortal human skin-derived cell line cell that has the characteristics: Atomic bomb survivor with breast cancer"
+obo:CLO_0050692
+  D "A immortal human skin-derived cell line cell that has the characteristics: Atomic bomb survivor with breast cancer."
+obo:CLO_0050693
+  D "A immortal human skin-derived cell line cell that has the characteristics: Control from a nonexposed individual without cancer."
+obo:CLO_0050667
+  D "A immortal human skin-derived cell line cell that has the characteristics: Control from a nonexposed individual with breast cancer"
+obo:CLO_0050668
+  D "A immortal human skin-derived cell line cell that has the characteristics: Control from a nonexposed individual with uterus cancer"
+obo:CLO_0050669
+  D "A immortal human skin-derived cell line cell that has the characteristics: Control from a nonexposed individual with breast cancer"
+obo:CLO_0050670
+  D "A immortal human skin-derived cell line cell that has the characteristics: Atomic bomb survivor without cancer"
+obo:CLO_0050671
+  D "A immortal human skin-derived cell line cell that has the characteristics: Atomic bomb survivor with breast cancer"
+obo:CLO_0050672
+  D "A immortal human skin-derived cell line cell that has the characteristics: Atomic bomb survivor with breast cancer"
+obo:CLO_0050673
+  D "A immortal human skin-derived cell line cell that has the characteristics: Atomic bomb survivor with breast cancer, different specimen from RCB0624"
+obo:CLO_0050674
+  D "A immortal human skin-derived cell line cell that has the characteristics: Atomic bomb survivor with breast cancer, different specimen from RCB0621."
+obo:CLO_0050675
+  D "A immortal human skin-derived cell line cell that has the characteristics: Atomic bomb survivor with breast cancer"
+obo:CLO_0050676
+  D "A immortal human skin-derived cell line cell that has the characteristics: Control from a nonexposed individual with breast cancer"
+obo:CLO_0050677
+  D "A immortal human skin-derived cell line cell that has the characteristics: Control from a nonexposed individual with chest cancer"
+obo:CLO_0050678
+  D "A immortal human skin-derived cell line cell that has the characteristics: Control from a nonexposed individual with breast cancer, different specimen from RCB0580."
+obo:CLO_0050679
+  D "A immortal human skin-derived cell line cell that has the characteristics: Tay-Sachs' disease"
+obo:CLO_0050680
+  D "A immortal human skin-derived cell line cell that has the characteristics: Malignant trichilemmal cyst cells. Strongly laminin positive on cell surface. Serum-free culturable."
+obo:CLO_0050681
+  D "A immortal human skin-derived cell line cell that has the characteristics: Skin fibroblasts from a familial colon polyposis patient."
+obo:CLO_0050682
+  D "A immortal human skin-derived cell line cell that has the characteristics: Skin fibroblasts from a familial colon polyposis patient at Hiroshima."
+obo:CLO_0050683
+  D "A immortal human skin-derived cell line cell that has the characteristics: Skin fibroblasts from a familial colon polyposis patient at Hiroshima."
+obo:CLO_0050684
+  D "A immortal human skin-derived cell line cell that has the characteristics: Skin fibroblasts from a familial colon polyposis patient at Hiroshima."
+obo:CLO_0050685
+  D "A immortal human skin-derived cell line cell that has the characteristics: Skin fibroblasts from a familial colon polyposis patient at Hiroshima."
+obo:CLO_0050686
+  D "A immortal human skin-derived cell line cell that has the characteristics: Skin fibroblasts from a familial colon polyposis patient at Hiroshima."
+obo:CLO_0050702
+  D "A immortal human skin-derived cell line cell that has the characteristics: Chromosomal aberration; 46XX + (11;12)(q23.3, q15). Need confirmation."
+obo:CLO_0050698
+  D "A immortal human skin-derived cell line cell that has the characteristics: Human melanoma producing melanin up to 50 PDL. Backup of ECA88030401."
+obo:CLO_0050760
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Glucosylceramide synthetase-deficient B16 melanoma mutant."
+obo:CLO_0050761
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Not expressing melanoma antigen. Control for GM-95 cell line."
+obo:CLO_0050762
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse GM-CSF producing B16 melanoma."
+obo:CLO_0050752
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse melanoma producing melanin."
+obo:CLO_0050753
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse melanoma expressing E.coli lac Z. Strongly positive with beta-galactosidase."
+obo:CLO_0050703
+  D "A immortal human skin-derived cell line cell that has the characteristics: Japanese cystic fibrosis fibroblast."
+obo:CLO_0050713
+  D "A immortal human skin-derived cell line cell that has the characteristics: Prader-Willi syndrome with obesity. del(15) was found in lymphocytes of the patient."
+obo:CLO_0050687
+  D "A immortal human skin-derived cell line cell that has the characteristics: Severe insulin-resistance by uncleaved insulin proreceptor. G->T mutation in interconnecting region."
+obo:CLO_0050749
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse stromal cell line for human lung small cell carcinoma cell line, WA-ht. Cell growth is slow."
+obo:CLO_0050765
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast cell line. Transformed by ultraviolet. Highly immunogenic."
+obo:CLO_0050766
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast cell line. Transformed by ultraviolet. Highly immunogenic."
+obo:CLO_0050730
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse skin derived cell line. Induced by ultra-violet irradiation."
+obo:CLO_0050731
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse skin derived cell line. Induced by ultra-violet irradiation."
+obo:CLO_0050754
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. C57BL/6 strain. Induced by ultra-violet irradiation."
+obo:CLO_0050755
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse skin derived cell line. Induced by ultra-violet irradiation."
+obo:CLO_0050756
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. C57BL/6 strain.Induced by ultra-violet irradiation."
+obo:CLO_0050757
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. C57BL/6 strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050747
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line established by UV irradiation. Derived from Balb/c strain. (Neuron-like)"
+obo:CLO_0050748
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line established by UV irradiation. Derived from Balb/c strain. (Epithelial-like)"
+obo:CLO_0050732
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. BALB/c strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050733
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. BALB/c strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050734
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. BALB/c strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050746
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. BALB/c strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050735
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. BALB/c strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050736
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. BALB/c strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050737
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. BALB/c strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050738
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. BALB/c strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050739
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. BALB/c strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050740
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. BALB/c strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050741
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. BALB/c strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050751
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin.  C3H/HeN strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050750
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. C3H/HeN strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050742
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. BALB/c strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050743
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. BALB/c strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050744
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. BALB/c strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050745
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. BALB/c strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050728
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. (C3H/HeN x C57BL/6)F1 strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050729
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. (C3H/HeN x C57BL/6)F1 strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050720
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. (BALB/c x C57BL/6)F1 strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050719
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. (BALB/c x C57BL/6)F1 strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050721
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. (BALB/c x C57BL/6)F1 strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050722
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. (BALB/c x C57BL/6)F1 strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050726
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. (BALB/c x C57BL/6)F1 strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050725
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. (BALB/c x C57BL/6)F1 strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050723
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. (BALB/c x C57BL/6)F1 strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050724
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. (BALB/c x C57BL/6)F1 strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050727
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line derived from skin. (BALB/cxC3H)F1 strain.  Induced by ultra-violet irradiation."
+obo:CLO_0050763
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse cell line derived from melanoma. TKG0348 (Deposited from Tohoku Univ.)."
+obo:CLO_0050759
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse cell line derived from melanoma.　TKG0598 (Deposited from Tohoku Univ.)."
+obo:CLO_0050764
+  D "A immortal mouse skin-derived cell line cell that has the characteristics: Mouse cell line derived from melanoma. C57BL/6J strain. TKG0347(Deposited from Tohoku Univ.)."
+obo:CLO_0000694
+  D "An immortal soft palate-derived cell line cell that derives from human."
+obo:CLO_0000131
+  D "a immortal epithelial cell line that is derived from columnar/cuboidal epithelial cell"
+obo:CLO_0000160
+  D "a immortal animal cell line that is derived from connective tissue cell"
+obo:CLO_0000130
+  D "a immortal epithelial cell line that is derived from duct epithelial cell"
+obo:CLO_0000143
+  D "a immortal epithelial cell line that is derived from ecto-epithelial cell"
+obo:CLO_0000142
+  D "a immortal epithelial cell line that is derived from epithelial cell of pancreas"
+obo:CLO_0000145
+  D "a immortal animal cell line that is derived from extraembryonic cell"
+obo:CLO_0000147
+  D "a immortal animal cell line that is derived from hematopoietic cell"
+obo:CLO_0000144
+  D "a immortal epithelial cell line that is derived from meso-epithelial cell"
+obo:CLO_0000156
+  D "a immortal animal cell line that is derived from neural cell"
+obo:CLO_0000140
+  D "a immortal epithelial cell line that is derived from stratified epithelial cell"
+obo:CLO_0000132
+  D "a immortal columnar/cuboidal epithelial cell line that is derived from neurecto-epithelial cell"
+obo:CLO_0000133
+  D "a immortal neurecto-epithelial cell line that is derived from melanocyte"
+obo:CLO_0000070
+  D "a immortal endocrine cell line cell that is derived from neuroendocrine cell"
+obo:CLO_0000134
+  D "a immortal neurecto-epithelial cell line that is derived from pigmented epithelial cell"
+obo:CLO_0000161
+  D "a immortal connective tissue cell line that is derived from fibroblast"
+obo:CLO_0000162
+  D "a immortal connective tissue cell line that is derived from stromal cell"
+obo:CLO_0050231
+  D "A immortal connective tissue cell line cell that has the characteristics: Protein- & lipid-free medium growing"
+obo:CLO_0050232
+  D "A immortal connective tissue cell line cell that has the characteristics: Thymidine kinase defective L cell"
+obo:CLO_0050235
+  D "A immortal connective tissue cell line cell that has the characteristics: TNFalpha-sensitive L929. Do not confuse with RCB0081 L929 that is insensitive to TNFalpha."
+obo:CLO_0050233
+  D "A immortal connective tissue cell line cell that has the characteristics: Sanford's original, brought by Katsuta at 7/5/1955. Insensitive to TNFalpha.  Possible to culture in MEM medium."
+obo:CLO_0050238
+  D "A immortal connective tissue cell line cell that has the characteristics: Rat fibroblast-like cell line that can be transformed by oncogenes."
+obo:CLO_0050234
+  D "A immortal connective tissue cell line cell that has the characteristics: Mouse fibroblast-like cell line. TKG0217 (Deposited from Tohoku Univ.)."
+obo:CLO_0050236
+  D "A immortal connective tissue cell line cell that has the characteristics: Mouse cell line derived from connective tissue. Fibroblast-like. C3H strain. TKG0218 (Deposited from Tohoku Univ.)."
+obo:CLO_0050237
+  D "A immortal connective tissue cell line cell that has the characteristics: A subline of LAG (RCB2758) expressing MUC1. 8-Ag resistant. TKG0466(Deposited from Tohoku Univ.)."
+obo:CLO_0000384
+  D "An immortal fibroblast cell line cell that derives from 16914."
+obo:CLO_0000221
+  D "An immortal fibroblast cell line cell that derives from abdominal cavity."
+obo:CLO_0000252
+  D "An immortal fibroblast cell line cell that derives from achilles tendon."
+obo:CLO_0000205
+  D "An immortal fibroblast cell line cell that derives from amnion."
+obo:CLO_0000187
+  D "An immortal fibroblast cell line cell that derives from animal ovary."
+obo:CLO_0000182
+  D "An immortal fibroblast cell line cell that derives from arm."
+obo:CLO_0000386
+  D "An immortal fibroblast cell line cell that derives from axilla."
+obo:CLO_0000393
+  D "An immortal fibroblast cell line cell that derives from brain."
+obo:CLO_0000307
+  D "An immortal fibroblast cell line cell that derives from buttock."
+obo:CLO_0000390
+  D "An immortal fibroblast cell line cell that derives from calf."
+obo:CLO_0000456
+  D "An immortal fibroblast cell line cell that derives from cat."
+obo:CLO_0000346
+  D "An immortal fibroblast cell line cell that derives from cervix."
+obo:CLO_0000994
+  D "An immortal fibroblast cell line cell that derives from coho salmon."
+obo:CLO_0000303
+  D "An immortal fibroblast cell line cell that derives from conjunctiva structure."
+obo:CLO_0000380
+  D "An immortal fibroblast cell line cell that derives from cornea structure."
+obo:CLO_0000196
+  D "An immortal fibroblast cell line cell that derives from digit."
+obo:CLO_0000965
+  D "An immortal fibroblast cell line cell that derives from dog."
+obo:CLO_0000261
+  D "An immortal fibroblast cell line cell that derives from ear."
+obo:CLO_0000193
+  D "An immortal fibroblast cell line cell that derives from embryo."
+obo:CLO_0000940
+  D "An immortal fibroblast cell line cell that derives from European rabbit, rabbit."
+obo:CLO_0000227
+  D "An immortal fibroblast cell line cell that derives from external genitalia."
+obo:CLO_0000226
+  D "An immortal fibroblast cell line cell that derives from foetal structure."
+obo:CLO_0000251
+  D "An immortal fibroblast cell line cell that derives from foreskin."
+obo:CLO_0000204
+  D "An immortal fibroblast cell line cell that derives from gonad."
+obo:CLO_0000195
+  D "An immortal fibroblast cell line cell that derives from gum."
+obo:CLO_0000327
+  D "An immortal fibroblast cell line cell that derives from hip."
+obo:CLO_0000479
+  D "An immortal fibroblast cell line cell that derives from human."
+obo:CLO_0000262
+  D "An immortal fibroblast cell line cell that derives from inguinal region."
+obo:CLO_0000353
+  D "An immortal fibroblast cell line cell that derives from ischium."
+obo:CLO_0000768
+  D "An immortal fibroblast cell line cell that derives from Japanese quail."
+obo:CLO_0000246
+  D "An immortal fibroblast cell line cell that derives from leg."
+obo:CLO_0000191
+  D "An immortal fibroblast cell line cell that derives from liver."
+obo:CLO_0000192
+  D "An immortal fibroblast cell line cell that derives from lung."
+obo:CLO_0000814
+  D "An immortal fibroblast cell line cell that derives from Mongolian gerbil."
+obo:CLO_0000499
+  D "An immortal fibroblast cell line cell that derives from mouse."
+obo:CLO_0000199
+  D "An immortal fibroblast cell line cell that derives from neck."
+obo:CLO_0000391
+  D "An immortal fibroblast cell line cell that derives from nose structure."
+obo:CLO_0000183
+  D "An immortal fibroblast cell line cell that derives from organism part."
+obo:CLO_0000224
+  D "An immortal fibroblast cell line cell that derives from pericardium."
+obo:CLO_0000340
+  D "An immortal fibroblast cell line cell that derives from placenta."
+obo:CLO_0000321
+  D "An immortal fibroblast cell line cell that derives from pronephros."
+obo:CLO_0000589
+  D "An immortal fibroblast cell line cell that derives from rat."
+obo:CLO_0000338
+  D "An immortal fibroblast cell line cell that derives from sacrum."
+obo:CLO_0000335
+  D "An immortal fibroblast cell line cell that derives from scalp."
+obo:CLO_0000339
+  D "An immortal fibroblast cell line cell that derives from shoulder."
+obo:CLO_0000188
+  D "An immortal fibroblast cell line cell that derives from skin."
+obo:CLO_0000588
+  D "An immortal fibroblast cell line cell that derives from Syrian golden hamster."
+obo:CLO_0000190
+  D "An immortal fibroblast cell line cell that derives from testis."
+obo:CLO_0000206
+  D "An immortal fibroblast cell line cell that derives from thigh."
+obo:CLO_0000194
+  D "An immortal fibroblast cell line cell that derives from thoracic aorta."
+obo:CLO_0000275
+  D "An immortal fibroblast cell line cell that derives from thorax."
+obo:CLO_0000184
+  D "An immortal fibroblast cell line cell that derives from tunica albuginea of testis."
+obo:CLO_0000200
+  D "An immortal fibroblast cell line cell that derives from umbilical cord."
+obo:CLO_0000207
+  D "An immortal fibroblast cell line cell that derives from umbilical vein."
+obo:CLO_0000309
+  D "An immortal fibroblast cell line cell that derives from umbilicus."
+obo:CLO_0000318
+  D "An immortal fibroblast cell line cell that derives from uterus."
+obo:CLO_0000887
+  D "An immortal fibroblast cell line cell that derives from walleye."
+obo:CLO_0009794
+  D "An immortal 16914-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000475
+  D "An immortal abdominal cavity-derived fibroblast cell line cell that derives from dog."
+obo:CLO_0000550
+  D "An immortal abdominal cavity-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000823
+  D "An immortal abdominal cavity-derived fibroblast cell line cell that derives from rhesus macaque."
+obo:CLO_0000998
+  D "An immortal abdominal cavity-derived fibroblast cell line cell that derives from Syrian golden hamster."
+obo:CLO_0000559
+  D "An immortal achilles tendon-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000450
+  D "An immortal amnion-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000403
+  D "An immortal animal ovary-derived fibroblast cell line cell that derives from Chinese hamster."
+obo:CLO_0000734
+  D "An immortal animal ovary-derived fibroblast cell line cell that derives from human."
+obo:CLO_0050423
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: Widely used cell line, especially for biotechnol"
+obo:CLO_0050422
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: CHO-K1 maintained in suspension culture."
+obo:CLO_0050416
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: Nalidixic acid sensitive mutant. Also sensitive toVP-16 and VM-26 Topo II inhibitors."
+obo:CLO_0050421
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: Subline of CHO cells. Derived from CHO-K1 cell line. Serum-free medium adapted."
+obo:CLO_0050414
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: Serine-palmitoyl transferase deficient (temperature-sensitive) cells derived from CHO-K1 cell line."
+obo:CLO_0050410
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: SPB-1 derivative complemented the Serine-palmitoyl transferase deficiency."
+obo:CLO_0050415
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: Serine-palmitoyl transferase (LCB1 subunit) deficient cells derived from CHO-K1 cell line."
+obo:CLO_0050411
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: LY-B derivative complemented the Serine-palmitoyl transferase (LCB1 subunit) deficiency."
+obo:CLO_0050412
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: Subline of CHO-K1 that expresses human leukotriene B4 receptor (BLT1)."
+obo:CLO_0050413
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: Subline of CHO-K1 that expresses human leukotriene B4 receptor (BLT2)."
+obo:CLO_0050427
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: Subline of CHO-K1 that expresses human platelet activating factor receptor."
+obo:CLO_0050417
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: Subline of CHO-K1 cell line in which trafficking of ceramide is deficient"
+obo:CLO_0050418
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: Subline of LY-A in which human CERT cDNA are expressed and trafficking of ceramide is recovered"
+obo:CLO_0050419
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: A subline of the CHO-K1 cell line. Widely used for the isolation of repair-deficient mutants. Useful for gene mutation assays at the APRT and HPRT loci."
+obo:CLO_0050424
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: A subline of the CHO-K1 cell line. X-ray-sensitive mutant derived from CHO-AA8 cell line. XRCC1 gene deficient."
+obo:CLO_0050425
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: A subline of the CHO-K1 cell line. X-ray-sensitive mutant derived from CHO-AA8 cell line. XRCC3 gene deficient."
+obo:CLO_0050428
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: A subline of the CHO-K1 cell line. X-ray-sensitive mutant derived from CHO-AA8 cell line. XRCC7(DNA-PK)  gene deficient."
+obo:CLO_0050420
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: Chinese hamster ovary cell line. Widely used for the isolation of mutants by mutagenesis."
+obo:CLO_0050426
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: A subline of the CHO-K1 cell line. X-ray-sensitive mutant. XRCC4 gene deficient."
+obo:CLO_0050409
+  D "A immortal Chinese hamster animal ovary-derived fibroblast cell line cell that has the characteristics: A subline of CHO cells. Require proline. TKG0328(Deposited from Tohoku Univ.)."
+obo:CLO_0037101
+  D "Human ovarian carcinoma cell line from clear cell adenocarcinoma."
+obo:CLO_0051457
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Useful for recombinant BmNPV expression"
+obo:CLO_0051438
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Krukenberg tumor cell line"
+obo:CLO_0051442
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Serous cystadenocarcinoma. CA125 producing. Cell growth is slow."
+obo:CLO_0051448
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Mucinous cystadenocarcinoma. Said CA125,CA19-9 (+). Cell growth is slow."
+obo:CLO_0051456
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Worm cell line established by Grace. Culturable in MGM-450-10%FBS."
+obo:CLO_0051454
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Granulosa cell tumor. Possible to produce progesterone after HCG addition. Cell growth is slow."
+obo:CLO_0051455
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Lymphnode-metastatic ovarian tumor. So called HM-1 cells."
+obo:CLO_0051439
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Clear cell adenocarcinoma. Said CA125, CA72-4 producing."
+obo:CLO_0051440
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Ovary serous adenocarcinoma. Said CA125, CA15-3 producing."
+obo:CLO_0051450
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Japanese ovarian serous adenocarcinoma. Said CA125 producing. Cell growth is slow."
+obo:CLO_0051441
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Human ovary mucinous adenocarcinoma cell line."
+obo:CLO_0051443
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Human ovary serous cyst adenocarcinoma cell line. Cell growth is slow."
+obo:CLO_0051444
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Human ovary mucinous tubular adenocarcinoma cell line. Cell growth is slow."
+obo:CLO_0051445
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Human ovary clear cell carcinoma cell line. Cell growth is slow."
+obo:CLO_0051446
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Human ovary clear cell carcinoma cell line. Cell growth is slow."
+obo:CLO_0051452
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Human cell line derived from ovarial cancer, subclone of RCB2535. TKG0323 (Deposited from Tohoku Univ.)."
+obo:CLO_0051458
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Silkworm (Bombyx mori) cell line derived from ovary. Useful for the identification and analysis of homologous recombination-related genes in the silkworm."
+obo:CLO_0051459
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Silkworm (Bombyx mori) cell line derived from ovary. Useful for the identification and analysis of homologous recombination-related genes in the silkworm."
+obo:CLO_0051447
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Human cell line derived from ovary cancer. Clear cell carcinoma. Cell growth is slow."
+obo:CLO_0051449
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Human cell line derived from ovarian squamous cell cancer."
+obo:CLO_0051453
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Human cell line derived from ovarian endometrioid carcinoma, subclone of RCB1903. TKG0357 (Deposited from Tohoku Univ.)."
+obo:CLO_0037103
+  D "Human tumor cell line from ovarian mesonephroid adenocarcinoma."
+obo:CLO_0000986
+  D "An immortal arm-derived fibroblast cell line cell that derives from Celebes crested macaque."
+obo:CLO_0000395
+  D "An immortal arm-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000800
+  D "An immortal arm-derived fibroblast cell line cell that derives from Midas tamarin."
+obo:CLO_0009804
+  D "An immortal arm-derived fibroblast cell line cell that derives from patas monkey."
+obo:CLO_0000524
+  D "An immortal arm-derived fibroblast cell line cell that derives from pig-tailed macaque."
+obo:CLO_0000548
+  D "An immortal arm-derived fibroblast cell line cell that derives from rhesus macaque."
+obo:CLO_0000984
+  D "An immortal arm-derived fibroblast cell line cell that derives from Ring-tailed lemur."
+obo:CLO_0009803
+  D "An immortal axilla-derived fibroblast cell line cell that derives from human."
+obo:CLO_0009817
+  D "An immortal brain-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000684
+  D "An immortal buttock-derived fibroblast cell line cell that derives from human."
+obo:CLO_0009810
+  D "An immortal calf-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000816
+  D "An immortal cervix-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000676
+  D "An immortal conjunctiva structure-derived fibroblast cell line cell that derives from human."
+obo:CLO_0009770
+  D "An immortal cornea structure-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000436
+  D "An immortal digit-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000582
+  D "An immortal ear-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000430
+  D "An immortal embryo-derived fibroblast cell line cell that derives from Chinese hamster."
+obo:CLO_0000448
+  D "An immortal embryo-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000785
+  D "An immortal embryo-derived fibroblast cell line cell that derives from mouse."
+obo:CLO_0050468
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human cell line derived from embryonic fibroblasts. Characteristics Embryonal fibroblast immortalized by 60-Co irradiation (400 Rad x 1 time and 200 rad x 12 times). Non-tumorigenic. TKG0482 (Deposited from Tohoku Univ.)."
+obo:CLO_0050435
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050436
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050437
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050438
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050439
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050440
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050441
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050442
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050443
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050444
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050445
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050446
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050447
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050448
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050449
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050450
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050451
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050452
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050453
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050454
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050456
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050457
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050455
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050458
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050459
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050460
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050466
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050461
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050462
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050463
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050467
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050464
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0050465
+  D "A immortal human embryo-derived fibroblast cell line cell that has the characteristics: Human fibroblast-like cells derived from embryo. Not immortalized."
+obo:CLO_0000486
+  D "An immortal external genitalia-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000485
+  D "An immortal foetal structure-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000556
+  D "An immortal foreskin-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000449
+  D "An immortal gonad-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000434
+  D "An immortal gum-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000764
+  D "An immortal hip-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000798
+  D "An immortal hip-derived fibroblast cell line cell that derives from Midas tamarin."
+obo:CLO_0037211
+  D "an immortal human fibroblast cell line cell that is derived from BJ cell through a biological process such as cell transformation"
+obo:CLO_0004008
+  D "Human breast epithelial cell line from normal breast tissue of an 74 years-old caucasian female peripheral to an infiltrating ductal carcinoma which was the source for Hs 578T cell line."
+obo:CLO_0000583
+  D "An immortal inguinal region-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000877
+  D "An immortal ischium-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000544
+  D "An immortal leg-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000412
+  D "An immortal liver-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000506
+  D "An immortal lung-derived fibroblast cell line cell that derives from cattle."
+obo:CLO_0009793
+  D "An immortal lung-derived fibroblast cell line cell that derives from Chinese hamster."
+obo:CLO_0000474
+  D "An immortal lung-derived fibroblast cell line cell that derives from dog."
+obo:CLO_0000554
+  D "An immortal lung-derived fibroblast cell line cell that derives from horse."
+obo:CLO_0000424
+  D "An immortal lung-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000778
+  D "An immortal lung-derived fibroblast cell line cell that derives from pig."
+obo:CLO_0000516
+  D "An immortal lung-derived fibroblast cell line cell that derives from pig-tailed macaque."
+obo:CLO_0000558
+  D "An immortal lung-derived fibroblast cell line cell that derives from rhesus macaque."
+obo:CLO_0007485
+  D "Human megakaryoblastic leukemia cell line."

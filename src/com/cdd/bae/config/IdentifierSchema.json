@@ -1,0 +1,76 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"description": "Definition of identifiers for BioAssay Express (BAE)",
+	"type": "array",
+	"items": 
+	{
+		"type": "object",
+		"required": 
+		[
+			"name",
+			"shortName",
+			"prefix"
+		],
+		"properties": 
+		{
+			"name": 
+			{
+				"description": "Name",
+				"type": "string"
+			},
+			"shortName": 
+			{
+				"description": "Abbreviation of name",
+				"type": "string",
+				"pattern": "\\w+"
+			},
+			"prefix": 
+			{
+				"description": "Prefix used to label assays",
+				"type": "string",
+				"pattern": "\\w+:"
+			},
+			"baseURL": 
+			{
+				"description": "URL for information about assay (can be empty)",
+				"type": "string",
+				"pattern": "(https*://(\\w+\\.)*\\w+/(\\S)+|)",
+				"default": ""
+			},
+			"baseRegex": 
+			{
+				"description": "Regular expression for extracting payload for URL (can be empty)",
+				"type": "string",
+				"default": ""
+			},
+			"recogRegex": 
+			{
+				"description": "Regular expression for recognising identifiers from text (e.g. numeric or some composite)",
+				"type": "string",
+				"default": ""
+			},
+			"defaultSchema":
+			{
+				"description": "Default schema most likely to be used with this identifier",
+				"type": "string",
+				"format": "uri",
+				"default": ""
+			},
+			"summary":
+			{
+				"description": "Fields to display in assay summary (default is to display title if available followed by text)",
+				"type": "array",
+				"items":
+				{
+					"oneOf": 
+					[
+						{"type": "null"},
+						{"type": "string", "format": "uri"},
+						{"type": "string", "pattern": "autotext:\\w*"}
+					]
+				},
+				"default": ["http://www.bioassayontology.org/bao#BAO_0002853", null, "autotext:"]
+			}
+		}
+	}
+}

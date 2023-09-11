@@ -1,0 +1,37 @@
+[
+	{
+		"propURI": "http://www.bioassayontology.org/bao#BAO_0000205",
+		"valueURI": "http://www.bioassayontology.org/bao#BAO_0000357",
+		"fp": 1
+	},
+	{
+		"propURI": "http://www.bioassayontology.org/bao#BAO_0000205",
+		"valueURI": "http://www.bioassayontology.org/bao#BAO_0000224",
+		"fp": 2
+	},
+	{
+		"propURI": "http://www.bioassayontology.org/bao#BAO_0000205",
+		"valueURI": "http://www.bioassayontology.org/bao#BAO_0000217",
+		"fp": 3
+	},
+	{
+		"propURI": "http://www.bioassayontology.org/bao#BAO_0000205",
+		"valueURI": "http://www.bioassayontology.org/bao#BAO_0000019",
+		"fp": 4
+	},
+	{
+		"propURI": "http://www.bioassayontology.org/bao#BAO_0002867",
+		"valueURI": "http://www.bioassayontology.org/bao#BAO_0000516",
+		"fp": 5
+	},
+	{
+		"propURI": "http://www.bioassayontology.org/bao#BAO_0002867",
+		"valueURI": "http://www.bioassayontology.org/bao#BAO_0000508",
+		"fp": 6
+	},
+	{
+		"propURI": "http://www.bioassayontology.org/bao#BAO_0002867",
+		"valueURI": "http://www.bioassayontology.org/bao#BAO_0000512",
+		"fp": 7
+	}
+]

@@ -1,0 +1,193 @@
+bao:BAX_0000088
+  D "Link to a document that describes the protocol with prose and diagrams."
+bao:BAX_0000084
+  D "Endpoint or kinetic?"
+bao:BAX_0000083
+  D "Also called 'screening campaign name'. Each screening campaign, or project, incudes a sequence of (assay) experiments performed to identify a compound (or a series of compounds) with a specific function--usually around a specific phenotypic or molecular target (e.g., pathway, cell or protein).  It includes primary (screening at single concentration), secondary, and confirmatory (dose response) screens, counterscreens, structure activity relationship (SAR) studies, lead optimization, etc."
+obo:OBI_0000417
+  D "This relation obtains between a planned process and a objective specification when the criteria specified in the objective specification are met at the end of the planned process."
+bao:BAX_0000090
+  D "source file for raw data"
+bao:BAX_0000093
+  D "Locations on plate for control."
+bao:BAX_0000092
+  D "Specifies how controls are placed in wells: rows, columns, or specific wells."
+bao:BAO_0090011
+  D "X connected_to Y if and only if X and Y share a fiat boundary."
+bao:BAX_0000049
+  D "Contains descriptors of the chelator(s) used in the assay."
+bao:BAX_0000048
+  D "Contains descriptors of the assay performance quality metrics, such as signal to noise, z-factor, z-prime factor, etc."
+bao:BAX_0000047
+  D "Contains descriptors of endpoint data processing."
+bao:BAX_0000046
+  D "Contains descriptors of the time and temperature of the enzyme incubation."
+bao:BAX_0000045
+  D "Contains descriptors of the time and temperature of the coupled substrate incubation."
+bao:BAX_0000044
+  D "Contains descriptors of the time and temperature of the substrate incubation."
+bao:BAX_0000043
+  D "Contains descriptors of the time and temperature of the ligand incubation."
+bao:BAX_0000042
+  D "Contains descriptors of the time and temperature of the pertubagen (screened entity) incubation."
+bao:BAX_0000041
+  D "Contains descriptors of the antibody(ies) used in the assay, such as name, type (mono- or polyclonal), isotype role (primary or secondary), or label."
+bao:BAX_0000040
+  D "Contains descriptors of any metal salt(s) used in the assay."
+bao:BAX_0000039
+  D "Contains descriptors of any additinal component(s) used in the assay, such as carrier protein (e.g., BSA) or chelator (e.g., EDTA)."
+bao:BAX_0000038
+  D "Contains descriptors of the detergent(s) used in the assay."
+bao:BAX_0000037
+  D "Contains descriptors of the reducing agent(s) used in the assay."
+bao:BAX_0000036
+  D "Contains descriptors of the solvent(s) used in the assay."
+bao:BAX_0000035
+  D "Contains descriptors of the buffer(s) used in the assay."
+bao:BAX_0000034
+  D "Contains descriptors of additional assay components used in the assay."
+bao:BAX_0000033
+  D "Contains descriptors of the assay molecule used in the assay, such as class (DNA, protein, lipid, etc), quality (synthetic endogenous, labeled, etc), label (FITC, radioactive, etc) and concentration."
+bao:BAX_0000032
+  D "Defines the purity of a reagent (value, unit) used in the assay."
+bao:BAX_0000031
+  D "Contains descriptors specific to biochemical assays."
+bao:BAX_0000030
+  D "Contains descriptors of the protocol used in the assay."
+bao:BAX_0000053
+  D "Contains descriptor(s) of methods used to process the measurement into the result or endpoint data reported as the final outcome."
+bao:BAX_0000052
+  D "Contains descriptor(s) of assay readout parameter, typically the outcome of image analysis and most often a calculated value, such as intensity, counting, etc."
+bao:BAX_0000051
+  D "Contains descriptors of the growth mode of a cell (e.g., adherent, suspension, etc)."
+bao:BAX_0000050
+  D "Contains descriptors of any carrier protein (e.g. BSA) used in the assay."
+bao:BAO_0090001
+  D "c stands in this relationship to p if and only if there exists some p' such that c is capable_of p', and p' is part_of p."
+bao:BAO_0002916
+  D "The value (in conjunction with the signal direction) used to determine perturbagens of interest (hits.)  Perturbagens with a readout value beyond the threshold in the direction of interest are considered active in the assay."
+bao:BAX_0000123
+  D "Time (min) allowed for reaction to take place (for kinetic assays)."
+bao:BAX_0000122
+  D "Highest abundance atomic mass of cap, Cystine or BME, for MassSpec tethering assay."
+bao:BAX_0000121
+  D "Highest abundance atomic mass of uncapped protein for MassSpec tethering assay."
+bao:BAX_0000118
+  D "Binding site counts for Surface Plasmon Resonance parameters."
+bao:BAX_0000117
+  D "has Surface Plasmon Resonance parameters"
+bao:BAX_0000029
+  D "Contains descriptors of the activity threshold (units, operator, value)."
+bao:BAX_0000028
+  D "Contains descriptors of the endpoint, such as mode of action, signal direction, endpoint (aka 'result'), unit of measurement, etc."
+bao:BAX_0000027
+  D "Contains descriptors specific to the transgene(s) used in the assay."
+bao:BAX_0000026
+  D "Contains descriptors specific to the cell line(s) used in the assay."
+bao:BAX_0000025
+  D "Contains descriptors unique to microbes (yeast or bacteria) or viruses, used in the assay,such as strain or Gram-staining."
+bao:BAX_0000024
+  D "Contains descriptors specific to the assay system (e.g., the organism, tissue, cell)."
+bao:BAX_0000023
+  D "Contains descriptors of the screened entity, or perturbagen, used in the assay."
+bao:BAX_0000022
+  D "Contains descriptors of the controls (positive, negative, background, etc) used in the assay."
+bao:BAX_0000021
+  D "Contains descriptors specific to the intended target of the assay."
+bao:BAX_0000020
+  D "Contains summary descriptors of the assay"
+bao:BAX_0000019
+  D "Contains the specific protocol and its version used for this assay."
+bao:BAX_0000018
+  D "A group containing information that applies to the project (also called 'screening campaign', which consists of multiple assays) and not just an individual assay."
+bao:BAX_0000017
+  D "Describes activity measurements for accompanying structure-activity data."
+bao:BAX_0000016
+  D "Defines the cutoff relationship for active/inactive"
+bao:BAX_0000015
+  D "Defines the field which supplies the activity measurement."
+bao:BAX_0000012
+  D "Protein identity, from the NCBI reference set."
+bao:BAX_0000011
+  D "Gene identity, from the NCBI reference set."
+obo:BFO_0000063
+  A precedes
+bao:BAO_0002832
+  D "It is the temperature at which the biological experiment was conducted."
+bao:BAO_0002833
+  D "It is the interval of time between the addition of a perturbagen, substrate or cell modification and the measurement of change, as observed by a detection method in the bioassay."
+bao:BAO_0002845
+  D "The number of replicate measurements (repetitions) per concentration value used."
+bao:BAX_0000107
+  D "Substance used to alter behavior, searching for synergistic or protective substances."
+bao:BAX_0000105
+  D "Variants of virus, microbe, cell, tissue, whole organism, etc."
+bao:BAO_0002813
+  D "This describes the number of repeats of an entity (e.g., artificial regulatory element, cDNA, etc.) present in a DNA construct."
+bao:BAX_0000109
+  D "Used as control."
+bao:BAO_0002826
+  D "A biosafety level is the level of biocontainment required to isolate hazardous biological agents in an enclosed facility. The levels of containment range from the lowest biosafety level of 1 to the highest at level 4.\n\nThe levels are as follows:\n\nBSL1:\n Suitable for work involving well-characterized agents not known to consistently cause disease in immunocompetent adult humans, and present minimal potential hazard to laboratory personnel and the environment (definition from CDC).\n\nBSL2:\nSuitable for work involving agents that pose moderate hazards to personnel and the environment. It differs from BSL-1 in that 1) laboratory personnel have specific training in handling pathogenic agents and are supervised by scientists competent in handling infectious agents and associated procedures; 2) access to the laboratory is restricted when work is being conducted; and 3) all procedures in  which infectious aerosols or splashes may be created are conducted in BSCs or other physical containment equipment (definition from CDC).\n\nBSL3:\nSuitable for clinical, diagnostic, teaching, research, or production facilities where work is performed with indigenous or exotic agents that may cause serious or potentially lethal disease through inhalation route exposure. Laboratory personnel must receive specific training in handling pathogenic and potentially lethal agents, and must be supervised by scientists competent in handling infectious agents and associated procedures. All procedures involving the manipulation of infectious materials must be conducted within BSCs, other physical containment devices, or by personnel wearing appropriate personal protective equipment (definition from CDC).\n\nBSL4:"
+bao:BAO_0002827
+  D "pH approximates the negative logarithm (base 10) of the molar concentration of dissolved hydronium ions in a solution."
+bao:BAO_0002828
+  D "It is the force per unit area applied in a direction perpendicular to the surface of an object in an assay."
+bao:BAO_0002894
+  D "The nucleotide number in the sense strand of a gene that marks the beginning and end of the  shRNA probe."
+bao:BAO_0002895
+  D "The nucleotide number in the sense strand of a gene that marks the beginning and end of the  siRNA probe."
+obo:RO_0002081
+  A <=
+obo:RO_0002229
+  D "inverse of ends with"
+obo:RO_0002230
+  D "x ends with y if and only if x has part y and the time point at which x ends is equivalent to the time point at which y ends. Formally: α(y) > α(x) ∧ ω(y) = ω(x), where α is a function that maps a process to a start point, and ω is a function that maps a process to an end point."
+  A finished by
+obo:RO_0002093
+  A o
+  A overlaps
+obo:RO_0002223
+  D "inverse of starts with"
+obo:RO_0002224
+  D "x starts with y if and only if x has part y and the time point at which x starts is equivalent to the time point at which y starts. Formally: α(y) = α(x) ∧ ω(y) < ω(x), where α is a function that maps a process to a start point, and ω is a function that maps a process to an end point."
+  A started by
+obo:RO_0002091
+  A io
+obo:BFO_0000062
+  A preceded by
+  A preceded_by
+  A is preceded by
+obo:RO_0002087
+  A starts_at_end_of
+obo:RO_0002092
+  A d
+  A during
+obo:RXNO_0000425
+  D "A relation between a planned reaction step and a molecular entity participating in that process that has_role catalyst ((CHEBI:35223)."
+obo:RXNO_0000469
+  D "A relation between a planned reaction step and a molecular entity participating in that process. The creation and subsequent destruction of the molecular entity during the process are explicitly specified in the plan specification which the process realizes the concretization of."
+obo:RXNO_0000417
+  D "If a reaction R deprotects a group G, then G is in the product where it wasn't in the reactant."
+obo:RXNO_0000423
+  D "A relation between a planned reaction step and a molecular entity participating in that process. The creation of the molecular entity during the process is explicitly specified in the objective specification which the planned reaction step realizes the concretization of."
+obo:RXNO_0000424
+  D "A relation between a planned reaction step and a molecular entity participating in that process that is not created during the process. The destruction of the molecular entity during the process is explicitly specified in the plan specification which the process realizes the concretization of."
+obo:RXNO_0000416
+  D "The notion here is that a given reaction is meant to 'protect' a given group from reacting in a subsequent process and can be 'deprotected' later."
+obo:RO_0002090
+  A ends_at_start_of
+  A meets
+bao:BAO_0002834
+  D "It is the interval of time between the cell modification, namely transient transfection of plasmid DNA/ siRNA, viral transduction, etc and the measurement of change, as observed by a detection method in the bioassay."
+bao:BAO_0002836
+  D "It is the interval of time between the enzyme activity measurement in a kinetic assay."
+bao:BAO_0002837
+  D "It is the interval of time between the addition of a perturbagen and the measurement of change, as observed by a detection method in the bioassay."
+bao:BAO_0002838
+  D "It is the interval of time between the addition of an enzyme substrate and the measurement of change, as observed by a detection/ readout in a bioassay."
+bao:BAO_0002816
+  D "This describes the number of repeats of an artificial regulatory element present in a DNA construct."
+bao:BAO_0002815
+  D "This describes the number of repeats of a cDNA of interest cloned in a DNA construct."
+bao:BAO_0002814
+  D "This describes the number of repeats of a gene of interest cloned in a DNA construct."

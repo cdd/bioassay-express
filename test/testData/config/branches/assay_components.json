@@ -1,0 +1,30 @@
+{
+    "schemaPrefix": "http://www.bioassayontology.org/bas/AssayComponents#",
+    "branchGroups": [],
+    "root": 
+    {
+        "name": "assay components",
+        "descr": "",
+        "groupURI": "http://www.bioassayontology.org/bao#BAX_0000034",
+        "assignments": [],
+        "subGroups": 
+        [
+            {
+                "name": "assay components",
+                "descr": "Contains descriptors of additional assay components used in the assay.",
+                "groupURI": "http://www.bioassayontology.org/bao#BAX_0000034",
+                "assignments": 
+                [
+                    {
+                        "name": "ph",
+                        "descr": "pH approximates the negative logarithm (base 10) of the molar concentration of dissolved hydronium ions in a solution.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002827",
+                        "suggestions": "number",
+                        "values": []
+                    }
+                ],
+                "subGroups": []
+            }
+        ]
+    }
+}

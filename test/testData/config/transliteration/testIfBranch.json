@@ -1,0 +1,26 @@
+[
+	{
+		"schemaURI": 
+		[
+			"http://www.bioassayontology.org/bas#"
+		],
+		"boilerplate": 
+		[
+			{
+				"ifbranch": 
+				[
+					"bat:Absence",
+					"bao:BAO_0002663"
+				],
+				"else": 
+				[
+					", with the assay kit ",
+					{
+						"term": "bao:BAO_0002663",
+						"style": "italic"
+					}
+				]
+			}
+		]
+	}
+]

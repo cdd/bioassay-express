@@ -1,0 +1,231 @@
+obo:CLO_0009451 U-118MG cell
+obo:BTO_0002389 U-1285 cell
+obo:BTO_0002391 U-1285dox cell
+obo:CLO_0009457 U-266 cell
+obo:CLO_0009459 U-343 MGa cell
+obo:CLO_0009464 U-87 MG cell
+obo:BTO_0005060 UACC-903 cell
+obo:BTO_0004570 ulcer tissue
+obo:BTO_0002714 UM-SCC-22A cell
+obo:BTO_0000841 umbilical artery
+obo:BTO_0001415 umbilical cord
+obo:BTO_0004053 umbilical cord blood
+obo:BTO_0004054 umbilical cord blood cell
+obo:BTO_0001847 umbilical smooth muscle
+obo:BTO_0001509 umbilical vein
+obo:BTO_0004296 umbilical vein endothelial cell
+obo:BTO_0004291 umbilical vein smooth muscle
+obo:CLO_0009485 UMR-106 cell
+obo:BTO_0000105 upper epidermis
+obo:BTO_0001409 ureter
+obo:BTO_0001646 ureteric bud
+obo:BTO_0001426 urethra
+obo:BTO_0001418 urinary bladder
+obo:BTO_0000362 urinary bladder cancer cell
+obo:BTO_0000792 urinary bladder cancer cell line
+obo:BTO_0001694 urinary bladder epithelium
+obo:BTO_0001849 urinary bladder smooth muscle
+obo:BTO_0003092 urinary system
+obo:BTO_0001244 urinary tract
+obo:BTO_0001419 urine
+obo:BTO_0003907 uroepithelial cell line
+obo:BTO_0003906 uroepithelium
+obo:BTO_0001402 urogenital ridge
+obo:BTO_0003091 urogenital system
+obo:BTO_0001848 urophysis
+obo:BTO_0001420 uropygial gland
+obo:BTO_0005004 UROtsa cell
+obo:CLO_0009490 UT-7 cell
+obo:BTO_0000658 uterine adenocarcinoma cell
+obo:BTO_0003085 uterine anchor cell
+obo:BTO_0000257 uterine cancer cell
+obo:BTO_0001421 uterine cervix
+obo:BTO_0003871 uterine endometrial cancer cell
+obo:BTO_0001422 uterine endometrium
+obo:BTO_0003082 uterine epithelium
+obo:BTO_0003623 uterine fluid
+obo:BTO_0004518 uterine gland
+obo:BTO_0004235 uterine horn
+obo:BTO_0001423 uterine lavage
+obo:BTO_0002695 uterine leiomyoma cell
+obo:BTO_0004527 uterine luminal fluid
+obo:BTO_0003596 uterine sarcoma cell
+obo:BTO_0003083 uterine wall
+obo:BTO_0001424 uterus
+obo:BTO_0001807 utricle
+obo:BTO_0004980 uveal melanoma cell
+obo:CLO_0009500 V-79 cell
+obo:BTO_0000243 vagina
+obo:BTO_0002936 vaginal cell line
+obo:BTO_0000422 vaginal epithelium
+obo:BTO_0003084 vaginal fluid
+obo:BTO_0004999 vaginal smooth muscle
+obo:BTO_0003472 vagus nerve
+obo:BTO_0001705 vallate papilla
+obo:BTO_0001427 vas deferens
+obo:BTO_0002254 vas efferens
+obo:BTO_0001429 vascular bundle
+obo:BTO_0004502 vascular cambium
+obo:BTO_0001736 vascular cancer cell
+obo:BTO_0002688 vascular cell
+obo:BTO_0001854 vascular endothelial cell
+obo:BTO_0001853 vascular endothelium
+obo:BTO_0001431 vascular smooth muscle
+obo:BTO_0004578 vascular smooth muscle cell
+obo:BTO_0002195 vascular smooth muscle cell line
+obo:BTO_0001085 vascular system
+obo:BTO_0001432 vascular tissue
+obo:BTO_0003718 vasculature
+obo:BTO_0004913 vastus medialis
+obo:CLO_0037117 VCaP cell
+obo:BTO_0001434 vegetative cell
+obo:BTO_0000234 vein
+obo:BTO_0005405 velum
+obo:BTO_0001438 vena cava
+obo:BTO_0001439 venom
+obo:BTO_0002065 venom apparatus
+obo:BTO_0001855 venom duct
+obo:BTO_0001440 venom gland
+obo:BTO_0002066 venom sac
+obo:BTO_0004759 venous endothelial cell
+obo:BTO_0004756 venous endothelium
+obo:BTO_0004692 venous system
+obo:BTO_0004674 ventral aorta
+obo:BTO_0004882 ventral midbrain
+obo:BTO_0002328 ventral nerve cord
+obo:BTO_0004373 ventral posterior nucleus
+obo:BTO_0004702 ventral striatum
+obo:BTO_0003654 ventricular zone
+obo:BTO_0002626 venule
+obo:BTO_0000084 vermiform appendix
+obo:BTO_0001835 vertebral ganglion
+obo:BTO_0001369 vertebrate muscular system
+obo:BTO_0003717 vesicular gland
+obo:BTO_0001856 vestibular labyrinth
+obo:BTO_0004368 vestibular nucleus
+obo:BTO_0003381 vestibular system
+obo:BTO_0003490 vestibulocochlear nerve
+obo:BTO_0003145 vestibulum vaginae
+obo:BTO_0002492 vestimentum
+obo:BTO_0003488 vibrissa
+obo:BTO_0003489 vibrissal follicle
+obo:BTO_0005003 villous trophoblast
+obo:BTO_0003121 villus
+obo:BTO_0003487 visceral endoderm
+obo:BTO_0001448 visceral hump
+obo:BTO_0002780 visceral muscle
+obo:BTO_0001491 viscus
+obo:BTO_0001857 visual cortex
+obo:BTO_0004242 vitellarium
+obo:BTO_0001450 vitelline membrane
+obo:BTO_0002087 vitreous chamber of the eye
+obo:BTO_0001451 vitreous humor
+obo:BTO_0003714 VMRC-RCW cell
+obo:BTO_0005084 vocal fold
+obo:BTO_0001351 vomeronasal nerve
+obo:BTO_0002608 vomeronasal organ
+obo:BTO_0001859 wart
+obo:BTO_0002125 water vascular system
+obo:BTO_0002069 wax gland
+obo:CLO_0009575 WEHI-231 cell
+obo:CLO_0009579 WEHI-3 cell
+obo:BTO_0003181 WEHI-7.2 cell
+obo:BTO_0001456 white adipose tissue
+obo:BTO_0001489 whole body
+obo:BTO_0001461 whole plant
+obo:CLO_0009600 WiDr cell
+obo:BTO_0001523 WIL-2 cell
+obo:CLO_0009604 WIL2-NS cell
+obo:BTO_0001645 wing bud
+obo:BTO_0001464 wing disc
+obo:CLO_0009609 WISH cell
+obo:BTO_0003474 WM-239 cell
+obo:BTO_0003713 WM-793 cell
+obo:BTO_0003438 WM-9 cell
+obo:BTO_0003114 wound fluid
+obo:BTO_0004248 Xenopus A6 cell
+obo:BTO_0001468 xylem
+obo:CLO_0009709 Y-79 cell
+obo:BTO_0004236 Y1-BS1 cell
+obo:BTO_0000635 yellow bone marrow
+obo:BTO_0004624 YN-1 cell
+obo:BTO_0001471 yolk sac
+obo:BTO_0001860 yolk sac cancer cell
+obo:BTO_0001474 yolk sac erythroid cell
+obo:BTO_0001214 Yoshida sarcoma cell
+obo:BTO_0000050 zona fasciculata
+obo:BTO_0000048 zona glomerulosa
+obo:BTO_0003146 zona incerta
+obo:BTO_0003135 zona pellucida
+obo:BTO_0004919 ZR-75 cell
+obo:CLO_0009728 ZR-75-30 cell
+obo:BTO_0000854 zygote
+obo:BTO_0001478 zygotene cell
+obo:CLO_0001297 32D Clone 3 cell
+obo:BTO_0000417 bile duct epithelium
+obo:BTO_0001912 breast adenocarcinoma cell line
+obo:BTO_0003741 T-47 cell
+obo:BTO_0004815 ER-1 cell
+obo:BTO_0001430 mammary epithelium
+obo:BTO_0003379 phellogen
+obo:BTO_0001616 colorectal cancer cell line
+obo:BTO_0001914 colorectal adenocarcinoma cell line
+obo:BTO_0001913 colonic adenocarcinoma cell line
+obo:BTO_0002853 theca folliculi
+obo:CLO_0002641 CV-1 Clone B5 cell
+obo:BTO_0000808 interrenal gland
+obo:BTO_0001416 umbilical vein endothelium
+obo:BTO_0002296 capsular epithelium
+obo:BTO_0002402 oviduct epithelium
+obo:BTO_0001979 mucous gland
+obo:BTO_0000252 chorion
+obo:BTO_0001435 arm
+obo:BTO_0001463 wing
+obo:BTO_0000235 basal ganglion
+obo:CLO_0050910 RCB0007 cell
+obo:BTO_0001678 Th1-cell
+obo:CLO_0050799 RCB0500 cell
+obo:BTO_0001600 cuticle
+obo:CLO_0006967 Ishikawa (Heraklio) 02 ER- cell
+obo:CLO_0006968 Ishikawa (London) 02ER+ cell
+obo:CLO_0037230 Ishikawa 3-H-12 cell
+obo:CLO_0037231 ECC-1 cell
+obo:BTO_0000744 lymphocytic leukemia cell
+obo:BTO_0002332 monocytic leukemia cell line
+obo:BTO_0000476 foot
+obo:BTO_0002394 DC-3F cell
+obo:BTO_0000164 Burkitt lymphoma cell
+obo:CLO_0007583 MC3T3-E1  Subclone 14 cell
+obo:CLO_0007584 MC3T3-E1  Subclone 24 cell
+obo:CLO_0007585 MC3T3-E1  Subclone 30 cell
+obo:CLO_0007586 MC3T3-E1  Subclone 4 cell
+obo:CLO_0009619 WM793B cell
+obo:BTO_0005007 psammomatous meningioma cell
+obo:BTO_0000411 cervical mucosa
+obo:BTO_0000642 intestinal mucosa
+obo:BTO_0005490 MM-1 cell
+obo:BTO_0000098 astroblast
+obo:BTO_0000410 immature ovarian follicle
+obo:BTO_0000389 mature ovarian follicle
+obo:BTO_0004594 CWR-22 cell
+obo:BTO_0000273 ink gland
+obo:BTO_0000082 male reproductive system
+obo:BTO_0001845 bronchial epithelium
+obo:BTO_0004401 bronchial smooth muscle
+obo:BTO_0000831 liver reticuloendothelial system
+obo:CLO_0050268 RCB0426 cell
+obo:CLO_0037234 SK-N-SH-RA cell
+obo:BTO_0001806 visceral mass
+obo:BTO_0000024 abomasum
+obo:CLO_0050636 RCB1954 cell
+obo:BTO_0003399 avian pallium
+obo:BTO_0000042 animal
+obo:BTO_0001494 fungus
+obo:BTO_0000284 organism form
+obo:BTO_0002503 protozoan form
+obo:BTO_0000092 trypanosomoid form
+obo:BTO_0001021 periodontium
+obo:BTO_0001722 enamel organ
+obo:BTO_0003123 microvascular endothelial cell
+obo:BTO_0003122 microvascular endothelium
+obo:BTO_0001143 pupa

@@ -1,0 +1,40 @@
+[
+	{
+		"text" : "Badnumbers",
+		"annotations" : 
+		[ 
+			["http://www.bioassayontology.org/bao#BAO_0000205", "http://www.bioassayontology.org/bao#BAO_0000357"]
+		], 
+		"textLabels" : 
+		[ 
+			["http://www.bioassayontology.org/bao#BAO_0002916", "10,01", "http://www.bioassayontology.org/bao#BAX_0000017"],
+			["http://www.bioassayontology.org/bao#BAO_0002916", "1,000", "http://www.bioassayontology.org/bao#BAX_0000017"]
+		], 
+		"isCurated" : true, 
+		"fplist" : null,
+		"schemaURI" : "http://www.bioassayontology.org/bas#", 
+		"assayID" : NumberLong(105),
+		"uniqueID" : "pubchemAID:105", 
+		"curationTime" : NumberLong(1464345153970), 
+		"history" : []
+	},
+	{
+		"text" : "Badnumbers",
+		"annotations" : 
+		[ 
+			["http://www.bioassayontology.org/bao#BAO_0000205", "http://www.bioassayontology.org/bao#BAO_0000357"]
+		], 
+		"textLabels" : 
+		[ 
+			["http://www.bioassayontology.org/bao#BAO_0002916", "10.01", "http://www.bioassayontology.org/bao#BAX_0000017"],
+			["http://www.bioassayontology.org/bao#BAO_0002916", "1000", "http://www.bioassayontology.org/bao#BAX_0000017"]
+		], 
+		"isCurated" : true, 
+		"fplist" : null,
+		"schemaURI" : "http://www.bioassayontology.org/bas#", 
+		"assayID" : NumberLong(106),
+		"uniqueID" : "pubchemAID:106", 
+		"curationTime" : NumberLong(1464345153960), 
+		"history" : []
+	}
+]

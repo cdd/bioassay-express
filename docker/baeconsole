@@ -1,0 +1,25 @@
+#!/bin/sh
+export TOMCATLIB=/opt/tomcat/lib
+export CLASSPATH=tmp/WEB-INF/classes
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/annotations-api.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/catalina-ant.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/catalina-ha.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/catalina-storeconfig.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/catalina-tribes.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/catalina.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/ecj-4.5.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/el-api.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/jasper-el.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/jasper.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/jsp-api.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/servlet-api.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/tomcat-api.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/tomcat-coyote.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/tomcat-dbcp.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/tomcat-jdbc.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/tomcat-jni.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/tomcat-util-scan.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/tomcat-util.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/tomcat-websocket.jar
+export CLASSPATH=${CLASSPATH}:${TOMCATLIB}/websocket-api.jar
+java -cp tmp/WEB-INF/classes com.cdd.bae.main.Main $* --init tmp/opt

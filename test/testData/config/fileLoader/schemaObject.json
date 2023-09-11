@@ -1,0 +1,16 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"description": "JSON schema for testing FileLoaderJson",
+	"type": "object",
+	"properties": 
+	{
+		"prop1": 
+		{
+			"type": "string"
+		},
+		"prop2": 
+		{
+			"type": "number"
+		}
+	}
+}

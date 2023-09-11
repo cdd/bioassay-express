@@ -1,0 +1,25 @@
+{
+    "compilerOptions":
+    {
+        "module": "system",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outFile": "app/bae-test-build.js",
+        "sourceMap": true,
+        "target": "ES6",
+        "lib": ["es2017", "dom"],
+        "experimentalDecorators": true,
+        "types": []
+    },
+    "include":
+    [
+        "**/*.ts",
+		"../ts/**.ts",
+        "../../../WebMolKit/src/**/*.ts"
+    ],
+    "exclude":
+    [
+        "../node_modules/*" // (we live in hope that one day this might actually work...)
+    ]
+}

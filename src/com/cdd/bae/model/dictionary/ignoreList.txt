@@ -1,0 +1,374 @@
+bend
+focus
+horse
+kelly
+peer
+ramos
+mouse
+bulb
+claw
+disc
+admete
+egg
+guard
+hip
+ink
+latex
+leg
+lens
+lip
+mouth
+neck
+nipple
+nose
+paw
+pitcher
+pith
+pulp
+shoot
+style
+thigh
+throat
+toe
+tongue
+trunk
+twig
+wing
+unidentified
+page
+absence
+not determined
+not applicable
+unknown
+ambiguous
+missing
+dubious
+requires term
+needs checking
+see Gene ID
+other
+mode of action 
+bos taurus
+organism
+brain
+virus
+animal
+mammalian
+colon
+heart
+blood
+head
+liver
+primary cell
+primary cell line
+serum
+cell line cell
+fetal cell line
+plasma cell
+basal cell
+Chang cell
+liver cell line
+inflammatory cell
+infected cell
+epithelial cell line
+tissue culture
+cell culture
+culture medium
+tissue culture flask
+microplate
+scale
+tube
+gel
+array
+seed
+dish
+adult
+branch
+cervical cell line
+colonic cell line
+cuvette
+endometrial cancer cell line
+foot
+gastrointestinal tract
+glia
+juice
+meniscus
+milk
+nerve
+neural stem cell line
+pancreatic cancer cell line
+peripheral nervous system
+primary neuron
+pup
+saliva
+skin cancer cell
+sweat
+tear
+uterine cervix
+vaginal cell line
+agarose gel
+bacterium
+bone marrow cancer cell
+cerebellum
+culture condition
+enterocyte
+epimastigote
+erythrocyte
+eye
+left ventricle
+liver cancer cell
+prefrontal cortex
+sarcoma cell line
+spinal cord
+sternum
+supporting cell
+artery
+capillary
+chip
+monocytic leukemia cell line
+secretory cell
+adrenal cortex cell line
+axenic culture
+cartilage
+coverslip
+face
+ghost
+gut
+hybridoma cell line
+larva
+mesenchymal stem cell
+node
+osteoblast cell line
+reticulum
+somatic cell
+tail
+testis
+tooth
+vascular endothelial cell
+fruit
+bioassay type
+biofilm
+cardiac muscle
+colorectal adenocarcinoma cell line
+diffuse large B-cell lymphoma cell
+epithelium
+large intestine
+melanocyte cell line
+needle
+plant
+plant cell line
+pleura : 5
+retinoblastoma cell line : 5
+stoma : 5
+thymus : 5
+urine : 5
+immature cell : 6
+pituitary gland cell line : 6
+thyroid cancer cell line : 6
+vascular endothelium : 6
+fiber : 7
+kidney cancer cell : 7
+cardiomyocyte cell line : 8
+companion cell : 8
+cytotoxic T-lymphocyte cell line : 8
+endothelium : 8
+germ cell : 8
+granulocyte : 8
+lung cancer cell line : 8
+marrow cell : 8
+mononuclear cell : 8
+myeloma cell line : 8
+placental cell line : 8
+umbilical vein : 8
+vein : 8
+fibrosarcoma cell line : 9
+jejunum : 9
+myoblast cell line : 9
+small intestine cell line : 9
+acute promyelocytic leukemia cell : 10
+adenocarcinoma cell line : 10
+colonic epithelial cell : 10
+filament : 10
+insulinoma cell : 10
+myeloid leukemia cell : 10
+myocardium : 10
+retina : 10
+cervical carcinoma cell : 11
+erythroleukemia cell line : 11
+fungus : 11
+gonad : 11
+hepatoma cell line : 11
+peripheral blood cell : 11
+photoreceptor : 11
+T-lymphocyte cell line : 12
+adipocyte cell line : 12
+chronic myeloid leukemia cell : 12
+colorectal cancer cell line : 12
+ganglion : 12
+juvenile : 12
+mesenchymal cell : 12
+root : 12
+thalamus : 12
+adipose tissue : 13
+basophilic leukemia cell line : 13
+bladder : 13
+endoderm : 13
+intestine : 13
+lymphocytic leukemia cell line : 13
+myometrial cell line : 13
+uterus : 13
+vasculature : 13
+culture supernatant : 14
+mature cell : 14
+pancreatic islet : 14
+ear : 15
+glioblastoma cell line : 15
+inner ear : 15
+pancreas : 15
+Danio rerio : 16
+atherosclerotic plaque : 16
+blood vessel : 16
+mammary epithelial cell line : 16
+ovary cell line : 16
+vertebrate : 16
+acute myeloid leukemia cell line : 17
+amygdala : 17
+bile : 17
+hand : 17
+hippocampus : 17
+hypothalamus : 17
+monocyte : 17
+skeletal muscle cell line : 17
+cancer stem cell : 18
+adrenal gland : 19
+hair cell : 19
+hepatocyte : 20
+leukocyte : 20
+cone : 21
+multiple myeloma cell line : 21
+primary culture : 21
+sensory cell : 21
+intestinal mucosa : 22
+mucosa : 22
+skin : 22
+erythroid cell : 23
+hematopoietic cell line : 23
+midbrain : 23
+umbilical vein endothelial cell : 23
+arm : 24
+hippocampal cell line : 24
+pancreatic beta cell line : 24
+bone marrow cell line : 25
+immobilized cell : 25
+spleen : 25
+thyroid cell line : 25
+epidermal cell line : 26
+lymphoblast : 26
+mammary gland cell line : 26
+urinary tract : 26
+bone : 27
+gastric cancer cell line : 27
+lymph : 27
+myeloid cell line : 27
+orbit : 27
+stomach : 27
+coronary artery : 28
+neutrophil : 28
+breast : 29
+lymphoid cell line : 29
+spike : 29
+embryo : 30
+horizontal cell : 30
+vial : 30
+cell lysate : 31
+lung epithelial cell : 31
+nasopharyngeal carcinoma cell line : 31
+fungi : 32
+joint : 32
+resting cell : 32
+colorectal cell line : 33
+lymph node : 33
+embryonic fibroblast : 35
+principal cell : 36
+dried cell : 37
+neuroblastoma cell line : 37
+competitive inhibition : 39
+lymphoma cell line : 40
+oral cell line : 41
+dendritic cell : 42
+glioma cell line : 42
+melanoma cell line : 42
+granule cell : 44
+dopaminergic neuron : 45
+intestinal epithelium : 46
+nervous system : 46
+glycogen cell : 48
+breast cancer cell line : 49
+prostate cancer cell line : 50
+carcinoma cell : 51
+eukaryote : 52
+blood platelet : 53
+macrophage cell line : 53
+embryonic cell line : 55
+permanent cell line : 56
+vascular cell : 58
+functional : 59
+tuber : 59
+endothelial cell line : 61
+finger : 63
+muscle : 64
+lung cell line : 67
+protozoan : 70
+stem : 70
+cardia : 73
+triple flask : 76
+blast cell : 77
+lymphocyte : 78
+kidney cell line : 80
+crypt : 81
+leukemia cell line : 82
+competitive binding : 83
+neuron : 83
+intestinal cell line : 87
+neuronal cell line : 93
+osteosarcoma cell line : 101
+fibroblast cell line : 103
+CNS cell line : 116
+central nervous system : 126
+epithelial cell : 155
+substantia nigra : 1
+vagina : 1
+15 cm dish : 2
+adrenal cortex : 4
+ray cell : 4
+germ : 8
+placenta : 8
+small intestine : 9
+marrow : 10
+adipocyte : 12
+ovary : 16
+hair : 19
+mammary gland : 26
+lung : 68
+kidney : 88
+activation
+# medium list
+specificity  # alternative label for selectivity assay (too general)
+protein
+receptor
+gene
+enzyme
+peptide
+kinase
+dna
+g protein
+g protein coupled receptor
+antibody
+lipid
+nucleotide
+# BAO_0002663
+assay kit
+# BAO_0002848
+cancer
+disease
+syndrome

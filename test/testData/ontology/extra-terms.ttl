@@ -1,0 +1,16 @@
+@prefix efo: <http://www.ebi.ac.uk/efo/> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix bao: <http://www.bioassayontology.org/bao#> .
+@prefix bat: <http://www.bioassayontology.org/bat#> .
+@prefix uo: <http://purl.org/obo/owl/UO#> .
+
+bat:FNORD_0000001 rdf:type owl:Class ;
+  rdfs:label "fnord" ;
+  rdfs:subClassOf bao:BAO_0000008;
+  obo:IAO_0000115 "Fnord."
+  .

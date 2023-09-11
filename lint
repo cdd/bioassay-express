@@ -1,0 +1,4 @@
+#!/bin/tcsh
+
+npm run tslint
+npm run eslint

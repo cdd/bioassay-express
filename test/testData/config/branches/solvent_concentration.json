@@ -1,0 +1,80 @@
+{
+    "schemaPrefix": "http://www.bioassayontology.org/bas/SolventConcentration#",
+    "branchGroups": ["http://www.bioassayontology.org/bao#BAX_0000034"],
+    "root": 
+    {
+        "name": "solvent concentration",
+        "descr": "",
+        "groupURI": "http://www.bioassayontology.org/bao#BAX_0000036",
+        "assignments": [],
+        "subGroups": 
+        [
+            {
+                "name": "solvent concentration",
+                "descr": "Contains descriptors of the solvent(s) used in the assay.",
+                "groupURI": "http://www.bioassayontology.org/bao#BAX_0000036",
+                "assignments": 
+                [
+                    {
+                        "name": "solvent",
+                        "descr": "",
+                        "propURI": "http://www.bioassayontology.org/bao#BAX_0000062",
+                        "suggestions": "full",
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000118",
+                                "name": "DMSO",
+                                "descr": "Dimethyl sulfoxide (DMSO) is a common organic solvent that is used to solubilize the chemical compounds prior to their addition to an assay. DMSO can have a significant impact on enzyme activity and the concentration of DMSO in the wells containing compound should be identical to the concentration of DMSO in the control wells. DMSO can also impact the solubility of a compound and its observed potency. Therefore, the concentration of DMSO should be consistent in replicate experiments."
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "value",
+                        "descr": "",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002666",
+                        "suggestions": "number",
+                        "values": []
+                    }, 
+                    {
+                        "name": "unit",
+                        "descr": "",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0000183",
+                        "suggestions": "full",
+                        "values": 
+                        [
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000061",
+                                "name": "unit of molarity",
+                                "descr": "",
+                                "wholeBranch": true
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000101",
+                                "name": "log10 molar",
+                                "descr": ""
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000102",
+                                "name": "negative log10 molar",
+                                "descr": ""
+                            }, 
+                            {
+                                "uri": "http://purl.org/obo/owl/UO#UO_0000187",
+                                "name": "percent",
+                                "descr": ""
+                            }, 
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000052",
+                                "name": "mass density unit",
+                                "descr": "",
+                                "wholeBranch": true
+                            }
+                        ]
+                    }
+                ],
+                "subGroups": []
+            }
+        ]
+    }
+}

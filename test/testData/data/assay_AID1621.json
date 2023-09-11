@@ -1,0 +1,1014 @@
+{
+    "annotations": [
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "assay format"
+            ],
+            "propAbbrev": "bao:BAO_0000205",
+            "propLabel": "assay format",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0000205",
+            "valueAbbrev": "bao:BAO_0000219",
+            "valueDescr": "Involves the use of living cells of eukaryotic origin, derived from a multicellular organism, and is a heterogeneous assay type. Typically, this refers to permanent (immortal) cell lines, or primary cells, or some form of stem cells. This is distinct from a single-celled organism-based format (classically bacteria or yeast).",
+            "valueHier": [
+                "http://www.bioassayontology.org/bao#BAO_0000019"
+            ],
+            "valueLabel": "cell based format",
+            "valueURI": "http://www.bioassayontology.org/bao#BAO_0000219"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "biological process",
+                "assay biology component"
+            ],
+            "propAbbrev": "bao:BAO_0002009",
+            "propLabel": "biological process",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0002009",
+            "valueAbbrev": "obo:GO_0008219",
+            "valueDescr": "Any biological process that results in permanent cessation of all vital functions of a cell. A cell should be considered dead when any one of the following molecular or morphological criteria is met: (1) the cell has lost the integrity of its plasma membrane; (2) the cell, including its nucleus, has undergone complete fragmentation into discrete bodies (frequently referred to as \"apoptotic bodies\"); and/or (3) its corpse (or its fragments) have been engulfed by an adjacent cell in vivo.",
+            "valueHier": [
+                "http://purl.obolibrary.org/obo/GO_0008150",
+                "http://www.bioassayontology.org/bao#BAO_0003114"
+            ],
+            "valueLabel": "cell death",
+            "valueURI": "http://purl.obolibrary.org/obo/GO_0008219"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "assay design method"
+            ],
+            "propAbbrev": "bao:BAO_0095009",
+            "propLabel": "assay design method",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0095009",
+            "valueAbbrev": "bao:BAO_0000127",
+            "valueDescr": "Compound cytotoxicity is an important parameter to measure when developing potential human therapeutics. Cytotoxicity is determined as a measure of radioisotope (3H thymidine or 51Cr) release, lactate dehydrogenase release from damaged cells, tetrazolium salt and alamar blue reduction, fluorescent dyes that selectively stain live or dead cells, and decrease in ATP content. The viability reporter technologies measure cell life or death by quantitating ATP content, caspase activity, membrane potential, and so on.",
+            "valueHier": [
+                "http://www.bioassayontology.org/bao#BAO_0002202"
+            ],
+            "valueLabel": "viability measurement method",
+            "valueURI": "http://www.bioassayontology.org/bao#BAO_0000127"
+        },
+        {
+            "altLabels": [
+                "adenosine triphosphate content"
+            ],
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "viability measurement method",
+                "assay design method"
+            ],
+            "propAbbrev": "bao:BAO_0095009",
+            "propLabel": "assay design method",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0095009",
+            "valueAbbrev": "bao:BAO_0000164",
+            "valueDescr": "ATP levels are an indicator of viable cell number. ATP values higher than controls (untreated cells) indicate proliferation and cultures with ATP concentrations lower than controls indicate cytotoxicity. ATP levels can be measured using different commercial kits.",
+            "valueHier": [
+                "http://www.bioassayontology.org/bao#BAO_0000127",
+                "http://www.bioassayontology.org/bao#BAO_0002202"
+            ],
+            "valueLabel": "ATP quantitation",
+            "valueURI": "http://www.bioassayontology.org/bao#BAO_0000164"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "Luciferase-based ('Glo') Assay System (Promega)",
+                "assay kit"
+            ],
+            "propAbbrev": "bao:BAO_0002663",
+            "propLabel": "assay kit",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0002663",
+            "valueAbbrev": "bao:BAO_0000682",
+            "valueDescr": "",
+            "valueHier": [
+                "http://www.bioassayontology.org/bao#BAO_0140017",
+                "http://www.bioassayontology.org/bao#BAO_0000248"
+            ],
+            "valueLabel": "CellTiter-Glo Luminescent Cell Viability Assay",
+            "valueURI": "http://www.bioassayontology.org/bao#BAO_0000682"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "compound library",
+                "perturbagen library",
+                "assay screened entity component"
+            ],
+            "propAbbrev": "bao:BAO_0000185",
+            "propLabel": "perturbagen type",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0000185",
+            "valueAbbrev": "bao:BAO_0000733",
+            "valueDescr": "",
+            "valueHier": [
+                "http://www.bioassayontology.org/bao#BAO_0000648",
+                "http://www.bioassayontology.org/bao#BAO_0000661",
+                "http://www.bioassayontology.org/bao#BAO_0003120"
+            ],
+            "valueLabel": "MLSMR library",
+            "valueURI": "http://www.bioassayontology.org/bao#BAO_0000733"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "detection instrument"
+            ],
+            "propAbbrev": "bao:BAO_0002865",
+            "propLabel": "detection instrument",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0002865",
+            "valueAbbrev": "bao:BAO_0000701",
+            "valueDescr": "",
+            "valueHier": [
+                "http://www.bioassayontology.org/bao#BAO_0000697"
+            ],
+            "valueLabel": "EnVision Multilabel Reader",
+            "valueURI": "http://www.bioassayontology.org/bao#BAO_0000701"
+        },
+        {
+            "groupLabel": [
+                "measurement"
+            ],
+            "groupNest": [
+                "http://www.bioassayontology.org/bao#BAX_0000017"
+            ],
+            "labelHier": [
+                "unit of molarity",
+                "concentration unit",
+                "unit"
+            ],
+            "propAbbrev": "bao:BAO_0002874",
+            "propLabel": "units",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0002874",
+            "valueAbbrev": "obo:UO_0000064",
+            "valueDescr": "A unit of molarity which is equal to one millionth of a molar or 10^[-6] M.",
+            "valueHier": [
+                "http://purl.obolibrary.org/obo/UO_0000061",
+                "http://purl.obolibrary.org/obo/UO_0000051",
+                "http://purl.obolibrary.org/obo/UO_0000000"
+            ],
+            "valueLabel": "micromolar",
+            "valueURI": "http://purl.obolibrary.org/obo/UO_0000064"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "ligand function mode of action",
+                "mode of action"
+            ],
+            "propAbbrev": "bao:BAO_0000196",
+            "propLabel": "assay mode of action",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0000196",
+            "valueAbbrev": "bao:BAO_0000091",
+            "valueDescr": "Reduction of a predefined stimulus. Unit of Measure is always % when normalized to the dynamic range of the assay.",
+            "valueHier": [
+                "http://www.bioassayontology.org/bao#BAO_0000084",
+                "http://www.bioassayontology.org/bao#BAO_0000074"
+            ],
+            "valueLabel": "inhibition",
+            "valueURI": "http://www.bioassayontology.org/bao#BAO_0000091"
+        },
+        {
+            "altLabels": [
+                "Vero"
+            ],
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "immortal cell line cell",
+                "cell line cell"
+            ],
+            "propAbbrev": "bao:BAO_0002800",
+            "propLabel": "assay cell line",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0002800",
+            "valueAbbrev": "obo:CLO_0009524",
+            "valueDescr": "",
+            "valueHier": [
+                "http://purl.obolibrary.org/obo/CLO_0000019",
+                "http://purl.obolibrary.org/obo/CLO_0000001"
+            ],
+            "valueLabel": "Vero cell",
+            "valueURI": "http://purl.obolibrary.org/obo/CLO_0009524"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "concentration response endpoint",
+                "concentration endpoint",
+                "endpoint"
+            ],
+            "propAbbrev": "bao:BAO_0000208",
+            "propLabel": "result",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0000208",
+            "valueAbbrev": "bao:BAO_0000190",
+            "valueDescr": "The effective concentration of an inhibitor, which produces 50% of the maximum possible response for that inhibitor.",
+            "valueHier": [
+                "http://www.bioassayontology.org/bao#BAO_0002162",
+                "http://www.bioassayontology.org/bao#BAO_0000180",
+                "http://www.bioassayontology.org/bao#BAO_0000179"
+            ],
+            "valueLabel": "IC50",
+            "valueURI": "http://www.bioassayontology.org/bao#BAO_0000190"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "bioassay type"
+            ],
+            "propAbbrev": "bao:BAO_0002854",
+            "propLabel": "bioassay type",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0002854",
+            "valueAbbrev": "bao:BAO_0000010",
+            "valueDescr": "An assay where the measured signal corresponds to a complex response such as cell survival, proliferation, localization of a protein, nuclear translocation etc. The molecular target is not assumed.",
+            "valueHier": [
+                "http://www.bioassayontology.org/bao#BAO_0000008"
+            ],
+            "valueLabel": "functional",
+            "valueURI": "http://www.bioassayontology.org/bao#BAO_0000010"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "bioassay"
+            ],
+            "propAbbrev": "bao:BAO_0002855",
+            "propLabel": "bioassay",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0002855",
+            "valueAbbrev": "bao:BAO_0003009",
+            "valueDescr": "This assay type measures the cellular state of living or dying by measuring an indicator of life or death. Cell life indicators include ATP content, cell number, dehydrogenase activity, DNA content, esterase activity, mitochondrial membrane potential, membrane integrity, and protease activity. Cell death indicators include caspase activity, chromatin condensation, and phospholipid redistribution.",
+            "valueHier": [
+                "http://www.bioassayontology.org/bao#BAO_0000015"
+            ],
+            "valueLabel": "cell viability assay",
+            "valueURI": "http://www.bioassayontology.org/bao#BAO_0003009"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "luminescence method",
+                "physical detection method"
+            ],
+            "propAbbrev": "bao:BAO_0000207",
+            "propLabel": "physical detection method",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0000207",
+            "valueAbbrev": "bao:BAO_0000050",
+            "valueDescr": "Bioluminescence refers to the production and emission of light by a living organism. Bioluminescence is a naturally occurring form of chemiluminescence whereby energy is released by a chemical reaction in the form of light emission. The chemical reaction can occur either inside or outside the cell, and can be detected using a plate reader or a charge-coupled device (CCD) camera.",
+            "valueHier": [
+                "http://www.bioassayontology.org/bao#BAO_0000045",
+                "http://www.bioassayontology.org/bao#BAO_0000035"
+            ],
+            "valueLabel": "bioluminescence",
+            "valueURI": "http://www.bioassayontology.org/bao#BAO_0000050"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "brain disease",
+                "central nervous system disease",
+                "nervous system disease",
+                "disease of anatomical entity",
+                "Disease"
+            ],
+            "propAbbrev": "bao:BAO_0002848",
+            "propLabel": "applies to disease",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0002848",
+            "valueAbbrev": "obo:DOID_9588",
+            "valueDescr": "A brain disease that is characterized as an acute inflammation of the brain with flu-like symptoms.",
+            "valueHier": [
+                "http://purl.obolibrary.org/obo/DOID_936",
+                "http://purl.obolibrary.org/obo/DOID_331",
+                "http://purl.obolibrary.org/obo/DOID_863",
+                "http://purl.obolibrary.org/obo/DOID_7",
+                "http://purl.obolibrary.org/obo/DOID_4"
+            ],
+            "valueLabel": "encephalitis",
+            "valueURI": "http://purl.obolibrary.org/obo/DOID_9588"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "disease by infectious agent",
+                "Disease"
+            ],
+            "propAbbrev": "bao:BAO_0002848",
+            "propLabel": "applies to disease",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0002848",
+            "valueAbbrev": "obo:DOID_934",
+            "valueDescr": "A disease by infectious agent that results_in infection, has_material_basis_in Viruses.",
+            "valueHier": [
+                "http://purl.obolibrary.org/obo/DOID_0050117",
+                "http://purl.obolibrary.org/obo/DOID_4"
+            ],
+            "valueLabel": "viral infectious disease",
+            "valueURI": "http://purl.obolibrary.org/obo/DOID_934"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "viral infectious disease",
+                "disease by infectious agent",
+                "Disease"
+            ],
+            "propAbbrev": "bao:BAO_0002848",
+            "propLabel": "applies to disease",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0002848",
+            "valueAbbrev": "obo:DOID_2365",
+            "valueDescr": "\nA viral infectious disease that results_in inflammation located_in brain, has_material_basis_in West Nile virus, which is transmitted_by Culex, transmitted_by Aedes, and transmitted_by Anopheles species of mosquitoes. The infection has_symptom high fever, has_symptom headache, has_symptom neck stiffness, has_symptom stupor, has_symptom disorientation, has_symptom coma, has_symptom tremors, has_symptom convulsions, has_symptom muscle weakness, has_symptom vision loss, has_symptom numbness, and has_symptom paralysis.\n",
+            "valueHier": [
+                "http://purl.obolibrary.org/obo/DOID_934",
+                "http://purl.obolibrary.org/obo/DOID_0050117",
+                "http://purl.obolibrary.org/obo/DOID_4"
+            ],
+            "valueLabel": "West Nile encephalitis",
+            "valueURI": "http://purl.obolibrary.org/obo/DOID_2365"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "viral infectious disease",
+                "disease by infectious agent",
+                "Disease"
+            ],
+            "propAbbrev": "bao:BAO_0002848",
+            "propLabel": "applies to disease",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0002848",
+            "valueAbbrev": "obo:DOID_2366",
+            "valueDescr": "\nA viral infectious disease that results_in infection, has_material_basis_in West Nile virus, which is transmitted_by Culex and transmitted_by Aedes mosquitoes. The infection has_symptom fever, has_symptom sore throat, has_symptom headache, has_symptom body ache, has_symptom nausea, has_symptom maculopapular rash and has_symptom vomiting.\n",
+            "valueHier": [
+                "http://purl.obolibrary.org/obo/DOID_934",
+                "http://purl.obolibrary.org/obo/DOID_0050117",
+                "http://purl.obolibrary.org/obo/DOID_4"
+            ],
+            "valueLabel": "West Nile fever",
+            "valueURI": "http://purl.obolibrary.org/obo/DOID_2366"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "microplate",
+                "assay footprint"
+            ],
+            "propAbbrev": "bao:BAO_0002867",
+            "propLabel": "assay footprint",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0002867",
+            "valueAbbrev": "bao:BAO_0000515",
+            "valueDescr": "This microplate contains 384 wells. It is suitable for a HTS assay.",
+            "valueHier": [
+                "http://www.bioassayontology.org/bao#BAO_0000508",
+                "http://www.bioassayontology.org/bao#BAO_0000512"
+            ],
+            "valueLabel": "384 well plate",
+            "valueURI": "http://www.bioassayontology.org/bao#BAO_0000515"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "virus",
+                "organism"
+            ],
+            "propAbbrev": "bao:BAO_0002921",
+            "propLabel": "organism",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0002921",
+            "valueAbbrev": "obo:NCBITaxon_11082",
+            "valueDescr": "",
+            "valueHier": [
+                "http://www.bioassayontology.org/bao#BAO_0000232",
+                "http://www.bioassayontology.org/bao#BAO_0000551"
+            ],
+            "valueLabel": "West Nile virus",
+            "valueURI": "http://purl.obolibrary.org/obo/NCBITaxon_11082"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "biological process",
+                "assay biology component"
+            ],
+            "propAbbrev": "bao:BAO_0002009",
+            "propLabel": "biological process",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0002009",
+            "valueAbbrev": "obo:GO_0046718",
+            "valueDescr": "The process that occurs after viral attachment by which a virus, or viral nucleic acid, breaches the plasma membrane or cell envelope and enters the host cell. The process ends when the viral nucleic acid is released into the host cell cytoplasm.",
+            "valueHier": [
+                "http://purl.obolibrary.org/obo/GO_0008150",
+                "http://www.bioassayontology.org/bao#BAO_0003114"
+            ],
+            "valueLabel": "viral entry into host cell",
+            "valueURI": "http://purl.obolibrary.org/obo/GO_0046718"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "biological process",
+                "assay biology component"
+            ],
+            "propAbbrev": "bao:BAO_0002009",
+            "propLabel": "biological process",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0002009",
+            "valueAbbrev": "obo:GO_0008283",
+            "valueDescr": "The multiplication or reproduction of cells, resulting in the expansion of a cell population.",
+            "valueHier": [
+                "http://purl.obolibrary.org/obo/GO_0008150",
+                "http://www.bioassayontology.org/bao#BAO_0003114"
+            ],
+            "valueLabel": "cell proliferation",
+            "valueURI": "http://purl.obolibrary.org/obo/GO_0008283"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "assay screening campaign stage"
+            ],
+            "propAbbrev": "bao:BAO_0000210",
+            "propLabel": "screening campaign stage",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0000210",
+            "valueAbbrev": "bao:BAO_0000031",
+            "valueDescr": "The first assay performed in a in a screening campaign. The purpose of the primary assay is to identify hits, which are potentially biologically active chemical entities. Generally in this assay, the perturbagens are tested at a single concentration with only one measurement. It is followed by a confirmatory screen, which can be run at a single concentration with multiple replicates or as concentration-response assay.",
+            "valueHier": [
+                "http://www.bioassayontology.org/bao#BAO_0000029"
+            ],
+            "valueLabel": "primary assay",
+            "valueURI": "http://www.bioassayontology.org/bao#BAO_0000031"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "absence"
+            ],
+            "propAbbrev": "bao:BAO_0000211",
+            "propLabel": "target",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0000211",
+            "valueAbbrev": "bat:Unknown",
+            "valueDescr": "There should be a term assigned to this property but the value was not specified in the source information.",
+            "valueHier": [
+                "http://www.bioassayontology.org/bat#Absence"
+            ],
+            "valueLabel": "unknown",
+            "valueURI": "http://www.bioassayontology.org/bat#Unknown"
+        },
+        {
+            "externalURLs": [
+                "http://www.southernresearch.org"
+            ],
+            "groupLabel": [],
+            "groupNest": [],
+            "labelHier": [
+                "PubChem Sources",
+                "organization"
+            ],
+            "propAbbrev": "bao:BAO_0002852",
+            "propLabel": "assay sources",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0002852",
+            "valueAbbrev": "src:SRC_0000023",
+            "valueDescr": "Southern Research Institute, Specialized Biocontainment Screening Center.",
+            "valueHier": [
+                "http://www.bioassayexpress.org/sources#pubchem_sources",
+                "http://www.bioassayontology.org/bao#BAO_0002934"
+            ],
+            "valueLabel": "Southern Research Institute, Specialized Biocontainment Screening Center",
+            "valueURI": "http://www.bioassayexpress.org/sources#SRC_0000023"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "propAbbrev": "bao:BAO_0000539",
+            "propLabel": "related assays",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0000539",
+            "valueLabel": "pubchemAID:1650"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "propAbbrev": "bao:BAO_0000539",
+            "propLabel": "related assays",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0000539",
+            "valueLabel": "pubchemAID:1635"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "propAbbrev": "bao:BAO_0000539",
+            "propLabel": "related assays",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0000539",
+            "valueLabel": "pubchemAID:2238"
+        },
+        {
+            "groupLabel": [],
+            "groupNest": [],
+            "propAbbrev": "bao:BAO_0000539",
+            "propLabel": "related assays",
+            "propURI": "http://www.bioassayontology.org/bao#BAO_0000539",
+            "valueLabel": "pubchemAID:2244"
+        }
+    ],
+    "assayID": 378,
+    "curationTime": 1492468130452,
+    "curatorID": "admin",
+    "history": [
+        {
+            "annotsAdded": [
+                {
+                    "labelHier": [
+                        "assay design method"
+                    ],
+                    "propAbbrev": "bao:BAO_0095009",
+                    "propLabel": "assay design method",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0095009",
+                    "valueAbbrev": "bao:BAO_0000127",
+                    "valueDescr": "Compound cytotoxicity is an important parameter to measure when developing potential human therapeutics. Cytotoxicity is determined as a measure of radioisotope (3H thymidine or 51Cr) release, lactate dehydrogenase release from damaged cells, tetrazolium salt and alamar blue reduction, fluorescent dyes that selectively stain live or dead cells, and decrease in ATP content. The viability reporter technologies measure cell life or death by quantitating ATP content, caspase activity, membrane potential, and so on.",
+                    "valueHier": [
+                        "http://www.bioassayontology.org/bao#BAO_0002202"
+                    ],
+                    "valueLabel": "viability measurement method",
+                    "valueURI": "http://www.bioassayontology.org/bao#BAO_0000127"
+                },
+                {
+                    "labelHier": [
+                        "microplate",
+                        "assay footprint"
+                    ],
+                    "propAbbrev": "bao:BAO_0002867",
+                    "propLabel": "assay footprint",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0002867",
+                    "valueAbbrev": "bao:BAO_0000515",
+                    "valueDescr": "This microplate contains 384 wells. It is suitable for a HTS assay.",
+                    "valueHier": [
+                        "http://www.bioassayontology.org/bao#BAO_0000508",
+                        "http://www.bioassayontology.org/bao#BAO_0000512"
+                    ],
+                    "valueLabel": "384 well plate",
+                    "valueURI": "http://www.bioassayontology.org/bao#BAO_0000515"
+                },
+                {
+                    "labelHier": [
+                        "absence"
+                    ],
+                    "propAbbrev": "bao:BAO_0000211",
+                    "propLabel": "target",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0000211",
+                    "valueAbbrev": "bat:Unknown",
+                    "valueDescr": "There should be a term assigned to this property but the value was not specified in the source information.",
+                    "valueHier": [
+                        "http://www.bioassayontology.org/bat#Absence"
+                    ],
+                    "valueLabel": "unknown",
+                    "valueURI": "http://www.bioassayontology.org/bat#Unknown"
+                },
+                {
+                    "labelHier": [
+                        "luminescence method",
+                        "physical detection method"
+                    ],
+                    "propAbbrev": "bao:BAO_0000207",
+                    "propLabel": "physical detection method",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0000207",
+                    "valueAbbrev": "bao:BAO_0000050",
+                    "valueDescr": "Bioluminescence refers to the production and emission of light by a living organism. Bioluminescence is a naturally occurring form of chemiluminescence whereby energy is released by a chemical reaction in the form of light emission. The chemical reaction can occur either inside or outside the cell, and can be detected using a plate reader or a charge-coupled device (CCD) camera.",
+                    "valueHier": [
+                        "http://www.bioassayontology.org/bao#BAO_0000045",
+                        "http://www.bioassayontology.org/bao#BAO_0000035"
+                    ],
+                    "valueLabel": "bioluminescence",
+                    "valueURI": "http://www.bioassayontology.org/bao#BAO_0000050"
+                },
+                {
+                    "altLabels": [
+                        "adenosine triphosphate content"
+                    ],
+                    "labelHier": [
+                        "viability measurement method",
+                        "assay design method"
+                    ],
+                    "propAbbrev": "bao:BAO_0095009",
+                    "propLabel": "assay design method",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0095009",
+                    "valueAbbrev": "bao:BAO_0000164",
+                    "valueDescr": "ATP levels are an indicator of viable cell number. ATP values higher than controls (untreated cells) indicate proliferation and cultures with ATP concentrations lower than controls indicate cytotoxicity. ATP levels can be measured using different commercial kits.",
+                    "valueHier": [
+                        "http://www.bioassayontology.org/bao#BAO_0000127",
+                        "http://www.bioassayontology.org/bao#BAO_0002202"
+                    ],
+                    "valueLabel": "ATP quantitation",
+                    "valueURI": "http://www.bioassayontology.org/bao#BAO_0000164"
+                },
+                {
+                    "labelHier": [
+                        "biological process",
+                        "assay biology component"
+                    ],
+                    "propAbbrev": "bao:BAO_0002009",
+                    "propLabel": "biological process",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0002009",
+                    "valueAbbrev": "obo:GO_0008283",
+                    "valueDescr": "The multiplication or reproduction of cells, resulting in the expansion of a cell population.",
+                    "valueHier": [
+                        "http://purl.obolibrary.org/obo/GO_0008150",
+                        "http://www.bioassayontology.org/bao#BAO_0003114"
+                    ],
+                    "valueLabel": "cell proliferation",
+                    "valueURI": "http://purl.obolibrary.org/obo/GO_0008283"
+                },
+                {
+                    "externalURLs": [
+                        "http://www.southernresearch.org"
+                    ],
+                    "labelHier": [
+                        "PubChem Sources",
+                        "organization"
+                    ],
+                    "propAbbrev": "bao:BAO_0002852",
+                    "propLabel": "assay sources",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0002852",
+                    "valueAbbrev": "src:SRC_0000023",
+                    "valueDescr": "Southern Research Institute, Specialized Biocontainment Screening Center.",
+                    "valueHier": [
+                        "http://www.bioassayexpress.org/sources#pubchem_sources",
+                        "http://www.bioassayontology.org/bao#BAO_0002934"
+                    ],
+                    "valueLabel": "Southern Research Institute, Specialized Biocontainment Screening Center",
+                    "valueURI": "http://www.bioassayexpress.org/sources#SRC_0000023"
+                },
+                {
+                    "labelHier": [
+                        "compound library",
+                        "perturbagen library",
+                        "assay screened entity component"
+                    ],
+                    "propAbbrev": "bao:BAO_0000185",
+                    "propLabel": "perturbagen type",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0000185",
+                    "valueAbbrev": "bao:BAO_0000733",
+                    "valueDescr": "",
+                    "valueHier": [
+                        "http://www.bioassayontology.org/bao#BAO_0000648",
+                        "http://www.bioassayontology.org/bao#BAO_0000661",
+                        "http://www.bioassayontology.org/bao#BAO_0003120"
+                    ],
+                    "valueLabel": "MLSMR library",
+                    "valueURI": "http://www.bioassayontology.org/bao#BAO_0000733"
+                },
+                {
+                    "labelHier": [
+                        "detection instrument"
+                    ],
+                    "propAbbrev": "bao:BAO_0002865",
+                    "propLabel": "detection instrument",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0002865",
+                    "valueAbbrev": "bao:BAO_0000701",
+                    "valueDescr": "",
+                    "valueHier": [
+                        "http://www.bioassayontology.org/bao#BAO_0000697"
+                    ],
+                    "valueLabel": "EnVision Multilabel Reader",
+                    "valueURI": "http://www.bioassayontology.org/bao#BAO_0000701"
+                },
+                {
+                    "labelHier": [
+                        "biological process",
+                        "assay biology component"
+                    ],
+                    "propAbbrev": "bao:BAO_0002009",
+                    "propLabel": "biological process",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0002009",
+                    "valueAbbrev": "obo:GO_0008219",
+                    "valueDescr": "Any biological process that results in permanent cessation of all vital functions of a cell. A cell should be considered dead when any one of the following molecular or morphological criteria is met: (1) the cell has lost the integrity of its plasma membrane; (2) the cell, including its nucleus, has undergone complete fragmentation into discrete bodies (frequently referred to as \"apoptotic bodies\"); and/or (3) its corpse (or its fragments) have been engulfed by an adjacent cell in vivo.",
+                    "valueHier": [
+                        "http://purl.obolibrary.org/obo/GO_0008150",
+                        "http://www.bioassayontology.org/bao#BAO_0003114"
+                    ],
+                    "valueLabel": "cell death",
+                    "valueURI": "http://purl.obolibrary.org/obo/GO_0008219"
+                },
+                {
+                    "labelHier": [
+                        "viral infectious disease",
+                        "disease by infectious agent",
+                        "Disease"
+                    ],
+                    "propAbbrev": "bao:BAO_0002848",
+                    "propLabel": "applies to disease",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0002848",
+                    "valueAbbrev": "obo:DOID_2365",
+                    "valueDescr": "\nA viral infectious disease that results_in inflammation located_in brain, has_material_basis_in West Nile virus, which is transmitted_by Culex, transmitted_by Aedes, and transmitted_by Anopheles species of mosquitoes. The infection has_symptom high fever, has_symptom headache, has_symptom neck stiffness, has_symptom stupor, has_symptom disorientation, has_symptom coma, has_symptom tremors, has_symptom convulsions, has_symptom muscle weakness, has_symptom vision loss, has_symptom numbness, and has_symptom paralysis.\n",
+                    "valueHier": [
+                        "http://purl.obolibrary.org/obo/DOID_934",
+                        "http://purl.obolibrary.org/obo/DOID_0050117",
+                        "http://purl.obolibrary.org/obo/DOID_4"
+                    ],
+                    "valueLabel": "West Nile encephalitis",
+                    "valueURI": "http://purl.obolibrary.org/obo/DOID_2365"
+                },
+                {
+                    "labelHier": [
+                        "viral infectious disease",
+                        "disease by infectious agent",
+                        "Disease"
+                    ],
+                    "propAbbrev": "bao:BAO_0002848",
+                    "propLabel": "applies to disease",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0002848",
+                    "valueAbbrev": "obo:DOID_2366",
+                    "valueDescr": "\nA viral infectious disease that results_in infection, has_material_basis_in West Nile virus, which is transmitted_by Culex and transmitted_by Aedes mosquitoes. The infection has_symptom fever, has_symptom sore throat, has_symptom headache, has_symptom body ache, has_symptom nausea, has_symptom maculopapular rash and has_symptom vomiting.\n",
+                    "valueHier": [
+                        "http://purl.obolibrary.org/obo/DOID_934",
+                        "http://purl.obolibrary.org/obo/DOID_0050117",
+                        "http://purl.obolibrary.org/obo/DOID_4"
+                    ],
+                    "valueLabel": "West Nile fever",
+                    "valueURI": "http://purl.obolibrary.org/obo/DOID_2366"
+                },
+                {
+                    "labelHier": [
+                        "biological process",
+                        "assay biology component"
+                    ],
+                    "propAbbrev": "bao:BAO_0002009",
+                    "propLabel": "biological process",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0002009",
+                    "valueAbbrev": "obo:GO_0046718",
+                    "valueDescr": "The process that occurs after viral attachment by which a virus, or viral nucleic acid, breaches the plasma membrane or cell envelope and enters the host cell. The process ends when the viral nucleic acid is released into the host cell cytoplasm.",
+                    "valueHier": [
+                        "http://purl.obolibrary.org/obo/GO_0008150",
+                        "http://www.bioassayontology.org/bao#BAO_0003114"
+                    ],
+                    "valueLabel": "viral entry into host cell",
+                    "valueURI": "http://purl.obolibrary.org/obo/GO_0046718"
+                },
+                {
+                    "labelHier": [
+                        "assay format"
+                    ],
+                    "propAbbrev": "bao:BAO_0000205",
+                    "propLabel": "assay format",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0000205",
+                    "valueAbbrev": "bao:BAO_0000219",
+                    "valueDescr": "Involves the use of living cells of eukaryotic origin, derived from a multicellular organism, and is a heterogeneous assay type. Typically, this refers to permanent (immortal) cell lines, or primary cells, or some form of stem cells. This is distinct from a single-celled organism-based format (classically bacteria or yeast).",
+                    "valueHier": [
+                        "http://www.bioassayontology.org/bao#BAO_0000019"
+                    ],
+                    "valueLabel": "cell based format",
+                    "valueURI": "http://www.bioassayontology.org/bao#BAO_0000219"
+                },
+                {
+                    "labelHier": [
+                        "bioassay type"
+                    ],
+                    "propAbbrev": "bao:BAO_0002854",
+                    "propLabel": "bioassay type",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0002854",
+                    "valueAbbrev": "bao:BAO_0000010",
+                    "valueDescr": "An assay where the measured signal corresponds to a complex response such as cell survival, proliferation, localization of a protein, nuclear translocation etc. The molecular target is not assumed.",
+                    "valueHier": [
+                        "http://www.bioassayontology.org/bao#BAO_0000008"
+                    ],
+                    "valueLabel": "functional",
+                    "valueURI": "http://www.bioassayontology.org/bao#BAO_0000010"
+                },
+                {
+                    "labelHier": [
+                        "ligand function mode of action",
+                        "mode of action"
+                    ],
+                    "propAbbrev": "bao:BAO_0000196",
+                    "propLabel": "assay mode of action",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0000196",
+                    "valueAbbrev": "bao:BAO_0000091",
+                    "valueDescr": "Reduction of a predefined stimulus. Unit of Measure is always % when normalized to the dynamic range of the assay.",
+                    "valueHier": [
+                        "http://www.bioassayontology.org/bao#BAO_0000084",
+                        "http://www.bioassayontology.org/bao#BAO_0000074"
+                    ],
+                    "valueLabel": "inhibition",
+                    "valueURI": "http://www.bioassayontology.org/bao#BAO_0000091"
+                },
+                {
+                    "altLabels": [
+                        "Vero"
+                    ],
+                    "labelHier": [
+                        "immortal cell line cell",
+                        "cell line cell"
+                    ],
+                    "propAbbrev": "bao:BAO_0002800",
+                    "propLabel": "assay cell line",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0002800",
+                    "valueAbbrev": "obo:CLO_0009524",
+                    "valueDescr": "",
+                    "valueHier": [
+                        "http://purl.obolibrary.org/obo/CLO_0000019",
+                        "http://purl.obolibrary.org/obo/CLO_0000001"
+                    ],
+                    "valueLabel": "Vero cell",
+                    "valueURI": "http://purl.obolibrary.org/obo/CLO_0009524"
+                },
+                {
+                    "labelHier": [
+                        "brain disease",
+                        "central nervous system disease",
+                        "nervous system disease",
+                        "disease of anatomical entity",
+                        "Disease"
+                    ],
+                    "propAbbrev": "bao:BAO_0002848",
+                    "propLabel": "applies to disease",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0002848",
+                    "valueAbbrev": "obo:DOID_9588",
+                    "valueDescr": "A brain disease that is characterized as an acute inflammation of the brain with flu-like symptoms.",
+                    "valueHier": [
+                        "http://purl.obolibrary.org/obo/DOID_936",
+                        "http://purl.obolibrary.org/obo/DOID_331",
+                        "http://purl.obolibrary.org/obo/DOID_863",
+                        "http://purl.obolibrary.org/obo/DOID_7",
+                        "http://purl.obolibrary.org/obo/DOID_4"
+                    ],
+                    "valueLabel": "encephalitis",
+                    "valueURI": "http://purl.obolibrary.org/obo/DOID_9588"
+                },
+                {
+                    "groupLabel": [
+                        "measurement"
+                    ],
+                    "groupNest": [
+                        "http://www.bioassayontology.org/bao#BAX_0000017"
+                    ],
+                    "labelHier": [
+                        "unit of molarity",
+                        "concentration unit",
+                        "unit"
+                    ],
+                    "propAbbrev": "bao:BAO_0002874",
+                    "propLabel": "units",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0002874",
+                    "valueAbbrev": "obo:UO_0000064",
+                    "valueDescr": "A unit of molarity which is equal to one millionth of a molar or 10^[-6] M.",
+                    "valueHier": [
+                        "http://purl.obolibrary.org/obo/UO_0000061",
+                        "http://purl.obolibrary.org/obo/UO_0000051",
+                        "http://purl.obolibrary.org/obo/UO_0000000"
+                    ],
+                    "valueLabel": "micromolar",
+                    "valueURI": "http://purl.obolibrary.org/obo/UO_0000064"
+                },
+                {
+                    "labelHier": [
+                        "bioassay"
+                    ],
+                    "propAbbrev": "bao:BAO_0002855",
+                    "propLabel": "bioassay",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0002855",
+                    "valueAbbrev": "bao:BAO_0003009",
+                    "valueDescr": "This assay type measures the cellular state of living or dying by measuring an indicator of life or death. Cell life indicators include ATP content, cell number, dehydrogenase activity, DNA content, esterase activity, mitochondrial membrane potential, membrane integrity, and protease activity. Cell death indicators include caspase activity, chromatin condensation, and phospholipid redistribution.",
+                    "valueHier": [
+                        "http://www.bioassayontology.org/bao#BAO_0000015"
+                    ],
+                    "valueLabel": "cell viability assay",
+                    "valueURI": "http://www.bioassayontology.org/bao#BAO_0003009"
+                },
+                {
+                    "labelHier": [
+                        "concentration response endpoint",
+                        "concentration endpoint",
+                        "endpoint"
+                    ],
+                    "propAbbrev": "bao:BAO_0000208",
+                    "propLabel": "result",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0000208",
+                    "valueAbbrev": "bao:BAO_0000190",
+                    "valueDescr": "The effective concentration of an inhibitor, which produces 50% of the maximum possible response for that inhibitor.",
+                    "valueHier": [
+                        "http://www.bioassayontology.org/bao#BAO_0002162",
+                        "http://www.bioassayontology.org/bao#BAO_0000180",
+                        "http://www.bioassayontology.org/bao#BAO_0000179"
+                    ],
+                    "valueLabel": "IC50",
+                    "valueURI": "http://www.bioassayontology.org/bao#BAO_0000190"
+                },
+                {
+                    "labelHier": [
+                        "disease by infectious agent",
+                        "Disease"
+                    ],
+                    "propAbbrev": "bao:BAO_0002848",
+                    "propLabel": "applies to disease",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0002848",
+                    "valueAbbrev": "obo:DOID_934",
+                    "valueDescr": "A disease by infectious agent that results_in infection, has_material_basis_in Viruses.",
+                    "valueHier": [
+                        "http://purl.obolibrary.org/obo/DOID_0050117",
+                        "http://purl.obolibrary.org/obo/DOID_4"
+                    ],
+                    "valueLabel": "viral infectious disease",
+                    "valueURI": "http://purl.obolibrary.org/obo/DOID_934"
+                },
+                {
+                    "labelHier": [
+                        "Luciferase-based ('Glo') Assay System (Promega)",
+                        "assay kit"
+                    ],
+                    "propAbbrev": "bao:BAO_0002663",
+                    "propLabel": "assay kit",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0002663",
+                    "valueAbbrev": "bao:BAO_0000682",
+                    "valueDescr": "",
+                    "valueHier": [
+                        "http://www.bioassayontology.org/bao#BAO_0140017",
+                        "http://www.bioassayontology.org/bao#BAO_0000248"
+                    ],
+                    "valueLabel": "CellTiter-Glo Luminescent Cell Viability Assay",
+                    "valueURI": "http://www.bioassayontology.org/bao#BAO_0000682"
+                },
+                {
+                    "labelHier": [
+                        "virus",
+                        "organism"
+                    ],
+                    "propAbbrev": "bao:BAO_0002921",
+                    "propLabel": "organism",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0002921",
+                    "valueAbbrev": "obo:NCBITaxon_11082",
+                    "valueDescr": "",
+                    "valueHier": [
+                        "http://www.bioassayontology.org/bao#BAO_0000232",
+                        "http://www.bioassayontology.org/bao#BAO_0000551"
+                    ],
+                    "valueLabel": "West Nile virus",
+                    "valueURI": "http://purl.obolibrary.org/obo/NCBITaxon_11082"
+                },
+                {
+                    "labelHier": [
+                        "assay screening campaign stage"
+                    ],
+                    "propAbbrev": "bao:BAO_0000210",
+                    "propLabel": "screening campaign stage",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0000210",
+                    "valueAbbrev": "bao:BAO_0000031",
+                    "valueDescr": "The first assay performed in a in a screening campaign. The purpose of the primary assay is to identify hits, which are potentially biologically active chemical entities. Generally in this assay, the perturbagens are tested at a single concentration with only one measurement. It is followed by a confirmatory screen, which can be run at a single concentration with multiple replicates or as concentration-response assay.",
+                    "valueHier": [
+                        "http://www.bioassayontology.org/bao#BAO_0000029"
+                    ],
+                    "valueLabel": "primary assay",
+                    "valueURI": "http://www.bioassayontology.org/bao#BAO_0000031"
+                }
+            ],
+            "annotsRemoved": [],
+            "curationTime": 1492468130452,
+            "curatorID": "admin",
+            "labelsAdded": [
+                {
+                    "propAbbrev": "bao:BAO_0000539",
+                    "propLabel": "related assays",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0000539",
+                    "valueLabel": "pubchemAID:1650"
+                },
+                {
+                    "propAbbrev": "bao:BAO_0000539",
+                    "propLabel": "related assays",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0000539",
+                    "valueLabel": "pubchemAID:2244"
+                },
+                {
+                    "propAbbrev": "bao:BAO_0000539",
+                    "propLabel": "related assays",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0000539",
+                    "valueLabel": "pubchemAID:2238"
+                },
+                {
+                    "propAbbrev": "bao:BAO_0000539",
+                    "propLabel": "related assays",
+                    "propURI": "http://www.bioassayontology.org/bao#BAO_0000539",
+                    "valueLabel": "pubchemAID:1635"
+                }
+            ],
+            "labelsRemoved": [],
+            "notesModified": {}
+        }
+    ],
+    "holdingIDList": [],
+    "notes": {},
+    "pubchemXRef": [],
+    "schemaURI": "http://www.bioassayontology.org/bas#",
+    "text": "A Cell Based Assay for the Identification of Lead Compounds with Anti-Viral Activity Against West Nile Virus\n\nWest Nile virus (WNV) is a mosquito borne infectious agent that causes febrile illness and occasionally encephalitis.  Outbreaks had been reported in Africa, Asia, and Europe since 1937.  In 1999, the first case of WNV was detected in New York City from which time the virus spread rapidly west resulting in the largest epidemics of neuroinvasive WNV disease ever reported in the US.  Currently, there is no vaccine for human use or antivirals that are available to treat WNV infections, leading to patient care which is mainly supportive. Hence this program will provide chemical probes from which to optimize leads for treatment of this emerging disease.\n \nTo screen large compound libraries, a CPE based assay was developed in 384-plate format. The assay measures cytopathic effect (CPE) induced in Vero E6 cells by WNV infection using cell viability as the end point. The screen for inhibitors of CPE caused by WNV infection involves challenging 3,000 cells with WNV virus at a multiplicity of infection (MOI) of 0.1 in the presence of the compounds to be screened. The WNV virus strain NY-99 stock was prepared from Vero E6 cells at the SRI BSL-3 facility. The assay includes both cell and virus controls and cell survival was measured 96 h post virus addition using CellTiterGlo viability reagent (Promega). Percent cell viability was calculated by using mean luminescence values of the virus-infected cells in the presence of compound divided by the uninfected cell control x 100. The percent cell viability was taken as an assessment of antiviral activity. Library compounds were screened at 10 uM. \n\nCell Culture: Vero E6 cells were cultured in Eagles modified MEM (E-MEM) with 2 mM L-glutamine, 10% FBS and 100 U of penicillin, 100 ug of streptomycin per mL (culture media). The cells are maintained at 37C, 5.0% CO2 to 100% confluence being passaged every seven days. For cell plating, cells were detached from flask bottom by using Trypsin-EDTA solution and then re-suspended in a growth media\n\nWNV culture: WNV strain NY-99 was used for screening. The WNV stock was prepared in Vero E6 cells using an initial stock obtained from Dr. Heil. Briefly, Vero E6 cells were grown in two T-150 plates to 90% confluence. After the supernatant was removed from the culture, 2ml of WNV at 10E7 pfu/ml was then added to the culture media. Virus was adsorbed to cells for 2 hours at 37C and then the fresh culture media was replaced. After four days incubation, the supernatant was harvested and the cell debris pelleted by low speed centrifugation. The cell debris was then spun down at 3,000 rpm for 10 minutes, and the supernatant was aliquoted (1ml per tube) and stored at -80C. These virus stocks were titrated in Vero E6 cells using agarose overlay plaque method and the titer was 8.3E7 pfu/ml. \n\nControl and Drug Preparation: Carrier Control consisted of DMSO diluted in assay media to 0.6% and 5 uL was dispensed to both cell and virus control wells of 384 well black clear-bottom tissue culture treated plates. Test compounds were diluted in media to 60 uM with a DMSO concentration of 0.6%. 5 uL was also dispensed to the assay plate. The final DMSO concentration in the assay was 0.1% for the single dose screen and 0.5% for the dose response screen.\n\nCell Plating: Once controls and compounds had been dispensed to the assay plates, 3,000 cells/well were plated in 15 uL using a Matrix WellMate. Plates were incubated overnight at 37C, 5.0% CO2 and high humidity. Then the plates were transferred to a BSL-3 containment laboratory. \n\nVirus Addition: WNV stock was diluted in the culture media to 60,000 pfu/ml and 10 uL was added to the compound wells and the virus control wells (viral MOI of 0.1 ~ 0.2). Media only (mock virus) was added to the cell control wells. All additions were done using a Matrix WellMate housed in a class II Biosafety Cabinet within the BSL-3 laboratory. The plates were incubated in an actively humidified incubator with 5.0% CO2 at 37C for 96 h. \n\nEndpoint Read: The assay plates were equilibrated to room temperature for 30 minutes and then an equal volume of CellTiter-Glo reagent (Promega Inc.) was added to each well. Plates were incubated for 10 min at room temperature and luminescence was measured using a Perkin Elmer Envision multi-label reader with an integration time of 0.1 s. This step was also performed within the BSL-3 facility. \n\nCompounds Screened: A single dose screen of the current full set of compounds from the MLSMR was performed at a concentration of 10 uM.  Compounds in the single dose assay were evaluated on the basis of % inhibition of the virus compared to cell only control.  The 601 most potent compounds were resupplied for a dose-response confirmatory assay.  These compounds were tested in triplicate in a ten point stacked-plate dose response in concentrations diluted 1:2 beginning at 20 uM and ending at 0.039 uM.  \n\nData Analysis: Thirty two control wells containing cells only  (Cell control) ,  twenty four wells containing cells and virus (Virus control) were included on each assay plate and used to calculate Z' value for each plate and to normalize the data on a per plate basis. And also eight wells containing cells, virus and control drug, Mycophenolic Acid at 5 uM were included on each assay plate. The average Z factor for the single dose campaign was 0.81. The percent inhibition of virus induced cytopathic effect (CPE) was calculated as: 100*(Cmpd Lum - Median Virus Ctrl)/(Median Cell Ctrl - Med Virus Ctrl). \"Hits\" in the single dose screen are those that show inhibition >= 3.42, defined as 3*standard deviation (1.419) above the mean (-0.008) of the % inhibition of the compounds in the full library screen.",
+    "uniqueID": "pubchemAID:1621"
+}

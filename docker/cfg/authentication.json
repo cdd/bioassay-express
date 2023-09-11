@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Trusted",
+		"prefix": "trusted:",
+		"type": "Trusted",
+		"status": "admin"
+	},
+	{
+		"name": "Basic",
+		"prefix": "basic:",
+		"type": "Basic",
+		"smtpHost": "localhost",
+		"smtpPort": 2525
+	}
+]

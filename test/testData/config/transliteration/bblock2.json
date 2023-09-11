@@ -1,0 +1,17 @@
+[
+	{
+		"terms": 
+		[
+			[
+				"bao:BAO_0002854"
+			],
+			[
+				"bao:BAO_0002855"
+			]
+		],
+		"sep": "/",
+		"style": "bold",
+		"empty": "?",
+		"article": "indefinite"
+	}
+]

@@ -1,0 +1,90 @@
+[
+	{
+		"_id": ObjectId("5d31c8d281cb7547aa8b7816"),
+		"holdingID": NumberLong(1),
+		"assayID": NumberLong(2),
+		"submissionTime": NumberLong(1563543762724),
+		"curatorID": "fnord",
+		"uniqueID": null,
+		"schemaURI": null,
+		"deleteFlag": false,
+		"text": null,
+		"annotsAdded": [],
+		"labelsAdded": [],
+		"annotsRemoved": [
+			[
+				"http://www.bioassayontology.org/bao#BAO_0002921",
+				"http://purl.obolibrary.org/obo/NCBITaxon_10090"
+			]
+		],
+		"labelsRemoved": []
+	},
+	{
+		"_id": ObjectId("5d31c8e481cb7547aa8b7817"),
+		"holdingID": NumberLong(2),
+		"assayID": NumberLong(2),
+		"submissionTime": NumberLong(1563543780418),
+		"curatorID": "fnord",
+		"uniqueID": null,
+		"schemaURI": null,
+		"deleteFlag": false,
+		"text": null,
+		"annotsAdded": [
+			[
+				"http://www.bioassayontology.org/bao#BAO_0002921",
+				"http://purl.obolibrary.org/obo/NCBITaxon_10116"
+			]
+		],
+		"labelsAdded": [],
+		"annotsRemoved": [],
+		"labelsRemoved": []
+	},
+	{
+		"_id": ObjectId("5d51f1a3bac9573c1107c764"),
+		"holdingID": NumberLong(3),
+		"assayID": NumberLong(0),
+		"submissionTime": NumberLong(1565651363359),
+		"curatorID": "dronf",
+		"uniqueID": null,
+		"schemaURI": null,
+		"deleteFlag": false,
+		"text": "Text in holding bay",
+		"annotsAdded": [
+			[
+				"http://www.bioassayontology.org/bao#BAO_0002663",
+				"http://www.bioassayontology.org/bao#BAO_0000690"
+			],
+			[
+				"http://www.bioassayontology.org/bao#BAO_0000207",
+				"http://www.bioassayontology.org/bao#BAO_0000050"
+			],
+			[
+				"http://www.bioassayontology.org/bao#BAO_0000207",
+				"http://www.bioassayontology.org/bao#BAO_0000461"
+			]
+		],
+		"labelsAdded": [
+			[
+				"http://www.bioassayontology.org/bao#BAO_0002853",
+				"Assay title in holding bay"
+			]
+		],
+		"annotsRemoved": [],
+		"labelsRemoved": []
+	},
+	{
+		"_id": ObjectId("5db1f6cb81effc62127f09f8"),
+		"holdingID": NumberLong(16),
+		"assayID": NumberLong(102),
+		"submissionTime": NumberLong(1571944139408),
+		"curatorID": "trusted:anyone",
+		"uniqueID": null,
+		"schemaURI": null,
+		"deleteFlag": true,
+		"text": null,
+		"annotsAdded": [],
+		"labelsAdded": [],
+		"annotsRemoved": [],
+		"labelsRemoved": []
+	}
+]

@@ -1,0 +1,3 @@
+#!/bin/tcsh
+set ROOT = `dirname $0`
+java -cp $ROOT/checkstyle-8.25-patch.jar:$ROOT/checkstyle-8.25-all.jar com.puppycrawl.tools.checkstyle.Main -c $ROOT/bae_checks.xml $*

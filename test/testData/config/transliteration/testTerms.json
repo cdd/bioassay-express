@@ -1,0 +1,37 @@
+[
+	{
+		"schemaURI": 
+		[
+			"http://www.bioassayontology.org/bas#"
+		],
+		"boilerplate": 
+		[
+			"Text",
+			{
+				"terms": 
+				[
+					"bao:BAO_0002854"
+				],
+				"sep": "/",
+				"style": "bold",
+				"empty": "?",
+				"article": "indefinite"
+			},
+			{
+				"terms": 
+				[
+					[
+						"bao:BAO_0002854"
+					],
+					[
+						"bao:BAO_0002855"
+					]
+				],
+				"sep": "/",
+				"style": "bold",
+				"empty": "?",
+				"article": "indefinite"
+			}
+		]
+	}
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "name": "UCSF Assay ID",
+        "shortName": "UCSF",
+        "prefix": "ucsfAID:",
+        "baseURL": ""
+    },
+    {
+        "name": "PubChem Assay ID",
+        "shortName": "AID",
+        "prefix": "pubchemAID:",
+        "baseURL": "https://pubchem.ncbi.nlm.nih.gov/bioassay/",
+        "summary": [null, "http://www.bioassayontology.org/bao#BAO_0002853"]
+    },
+    {
+        "name": "Astra Zeneca ID",
+        "shortName": "AZ",
+        "prefix": "azID:",
+        "baseURL": ""
+    }
+]

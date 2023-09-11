@@ -1,0 +1,44 @@
+{
+  "name": "bioassay-express",
+  "version": "1.0.0",
+  "description": "The _BioAssay Express_ (BAE) project allows bioassay protocols to be conveniently annotated using semantic web terminology, from a variety of ontologies (e.g. BAO, DTO, CLO, GO, etc). It provides a web-based interface that makes selection of terms straightforward, and leverages natural language models to try and propose the most likely options. Also provides hosting of data from PubChem assays, and features for searching the assays.",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "tstest"
+  },
+  "scripts": {
+    "test": "mocha -r ts-node/register --watch --recursive --watch-extensions ts --project ts/tsconfig.json tstest/**/*.test.ts",
+    "coverage": "nyc -r lcov -e .ts -x \"*.test.ts\" npm run test",
+    "eslint": "eslint ts/**/*.ts --ignore-pattern '*.d.ts' --quiet",
+    "eslinttest": "eslint -c ts/.eslintrc.js --ignore-pattern tstest/decl --quiet tstest/**/*.ts",
+    "tslint": "tslint -p ts/tsconfig.json",
+    "tslinttest": "tslint -p tstest/tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdd/bioassay-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdd/bioassay-express/issues"
+  },
+  "homepage": "https://github.com/cdd/bioassay-express#readme",
+  "devDependencies": {
+    "@types/chai": "^4.2.4",
+    "@types/jquery": "^3.3.31",
+    "@types/mocha": "^5.2.7",
+    "@types/node": "^12.12.3",
+    "@typescript-eslint/eslint-plugin": "^4.7",
+    "@typescript-eslint/parser": "^4.7",
+    "chai": "^4.2.0",
+    "eslint": "^7.0",
+    "jquery": "^3.4.1",
+    "mocha": "^6.2.2",
+    "nyc": "^14.1.1",
+    "ts-node": "^8.4.1",
+    "tslint": "^5.0",
+    "typescript": "^4.2.4"
+  }
+}

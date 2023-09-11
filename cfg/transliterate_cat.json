@@ -1,0 +1,536 @@
+[
+	{
+		"schemaURI": ["http://www.bioassayontology.org/bas#"],
+		"boilerplate":
+		[
+			"<p>",
+			"Auto Annotation to Text for PubChem Assay ",
+			{"field": "uniqueID"},
+			"</p>",
+
+			"<p>",
+			"This is ",
+			{
+				"ifany": "bao:BAO_0000210",
+				"then": {"term": "bao:BAO_0000210", "article": "indefinite", "style": "italic"},
+				"else": "an <i>unknown stage assay</i>"
+			},
+			" to identify potential treatments for ",
+			{"term": "bao:BAO_0002848", "style": "bold", "empty": "an unknown disease"},
+			", by investigating the biological process of ",
+			{"term": "bao:BAO_0002009", "style": "bold", "empty": "unknown"},
+			", specifically targeting ",
+			{"term": "bao:BAO_0000211", "style": "bold", "empty": "unknown target"},
+			" from ",
+			{"term": "bao:BAO_0002921", "style": "bold", "empty": "unknown organism"},
+			".</p>",
+
+			"<p>",
+
+			"This is a ",
+			{"terms": [["bao:BAO_0002854"], ["bao:BAO_0002855"]], "sep": "/", "style": "bold", "empty": "?"},
+			" in ",
+			{"term": "bao:BAO_0000205", "style": "italic", "article": "indefinite"},
+			", using ",
+			{"term": "bao:BAO_0095009", "style": "italic", "article": "indefinite"},
+
+			{
+				"ifany": "bao:BAO_0002663",
+				"then":
+				{
+					"ifbranch": ["bat:Absence", "bao:BAO_0002663"],
+					"else":
+					[
+						", with the assay kit ",
+						{"term": "bao:BAO_0002663", "style": "italic"}
+					]
+				},
+				"else": ", without an assay kit"
+			},
+
+			". ",
+			{
+				"ifany": "bao:BAO_0002800",
+				"then":
+				[
+					"The cell line ",
+					{"term": "bao:BAO_0002800", "style": "italic"},
+					" was used. "
+				]
+			},
+			"It was conducted in ",
+			{"term": "bao:BAO_0002867", "style": "italic", "plural": true},
+			", with ",
+			{
+				"ifany": "bao:BAO_0000207",
+				"then":
+				[
+					"the detection method of ",
+					{"term": "bao:BAO_0000207", "style": "italic"}
+				],
+				"else": "an unknown physical detection method"
+			},
+			", using ",
+			{
+				"ifany": "bao:BAO_0002865",
+				"then":
+				[
+					{"term": "bao:BAO_0002865", "style": "italic", "article": "indefinite"}
+				],
+				"else": "an unknown detection instrument"
+			},
+			". Results are reported as ",
+			{"term": "bao:BAO_0000208", "style": "italic", "empty": "unknown"},
+			", in units of ",
+			{"term": "bao:BAO_0002874", "style": "italic", "empty": "unknown"},
+			".",
+			"  This assay tested the mode of action of ",
+			{"term": "bao:BAO_0000196", "style": "italic", "empty": "unknown"},
+			" by ",
+			{"term": "bao:BAO_0000185", "style": "italic", "empty": "unknown"},
+			" perturbagens.",
+			"</p>"
+		]
+	},
+
+	// previews: these are short descriptions that are used in search results
+	{
+		"schemaURI": ["http://www.bioassayontology.org/bas#"],
+		"preview": "Develop",
+		"boilerplate":
+		[
+			{"term": "bao:BAO_0000210", "style": "tinted", "capitalize": true, "empty": "Unknown stage"},
+			{
+				"ifany": "bao:BAO_0000196",
+				"then":
+				[
+					" for ",
+					{"term": "bao:BAO_0000196", "style": "tinted"}
+				]
+			},
+			{
+				"ifbranch": ["bat:Absence", "bao:BAO_0000211"],
+				"else":
+				[{
+					"ifany": "bao:BAO_0000211",
+					"then":
+					[
+						" of the target ",
+						{"term": "bao:BAO_0000211", "style": "tinted", "empty": "unknown"}
+					],
+					"else": [" of an unknown target"]
+				}]
+			},
+			{
+				"ifany": "bao:BAO_0002855",
+				"then":
+				[
+					" using ",
+					{"term": "bao:BAO_0002855", "style": "tinted", "article": "indefinite"}
+				]
+			},
+			{
+				"ifany": "bao:BAO_0000205",
+				"then":
+				[
+					", in ",
+					{"term": "bao:BAO_0000205", "style": "tinted", "article": "indefinite"}
+				]
+			},
+			{
+				"ifany": "bao:BAO_0095009",
+				"then":
+				[
+					", with ",
+					{"term": "bao:BAO_0095009", "style": "tinted", "article": "indefinite"}
+				]
+			},
+			{
+				"ifany": "bao:BAO_0000207",
+				"then":
+				[
+					" and ",
+					{"term": "bao:BAO_0000207", "style": "tinted"},
+					{
+						"ifany": "bao:BAO_0000208",
+						"then":
+						[
+							"-based detection to determine ",
+							{"term": "bao:BAO_0000208", "style": "tinted"}
+						]
+					}
+				]
+			},
+			"."
+		]
+	},
+	{
+		"schemaURI": ["http://www.bioassayontology.org/bas#"],
+		"preview": "Disease",
+		"boilerplate":
+		[
+			{"term": "bao:BAO_0000210", "style": "tinted", "capitalize": true, "empty": "Unknown stage"},
+			{
+				"ifany": "bao:BAO_0000196",
+				"then":
+				[
+					" for ",
+					{"term": "bao:BAO_0000196", "style": "tinted"}
+				]
+			},
+			{
+				"ifbranch": ["bat:Absence", "bao:BAO_0000211"],
+				"else":
+				[{
+					"ifany": "bao:BAO_0000211",
+					"then":
+					[
+						" of the target ",
+						{"term": "bao:BAO_0000211", "style": "tinted", "empty": "unknown"}
+					],
+					"else": [" of an unknown target"]
+				}]
+			},
+			" to identify potential treatments for ",
+			{
+				"ifany": "bao:BAO_0002848",
+				"then":
+				[
+					" the disease ",
+					{"term": "bao:BAO_0002848", "style": "tinted"}
+				],
+				"else": ["an unknown disease"]
+			},
+			{
+				"ifbranch": ["bat:Absence", "bao:BAO_0000211"],
+				"else":
+				[
+					", by investigating ",
+					{
+						"ifany": "bao:BAO_0002009",
+						"then":
+						[
+							" the biological process of ",
+							{"term": "bao:BAO_0002009", "style": "tinted"}
+						],
+						"else": ["an unknown biological process"]
+					}
+				]
+			},
+			{
+				"ifany": "bao:BAO_0002855",
+				"then":
+				[
+					" using ",
+					{"term": "bao:BAO_0002855", "style": "tinted", "article": "indefinite"}
+				]
+			},
+			{
+				"ifany": "bao:BAO_0000205",
+				"then":
+				[
+					" in ",
+					{"term": "bao:BAO_0000205", "style": "tinted", "article": "indefinite"}
+				]
+			},
+			{
+				"ifany": "bao:BAO_0095009",
+				"then":
+				[
+					" with ",
+					{"term": "bao:BAO_0095009", "style": "tinted", "article": "indefinite"}
+				]
+			},
+			{
+				"ifany": "bao:BAO_0000690",
+				"then":
+				[
+					" assay kit ",
+					{"term": "bao:BAO_0000690", "style": "tinted"}
+				]
+			},			
+			{
+				"ifany": "bao:BAO_0000516",
+				"then":
+				[
+					" assay footprint ",
+					{"term": "bao:BAO_0000516", "style": "tinted"}
+				]
+			},			
+			{
+				"ifany": "bao:BAO_0000207",
+				"then":
+				[
+					" and ",
+					{"term": "bao:BAO_0000207", "style": "tinted"},
+					{
+						"ifany": "bao:BAO_0000208",
+						"then":
+						[
+							"-based detection to determine ",
+							{"term": "bao:BAO_0000208", "style": "tinted"}
+						]
+					}
+				]
+			},
+			"."
+		]
+	},
+	{
+		"schemaURI": ["http://www.bioassayontology.org/bas#"],
+		"preview": "Models",
+		"boilerplate":
+		[
+			{"term": "bao:BAO_0000210", "style": "tinted", "capitalize": true, "empty": "Unknown stage"},
+			{
+				"ifany": "bao:BAO_0000196",
+				"then":
+				[
+					" for ",
+					{"term": "bao:BAO_0000196", "style": "tinted"}
+				]
+			},
+			{
+				"ifbranch": ["bat:Absence", "bao:BAO_0000211"],
+				"else":
+				[{
+					"ifany": "bao:BAO_0000211",
+					"then":
+					[
+						" of the target ",
+						{"term": "bao:BAO_0000211", "style": "tinted", "empty": "unknown"}
+					],
+					"else": [" of an unknown target"]
+				}]
+			},
+			{
+				"ifany": "bao:BAO_0002855",
+				"then":
+				[
+					" using ",
+					{"term": "bao:BAO_0002855", "style": "tinted", "article": "indefinite"}
+				]
+			},
+			{
+				"ifany": "bao:BAO_0000205",
+				"then":
+				[
+					", in ",
+					{"term": "bao:BAO_0000205", "style": "tinted", "article": "indefinite"}
+				]
+			},
+			{
+				"ifany": "bao:BAO_0095009",
+				"then":
+				[
+					" with ",
+					{"term": "bao:BAO_0095009", "style": "tinted", "article": "indefinite"}
+				]
+			},
+			{
+				"ifany": "bao:BAO_0000207",
+				"then":
+				[
+					" and ",
+					{"term": "bao:BAO_0000207", "style": "tinted"},
+					{
+						"ifany": "bao:BAO_0000208",
+						"then":
+						[
+							"-based detection to determine ",
+							{"term": "bao:BAO_0000208", "style": "tinted"}
+						]
+					}
+				]
+			},
+			{
+				"ifany": "bao:BAO_0002857",
+				"then":
+				[
+					" with ",
+					{"term": "bao:BAO_0002857", "style": "tinted"}
+				]
+			},
+			" as units of ",
+			{"term": "bao:BAO_0002874", "style": "tinted", "empty": "unknown"},
+			", threshold ",
+			{
+				"ifany": "bao:BAX_0000016",
+				"then":
+				[
+					{"term": "bao:BAX_0000016", "style": "tinted", "empty": "unknown"},
+					" "
+				]
+			},
+			{"term": "bao:BAO_0002916", "style": "tinted", "empty": "unknown"},
+			"."			
+		]
+	},
+
+	// form blocks: these are used to summarize specific parts of the template, referenced by data entry forms
+	{
+		"schemaURI": ["http://www.bioassayontology.org/bas#"],
+		"block": "target",
+		"boilerplate":
+		[
+			"<p>",
+			"This assay identifies potential treatments for ",
+			{"term": "bao:BAO_0002848", "style": "bold", "empty": "an unknown disease"},
+			", by investigating the biological process of ",			
+			{"term": "bao:BAO_0002009", "style": "bold", "empty": "unknown"},
+			", specifically targeting ",
+			{"term": "bao:BAO_0000211", "style": "bold", "empty": "unknown target"},
+			" from ",
+			{"term": "bao:BAO_0002921", "style": "bold", "empty": "unknown organism"},
+			".</p>",
+
+			"<p>",
+			"This is ",
+			{"terms": ["bao:BAO_0002854"], "sep": "/", "style": "bold", "empty": "?", "article": "indefinite"},
+			" assay.",
+
+			" The mode of action is ",
+			{"term": "bao:BAO_0000196", "style": "bold", "empty": "unknown"},
+			".",
+
+			"</p>",
+
+			"<p style=\"margin-bottom: 0;\">",
+			{
+				"ifany": "bao:BAX_0000012",
+				"then":
+				[
+					" Protein identity: ",
+					{"term": "bao:BAX_0000012", "style": "italic"},
+					"."
+				]
+			},
+			{
+				"ifany": "bao:BAX_0000011",
+				"then":
+				[
+					" Gene identity: ",
+					{"term": "bao:BAX_0000011", "style": "italic"},
+					"."
+				]
+			},
+			{
+				"ifany": "bao:BAO_0003107",
+				"then":
+				[
+					" Applicable GO terms: ",
+					{"term": "bao:BAO_0003107", "style": "italic"},
+					"."
+				]
+			},
+			"</p>"
+		]
+	},
+	{
+		"schemaURI": ["http://www.bioassayontology.org/bas#"],
+		"block": "method",
+		"boilerplate":
+		[
+			"<p style=\"margin-bottom: 0;\">",
+			"This is a ",
+			{"terms": [["bao:BAO_0002854"], ["bao:BAO_0002855"]], "sep": "/", "style": "bold", "empty": "?"},
+			" in ",
+			{"term": "bao:BAO_0000205", "style": "bold", "article": "indefinite"},
+			", using ",
+			{"term": "bao:BAO_0095009", "style": "bold", "article": "indefinite"},
+			{
+				"ifany": "bao:BAO_0095010",
+				"then":
+				[
+					", supporting method ",
+					{"term": "bao:BAO_0095010", "style": "bold"}
+				]
+			},
+
+			{
+				"ifany": "bao:BAO_0002663",
+				"then":
+				{
+					"ifbranch": ["bat:Absence", "bao:BAO_0002663"],
+					"else":
+					[
+						", with the assay kit ",
+						{"term": "bao:BAO_0002663", "style": "bold"}
+					]
+				},
+				"else": ", without an assay kit"
+			},
+
+			". It was conducted in ",
+			{"term": "bao:BAO_0002867", "style": "bold", "plural": true},
+			", with ",
+			{
+				"ifany": "bao:BAO_0000207",
+				"then":
+				[
+					"the detection method of ",
+					{"term": "bao:BAO_0000207", "style": "bold"}
+				],
+				"else": "an unknown physical detection method"
+			},
+			", using ",
+			{
+				"ifany": "bao:BAO_0002865",
+				"then":
+				[
+					{"term": "bao:BAO_0002865", "style": "bold", "article": "indefinite"}
+				],
+				"else": "an unknown detection instrument"
+			},
+			".",
+			{
+				"ifany": "bao:BAO_0002800",
+				"then":
+				[
+					" The cell line ",
+					{"term": "bao:BAO_0002800", "style": "bold"},
+					" was used. "
+				]
+			},
+			
+			"</p>"
+		]
+	},
+	{
+		"schemaURI": ["http://www.bioassayontology.org/bas#"],
+		"block": "results",
+		"boilerplate":
+		[
+			"<p style=\"margin-bottom: 0;\">",
+			"This is ",
+			{
+				"ifany": "bao:BAO_0000210",
+				"then": {"term": "bao:BAO_0000210", "article": "indefinite", "style": "bold"},
+				"else": "an <i>unknown stage assay</i>"
+			},
+			{
+				"ifany": "bao:BAO_0000185",
+				"then":
+				[
+					" applied to ",
+					{"term": "bao:BAO_0000185", "style": "bold", "empty": "unknown"}
+				]
+			},
+
+			". Results are reported as ",
+			{"term": ["bao:BAO_0002874", "bao:BAX_0000017"], "style": "bold", "empty": "unknown"},
+			", in units of ",
+			{"term": "bao:BAO_0002874", "style": "bold", "empty": "unknown"},
+			".",
+
+			" Actives are defined by ",
+			{"term": ["bao:BAX_0000015", "bao:BAX_0000017"], "style": "bold", "empty": "unknown field"},
+			" ",
+			{"term": ["bao:BAX_0000016", "bao:BAX_0000017"], "style": "bold", "empty": "\u2248"},
+			" ",
+			{"term": ["bao:BAO_0002916", "bao:BAX_0000017"], "style": "normal", "empty": "unspecified value"},
+			".",
+			"</p>"
+		]
+	}	
+]

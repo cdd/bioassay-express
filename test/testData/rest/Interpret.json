@@ -1,0 +1,84 @@
+{
+  "schemaURI": "http://www.bioassayontology.org/somethingelse#",
+  "text": "Foo\nIn the ning nang nong\nWhere the cows go bong\nAnd the monkeys all say boo",
+  "uniqueID": "pubchemAID:456",
+  "annotations": [
+    {
+      "propURI": "http://www.bioassayontology.org/bao#BAO_0002854",
+      "propLabel": "bioassay type",
+      "propAbbrev": "bao:BAO_0002854",
+      "valueURI": "http://www.bioassayontology.org/bao#BAO_0000010",
+      "valueLabel": "functional",
+      "valueAbbrev": "bao:BAO_0000010",
+      "valueDescr": "An assay where the measured signal corresponds to a complex response such as cell survival, proliferation, localization of a protein, nuclear translocation etc. The molecular target is not assumed.",
+      "groupNest": [],
+      "groupLabel": [],
+      "valueHier": [
+        "http://www.bioassayontology.org/bao#BAO_0000008"
+      ],
+      "labelHier": [
+        "bioassay type"
+      ]
+    },
+    {
+      "propURI": "http://www.bioassayontology.org/bao#BAO_0000210",
+      "propLabel": "screening campaign stage",
+      "propAbbrev": "bao:BAO_0000210",
+      "valueURI": "http://www.bioassayontology.org/bao#BAO_0000623",
+      "valueLabel": "compound toxicity assay",
+      "valueAbbrev": "bao:BAO_0000623",
+      "valueDescr": "This assay is performed to identify compounds that have an ability to kill the cells (cytotoxic).",
+      "groupNest": [],
+      "groupLabel": [],
+      "valueHier": [
+        "http://www.bioassayontology.org/bao#BAO_0000803",
+        "http://www.bioassayontology.org/bao#BAO_0000032",
+        "http://www.bioassayontology.org/bao#BAO_0000029"
+      ],
+      "labelHier": [
+        "counter screening assay",
+        "secondary assay",
+        "assay screening campaign stage"
+      ]
+    },
+    {
+      "propURI": "http://www.bioassayontology.org/bao#BAO_0000205",
+      "propLabel": "assay format",
+      "propAbbrev": "bao:BAO_0000205",
+      "valueURI": "http://www.bioassayontology.org/bao#BAO_0000219",
+      "valueLabel": "cell based format",
+      "valueAbbrev": "bao:BAO_0000219",
+      "valueDescr": "Involves the use of living cells of eukaryotic origin and is a heterogeneous assay type.",
+      "groupNest": [],
+      "groupLabel": [],
+      "valueHier": [
+        "http://www.bioassayontology.org/bao#BAO_0000019"
+      ],
+      "labelHier": [
+        "assay format"
+      ]
+    },
+    {
+      "propURI": "http://www.bioassayontology.org/bao#BAO_0002852",
+      "propLabel": "assay sources",
+      "propAbbrev": "bao:BAO_0002852",
+      "valueURI": "http://www.bioassayexpress.org/sources#SRC_0000027",
+      "valueLabel": "Tox21",
+      "valueAbbrev": "src:SRC_0000027",
+      "valueDescr": "Tox21 (NCATS).",
+      "groupNest": [],
+      "groupLabel": [],
+      "externalURLs": [
+        "http://www.ncats.nih.gov/tox21"
+      ],
+      "valueHier": [
+        "http://www.bioassayexpress.org/sources#pubchem_sources",
+        "http://www.bioassayontology.org/bao#BAO_0002934"
+      ],
+      "labelHier": [
+        "PubChem Sources",
+        "organization"
+      ]
+    }
+  ]
+}

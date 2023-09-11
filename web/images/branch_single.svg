@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20"
+   height="20"
+   viewBox="0 0 5.2916665 5.2916668"
+   version="1.1"
+   id="svg825"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="branch_single.svg">
+  <defs
+     id="defs819" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16.05"
+     inkscape:cx="6.2551978"
+     inkscape:cy="10"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1396"
+     inkscape:window-height="855"
+     inkscape:window-x="44"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1373" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata822">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-291.70832)">
+    <path
+       style="opacity:0.86000001;fill:#e6edf2;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 3.7792969 0 C 1.6854386 0 0 1.6854386 0 3.7792969 L 0 16.220703 C 2.9605947e-16 18.314561 1.6854386 20 3.7792969 20 L 16.220703 20 C 18.314561 20 20 18.314561 20 16.220703 L 20 3.7792969 C 20 1.6854386 18.314561 0 16.220703 0 L 3.7792969 0 z M 5.7792969 2 L 14.220703 2 C 16.314561 2 18 3.6854386 18 5.7792969 L 18 14.220703 C 18 16.314561 16.314561 18 14.220703 18 L 5.7792969 18 C 3.6854385 18 2 16.314561 2 14.220703 L 2 5.7792969 C 2 3.6854386 3.6854385 2 5.7792969 2 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,291.70832)"
+       id="rect1375" />
+  </g>
+</svg>

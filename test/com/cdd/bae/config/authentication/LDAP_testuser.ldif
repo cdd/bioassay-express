@@ -1,0 +1,14 @@
+version: 1
+
+dn: uid=testuser,ou=user,ou=system
+objectClass: organizationalPerson
+objectClass: person
+objectClass: inetOrgPerson
+objectClass: top
+cn: Test User
+sn: User
+mail: test.user@collaborativedrug.com
+uid: testuser
+userPassword: {PKCS5S2}IPpGrS4/B18EZ2iOSSfjQ8t7yPT3ziDHogPnfL0Gsn0ONkyQdjFZh
+ kDoMEm6w3P8
+

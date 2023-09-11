@@ -1,0 +1,534 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"description": "Configuration file for BioAssay Express (BAE)",
+	"definitions":
+	{
+		"filename":
+		{
+			"description": "Relative or absolute filename",
+			"type": "string",
+			"validate": "file",
+			"pattern": "(\\.*\\/*\\w\\S*)*\\w"
+		},
+		"directory":
+		{
+			"description": "Relative or absolute directory name",
+			"type": "string",
+			"pattern": "(\\.*\\/*\\w\\S*)*\\w"
+		},
+		"files":
+		{
+			"description": "List of template files in 'directory'",
+			"type": "array",
+			"minItems": 1,
+			"uniqueItems": true,
+			"items":
+			{
+				"type": "string",
+				"pattern": "\\w[\\w\\-\\.]*\\w"
+			}
+		}
+	},
+	"type": "object",
+	"properties":
+	{
+		"baseURL":
+		{
+			"description": "Base URL used for the server, e.g. http://localhost:8080/bae",
+			"type": "string",
+			"format": "url"
+		},
+		"production":
+		{
+			"description": "Set to true for server in production",
+			"type": "boolean",
+			"default": false
+		},
+		"verboseDebug":
+		{
+			"description": "Set to true to activate verbose debug output",
+			"type": "boolean",
+			"default": false
+		},
+		"database":
+		{
+			"description": "Database configuration",
+			"type": "object",
+			"properties":
+			{
+				"host":
+				{
+					"type": "string",
+					"format": "hostname"
+				},
+				"port":
+				{
+					"type": "integer",
+					"default": 0
+				},
+				"name":
+				{
+					"type": "string"
+				},
+				"user":
+				{
+					"description": "User with read/write access to database",
+					"type": "string"
+				},
+				"password":
+				{
+					"description": "Password for user",
+					"type": "string"
+				}
+			}
+		},
+		"authentication":
+		{
+			"description": "Authentication information (relative or absolute filepath)",
+			"type": "object",
+			"properties":
+			{
+				"filename":
+				{
+					"$ref": "#/definitions/filename"
+				}
+			}
+		},
+		"identifier":
+		{
+			"description": "Identifier information",
+			"type": "object",
+			"properties":
+			{
+				"filename":
+				{
+					"$ref": "#/definitions/filename"
+				}
+			}
+		},
+		"schema":
+		{
+			"description": "Assay schema",
+			"type": "object",
+			"properties":
+			{
+				"filename":
+				{
+					"$ref": "#/definitions/filename"
+				},
+				"updateURL":
+				{
+					"description": "Source to look for update schema file",
+					"type": "string",
+					"format": "url"
+				}
+			}
+		},
+		"templates":
+		{
+			"description": "Templates",
+			"type": "object",
+			"properties":
+			{
+				"directory":
+				{
+					"$ref": "#/definitions/directory"
+				},
+				"files":
+				{
+					"$ref": "#/definitions/files"
+				},
+				"updateURLs":
+				{
+					"description": "List of sources to update each template",
+					"type": "array",
+					"minItems": 0,
+					"uniqueItems": true,
+					"items":
+					{
+						"type": "string",
+						"format": "url"
+					}
+				}
+			}
+		},
+		"nlp":
+		{
+			"description": "Natural Language Processing",
+			"type": "object",
+			"properties":
+			{
+				"directory":
+				{
+					"$ref": "#/definitions/directory"
+				}
+			}
+		},
+		"curation":
+		{
+			"description": "Curation",
+			"type": "object",
+			"properties":
+			{
+				"directory":
+				{
+					"$ref": "#/definitions/directory"
+				}
+			}
+		},
+		"customWeb":
+		{
+			"description": "Custom",
+			"type": "object",
+			"properties":
+			{
+				"directory":
+				{
+					"$ref": "#/definitions/directory"
+				}
+			}
+		},
+		"absence":
+		{
+			"description": "List of available absence terms (use short form)",
+			"type": "array",
+			"items":
+			{
+				"type": "string",
+				"enum": ["bat:Absence", "bat:NotApplicable", "bat:NotDetermined", "bat:Unknown", "bat:Ambiguous", "bat:Missing", "bat:Dubious", "bat:RequiresTerm", "bat:NeedsChecking"]
+			}
+		},
+		"provisional":
+		{
+			"description": "Provisional extensions",
+			"type": "object",
+			"required": ["baseURI"],
+			"properties":
+			{
+				"baseURI":
+				{
+					"description": "URI where schema extensions can be found",
+					"type": "string",
+					"format": "uri"
+				},
+				"abbreviation":
+				{
+					"description": "Custom URI abbreviations",
+					"type": "string",
+					"default": "user:"
+				},
+				"directory":
+				{
+					"$ref": "#/definitions/directory"
+				}
+			}
+		},
+		"prefixes":
+		{
+			"description": "Custom prefixes for terms",
+			"type": "array",
+			"uniqueItems": true,
+			"items":
+			{
+				"type": "object",
+				"required": ["baseURI", "abbreviation"],
+				"properties":
+				{
+					"baseURI":
+					{
+						"description": "URI where schema extensions can be found",
+						"type": "string",
+						"format": "uri"
+					},
+					"abbreviation":
+					{
+						"description": "Custom URI abbreviations, e.g. cdd:",
+						"type": "string",
+						"pattern": "\\S+:"
+					}
+				}
+			}
+		},
+		"ontolobridge":
+		{
+			"description": "List of active ontolobridge services",
+			"type": "array",
+			"minItems": 1,
+			"uniqueItems": true,
+			"items":
+			{
+				"type": "object",
+				"properties":
+				{
+					"name":
+					{
+						"type": "string"
+					},
+					"description":
+					{
+						"type": "string"
+					},
+					"baseURL":
+					{
+						"type": "string"
+					}
+				}
+			}
+		},
+		"modules":
+		{
+			"description": "Additional modules",
+			"type": "object",
+			"properties":
+			{
+				"pubchem":
+				{
+					"description": "PubChem interface",
+					"type": "object",
+					"properties":
+					{
+						"assays":
+						{
+							"description": "Flag controls loading of assays",
+							"type": "boolean"
+						},
+						"compounds":
+						{
+							"description": "Flag controls loading of compounds",
+							"type": "boolean"
+						},
+						"directory":
+						{
+							"description": "Directory name to store assays",
+							"type": "string",
+							"pattern": "(\\/*\\w\\S*)+"
+						}
+					}
+				},
+				"vault":
+				{
+					"description": "CDD-Vault interface",
+					"type": "object",
+					"properties":
+					{
+						"apiKey":
+						{
+							"description": "Secret key",
+							"type": "string",
+							"pattern": "\\S+"
+						},
+						"vaultIDList":
+						{
+							"description": "???",
+							"type": "array",
+							"minItems": 1,
+							"uniqueItems": true,
+							"items":
+							{
+								"type": "number"
+							}
+						},
+						"propertyMap":
+						{
+							"description": "???",
+							"type": "object",
+							"properties":
+							{
+							},
+							"additionalProperties":
+							{
+								"type": "string"
+							}
+						},
+						"unitsMap":
+						{
+							"description": "???",
+							"type": "object",
+							"properties":
+							{
+
+							},
+							"additionalProperties":
+							{
+								"type": "string"
+							}
+						},
+						"operatorMap":
+						{
+							"description": "???",
+							"type": "object",
+							"properties":
+							{
+							},
+							"additionalProperties":
+							{
+								"type": "string"
+							}
+						}
+					}
+				}
+			}
+		},
+		"pages":
+		{
+			"description": "Frontend configuration",
+			"type": "object",
+			"properties":
+			{
+				"randomAssay":
+				{
+					"type": "boolean",
+					"default": true
+				},
+				"schemaReport":
+				{
+					"type": "boolean",
+					"default": true
+				},
+				"schemaTemplates":
+				{
+					"type": "boolean",
+					"default": true
+				},
+				"validationReport":
+				{
+					"type": "boolean",
+					"default": true
+				},
+				"contentSummary":
+				{
+					"type": "boolean",
+					"default": true
+				}
+			}
+		},
+		"transliterate":
+		{
+			"description": "Transliteration of terms to text",
+			"type": "object",
+			"required":
+			[
+				"directory"
+			],
+			"properties":
+			{
+				"directory":
+				{
+					"$ref": "#/definitions/directory"
+				},
+				"files":
+				{
+					"$ref": "#/definitions/files"
+				}
+			}
+		},
+		"forms":
+		{
+			"description": "Data entry forms",
+			"type": "object",
+			"required":
+			[
+				"directory"
+			],
+			"properties":
+			{
+				"directory":
+				{
+					"$ref": "#/definitions/directory"
+				},
+				"files":
+				{
+					"$ref": "#/definitions/files"
+				}
+			}
+		},
+		"axioms":
+		{
+			"description": "Axioms specified by file",
+			"type": "object",
+			"required":
+			[
+				"directory"
+			],
+			"properties":
+			{
+				"directory":
+				{
+					"$ref": "#/definitions/directory"
+				}
+			}
+		},
+		"message":
+		{
+			"description": "Message to display on UI",
+			"type": "object",
+			"required":
+			[
+				"message",
+				"show"
+			],
+			"properties":
+			{
+				"message":
+				{
+					"type": "string"
+				},
+				"style":
+				{
+					"type": "string",
+					"pattern": "(info|warning|danger)",
+					"default": "info"
+				},
+				"show":
+				{
+					"type": "boolean"
+				}
+			}
+		},
+		"buildinfo":
+		{
+			"description": "Build specific information",
+			"type": "object",
+			"properties":
+			{
+				"date":
+				{
+					"type": "string",
+					"format": "date",
+					"default": ""
+				},
+				"branch":
+				{
+					"type": "string",
+					"default": ""
+				}
+			}
+		},
+		"uriPatternMaps":
+		{
+			"description": "Additional metadata found within certain URI patterns",
+			"type": "array",
+			"minItems": 0,
+			"uniqueItems": true,
+			"items":
+			{
+				"type": "object",
+				"properties":
+				{
+					"matchPrefix":
+					{
+						"type": "string"
+					},
+					"externalURL":
+					{
+						"type": "string"
+					},
+					"label":
+					{
+						"type": "string"
+					}
+				}
+			}
+		}
+	}
+}

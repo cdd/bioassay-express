@@ -1,0 +1,83 @@
+{
+    "http://www.bioassayontology.org/bao#BAO_0000196": {
+        "activation": ["activate", "activator", "enhance"],
+        "agonism": ["agonist"],
+        "allosteric activation": ["allosteric potentiation", "allosterically potentiate", "allosteric potentiator", "allosteric activator"],
+        "allosteric agonism": ["allosteric agonist"],
+        "allosteric antagonism": ["allosteric antagonist"],
+        "allosteric inhibition": ["allosteric inhibitor"],
+        "allosteric modulation": ["allosteric modulator", "allosteric site"],
+        "antagonism": ["antagonist"],
+        "axon bundle defasciculation": ["axon defasciculation"],
+        "axon fasciculation": [],
+        "competitive binding": ["competitive binder", "competitor", "compete"],
+        "competitive inhibition": ["competitive inhibitor"],
+        "cytotoxicity": ["toxicity", "cytotoxic"],
+        "full activation": ["full activator", "fully activate"],
+        "full agonism": ["full agonist"],
+        "growth inhibition": ["growth inhibitor", "growth inhibit", "inhibit the growth", "inhibit growth", "cell viability"],
+        "inhibition": ["inhibitor", "inhibit"],
+        "inverse agonism": ["inverse agonist"],
+        "irreversible binding": [],
+        "ligand binding mode of action": [],
+        "ligand function mode of action": [],
+        "mode of action": [],
+        "modulation": ["modulator", "regulator"],
+        "negative allosteric modulation": ["negative allosteric modulator"],
+        "neurite blebbing": [],
+        "neurite branching": [],
+        "neurite outgrowth": [],
+        "neurite shortening": [],
+        "NF - KappaB p65 translocation": ["nf kappab p65 translocation"],
+        "non - competitive binding": ["non competitive binder", "non competitive binding"],
+        "non - competitive inhibition": ["non competitive inhibitor", "non competitive inhibition"],
+        "partial activation": ["partial potentiation", "partial activator"],
+        "partial agonism": ["partial agonist"],
+        "partial inhibition": ["partial inhibitor"],
+        "phenotypic mode of action": [],
+        "positive allosteric modulation": ["positive allosteric modulator"],
+        "reversible binding": ["reversible binder"],
+        "reversible inhibition": ["reversibility", "reversible", "reversible inhibitor"],
+        "saturation binding": [],
+        "stimulation": ["stimulator", "stimulate"],
+        "tight binding inhibition": ["tight binding inhibitor"],
+        "time dependent inhibition": ["time dependent inhibitor"],
+        "uncompetitive inhibition": ["uncompetitive inhibitor"]
+    },
+    "http://www.bioassayontology.org/bao#BAO_0000207" : {
+        "bioluminescence": ["luciferase"],
+        "fluorescence method": ["fluorescence"],
+        "luminescence method": ["luminescence"],
+        "radiometry method": ["radiolabel"]
+    },
+    "http://www.bioassayontology.org/bao#BAO_0000210" : {
+        "compound toxicity assay": ["cytotoxic"]
+    },
+    "http://www.bioassayontology.org/bao#BAO_0002009": {
+        "hypoxia-inducible factor-1alpha signaling pathway": ["hypoxia-inducible factor"],
+        "viral entry into host cell": ["entry inhibitor", "block entry"]
+    },
+    "http://www.bioassayontology.org/bao#BAO_0002800": {
+        "blood platelet": ["platelet"],
+        "Schneider's Drosophila Line 2": ["Drosophila Schneider cell line"]
+    },
+    "http://www.bioassayontology.org/bao#BAO_0002848": {
+        "cardiovascular system disease": ["cardiac", "cardiovascular"],
+        "Plasmodium falciparum malaria": ["malaria", "falciparum"],
+        "arteriosclerosis": ["atherosclerosis"]
+    },
+    "http://www.bioassayontology.org/bao#BAO_0002867": {
+        "1536 well plate": ["1536 well", "1536 plate", "1,536 well", "1,536 plate"],
+        "384 well plate": ["384 well", "384 plate"],
+        "96 well plate": ["96 well", "96 plate"],
+        "PAGE": ["SDS-page", "page assay", "native page"]
+    },
+    "http://www.bioassayontology.org/bao#BAO_0002921": {
+        "Trypanosoma cruzi": ["t cruzi", "t.cruzi", "t. cruzi"],
+        "Klebsiella pneumoniae": ["k. pneumoniae"]
+    },
+    "http://www.bioassayontology.org/bao#BAO_0095009": {
+        "caspase activity determination": ["caspase activation"],
+        "thermal shift assessment method": ["thermal shift"]
+    }
+}

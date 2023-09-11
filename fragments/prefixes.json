@@ -1,0 +1,21 @@
+{
+    "bao:": "http://www.bioassayontology.org/bao#",
+    "bat:": "http://www.bioassayontology.org/bat#",
+    "bas:": "http://www.bioassayontology.org/bas#",
+    "bae:": "http://www.bioassayexpress.org/bae#",
+    "src:": "http://www.bioassayexpress.org/sources#",
+    "obo:": "http://purl.obolibrary.org/obo/",
+    "rdf:": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs:": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd:": "http://www.w3.org/2001/XMLSchema#",
+    "owl:": "http://www.w3.org/2002/07/owl#",
+    "uo:": "http://purl.org/obo/owl/UO#",
+    "dto:": "http://www.drugtargetontology.org/dto/",
+    "geneid:": "http://www.bioassayontology.org/geneid#",
+    "taxon:": "http://www.bioassayontology.org/taxon#",
+    "protein:": "http://www.bioassayontology.org/protein#",
+    "prov:": "http://www.w3.org/ns/prov#",
+    "az:": "http://rdf.astrazeneca.com/bae#",
+    "oboInOwl:": "http://www.geneontology.org/formats/oboInOwl#",
+    "pistoia:": "http://rdf.pistoia.com/bae#"
+}

@@ -1,0 +1,76 @@
+{
+	"database":
+	{
+		"host": null,
+		"port": 0,
+		"name": "bae"
+	},
+	"modules":
+	{
+		"pubchem": 
+		{
+			"assays": true,
+			"compounds": true,
+			"directory": "assays"
+		}
+	},
+	"authentication":
+	{
+		"filename": "authentication.json"
+	},
+	"identifier":
+	{
+		"filename": "identifier.json"
+	},
+	"schema":
+	{
+		"filename": "vocab.dump"
+	},
+	"templates":
+	{
+		"directory": "template",
+		"files": ["schema.json"]
+	},
+	"nlp":
+	{
+		"directory": "nlp"
+	},
+	"assays":
+	{
+		"directory": "assays"
+	},
+	"provisional":
+	{
+		"baseURI": "http://www.bioassayexpress.com/bao_provisional#PROV_"
+	},
+	"customWeb":
+	{
+		"directory": "custom"
+	},
+	"pages":
+	{
+		"randomAssay": true,
+		"schemaReport": true,
+		"schemaTemplates": true,
+		"absenceReport": true,
+		"contentSummary": true,
+		"sourceReport": true
+	},
+ 	"transliterate":
+    {
+
+        "directory": "transliterate",
+        "files": ["transliterate_cat.json"]
+    },
+    "forms":
+    {
+        "directory": "forms",
+        "files": ["forms_cat.json"]
+    },
+	"uriPatternMaps":
+    [
+        {"matchPrefix": "geneid:([0-9]*$)", "externalURL": "https://www.ncbi.nlm.nih.gov/gene/$1", "label": "NCBI-Gene"},
+        {"matchPrefix": "protein:([0-9]*$)", "externalURL": "https://www.ncbi.nlm.nih.gov/protein/$1","label": "NCBI-Protein"},
+        {"matchPrefix": "obo:PR_([A-Z].*)$", "externalURL": "https://www.uniprot.org/uniprot/$1", "label": "Uniprot"}
+    ]    
+}

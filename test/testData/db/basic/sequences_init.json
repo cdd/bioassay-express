@@ -1,0 +1,16 @@
+[
+	{"_id" : "watermarkNLP", "seq" : NumberLong(10000000)},
+	{"_id" : "watermarkModel", "seq" : NumberLong(10000000)},
+	{"_id" : "watermarkCorr", "seq" : NumberLong(10000000)},
+	{"_id" : "assayID", "seq" : NumberLong(100000)},
+	{"_id" : "watermarkAssay", "seq" : NumberLong(100000)},
+	{"_id" : "compoundID", "seq" : NumberLong(10000000)},
+	{"_id" : "watermarkCompound", "seq" : NumberLong(10000000)},
+	{"_id" : "watermarkMeasure", "seq" : NumberLong(10000000)},
+	{"_id" : "watermarkSARModel", "seq" : NumberLong(10000000)},
+	{"_id" : "holdingID", "seq" : NumberLong(10000000)},
+	{"_id" : "provisionalID", "seq" : NumberLong(1000)},
+	{"_id" : "provisionalURI", "seq" : NumberLong(1000)},
+	{"_id" : "keywordmapID", "seq" : NumberLong(1000)},
+	{"_id" : "templateID", "seq" : NumberLong(1000)}
+]

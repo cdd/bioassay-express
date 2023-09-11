@@ -1,0 +1,53 @@
+#!/usr/bin/env bash
+#
+# Script only works on Circle-CI
+
+# identify the location of the script
+rootdir=`dirname $0`       # may be relative path
+rootdir=`cd $rootdir && pwd`    # ensure absolute path
+
+# set classpath and log4j configuraiton
+export CLASSPATH=${rootdir}/pkg/BioAssayConsole.jar 
+export PROPS="${PROPS} -Dlog4j.configuration=file:${rootdir}/log4j.properties"
+
+java ${PROPS} com.cdd.bae.main.ValidateConfiguration $*
+
+
+#!/usr/bin/env bash
+
+# Determine the directory of this script and based on this BAE and BAX
+rootdir=`dirname $0`       # may be relative path
+rootdir=`cd $rootdir && pwd`    # ensure absolute path
+BAE=$rootdir
+BAX=`dirname $rootdir`/bax
+
+export LIB=$BAE/lib
+export CLASSPATH=$BAE/web/WEB-INF/classes
+CLASSPATH=$CLASSPATH:$BAX/bin:$BAX/pkg/BioAssayTemplateAPI.jar
+
+# Configure logging using slf4j with log4j 1.2 backend
+# CLASSPATH=$CLASSPATH:$BAX/lib/slf4j-api-1.7.25.jar
+# CLASSPATH=$CLASSPATH:$BAX/lib/slf4j-log4j12-1.7.25.jar
+# CLASSPATH=$CLASSPATH:$BAX/lib/log4j-1.2.17.jar
+# CLASSPATH=$CLASSPATH:$BAX/lib/apache-log4j-extras-1.2.17.jar
+
+# Open-NLP models
+# CLASSPATH=$CLASSPATH:$LIB/opennlp-maxent-3.0.3.jar
+# CLASSPATH=$CLASSPATH:$LIB/opennlp-uima-1.5.3.jar
+# CLASSPATH=$CLASSPATH:$LIB/opennlp-tools-1.5.3.jar
+
+# RDF libraries
+# CLASSPATH=$CLASSPATH:$BAX/lib/jena-arq-3.0.0.jar
+# CLASSPATH=$CLASSPATH:$BAX/lib/jena-base-3.0.0.jar
+# CLASSPATH=$CLASSPATH:$BAX/lib/jena-core-3.0.0.jar
+# CLASSPATH=$CLASSPATH:$BAX/lib/jena-iri-3.0.0.jar
+# CLASSPATH=$CLASSPATH:$BAX/lib/jena-shaded-guava-3.0.0.jar
+
+# XML libraries
+# CLASSPATH=$CLASSPATH:$BAX/lib/xercesImpl-2.11.0.jar
+# CLASSPATH=$CLASSPATH:$BAX/lib/xml-apis-1.4.01.jar
+
+# Apache commons
+# CLASSPATH=$CLASSPATH:$BAX/lib/commons-lang3-3.3.2.jar
+
+# java com.cdd.bae.main.ValidateConfiguration $*

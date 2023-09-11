@@ -1,0 +1,33 @@
+[
+	{
+		"schemaURI": 
+		[
+			"http://www.bioassayontology.org/bas#"
+		],
+		"boilerplate": 
+		[
+			{
+				"ifany": "bao:BAX_0000012",
+				"then": 
+				[
+					" Protein identity: ",
+					{
+						"term": "bao:BAX_0000012",
+						"style": "italic"
+					},
+					"."
+				]
+			},
+			{
+				"ifany": "bao:BAO_0000210",
+				"then": 
+				{
+					"term": "bao:BAO_0000210",
+					"article": "indefinite",
+					"style": "italic"
+				},
+				"else": "an <i>unknown stage assay</i>"
+			}
+		]
+	}
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "pattern": "green",
+        "nblocks": 1,
+        "positive": 
+        [
+            "GrEeN eggs"
+        ],
+        "negative": 
+        [
+            "gr een"
+        ]
+    },
+    {
+        "pattern": "green OR eggs AND ham",
+        "nblocks": 5,
+        "positive": 
+        [
+            "eggs ham"
+        ],
+        "negative": 
+        [
+            "brown eggs"
+        ]
+    },
+    {
+        "pattern": "'green eggs' AND 'ham'",
+        "nblocks": 3,
+        "positive": 
+        [
+            "ham green eggs"
+        ],
+        "negative": 
+        [
+            "brown eggs"
+        ]
+    },
+    {
+        "pattern": "10",
+        "nblocks": 1,
+        "positive": 
+        [
+            "10.0"
+        ],
+        "negative": 
+        [
+            "9.9"
+        ]
+    },
+    {
+        "pattern": ">10",
+        "nblocks": 2,
+        "positive": 
+        [
+            "10.01"
+        ],
+        "negative": 
+        [
+            "9"
+        ]
+    },
+    {
+        "pattern": "<=1.5",
+        "nblocks": 2,
+        "positive": 
+        [
+            "1.5"
+        ],
+        "negative": 
+        [
+            "1.51"
+        ]
+    },
+    {
+        "pattern": "1E05",
+        "nblocks": 1,
+        "positive": 
+        [
+            "100000"
+        ],
+        "negative": 
+        [
+            "1.01e05"
+        ]
+    },
+    {
+        "pattern": "-1",
+        "nblocks": 1,
+        "positive": 
+        [
+            "-1.0"
+        ],
+        "negative": 
+        [
+            "-1.01"
+        ]
+    },
+    {
+        "pattern": "-1.5e-01",
+        "nblocks": 1,
+        "positive": 
+        [
+            "-0.15"
+        ],
+        "negative": 
+        [
+            "fnord"
+        ]
+    },
+    {
+        "pattern": "1 - 10",
+        "nblocks": 3,
+        "positive": 
+        [
+            "5"
+        ],
+        "negative": 
+        [
+            "0"
+        ]
+    },
+    {
+        "pattern": "1..10",
+        "nblocks": 3,
+        "positive": 
+        [
+            "1"
+        ],
+        "negative": 
+        [
+            "11"
+        ]
+    },
+    {
+        "pattern": "-5--1",
+        "nblocks": 3,
+        "positive": 
+        [
+            "-3"
+        ],
+        "negative": 
+        [
+            "-5.1"
+        ]
+    },
+    {
+        "pattern": "-5..-1",
+        "nblocks": 3,
+        "positive": 
+        [
+            "-1"
+        ],
+        "negative": 
+        [
+            "-0.9"
+        ]
+    },
+    {
+        "pattern": "'1E05' OR '>10' OR '-5--1'",
+        "nblocks": 5,
+        "positive": 
+        [
+            "1E05"
+        ],
+        "negative": 
+        [
+            "1E 05"
+        ]
+    },
+    {
+        "pattern": ">-1",
+        "nblocks": 2,
+        "positive": 
+        [
+            "10"
+        ],
+        "negative": 
+        [
+            "-2",
+            "-1"
+        ]
+    },
+    {
+        "pattern": "<-1",
+        "nblocks": 2,
+        "positive": 
+        [
+            "-10"
+        ],
+        "negative": 
+        [
+            "-1",
+            "0"
+        ]
+    },
+    {
+        "pattern": "<=-1",
+        "nblocks": 2,
+        "positive": 
+        [
+            "-10",
+            "-1"
+        ],
+        "negative": 
+        [
+            "0"
+        ]
+    },
+    {
+        "pattern": ">=-1",
+        "nblocks": 2,
+        "positive": 
+        [
+            "0",
+            "-1"
+        ],
+        "negative": 
+        [
+            "-4"
+        ]
+    }
+]

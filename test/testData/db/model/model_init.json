@@ -1,0 +1,10 @@
+[
+{ "_id" : { "$oid" : "579397d20c2dd41b9a8a09eb" }, "type" : "nlp", "target" : 101, "watermark" : { "$numberLong" : "1" }, "fplist" : [10, 11, 12], "contribs" : [0.0, 1.0, 2.0], "calibration" : [5.0, 6.0] },
+{ "_id" : { "$oid" : "579397d20c2dd41b9a8a09ec" }, "type" : "nlp", "target" : 102, "watermark" : { "$numberLong" : "2" }, "fplist" : [10, 11, 12], "contribs" : [0.0, 1.0, 2.0], "calibration" : [5.0, 6.0] },
+{ "_id" : { "$oid" : "579397d20c2dd41b9a8a09ed" }, "type" : "nlp", "target" : 103, "watermark" : { "$numberLong" : "2" }, "fplist" : [10, 11, 12], "contribs" : [0.0, 1.0, 2.0], "calibration" : [5.0, 6.0] },
+{ "_id" : { "$oid" : "579397d20c2dd41b9a8a09ee" }, "type" : "corr", "target" : 101, "watermark" : { "$numberLong" : "11" }, "fplist" : [10, 11, 12], "contribs" : [0.0, 1.0, 2.0], "calibration" : [5.0, 6.0] },
+{ "_id" : { "$oid" : "579397d20c2dd41b9a8a0a00" }, "type" : "corr", "target" : 102, "watermark" : { "$numberLong" : "22" }, "fplist" : [10, 11, 12], "contribs" : [0.0, 1.0, 2.0], "calibration" : [5.0, 6.0] },
+{ "_id" : { "$oid" : "579397d20c2dd41b9a8a0a01" }, "type" : "corr", "target" : 103, "watermark" : { "$numberLong" : "22" }, "fplist" : [10, 11, 12], "contribs" : [0.0, 1.0, 2.0], "calibration" : [5.0, 6.0] },
+{ "_id" : { "$oid" : "579397d20c2dd41b9a8a0a04" }, "type" : "corr", "target" : 104, "watermark" : { "$numberLong" : "22" }, "fplist" : [10, 11, 12], "contribs" : [0.0, 1.0, 2.0], "calibration" : [5.0, 6.0] },
+{ "_id" : { "$oid" : "579397d20c2dd41b9a8a0a05" }, "type" : "corr", "target" : 105, "watermark" : { "$numberLong" : "10000000" }, "fplist" : [10, 11, 12], "contribs" : [0.0, 1.0, 2.0], "calibration" : [5.0, 6.0] }
+]

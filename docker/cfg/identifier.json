@@ -1,0 +1,12 @@
+[
+	{
+		"name": "PubChem Assay ID",
+		"shortName": "AID",
+		"prefix": "pubchemAID:",
+		"baseURL": "https://pubchem.ncbi.nlm.nih.gov/bioassay/",
+		"baseRegex": "^(\\d+)(|-\\d+)$",
+		"recogRegex": "^\\d+$",
+		"defaultSchema": "http://www.bioassayontology.org/bas#",
+		"summary": ["bao:BAO_0002853", null]
+	}
+]

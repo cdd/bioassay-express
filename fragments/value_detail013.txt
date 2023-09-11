@@ -1,0 +1,2736 @@
+obo:CLO_0007203
+  A L6
+obo:CLO_0007240
+  D "The LAN-1 clone, a cell line derived from a human neuroblastoma, possesses muscarinic receptors."
+obo:CLO_0007657
+  A ME-180
+obo:CLO_0007830
+  D "Mouse B lymphocyte; plasmacytoma; myeloma. MOPC 315 plasmacytoma was induced with mineral oil in a BALB/c mouse."
+obo:CLO_0007854
+  D "Tissue: Mouse BALB/c B-lymphocyte, plasmacytoma, myeloma. Morphology: lymphoblast. MPC-11 cells have been reported to produce murine IL-6."
+obo:CLO_0007865
+  D "Homo sapiens (human) lung; fibroblast; normal cell line. The MRC-5 cell line was derived from normal lung tissue of a 14-week-old male fetus by J.P. Jacobs in September of 1966."
+  A MRC-5
+obo:CLO_0007921
+  D "Mouse neuroblastoma 6-thioguanine resistant mutant of cell line N18 that was established from a mouse of strain A/Jax with neuroblastoma C1300; cells were described to form cAMP in response to prostaglandin E1 and to be aneuploid (modal chromosome number of 81)."
+obo:CLO_0008172
+  A NIH-3T3
+obo:CLO_0008177
+  D "Human natural killer lymphoma cell line; established from the peripheral blood of a 50-year-old man with non-Hodgkin lymphoma (large granular lymphocytic) in 1992; cells were described as having azurophilic granula and strong cytotoxic NK activity."
+obo:CLO_0008203
+  D "Mouse myeloma cell line."
+obo:CLO_0009463
+  A U87 MG
+obo:CLO_0008334
+  D "Mouse, BALB/c, plasmacytoma, B lymphocyte, myeloma cell line. Morphology: lymphoblast. Species: mouse, BALB/c; Tumor: myeloma; Original line: P3K Properties: IgG prod.; resistant to 8-azaguanine; fusion partner; tumorigenicity."
+bao:BAO_0002694
+  D "Rat basophilic leukemia (RBL) cell line; obtained by Eccleston et al. and was maintained by serial passage in neonatal Wistar rats; four cell lines (named RBL I-IV) were started from this tumor between 1973 and 1975; the subline RBL-IV HR+ was derived from RBL-IV; further subcloning established the cell line RBL-2H3; cells are described to release histamine as an IgE-mediated reaction."
+obo:CLO_0050005
+  D "A immortal cell line cell that has the characteristics: Highly susceptible to nuclear polyhedrosis virus."
+obo:CLO_0050004
+  D "A immortal cell line cell that has the characteristics: Pupal ovary hemocyte."
+obo:CLO_0050001
+  D "A immortal cell line cell that has the characteristics: Pupal ovary hemocyte."
+obo:CLO_0050002
+  D "A immortal cell line cell that has the characteristics: Pupal ovary hemocyte."
+obo:CLO_0050006
+  D "A immortal cell line cell that has the characteristics: Cold water fish cell line. Cultured at 25 C. Relatively large chromosomes (Mode 23)."
+obo:CLO_0050003
+  D "A immortal cell line cell that has the characteristics: Eel hepatocyte. Cell growth is slow."
+obo:CLO_0050007
+  D "A immortal cell line cell that has the characteristics: Lung fibroblastic cell line derived from Tupaia belangeri. Tupaia cell lines require import and export permits  according to the Convention on International Trade in Endangered  Species  (CITES)."
+obo:CLO_0051621
+  D "A immortal cell line cell that has the characteristics: Fibroblast-like cells derived from African Savannah Elephant. Primary cultured cells. Elephant cell lines require import and export permits  according to the Convention on International Trade in Endangered  Species  (CITES)."
+obo:CLO_0050000
+  D "A immortal cell line cell that has the characteristics: Fibroblast-like cells derived from African Savannah Elephant. Primary cultured cells. Elephant cell lines require import and export permits  according to the Convention on International Trade in Endangered  Species  (CITES)."
+obo:CLO_0008782
+  D "Human B cell precursor leukemia established from the peripheral blood of a 15-year-old North African girl with acute lymphoblastic leukaemia, ALL at first relapse, in 1973."
+obo:CLO_0009000
+  D "Rat Galliera sarcoma cell line from a 2 months old rat Galliera; Tumor: sarcoma Viruses: contains SG-RaLV (Retrovirus type C)."
+obo:CLO_0009047
+  D "A melanoma cell line cell. This cell line was established in 1974 from a metastatic site (axillary lymph node) in a 24-year-old Caucasian female with malignant melanoma, expresses mutant B-Raf (V600E) and wildtype N-Ras."
+  A SK-MEL-5
+obo:CLO_0009905
+  D "A human glioblastoma cell line cell. The cell line is part of the NCI-60 screening panel."
+  A SNB75
+  A SNB-75
+obo:CLO_0009113
+  D "SP2/0-AG14 is a hybrid between BALB/c spleen cells and the myeloma cell line P3X63AG8."
+obo:CLO_0009115
+  D "SP2/0-AG14 is a hybrid between BALB/c spleen cells and the myeloma cell line P3X63AG8."
+obo:CLO_0009114
+  D "SP2/0-AG14 is a hybrid between BALB/c spleen cells and the myeloma cell line P3X63AG8."
+obo:CLO_0037063
+  A SU-DHL-6
+obo:CLO_0037222
+  D "Sufu-KO-LIGHT cells were derived from Sufu knockout mouse embryonic fibroblasts according to the method of Chen et al. [Genes Dev. 2009;23(16): 1910-28.] The cells were co-transfected with the zeocin resistance vector (pVgRXR, Invitrogen) and a firefly luciferase reporter driven by eight Gli binding sites and a γ-crystallin basal promoter (8XGHBS-FL).  Sufu-KO-LIGHT lacks Sufu and exhibits constitutive Hh target gene expression in response to endogenous Gli activators."
+obo:CLO_0009267
+  D "Human leukemic cytotoxic T cell line."
+obo:CLO_0009348
+  D "Human acute monocytic leukemia established from the peripheral blood of a 1-year-old boy with acute monocytic leukemia (AML) at relapse in 1978; the cells can be used for induction of differentiation studies; the cells were described to produce lysozyme and to be phagocytic."
+  A THP-1
+  A THP1
+obo:CLO_0009453
+  D "Human glioblastoma cell line; established from a 47 years old human male."
+obo:CLO_0009454
+  D "Human osteosarcoma cell line."
+  A U2OS
+  A U-2 OS
+obo:CLO_0009461
+  D "Human caucasian glioblastoma-astrocytoma cell line; established from a 61-years-old caucasian male."
+obo:CLO_0037223
+  D "A Hela-derived cell line cell that expresses ubiquitinated GFP (Green Fluroescent Protein)"
+obo:CLO_0009526
+  D "Monkey (Cercopithecus aethiops) kidney endothelial cell line. It is a derivative of the original VERO."
+  A VERO 76
+obo:CLO_0009527
+  D "This line is a clone of VERO 76."
+  A VERO C1008
+obo:CLO_0009524
+  D "The Vero cell line was initiated from the kidney of a normal adult African green monkey on March 27, 1962, by Y. Yasumura and Y. Kawakita at the Chiba University in Chiba, Japan."
+  A Vero
+obo:CLO_0037241
+  D "a hybridoma cell line cell that is obtained by fusing activated mouse T cells with tumor cells."
+obo:CLO_0000282
+  D "a hybridoma cell line cell that is established by fusing cells from two mice."
+obo:CLO_0000498
+  D "a hybridoma cell line cell that is established by fusing cells from a mouse and a rat."
+obo:CLO_0050246
+  D "A hybridoma cell line cell that has the characteristics: IL-5 producing T-cell hybridoma. Culture sup is useful for T88-M cell culture."
+obo:CLO_0050239
+  D "A hybridoma cell line cell that has the characteristics: Mouse T cell hybridoma expressing double HA-tag alone."
+obo:CLO_0050240
+  D "A hybridoma cell line cell that has the characteristics: Mouse T cell hybridoma (DO-11.10)  expressing double HA-tagged HS1BP3 (HS1 SH3 domain binding protein)-C2."
+obo:CLO_0050241
+  D "A hybridoma cell line cell that has the characteristics: Mouse T cell hybridoma (DO-11.10)  expressing double Myc-tagged HS1BP3 (HS1 SH3 domain binding protein)-C2 ."
+obo:CLO_0050245
+  D "A hybridoma cell line cell that has the characteristics: Mouse T cell hybridoma (DO-11.10) expressing double HA-tagged HS1BP3 (HS1 SH3 domain binding protein)."
+obo:CLO_0050242
+  D "A hybridoma cell line cell that has the characteristics: Mouse T cell hybridoma (DO-11.10) expressing double HA-tagged HS1BP3 (HS1 SH3 domain binding protein)."
+obo:CLO_0050243
+  D "A hybridoma cell line cell that has the characteristics: Mouse T cell hybridoma ((DO-11.10)expressing double HA-tagged HS1BP3 (HS1 SH3 domain binding protein)-C2."
+obo:CLO_0050244
+  D "A hybridoma cell line cell that has the characteristics: Mouse T cell hybridoma (DO-11.10) expressing double Myc-tagged HS1BP3 (HS1 SH3 domain binding protein)-C2."
+obo:CLO_0050317
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-recA protein mAb (IgG2b)"
+obo:CLO_0050286
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-SV40 large T antigen mAb (IgG)"
+obo:CLO_0050290
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-recA protein mAb (IgG1)"
+obo:CLO_0050403
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: S. cerevisiae Endo.Sce I large subunit mAb (IgG2b)"
+obo:CLO_0050282
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-SV40 large T antigen mAb (IgG)"
+obo:CLO_0050385
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti human c-myc p62 mAb (IgG1.kappa)"
+obo:CLO_0050292
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: MoAb IgM to sea urchin sperm dynein alpha-heavy chain."
+obo:CLO_0050293
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: MoAb IgM to sea urchin sperm dynein beta-heavy chain."
+obo:CLO_0050294
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: MoAb IgM to sea urchin sperm dynein beta-heavy chain."
+obo:CLO_0050323
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: MoAb IgM to sea urchin sperm dynein IC1."
+obo:CLO_0050284
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: MoAb IgM to sea urchin sperm dynein IC2."
+obo:CLO_0050291
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: MoAb IgG1 to sea urchin sperm dynein IC2."
+obo:CLO_0050295
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: MoAb IgG1 to sea urchin sperm dynein IC3."
+obo:CLO_0050302
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma against differentiated PC-12 cell surface"
+obo:CLO_0050299
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma against differentiated PC-12 cell surface"
+obo:CLO_0050353
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against differentiated PC-12 cell surface molecules."
+obo:CLO_0050354
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against differentiated PC-12 cell surface molecules."
+obo:CLO_0050300
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma against differentiated PC-12 cell surface"
+obo:CLO_0050298
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti poly(ADP-ribose) IgG3 kappa producing."
+obo:CLO_0050276
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-human lung carcinoma mAb (IgM). Possible to culture in serum-free medium."
+obo:CLO_0050303
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-rabbit muscle lactate dehydrogenase (LDH) mAb (IgG1). Possible to culture in serum-free medium."
+obo:CLO_0050285
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-rabbit muscle lactate dehydrogenase (LDH) mAb (IgG2b). Possible to culture in serum-free medium"
+obo:CLO_0050287
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-rabbit muscle glyceraldehyde-3-phosphate dehydrogenase mAb (IgG). Serum-free culturable."
+obo:CLO_0050288
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Producing anti-human CD36 MoAb."
+obo:CLO_0050360
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-human-myeloperoxidase MoAb producing."
+obo:CLO_0050361
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-human-myeloperoxidase MoAb producing."
+obo:CLO_0050362
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-human-myeloperoxidase MoAb producing."
+obo:CLO_0050363
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-human-myeloperoxidase MoAb producing."
+obo:CLO_0050296
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Producing IgG MoAb against human 29 kDa lectin detectable in many human tumors. Also see HH17-4."
+obo:CLO_0050297
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Producing IgG MoAb against human 29 kDa lectin detectable in many human tumors. Also see HH13-1."
+obo:CLO_0050316
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-lactotetraosylceramide antibody producing. Discriminates metastatic cells from mesothelial cell"
+obo:CLO_0050283
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti poly(ADP-ribose) IgG3 kappa producing."
+obo:CLO_0050397
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-thymine dimer antibody producing. Serum-free cultured hybridoma."
+obo:CLO_0050386
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Responding to IL-6 in the bioassay."
+obo:CLO_0050345
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-pertussis toxin subunit S-1 MoAb (IgG2a) producing."
+obo:CLO_0050358
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-pertussis toxin subunit S-1 MoAb (IgG1) producing."
+obo:CLO_0050359
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-pertussis toxin subunit S-1 MoAb (IgG1) producing."
+obo:CLO_0050402
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-pertussis toxin subunit S-1 MoAb (IgG1) producing."
+obo:CLO_0050399
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-pertussis toxin subunit S-1 MoAb (IgG1) producing."
+obo:CLO_0050308
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-pertussis toxin subunit S-2,3 MoAb (IgG1) producing."
+obo:CLO_0050309
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-pertussis toxin subunit S-2 MoAb (IgG1) producing."
+obo:CLO_0050401
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-pertussis toxin subunit S-2 MoAb (IgG1) producing."
+obo:CLO_0050310
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-pertussis toxin subunit S-3 MoAb (IgG1) producing."
+obo:CLO_0050311
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-pertussis toxin subunit S-4 MoAb (IgG1) producing."
+obo:CLO_0050400
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-pertussis toxin subunit S-4 MoAb (IgG1) producing."
+obo:CLO_0050393
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-pertussis filamentous hemagglutinin (FHA) MoAb producing."
+obo:CLO_0050394
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-pertussis filamentous hemagglutinin (FHA) MoAb producing."
+obo:CLO_0050312
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: MoAb to Clostridium perfringens alpha-toxin (phospholipase C)."
+obo:CLO_0050346
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: MoAb to Clostridium perfringens alpha-toxin (phospholipase C)."
+obo:CLO_0050347
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: MoAb to Clostridium perfringens alpha-toxin (phospholipase C)."
+obo:CLO_0050344
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: MoAb to Clostridium perfringens alpha-toxin (phospholipase C)."
+obo:CLO_0050313
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: MoAb to Clostridium perfringens alpha-toxin (phospholipase C)."
+obo:CLO_0050348
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: MoAb to Clostridium perfringens alpha-toxin (phospholipase C)."
+obo:CLO_0050314
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: MoAb to Clostridium perfringens theta-toxin."
+obo:CLO_0050301
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-ribonuclease A antibody producing."
+obo:CLO_0050277
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing anti-E antigen of the human Rh blood group system"
+obo:CLO_0050315
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-chick αA-crystallin MoAb producing. Bacteria(+), therefore, must add penicillin+streptomycin."
+obo:CLO_0050304
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-chick αB-crystallin MoAb producing. Bacteria(+), therefore, must add penicillin+streptomycin."
+obo:CLO_0050305
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-chick β5-crystallin MoAb producing. Bacteria(+), therefore, must add penicillin+streptomycin."
+obo:CLO_0050306
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-chick β6-crystallin MoAb producing. Bacteria(+), therefore, must add penicillin+streptomycin."
+obo:CLO_0050307
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-newt γ1-crystallin MoAb producing. Bacteria(+), therefore, must add penicillin+streptomycin."
+obo:CLO_0050322
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-chick δ-crystallin MoAb producing. Bacteria(+), therefore, must add penicillin+streptomycin."
+obo:CLO_0050289
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Anti-chicken IgM antibody secreting. Able to stimulate DT40 cell surface antigen."
+obo:CLO_0050281
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma that produce anti-human G1MF (allotype of IgG1) antibody."
+obo:CLO_0050318
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against Medaka Vitellogenin."
+obo:CLO_0050319
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against Medaka Vitellogenin."
+obo:CLO_0050333
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against Medaka Vitellogenin."
+obo:CLO_0050320
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against Medaka Vitellogenin."
+obo:CLO_0050321
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against Medaka Vitellogenin."
+obo:CLO_0050324
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against tetrodotoxin."
+obo:CLO_0050325
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against domoic acid."
+obo:CLO_0050326
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against gonyautoxin."
+obo:CLO_0050327
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against Broad bean wilt virus 2 22-kDa coat protein."
+obo:CLO_0050329
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against Broad bean wilt virus 2 22-kDa coat protein."
+obo:CLO_0050328
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against Broad bean wilt virus 2 22-kDa coat protein."
+obo:CLO_0050352
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against mouse JDP2."
+obo:CLO_0050395
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against mouse JDP2. The antibody recognizes a truncated from of JDP2."
+obo:CLO_0050396
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against mouse JDP2."
+obo:CLO_0050349
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing antibody against the purified basal apparatus of sperm of the an-1 strain of fern Lygodium."
+obo:CLO_0050350
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing antibody against the purified basal apparatus of sperm of the an-1 strain of fern Lygodium."
+obo:CLO_0050351
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing antibody against the purified basal apparatus of sperm of the an-1 strain of fern Lygodium."
+obo:CLO_0050335
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against N-glycolylneuraminic acid-containing gangliosides (GD3 gangliosides)."
+obo:CLO_0050336
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against GD2 gangliosides (b-pathway gangliosides)."
+obo:CLO_0050387
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against N-glycolylneuraminic acid-containing gangliosides (GM3 gangliosides)."
+obo:CLO_0050334
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against ganglioside lactones."
+obo:CLO_0050337
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against GQ1ba gangliosides."
+obo:CLO_0050338
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against 2-3NeuAca-nLc4Cer gangliosides."
+obo:CLO_0050339
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against nLc4Cer."
+obo:CLO_0050340
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against SGPG."
+obo:CLO_0050341
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against GalCer."
+obo:CLO_0050342
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against Sulfatide."
+obo:CLO_0050343
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against Globoside."
+obo:CLO_0050330
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against N-linked neutral oligosaccharides of glycoproteins."
+obo:CLO_0050331
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against F1-linked neutral oligosaccharides of glycoproteins."
+obo:CLO_0050332
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against M1-linked neutral oligosaccharides of glycoproteins."
+obo:CLO_0050356
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against a surface antigen of small cell carcinoma of lung."
+obo:CLO_0050357
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against a surface antigen of small cell carcinoma of lung."
+obo:CLO_0050388
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against latexin."
+obo:CLO_0050389
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against C-terminal peptide of rat GSK3-beta."
+obo:CLO_0050278
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against MuSc."
+obo:CLO_0050279
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against mouse apolipoprotein E."
+obo:CLO_0050384
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against GD1b gangliosides."
+obo:CLO_0050355
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against GD1c gangliosides."
+obo:CLO_0050365
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on P-granule."
+obo:CLO_0050366
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on P-granule."
+obo:CLO_0050367
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on P-granule and body wall muscle."
+obo:CLO_0050368
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on P-granule and body wall muscle."
+obo:CLO_0050369
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on body wall muscle."
+obo:CLO_0050370
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on body wall muscle."
+obo:CLO_0050371
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on body wall muscle."
+obo:CLO_0050372
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on body wall muscle."
+obo:CLO_0050373
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that seam cell."
+obo:CLO_0050374
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on pharynx basement membrane."
+obo:CLO_0050375
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on pharynx."
+obo:CLO_0050364
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on pharynx."
+obo:CLO_0050376
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on pharynx."
+obo:CLO_0050390
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on intestine."
+obo:CLO_0050398
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on nuclear membrane."
+obo:CLO_0050377
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on centrosome."
+obo:CLO_0050378
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on hypodermis."
+obo:CLO_0050379
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on egg shell."
+obo:CLO_0050381
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on egg shell."
+obo:CLO_0050382
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on P-granule and pharynx."
+obo:CLO_0050383
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against an antigen of C. elegans embryo. Antigen is not determined but that on centrosome and P-granule."
+obo:CLO_0050391
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against oxitocin receptor."
+obo:CLO_0050380
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against WASP (Wiscott-Aldolich syndrome protein). TKG0631 (Deposited from Tohoku Univ.)."
+obo:CLO_0050404
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma. Anti-Rat Carboxypeptidase M MoAb producing."
+obo:CLO_0050392
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against a peptide, GYPGQV."
+obo:CLO_0050280
+  D "A mouse x mouse hybridoma cell line cell that has the characteristics: Hybrid cell line of C3H mouse mammary tumor cell, FM3A#2, and 8-Ag resistant L cell. TKG0381(Deposited from Tohoku Univ.)."
+obo:CLO_0050519
+  D "A mouse x rat hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against mouse B7-H1."
+obo:CLO_0050521
+  D "A mouse x rat hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against GFP. Rat IgG2a monoclonal antibody."
+obo:CLO_0050524
+  D "A mouse x rat hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against GFP. Rat IgG2a monoclonal antibody."
+obo:CLO_0050522
+  D "A mouse x rat hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against GFP. Rat IgG2a monoclonal antibody."
+obo:CLO_0050523
+  D "A mouse x rat hybridoma cell line cell that has the characteristics: Hybridoma producing monoclonal antibody against bacterial unknown molecule. Rat IgG2a monoclonal antibody."
+obo:CLO_0050520
+  D "A mouse x rat hybridoma cell line cell that has the characteristics: Hybridoma producing a monoclonal antibody against mouse B7-H1. Possible to culture in RPMI1640 medium."
+obo:CLO_0000640
+  D "An immortal abdominal aorta-derived cell line cell that derives from human."
+obo:CLO_0000851
+  D "An immortal abdominal cavity-derived cell line cell that derives from human."
+obo:CLO_0000566
+  D "An immortal acetabular part of hip bone-derived cell line cell that derives from human."
+obo:CLO_0009788
+  D "An immortal adrenal cortex-derived cell line cell that derives from human."
+obo:CLO_0051606
+  D "A immortal human adrenal cortex-derived cell line cell that has the characteristics: Fibroblasts from multiple endocrine neoplasia"
+obo:CLO_0051607
+  D "A immortal human adrenal cortex-derived cell line cell that has the characteristics: Fibroblasts from multiple endocrine neoplasia"
+obo:CLO_0051608
+  D "A immortal human adrenal cortex-derived cell line cell that has the characteristics: Buck-up culture of ECA85051002. Mouse steroid hormone secreting adrenal cortex cell line."
+obo:CLO_0000974
+  D "An immortal adrenal gland-derived cell line cell that derives from cattle."
+obo:CLO_0000697
+  D "An immortal adrenal gland-derived cell line cell that derives from human."
+obo:CLO_0000753
+  D "An immortal adrenal gland-derived cell line cell that derives from rat."
+obo:CLO_0008081
+  D "Pluripotent adrenocortical carcinoma cell line."
+obo:CLO_0051417
+  D "A immortal human adrenal gland-derived cell line cell that has the characteristics: N-myc gene amplification"
+obo:CLO_0051414
+  D "A immortal human adrenal gland-derived cell line cell that has the characteristics: N-myc propagated. Neuron specific enolase producing."
+obo:CLO_0051416
+  D "A immortal human adrenal gland-derived cell line cell that has the characteristics: Adrenal neuroblastoma derived from brain metastasis"
+obo:CLO_0051415
+  D "A immortal human adrenal gland-derived cell line cell that has the characteristics: Human cell line derived from neuroblastoma of adrenal gland.TKG0278 (Deposited from Tohoku Univ.)."
+obo:CLO_0051419
+  D "A immortal human adrenal gland-derived cell line cell that has the characteristics: Human cell line derived from neuroblastoma. Dibuty-cAMP (1 mM) induces differentiation. TKG0486(Deposited from Tohoku Univ.)."
+obo:CLO_0051418
+  D "A immortal human adrenal gland-derived cell line cell that has the characteristics: Human cell line derived from neuroblastoma formed at adrenal gland. TKG0277(Deposited from Tohoku Univ.)."
+obo:CLO_0008392
+  D "Rat adrenal pheochromocytoma established from a transplantable rat adrenal pheochromocytoma in 1976; cells were described to synthesize catecholamines (dopamine, norepinephrine); in response to nerve growth factor (NGF) a neuronal phenotype could be induced reversibly."
+obo:CLO_0000624
+  D "An immortal Ammon's horn-derived cell line cell that derives from rat."
+obo:CLO_0000466
+  D "An immortal amnion-derived cell line cell that derives from human."
+obo:CLO_0000399
+  D "An immortal amniotic fluid-derived cell line cell that derives from human."
+obo:CLO_0000881
+  D "An immortal anatomical cluster-derived cell line cell that derives from human."
+obo:CLO_0000723
+  D "An immortal aorta-derived cell line cell that derives from cattle."
+obo:CLO_0000942
+  D "An immortal aorta-derived cell line cell that derives from European rabbit, rabbit."
+obo:CLO_0000910
+  D "An immortal aorta-derived cell line cell that derives from human."
+obo:CLO_0000635
+  D "An immortal aorta-derived cell line cell that derives from mouse."
+obo:CLO_0009763
+  D "An immortal aorta-derived cell line cell that derives from Ovis."
+obo:CLO_0000808
+  D "An immortal aorta-derived cell line cell that derives from rat."
+obo:CLO_0009237
+  D "Human Caucasian aorta, normal smooth muscle cell line; established from the normal aorta of an 11 month old child."
+obo:CLO_0051046
+  D "A immortal mouse aorta-derived cell line cell that has the characteristics: Mouse cell line derived from aorta of p53-deficient mouse. Epithelial like."
+obo:CLO_0000495
+  D "An immortal area X-derived cell line cell that derives from mouse."
+obo:CLO_0000496
+  D "An immortal area X-derived cell line cell that derives from Mus musculus x Rattus norvegicus."
+obo:CLO_0000893
+  D "An immortal arm-derived cell line cell that derives from human."
+obo:CLO_0000087
+  D "an immortal barrier cell line cell that is derived from lining cell"
+obo:CLO_0000092
+  D "a immortal barrier cell line cell that is derived from myelinating Schwann cell"
+obo:CLO_0037269
+  A S-16 cell
+obo:CLO_0000912
+  D "An immortal bone element-derived cell line cell that derives from dog."
+obo:CLO_0000560
+  D "An immortal bone element-derived cell line cell that derives from human."
+obo:CLO_0000935
+  D "An immortal bone element-derived cell line cell that derives from rat."
+obo:CLO_0003737
+  D "Human fetal osteoblast cell line."
+obo:CLO_0003795
+  D "Homo sapiens bone osteosarcoma cell line; established from a 13-years-old caucasian female."
+obo:CLO_0037233
+  D "An immortal bone element-derived cell line cell that derives from human."
+obo:CLO_0007699
+  D "Homo sapiens (human) bone, osteosarcoma cell line; established from a 14 year old caucasian male."
+obo:CLO_0050812
+  D "A immortal human bone element-derived cell line cell that has the characteristics: Osteoid producing in vitro and in nude mice. Cell growth is slow."
+obo:CLO_0050811
+  D "A immortal human bone element-derived cell line cell that has the characteristics: Human osteosarcoma producing osteoid in vitro and in vivo(mouse). Cell growth is slow."
+obo:CLO_0050809
+  D "A immortal human bone element-derived cell line cell that has the characteristics: Human cell line derived from osteosarcoma. TKG0451(Deposited from Tohoku Univ.)."
+obo:CLO_0008947
+  D "Human osteogenic sarcoma, established from the primary osteogenic sarcoma of an 11-year-old Caucasian woman in 1973."
+obo:CLO_0009186
+  D "Human bone chondrosarcoma cell line. The SW 1353 cell line was initiated by A. Leibovitz at the Scott and White Clinic, Temple, Texas in 1977 from a primary grade II chondrosarcoma of the right humerus obtained from a 72 year old female Caucasian."
+obo:CLO_0009210
+  D "Human bone chondrosarcoma cell line. The SW 1353 cell line was initiated by A. Leibovitz at the Scott and White Clinic, Temple, Texas in 1977 from a primary grade II chondrosarcoma of the right humerus obtained from a 72 year old female Caucasian."
+obo:CLO_0051381
+  D "A immortal human muscle cell line cell that has the characteristics: Extraskeltal myxoid chondrosarcoma"
+obo:CLO_0050810
+  D "A immortal human bone element-derived cell line cell that has the characteristics: Sensitive to further transformation with both virus and chemicals. Backup of ECA87070202."
+obo:CLO_0050808
+  D "A immortal human bone element-derived cell line cell that has the characteristics: Osteosarcoma cell line derived from human. High yield of IFN production by induction with poly IC, cyclohexmide, actinomycin D. Antigenically, MG-63 IFN is closely related to human fibroblast IFN. TKG0294 (Deposited from Tohoku Univ.)."
+obo:CLO_0050140
+  D "A immortal human cell line cell that has the characteristics: Osteogenic sarcoma"
+obo:CLO_0000727
+  D "An immortal bone marrow-derived cell line cell that derives from cattle."
+obo:CLO_0000871
+  D "An immortal bone marrow-derived cell line cell that derives from human."
+obo:CLO_0000627
+  D "An immortal bone marrow-derived cell line cell that derives from mouse."
+obo:CLO_0050274
+  D "A immortal bone marrow-derived cell line cell that has the characteristics: Bone marrow stroma cell line, depositing calcified matrix on the culture surface. TRAP-positive."
+obo:CLO_0050273
+  D "A immortal bone marrow-derived cell line cell that has the characteristics: Bone marrow stroma cell line, depositing calcified matrix on the culture surface. TRAP-positive."
+obo:CLO_0050275
+  D "A immortal bone marrow-derived cell line cell that has the characteristics: Bone marrow stroma cell line, depositing calcified matrix on the culture surface. TRAP-positive."
+obo:CLO_0051540
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: N-myc gene amplification"
+obo:CLO_0051541
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: N-myc gene amplicon analysis"
+obo:CLO_0051542
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: N-myc gene amplification"
+obo:CLO_0051549
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: GM-CSF- or IL-3-dependent cell line. Differentiate to erythoid cells with erythropoietin."
+obo:CLO_0051545
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Subline of F-36P. Erythropoietin-dependent"
+obo:CLO_0051560
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Human acute myeloid leukemia. The variant subline (RCB1928 KG-1a)  CD3-,CD13+,CD14-,CD15+,CD19-,CD33+"
+obo:CLO_0051543
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Human acute myeloid leukemia derived cell."
+obo:CLO_0051544
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Japanese AML. Said i(12p)(p11) and unbalanced t(5;12). Need confirmation before use."
+obo:CLO_0051562
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: p53 deficient mouse bone marrow derived cell. Useful for study of p53 suppressor oncogene. Cell growth is slow."
+obo:CLO_0051561
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Human cell line derived from acute myelogenous leukemia. The variant subline of KG-1(RCB1166) cell line.  TKG0402(Deposited from Tohoku Univ.)."
+obo:CLO_0051547
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Human T-cell line derived from  acute lynphblastic leukemia. TKG0251 (Deposited from Tohoku Univ.)."
+obo:CLO_0051550
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Human mesenchymal cell line derived from bone marrow. Immortalized by HPV E6, E7, and hTERT. RCB2152- RCB2163 are derived from the same bone marrow."
+obo:CLO_0051551
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Human mesenchymal cell line derived from bone marrow. Immortalized by HPV E6, E7, and hTERT.　RCB2152- RCB2163 are derived from the same bone marrow."
+obo:CLO_0051552
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Human mesenchymal cell line derived from bone marrow. Immortalized by bmi-1, HPV E6, and hTERT.　RCB2152- RCB2163 are derived from the same bone marrow."
+obo:CLO_0051553
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Human mesenchymal cell line derived from bone marrow. Immortalized by bmi-1, HPV E6, and hTERT. RCB2152- RCB2163 are derived from the same bone marrow."
+obo:CLO_0051554
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Human mesenchymal cell line derived from bone marrow. Immortalized by HPV E7 and hTERT. RCB2152- RCB2163 are derived from the same bone marrow."
+obo:CLO_0051555
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Human mesenchymal cell line derived from bone marrow. Immortalized by HPV E6, E7, and hTERT. RCB2152- RCB2163 are derived from the same bone marrow."
+obo:CLO_0051557
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Human mesenchymal cell line derived from bone marrow. Immortalized by HPV E6, E7, and hTERT. RCB2152- RCB2163 are derived from the same bone marrow."
+obo:CLO_0051556
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Human mesenchymal cell line derived from bone marrow. Immortalized by HPV E7 and hTERT. RCB2152- RCB2163 are derived from the same bone marrow."
+obo:CLO_0051558
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Human mesenchymal cell line derived from bone marrow. Immortalized by bmi-1, HPV E6, and hTERT. RCB2152- RCB2163 are derived from the same bone marrow."
+obo:CLO_0051559
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Human mesenchymal cell line derived from bone marrow. Immortalized by HPV E6 and E7. RCB2152- RCB2163 are derived from the same bone marrow."
+obo:CLO_0051546
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Human cell line derived from bone marrow stromal cells. Useful to propagate hematopoietic stem cells."
+obo:CLO_0051548
+  D "A immortal human bone marrow-derived cell line cell that has the characteristics: Human cell line derived from megakaryoblastic leukemia. TKG0458(Deposited from Tohoku Univ.)."
+obo:CLO_0051025
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Bone marrow stroma cell-derived"
+obo:CLO_0051044
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: IL-3 dependent cells from Friend leukemia virus-infected mouse bone marrow."
+obo:CLO_0051042
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Mouse IL-3 dependent cells cloned from 32D. Differentiate with G-CSF stimulation."
+obo:CLO_0051038
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Bone marrow stroma cell line, depositing calcified matrix on the culture surface. Cell growth is slow."
+obo:CLO_0051039
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Bone marrow stroma cell line, depositing calcified matrix on the culture surface."
+obo:CLO_0051040
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Osteoclast-like cell line derived from mouse (C3H/He). Cell growth is slow."
+obo:CLO_0051041
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Bone marrow stroma cell line, depositing calcified matrix on the culture surface. Cell growth is slow."
+obo:CLO_0051043
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Subclone of 32D cell line. Differentiate to mature granulocytes by G-CSF."
+obo:CLO_0051028
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Mouse bone marrow derived fibroblast-like cells line. Differentiates to neuron."
+obo:CLO_0051029
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Mouse bone marrow-derived stromal cells."
+obo:CLO_0051030
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Mouse multipotent mesenchymal cells. Derived from bone marrow."
+obo:CLO_0051031
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Mouse mesenchymal cell line derived from bone marrow.　C3H/He"
+obo:CLO_0051032
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Mouse mesenchymal cell line derived from bone marrow.　C3H/He"
+obo:CLO_0051037
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Mouse mesenchymal cell line derived from bone marrow.　C3H/He"
+obo:CLO_0051033
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Mouse mesenchymal cell line derived from bone marrow.　C3H/He"
+obo:CLO_0051034
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Mouse mesenchymal cell line derived from bone marrow.　C3H/He"
+obo:CLO_0051045
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Mouse mesenchymal cell line derived from bone marrow.　C57/B6."
+obo:CLO_0051035
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Mouse mesenchymal cell line derived from bone marrow.　C3H/He"
+obo:CLO_0051036
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Mouse mesenchymal cell line derived from bone marrow.　C3H/He"
+obo:CLO_0051026
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Mouse cell line derived from bone marrow. Fibroblast-like cells. BALB/c strain. TKG0355(Deposited from Tohoku Univ.)."
+obo:CLO_0051027
+  D "A immortal mouse bone marrow-derived cell line cell that has the characteristics: Mouse cell line derived from bone marrow. Fibroblast-like. BudR resistant. BALB/c strain.  TKG0356(Deposited from Tohoku Univ.)."
+obo:CLO_0000611
+  D "An immortal brain-derived cell line cell that derives from cat."
+obo:CLO_0000626
+  D "An immortal brain-derived cell line cell that derives from ferret."
+obo:CLO_0000517
+  D "An immortal brain-derived cell line cell that derives from human."
+obo:CLO_0000591
+  D "An immortal brain-derived cell line cell that derives from mouse."
+obo:CLO_0000670
+  D "An immortal brain-derived cell line cell that derives from rat."
+obo:CLO_0000712
+  D "An immortal brain-derived cell line cell that derives from sheep."
+obo:CLO_0001072
+  D "Human astrocytoma cell line."
+obo:CLO_0002699
+  D "Human medulloblastoma cell line."
+obo:CLO_0003450
+  D "Human glioblastoma cell line."
+obo:CLO_0004046
+  D "Human brain glioma cell line. Hs 683 was isolated from explant cultures of a glioma taken from the left temporal lobe of a 76 year old male Caucasian."
+obo:CLO_0007362
+  D "Human brain, cerebrum; right temporal lobe, glioblastoma; glioma; grade IV cell line; established from a 65 years old white male."
+obo:CLO_0007363
+  D "Human brain, right frontal parieto-occipital cortex, glioblastoma cell line; established from a 60 years old white female."
+obo:CLO_0050639
+  D "A immortal human brain-derived cell line cell that has the characteristics: Glioma, S-100 Protein producing. Cell growth is slow."
+obo:CLO_0050633
+  D "A immortal human brain-derived cell line cell that has the characteristics: Human malignant meningioma."
+obo:CLO_0050634
+  D "A immortal human brain-derived cell line cell that has the characteristics: Human glioma separated from gliosarcoma."
+obo:CLO_0050638
+  D "A immortal human brain-derived cell line cell that has the characteristics: Human brain derived lymphoma."
+obo:CLO_0050635
+  D "A immortal human brain-derived cell line cell that has the characteristics: Human cell line derived from astrocytoma developed in a patient with NF-1 (neurofibromatosis type 1)"
+obo:CLO_0050145
+  D "A immortal human cell line cell that has the characteristics: Human neuroblastoma cell line. TKG0460(Deposited from Tohoku Univ.)."
+obo:CLO_0050640
+  D "A immortal human brain-derived cell line cell that has the characteristics: Human cell line derived from glioblastoma. TKG0453(Deposited from Tohoku Univ.)."
+obo:CLO_0009902
+  D "Human malignant CNS glioma cell line."
+obo:CLO_0009054
+  D "Neuroblastoma cell line derived in 1978 from a bone marrow metastasis from a 2 years old caucasian female child with poorly differentiated embryonal neuroblastoma."
+obo:CLO_0009093
+  D "Human glioblastoma cell line; established from the surgical resection of a left parieto-occipital glioblastoma from a 47-year-old man in 1980."
+obo:CLO_0009452
+  D "Human glioblastoma cell line; established from a 47 years old human male."
+obo:CLO_0009456
+  D "Human glioma cell line. Morphology: glial; Species: human; Tumor: glioma."
+obo:CLO_0037276
+  A U87/vIII
+obo:CLO_0050637
+  D "A immortal human brain-derived cell line cell that has the characteristics: Human cell line derived from glioblastoma. TKG0183(Deposited from Tohoku Univ.)."
+obo:CLO_0050266
+  D "A immortal somatic nervous system-derived cell line cell that has the characteristics: N-myc gene amplification. Cell growth is slow."
+obo:CLO_0001894
+  D "Mouse brain tumor cell line. Established from a mouse tumor induced by nitrosoethylurea with properties characteristic of muscle; cells were described to synthesize adenylate and creatine phosphokinases."
+obo:CLO_0050904
+  D "A immortal mouse brain-derived cell line cell that has the characteristics: ori- SV40 DNA transformed C3H mouse brain-derived cells. GFAP+ astrocytes and GFAP- origodendrocytes"
+obo:CLO_0050905
+  D "A immortal mouse brain-derived cell line cell that has the characteristics: Mouse microglial cell line immortalized by a replication-deficient retroviral vector containing human c-myc gene. No significant production of infectious viral particles from MG6 cells was confirmed by bioassay using SC-1 cells."
+obo:CLO_0051386
+  D "A immortal rat brain-derived cell line cell that has the characteristics: Astroglia cell line"
+obo:CLO_0051385
+  D "A immortal rat brain-derived cell line cell that has the characteristics: Astroglia cell line. Possible to culture in DMEM medium. See RCB0075."
+obo:CLO_0051388
+  D "A immortal rat brain-derived cell line cell that has the characteristics: Rat cell line derived from glioma induced by N-nitrosomethylurea. TKG0242 (Deposited from Tohoku Univ.)."
+obo:CLO_0051387
+  D "A immortal rat brain-derived cell line cell that has the characteristics: Rat cell line derived from glial cell tumor induced by N-nitrosomethylurea. TKG0589(Deposited from Tohoku Univ.)."
+obo:CLO_0051389
+  D "A immortal rat brain-derived cell line cell that has the characteristics: Rat neuronal cell line derived from the ventrolateral region of the suprachiasmatic nucleus"
+obo:CLO_0051390
+  D "A immortal rat brain-derived cell line cell that has the characteristics: Rat neuronal cell line derived from the ventrolateral region of the suprachiasmatic nucleus"
+obo:CLO_0000578
+  D "An immortal breast-derived cell line cell that derives from human."
+obo:CLO_0000569
+  D "An immortal breast-derived cell line cell that derives from mouse."
+obo:CLO_0002041
+  D "Human, Caucasian, breast, carcinoma cell line. Morphology: epithelial-like; species: human, Caucasian female 74 years old; tissue: breast; tumor: carcinoma."
+obo:CLO_0003626
+  D "Human mammary gland breast carcinoma cell line, established from a 27 years old caucasian female."
+obo:CLO_0037194
+  D "An immortal human epithelial cell line cell that derives from human breast."
+obo:CLO_0037180
+  D "Human mammary epithelial cell line."
+obo:CLO_0007606
+  D "Human breast adenocarcinoma, established from the pleural effusion of a 69-year-old caucasian woman with metastatic mammary carcinoma (after radio- and hormone therapy) in 1970; cells were described of being positive for cytoplasmic estrogen receptors and having the capability to form domes."
+  A MCF7
+  A MCF-7 细胞
+  A MCF-7 cell
+  A MCF 7 cell
+  A MCF 7 细胞
+obo:CLO_0007634
+  A MDA-MB-231
+obo:CLO_0007636
+  D "Human mammary gland adenocarcinoma cell line; established from a 40-year-old caucasian female."
+obo:CLO_0007639
+  D "Human breast cancer cell line that expresses high levels of seprase as do the carcinoma cells in tumors of human breast cancer patients."
+obo:CLO_0007641
+  D "Homo sapiens (human) mammary gland adenocarcinoma cell line. It was isolated in 1977 by R. Cailleau, et al., from a pleural effusion of a 51-year-old Black female patient with metastatic adenocarcinoma of the breast."
+obo:CLO_0050866
+  D "A immortal human breast-derived cell line cell that has the characteristics: Human malignant mesothelioma. CA19-9, CA125, and hyaluronic acid producing. Cell growth is slow."
+obo:CLO_0009251
+  D "Human ductal breast carcinoma ductal cell line. Morphology: epithelial-likeSpecies: human female 54 years old; Tissue: breast; Tumor: carcinoma, ductal; Derived from: T47, originally derived from pleural effusion."
+obo:CLO_0037240
+  D "The MCF10A-Er-Src cells are derived from the MCF-10A parental cells and contain ER-Src, a derivative of the Src kinase oncoprotein (v-Src) that is fused to the ligand-binding domain of the estrogen receptor (ER)."
+obo:CLO_0050868
+  D "A immortal human breast-derived cell line cell that has the characteristics: Human cell line derived from breast adenocarcinoma. TKG0479 (Deposited from Tohoku Univ.)."
+obo:CLO_0050867
+  D "A immortal human breast-derived cell line cell that has the characteristics: Human breast carcinoma established from an effusion."
+obo:CLO_0002926
+  D "EMT6 is a transplantable mouse mammary tumor cell line."
+obo:CLO_0003370
+  D "Mouse mammary carcinoma cell line."
+obo:CLO_0050860
+  D "A immortal mouse breast-derived cell line cell that has the characteristics: Topoisomerase II inhibitor VP-16 resistant FM3A mutant."
+obo:CLO_0000641
+  D "An immortal bronchus-derived cell line cell that derives from human."
+obo:CLO_0004329
+  D "Immortalized cell line created in 1992 from a primary culture of bronchial epithelial cells isolated from a patient with cystic fibrosis."
+obo:CLO_0008935
+  D "The S9 cell line and the C38 cell line were derived from the IB3-1 cell line."
+obo:CLO_0000880
+  D "An immortal buttock-derived cell line cell that derives from human."
+obo:CLO_0000514
+  D "An immortal caecum-derived cell line cell that derives from human."
+obo:CLO_0008108
+  D "A cell line derived from a poorly differentiated adenocarcinoma of the caecum."
+obo:CLO_0050153
+  D "A immortal cat cell line cell that has the characteristics: Cat cell line derived from lymphoma."
+obo:CLO_0050472
+  D "A immortal cattle cell line cell that has the characteristics: Useful for bovine virus testing"
+obo:CLO_0050470
+  D "A immortal cattle cell line cell that has the characteristics: Bovine B cell leukemia without virus production"
+obo:CLO_0050469
+  D "A immortal cattle cell line cell that has the characteristics: Bovine leukemia virus producing. Surface Ig (+)."
+obo:CLO_0050473
+  D "A immortal cattle cell line cell that has the characteristics: Bovine pulmonary artery endothelial cells producing angiotensin-converting enzyme. Bovine Viral Diarrhea Virus (BVDV) positive. Backup of ECA86111401."
+obo:CLO_0050471
+  D "A immortal cattle cell line cell that has the characteristics: Bovine granulosa cell line."
+obo:CLO_0000736
+  D "An immortal cerebral lobe-derived cell line cell that derives from crayfish."
+obo:CLO_0051573
+  D "A immortal Chinese hamster cell line cell that has the characteristics: Chinese hamster lung fibroblast"
+obo:CLO_0051574
+  D "A immortal Chinese hamster cell line cell that has the characteristics: Pseudodiploid, two marker chromosomes"
+obo:CLO_0051575
+  D "A immortal Chinese hamster cell line cell that has the characteristics: Widely used in chromosome aberration test"
+obo:CLO_0051583
+  D "A immortal Chinese hamster cell line cell that has the characteristics: Smooth muscle cell sarcoma from Chinese hamster."
+obo:CLO_0051572
+  D "A immortal Chinese hamster cell line cell that has the characteristics: H2O2 resistant Chinese Hamster V79 cells"
+obo:CLO_0051582
+  D "A immortal Chinese hamster cell line cell that has the characteristics: Chinese hamster cell line. Epithelial-like adherent cells."
+obo:CLO_0051576
+  D "A immortal Chinese hamster cell line cell that has the characteristics: A subline of the V79 cell line following cloning. Widely used for radiation biology, mutagenesis and mammalian cell genetics."
+obo:CLO_0051578
+  D "A immortal Chinese hamster cell line cell that has the characteristics: X-ray-sensitive mutant derived from the V79 cell line. XRCC8 gene deficient."
+obo:CLO_0051579
+  D "A immortal Chinese hamster cell line cell that has the characteristics: A subline of the V79 cell line. X-ray-sensitive mutant. XRCC8 gene deficient."
+obo:CLO_0051577
+  D "A immortal Chinese hamster cell line cell that has the characteristics: A subline of the V79 cell line. Widely used for radiation biology, mutagenesis and mammalian cell genetics."
+obo:CLO_0051581
+  D "A immortal Chinese hamster cell line cell that has the characteristics: A subline of the V79B cell line. X-ray-sensitive mutant. XRCC5(ku80) gene deficient."
+obo:CLO_0051580
+  D "A immortal Chinese hamster cell line cell that has the characteristics: A subline of the V79 cell line. X-ray-sensitive mutant. XRCC5(ku80) gene deficient."
+obo:CLO_0000884
+  D "An immortal chordate pharynx-derived cell line cell that derives from human."
+obo:CLO_0002993
+  D "Human squamous cell carcinoma cell line of the hypopharynx."
+obo:CLO_0000528
+  D "An immortal chorion-derived cell line cell that derives from human."
+obo:CLO_0000521
+  D "An immortal collecting duct of renal tubule-derived cell line cell that derives from mouse."
+obo:CLO_0000620
+  D "An immortal colon-derived cell line cell that derives from guinea pig."
+obo:CLO_0000513
+  D "An immortal colon-derived cell line cell that derives from human."
+obo:CLO_0000993
+  D "An immortal colon-derived cell line cell that derives from mouse."
+obo:CLO_0000945
+  D "An immortal colon-derived cell line cell that derives from rat."
+obo:CLO_0002172
+  D "Human colon adenocarcinoma cell line, established from the primary colon tumor (adenocarcinoma) of a 72-year-old Caucasian man in 1974."
+obo:CLO_0002571
+  D "Human colorectal cancer cell line."
+obo:CLO_0002650
+  D "Human colon adenocarcinoma cell line; established from the tumor tissue of a 44-year-old woman with well-differentiated colon adenocarcinoma in 1984; cell line is a subclone of cell line HT-29."
+obo:CLO_0037195
+  D "An immortal human epithelial cell line cell that derives from human colon."
+obo:CLO_0007377
+  D "Human colon adenocarcinoma cell line, established from the metastatic nodule resected from a 56-year-old Caucasian man with colon adenocarcinoma in 1972."
+obo:CLO_0007403
+  D "Human Caucasian colon adenocarcinoma cell line."
+obo:CLO_0007404
+  D "Human, Caucasian, colon, adenocarcinoma, colorectal, cell line. Morphology: epithelial; Species: human, Caucasian female 58 year old; Tissue: colon; Tumor: adenocarcinoma, colorectal."
+obo:CLO_0050626
+  D "A immortal human colon-derived cell line cell that has the characteristics: Colon carcinoma. CEA-positive, nude mouse-transplantable."
+obo:CLO_0050627
+  D "A immortal human colon-derived cell line cell that has the characteristics: Human colon carcinoma. Backup of ECA86010202."
+obo:CLO_0050628
+  D "A immortal human colon-derived cell line cell that has the characteristics: Described to produce serotonin, epinephrine."
+obo:CLO_0050629
+  D "A immortal human colon-derived cell line cell that has the characteristics: Japanese colon carcinoma. Family of the patient also exhibited high risk, but not so-called HNPCC."
+obo:CLO_0050632
+  D "A immortal human colon-derived cell line cell that has the characteristics: CEA-producing colon adenocarcinoma. Back up culture of ECA2739. Cell growth is slow."
+obo:CLO_0050631
+  D "A immortal human colon-derived cell line cell that has the characteristics: Human colon cancer cell line derived from metastasis at ovary. Moderately differentiated adenocarcinoma. Cell growth is slow."
+obo:CLO_0050630
+  D "A immortal human colon-derived cell line cell that has the characteristics: Human cell line derived from colon cancer. Derived from ascites metastasis. TKG0457(Deposited from Tohoku Univ.). Cell growth is slow."
+obo:CLO_0009194
+  D "Human colon; colorectal adenocarcinoma cell line. Morphology: epithelial."
+obo:CLO_0009208
+  D "Homo sapiens (human) colon; colorectal adenocarcinoma cell line; established from a 73 year old caucasian male organism."
+obo:CLO_0009215
+  A SW403
+obo:CLO_0009216
+  D "Human colon; colorectal adenocarcinoma cell line. Morphology: epithelial."
+obo:CLO_0051586
+  D "A immortal rat colon-derived cell line cell that has the characteristics: Metastasis to liver, lung"
+obo:CLO_0051585
+  D "A immortal rat colon-derived cell line cell that has the characteristics: Metastasis to liver, lung"
+obo:CLO_0051584
+  D "A immortal rat colon-derived cell line cell that has the characteristics: Metastasis to liver"
+obo:CLO_0000575
+  D "An immortal comma-shaped body-derived cell line cell that derives from human."
+obo:CLO_0007638
+  D "This cell line was originally described as a spindle shaped variant of the parental MDA-MB-435 strain isolated from the pleural effusion of a 31 year old female with metastatic, ductal adenocarcinoma of the breast. However, recent studies have reported that this line is cross-contaminated with is the M14 melanoma line."
+obo:CLO_0000638
+  D "An immortal compact bone-derived cell line cell that derives from human."
+obo:CLO_0003663
+  D "A human cortical neuronal cell line, established from a 18 months old female patient that suffered from unilateral megalencephaly."
+obo:CLO_0003664
+  D "A human cortical neuronal cell line, established from a 7 years old female."
+obo:CLO_0000896
+  D "An immortal conjunctiva-derived cell line cell that derives from human."
+obo:CLO_0000870
+  D "An immortal connective tissue-derived cell line cell that derives from human."
+obo:CLO_0009758
+  D "An immortal connective tissue-derived cell line cell that derives from rat."
+obo:CLO_0000804
+  D "An immortal cornea-derived cell line cell that derives from European rabbit, rabbit."
+obo:CLO_0050408
+  D "A immortal cornea-derived cell line cell that has the characteristics: Normal rabbit cornea cells. Usually transform spontaneously during serial culture."
+obo:CLO_0050406
+  D "A immortal cornea-derived cell line cell that has the characteristics: This cell line is provided only  in Japan."
+obo:CLO_0050407
+  D "A immortal cornea-derived cell line cell that has the characteristics: Fibroblast-like cell line derived from rabbit."
+obo:CLO_0050405
+  D "A immortal cornea-derived cell line cell that has the characteristics: SV40-Adeno vector transformed cornea cells. 64kD keratin producing.  Choleratoxin-free medium."
+obo:CLO_0009019
+  D "Rabbit corneal fibroblast cell line."
+obo:CLO_0000461
+  D "An immortal dento-alveolar joint-derived cell line cell that derives from cattle."
+obo:CLO_0000678
+  D "An immortal dento-alveolar joint-derived cell line cell that derives from human."
+obo:CLO_0000692
+  D "An immortal dento-alveolar joint-derived cell line cell that derives from mouse."
+obo:CLO_0009766
+  D "An immortal dento-alveolar joint-derived cell line cell that derives from rainbow trout."
+obo:CLO_0000955
+  D "An immortal dento-alveolar joint-derived cell line cell that derives from rat."
+obo:CLO_0000908
+  D "An immortal dento-alveolar joint-derived cell line cell that derives from white-tufted-ear marmoset."
+obo:CLO_0008154
+  D "Mus musculus (mouse) brain neuroblastoma cell line. Clone Neuro-2a was established by R.J. Klebe and F.H. Ruddle from a spontaneous tumor of a strain A albino mouse."
+obo:CLO_0000943
+  D "An immortal dermis-derived cell line cell that derives from hagfish."
+obo:CLO_0000961
+  D "An immortal dermis-derived cell line cell that derives from horse."
+obo:CLO_0000802
+  D "An immortal dermis-derived cell line cell that derives from Syrian golden hamster."
+obo:CLO_0000855
+  D "An immortal duodenum-derived cell line cell that derives from human."
+obo:CLO_0051538
+  D "A immortal human duodenum-derived cell line cell that has the characteristics: Papillotubular adenocarcinoma of the Vater's papilla. Cell growth is slow."
+obo:CLO_0000080
+  D "a immortal electrically active cell line cell that is derived from electrically responsive cell"
+obo:CLO_0000081
+  D "a immortal electrically responsive cell line cell that is derived from neuron"
+obo:CLO_0000082
+  D "a immortal neuron cell line cell that is derived from bipolar neuron"
+obo:CLO_0000924
+  D "An immortal neuron cell line cell that derives from mouse."
+obo:CLO_0000084
+  D "a immortal neuron cell line cell that is derived from peripheral neuron"
+obo:CLO_0000664
+  D "An immortal neuron cell line cell that derives from rat."
+obo:CLO_0000085
+  D "a immortal neuron cell line cell that is derived from stellate cell"
+obo:CLO_0009746
+  D "An immortal bipolar neuron cell line cell that derives from human."
+obo:CLO_0000083
+  D "a immortal bipolar neuron cell line cell that is derived from ON-bipolar cell"
+obo:CLO_0002543
+  D "Human colonic adenocarcinoma cell line."
+obo:CLO_0000706
+  D "An immortal ON-bipolar cell line cell that derives from mouse."
+obo:CLO_0000595
+  D "An immortal peripheral neuron cell line cell that derives from cat."
+obo:CLO_0000733
+  D "An immortal peripheral neuron cell line cell that derives from channel catfish."
+obo:CLO_0000523
+  D "An immortal peripheral neuron cell line cell that derives from human."
+obo:CLO_0009764
+  D "An immortal peripheral neuron cell line cell that derives from pig."
+obo:CLO_0009752
+  D "An immortal peripheral neuron cell line cell that derives from rat."
+obo:CLO_0002334
+  D "Peripheral blood, T lymphoblast, acute lymphoblastic leukemia cell line. CCRF-CEM is a T lymphoblastoid cell line derived by G.E. Foley, et al. Cells were obtained in November, 1964 from peripheral blood buffy coat of a 4-year-old Caucasian female with acute lymphoblastic leukemia."
+  A CCRF-CEM
+obo:CLO_0002526
+  D "Human acute megakaryocytic leukemia; established from the peripheral blood of a 10-month-old boy with Down's syndrome and acute megakaryocytic leukemia (AML M7) at relapse in 1985."
+obo:CLO_0003775
+  D "Human acute myeloid leukemia established from the peripheral blood of a 35-year-old woman with acute myeloid leukemia (AML FAB M2) in 1976."
+  A HL-60
+obo:CLO_0003817
+  D "Human T cell leukemia cell line; established from the peripheral blood of a 14-year-old Japanese boy with ALL and thymoma at diagnosis in 1973."
+obo:CLO_0007069
+  D "Human acute myelocytic leukemia cell line; derived from the peripheral blood of a 7-year-old japanese boy with acute myelocytic leukemia in relapse after bone marrow transplantation."
+obo:CLO_0007068
+  D "Human acute myelocytic leukemia cell line; derived from the peripheral blood of a 7-year-old japanese boy with acute myelocytic leukemia in relapse after bone marrow transplantation."
+obo:CLO_0007124
+  D "Human chronic myeloid leukemia in myeloid blast crisis, established from the peripheral blood of a 38-year-old man with chronic myeloid leukemia (CML) in myeloid blast crisis; described to express basophilic features."
+obo:CLO_0007447
+  D "A subline of the M-07 human megakaryoblastic leukemia cell line."
+obo:CLO_0007824
+  D "Human T cell leukemia cell line; established from the peripheral blood of a 19-year-old man with acute lymphoblastic leukaemia, ALL, in relapse in 1971; sister cell line of MOLT-4."
+obo:CLO_0008235
+  D "Human acute myeloid leukemia cell line; established from the peripheral blood of a 65-year-old man with acute myeloid leukemia."
+obo:CLO_0008236
+  D "Human acute myeloid leukemia cell line; established from the peripheral blood of a 77-year-old man with acute myeloid leukemia."
+obo:CLO_0008457
+  D "Human acute myeloid leukemia (derivative of HL-60). PLB-985 is a subclone of cell line HL-60."
+obo:CLO_0000481
+  D "An immortal embryo-derived cell line cell that derives from cat."
+obo:CLO_0000610
+  D "An immortal embryo-derived cell line cell that derives from chicken."
+obo:CLO_0000931
+  D "An immortal embryo-derived cell line cell that derives from Chinese hamster."
+obo:CLO_0000928
+  D "An immortal embryo-derived cell line cell that derives from Chinook salmon."
+obo:CLO_0000980
+  D "An immortal embryo-derived cell line cell that derives from Drosophila hydei."
+obo:CLO_0000538
+  D "An immortal embryo-derived cell line cell that derives from Drosophila melanogaster."
+obo:CLO_0000964
+  D "An immortal embryo-derived cell line cell that derives from duck."
+obo:CLO_0000482
+  D "An immortal embryo-derived cell line cell that derives from European rabbit, rabbit."
+obo:CLO_0000987
+  D "An immortal embryo-derived cell line cell that derives from fruit fly."
+obo:CLO_0000705
+  D "An immortal embryo-derived cell line cell that derives from gastropod."
+obo:CLO_0000503
+  D "An immortal embryo-derived cell line cell that derives from mouse."
+obo:CLO_0000861
+  D "An immortal embryo-derived cell line cell that derives from Neobatrachia."
+obo:CLO_0000710
+  D "An immortal embryo-derived cell line cell that derives from plantain squirrel."
+obo:CLO_0000958
+  D "An immortal embryo-derived cell line cell that derives from rat."
+obo:CLO_0000929
+  D "An immortal embryo-derived cell line cell that derives from Salmonidae."
+obo:CLO_0000918
+  D "An immortal embryo-derived cell line cell that derives from sockeye salmon."
+obo:CLO_0000757
+  D "An immortal embryo-derived cell line cell that derives from swordtail platyfish."
+obo:CLO_0000803
+  D "An immortal embryo-derived cell line cell that derives from Syrian golden hamster."
+obo:CLO_0000504
+  D "An immortal embryo-derived cell line cell that derives from turnip moth."
+obo:CLO_0000944
+  D "An immortal embryo-derived cell line cell that derives from white bass."
+obo:CLO_0000878
+  D "An immortal embryo-derived cell line cell that derives from zebra fish."
+obo:CLO_0050255
+  D "A immortal embryo-derived cell line cell that has the characteristics: Highly metastatic sarcoma"
+obo:CLO_0050254
+  D "A immortal embryo-derived cell line cell that has the characteristics: Highly metastatic sarcoma"
+obo:CLO_0050253
+  D "A immortal embryo-derived cell line cell that has the characteristics: Highly metastatic sarcoma, synthesize hematoside"
+obo:CLO_0050260
+  D "A immortal embryo-derived cell line cell that has the characteristics: Primary culture of suncus whole embryo"
+obo:CLO_0050256
+  D "A immortal embryo-derived cell line cell that has the characteristics: Initially insulin and glucagon producing, but not now. See RCB0795,0796,0797."
+obo:CLO_0050258
+  D "A immortal embryo-derived cell line cell that has the characteristics: Human embryonic pancreas-derived cell line. See RCB0794,0796,0797."
+obo:CLO_0050259
+  D "A immortal embryo-derived cell line cell that has the characteristics: Human embryonic pancreas-derived cell line. See RCB0794,0795,0797."
+obo:CLO_0050257
+  D "A immortal embryo-derived cell line cell that has the characteristics: Human embryonic pancreas-derived cell line. See RCB0794,0795,0796."
+obo:CLO_0050770
+  D "A immortal Drosophila melanogaster embryo-derived cell line cell that has the characteristics: Fruit fly Oregon-R derived cell line. Highly sensitive in RNA interference compared with CHO-K1."
+obo:CLO_0008922
+  D "The hybridoma line S2 has been obtained by fusion of the myeloma P3x63 Ag6.653 and spleen cells from (C57 BL/6 x BALB/c) F1 female mice after a single i.p. injection of lymphoblastoid cells."
+obo:CLO_0007079
+  D "Drosophila embryo cell line. Morphology: Semi-Adherent."
+obo:CLO_0002405
+  D "Mouse embryonic stem cell line. The germ-line competent cell line CGR8 was established from the inner cell mass of a 3.5 day male pre-implantation mouse embryo; mus musculus, strain 129."
+obo:CLO_0050542
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Contact-inhibited semi-normal cell line"
+obo:CLO_0050549
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Spontaneous transformant of NIH3T3"
+obo:CLO_0050550
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: SV40 large T (tsA58)-pBR322 tarnsformed NIH3T3."
+obo:CLO_0050543
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Original cloned line from RCB, just like BALB/3T3"
+obo:CLO_0050541
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Siblings of RGB3T3-1, contact-inhibited"
+obo:CLO_0050546
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Clone 8, Contact-inhibited semi-normal"
+obo:CLO_0050525
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Non-contact inhibited"
+obo:CLO_0050530
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Tioguanine- and ouabain-resistant and HAT-sensitive fibroblasts. Suitable for ES cell feeder layer. Back up culture of ECA85061804."
+obo:CLO_0050551
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: NIH3T3 transformant expressing human activated k-ras-2."
+obo:CLO_0050552
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: pSV2neo-introduced G418-resistant Cle-H3 mutant."
+obo:CLO_0050536
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Differentiate to chondrocytes, unidentifiable pigment cells. Teratocarcinoma AT805 derived."
+obo:CLO_0050554
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: High-titer producer of MoMLV-derived retrovirus. A subline of ψCRIP."
+obo:CLO_0050555
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including mouse GM-CSF cDNA"
+obo:CLO_0050556
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: High-titer producer of MoMLV-derived retrovirus including mouse IL-1alpha cDNA."
+obo:CLO_0050557
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: High-titer producer of MoMLV-derived retrovirus including mouse IL-1 receptor antagonist cDNA"
+obo:CLO_0050558
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: High-titer producer of MoMLV-derived retrovirus including mouse IL-2 cDNA"
+obo:CLO_0050559
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including mouse IL-3 cDNA"
+obo:CLO_0050586
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including mouse IL-4 cDNA"
+obo:CLO_0050560
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including mouse IL-6 cDNA"
+obo:CLO_0050561
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including mouse IL-7 cDNA"
+obo:CLO_0050562
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including mouse IL-10 cDNA"
+obo:CLO_0050563
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including mouse IL-12 cDNA for p40 subunit. Refer RCB1099."
+obo:CLO_0050564
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including mouse IL-12 cDNA for p35 subunit. Refer RCB1098."
+obo:CLO_0050565
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including mouse TNF-alpha gene."
+obo:CLO_0050566
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including human TNF-alpha cDNA."
+obo:CLO_0050567
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including mouse lymphotoxin cDNA."
+obo:CLO_0050568
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including mouse G-CSF gene."
+obo:CLO_0050569
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including human M-CSF gene."
+obo:CLO_0050570
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: High-titer producer of MoMLV-derived retrovirus including mouse IFN-gamma cDNA."
+obo:CLO_0050571
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including human MIF cDNA."
+obo:CLO_0050572
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including mouse leukemia inhibitory factor cDNA."
+obo:CLO_0050573
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including mouse kit ligand (SCF) cDNA."
+obo:CLO_0050574
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including human oncostatin M cDNA."
+obo:CLO_0050575
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including mouse B7 (CD80) cDNA."
+obo:CLO_0050576
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including mouse B7-2 (CD86) cDNA."
+obo:CLO_0050577
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including the trancated form of mouse IFN-gamma cDNA."
+obo:CLO_0050578
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including rabbit IL-1 receptor antagonist cDNA."
+obo:CLO_0050579
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including rat GM-CSF cDNA."
+obo:CLO_0050580
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including neo gene."
+obo:CLO_0050581
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including HSV thymidine kinase cDNA."
+obo:CLO_0050582
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Producer of MoMLV-derived retrovirus including mouse c-src cDNA with ts mutation."
+obo:CLO_0050583
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: High-titer producer of MoMLV-derived retrovirus including mouse c-src cDNA with ts mutation."
+obo:CLO_0050584
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: High-titer producer of MoMLV-derived retrovirus including SV40 large T temperature-sensitive cDNA."
+obo:CLO_0050587
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: High-titer producer of MoMLV-derived retrovirus including SV40 large T temperature-sensitive cDNA."
+obo:CLO_0050544
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Mouse cell line derived from embryonal carcinoma. C3H strain. Following differentiation, beating cardiomyocytes appear. The efficiency of differentiation is lower compared to RCB 2318."
+obo:CLO_0050539
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Said to differentiate to parietal endoderm with retinoic acid and dibutyryl cAMP."
+obo:CLO_0050604
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Subline of ψCRIP that produce virus to express LacZ possessing nuclear localization signal."
+obo:CLO_0050588
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Retrovirus producer. Produce virus to express human Bax protein."
+obo:CLO_0050589
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Cell line producing retrovirus to express angiotensin receptor."
+obo:CLO_0050590
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Cell line producing retrovirus to express the human CD82."
+obo:CLO_0050591
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Cell line producing retrovirus to express the anti-apoptotic crmA."
+obo:CLO_0050592
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Cell line producing retrovirus to express the human endothelin receptor."
+obo:CLO_0050593
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Cell line producing retrovirus to express the mouse calcineurin."
+obo:CLO_0050594
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Cell line producing retrovirus to express lac Z."
+obo:CLO_0050595
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Cell line producing retrovirus to express SV40 large T antigen."
+obo:CLO_0050596
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Cell line producing retrovirus to express human MSH receptor."
+obo:CLO_0050597
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Cell line producing retrovirus to express Cre recombinase."
+obo:CLO_0050598
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Cell line producing retrovirus to express human p53 and blasticidin S deaminase gene."
+obo:CLO_0050599
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Cell line producing retrovirus to express human Bcl-xL and blasticidin S deaminase gene."
+obo:CLO_0050600
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Cell line producing retrovirus to express human FAS and human CD80."
+obo:CLO_0050601
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Cell line producing retrovirus to express human secretin receptor and blasticidin S deaminase gene."
+obo:CLO_0050602
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Cell line producing retrovirus to express human somatostatin receptor and blasticidin S deaminase gene."
+obo:CLO_0050603
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Cell line producing retrovirus to express a truncated form of mouse calcineurin and blasticidin S deaminase gene."
+obo:CLO_0050585
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Cell line producing retrovirus to express human VIP receptor and blasticidin S deaminase gene."
+obo:CLO_0050533
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Mouse teratoma-derived cell line. Parent cell line of ATDC5."
+obo:CLO_0050538
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Mouse teratoma-derived cell line."
+obo:CLO_0050547
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Subline of A-6. Dependent on SCF and IL-6 for proliferation. Differentiate to erythroid cells by IL-3."
+obo:CLO_0050553
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Subclone of NIH3T3"
+obo:CLO_0050531
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: RBP-J deficient mouse fibroblasts"
+obo:CLO_0050532
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Control cell line for OT11 (normal fibroblasts derived from the same mouse strain)"
+obo:CLO_0050529
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line lacking p38 MAP kinase expression."
+obo:CLO_0050528
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Subline of KOP cell line, expressing FLAG-tagged p38 MAP kinase. Zeocin-resistant."
+obo:CLO_0050527
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Subline of KOP cell line, expressing FLAG-tagged EXIP. Zeocin-resistant."
+obo:CLO_0050526
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Subline of KOP cell line. Zeocin-resistant."
+obo:CLO_0050534
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Mouse cell line derived from embryonal carcinoma. Expressing laminin alpha-5 exogenously."
+obo:CLO_0050535
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Mouse cell line derived from embryonal carcinoma. Expressing laminin alpha-5 exogenously."
+obo:CLO_0050545
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Mouse cell line derived from embryonal carcinoma. C3H strain. Following differentiation, beating cardiomyocytes appear efficiently."
+obo:CLO_0050537
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Mouse cell line derived from embryonal carcinoma. 129 strain. TKG0519(Deposited from Tohoku Univ.)."
+obo:CLO_0050605
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: A subline of the NIH/3T3 cell line. Transformed lymphoblast-like cells. Swiss strain.TKG0300(Deposited from Tohoku Univ.). TKG0300(Deposited from Tohoku Univ.). Cell growth is slow."
+obo:CLO_0050548
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Mouse fibroblast-like cell line. TKG0299 (Deposited from Tohoku Univ.)."
+obo:CLO_0050540
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: A subline of mouse ES cell line, F9 (129), lacking Odf2."
+obo:CLO_0009227
+  D "An immortal line of fibroblast like cells established from whole trypsinised embryos of Swiss mice (not an inbred stock) under conditions that favour establishment of cells with low saturation density in culture."
+obo:CLO_0050606
+  D "A immortal mouse embryo-derived cell line cell that has the characteristics: Embryonal cell line derived from wild mouse. Sensitive to leukemia viruses."
+obo:CLO_0051587
+  D "A immortal rat embryo-derived cell line cell that has the characteristics: Suitable as feeders for hybridoma cloning"
+obo:CLO_0000973
+  D "An immortal endocervix-derived cell line cell that derives from human."
+obo:CLO_0000725
+  D "An immortal endothelium-derived cell line cell that derives from cattle."
+obo:CLO_0000555
+  D "An immortal endothelium-derived cell line cell that derives from mouse."
+obo:CLO_0002020
+  D "Bovine pulmonary artery endothelial cell line."
+obo:CLO_0000759
+  D "An immortal epidermis-derived cell line cell that derives from human."
+obo:CLO_0000572
+  D "An immortal epithelium-derived cell line cell that derives from human."
+obo:CLO_0000925
+  D "An immortal esophagus-derived cell line cell that derives from goat."
+obo:CLO_0000656
+  D "An immortal esophagus-derived cell line cell that derives from human."
+obo:CLO_0008240
+  D "Human caucasian oesophageal carcinoma cell line, established from the adenocarcinoma of the lower oesophagus (Barrett's metaplasia) of a 73 year old female patient. The tumour was identified as pathological stage IIA (UICC) and showed poor differentiation."
+obo:CLO_0051378
+  D "A immortal human esophagus-derived cell line cell that has the characteristics: Produce hypercalcemia in nude mice. PTH-related protein, IL-1alpha producing."
+obo:CLO_0051369
+  D "A immortal human esophagus-derived cell line cell that has the characteristics: Human cell line derived from esophageal cancer. Squamous cell carcinoma. TKG0462(Deposited from Tohoku Univ.)."
+obo:CLO_0051375
+  D "A immortal human esophagus-derived cell line cell that has the characteristics: Human cell line derived from poorly differntiated esophageal squamous cell carcinoma. Not transplantable to nude mouse. TKG0256 (Deposited from Tohoku Univ.)."
+obo:CLO_0051376
+  D "A immortal human esophagus-derived cell line cell that has the characteristics: Highly differentiated squamous carcinoma (esophagus), not transplantable to nude mouse. 　A culture submitted to the Cell Resource Center for Biomedical Research was found to be contaminated with mycoplasma. Progeny were cured by Treatments with BM Cyclin and MC210. TKG0257 (Deposited from Tohoku Univ.)."
+obo:CLO_0051370
+  D "A immortal human esophagus-derived cell line cell that has the characteristics: Human cell line derived from esophageal cancer (highly differentiated squamous cell carcinoma). Not transplantable to nude mouse. TKG0266 (Deposited from Tohoku Univ.)."
+obo:CLO_0051379
+  D "A immortal human esophagus-derived cell line cell that has the characteristics: Human esophageal squamous cell carcinoma (poorly differentiated) cell line. Not transplantable to nude mouse. TKG0260 (Deposited from Tohoku Univ.)."
+obo:CLO_0051377
+  D "A immortal human esophagus-derived cell line cell that has the characteristics: Human cell line derived from esophageal cancer. Highly differentiated squamous cell carcinoma.TKG0255(Deposited from Tohoku Univ.)."
+obo:CLO_0051371
+  D "A immortal human esophagus-derived cell line cell that has the characteristics: Human cell line derived from esophageal cancer. Moderately differentiated squamous cell carcinoma. TKG0259(Deposited from Tohoku Univ.)."
+obo:CLO_0051372
+  D "A immortal human esophagus-derived cell line cell that has the characteristics: Human cell line derived from esophageal cancer. Highly differentiated squamous cell carcinoma. TKG0261(Deposited from Tohoku Univ.)."
+obo:CLO_0051373
+  D "A immortal human esophagus-derived cell line cell that has the characteristics: Human cell line derived from esophageal cancer. Moderately differentiated squamous cell carcinoma. TKG0262(Deposited from Tohoku Univ.)."
+obo:CLO_0051374
+  D "A immortal human esophagus-derived cell line cell that has the characteristics: Human cell line derived from esophageal cancer. Moderately differentiated squamous cell carcinoma. TKG0265(Deposited from Tohoku Univ.)."
+obo:CLO_0000128
+  D "a immortal eukaryotic cell line that is derived from animal cell"
+obo:CLO_0000125
+  D "a immortal eukaryotic cell line that is derived from vegetative cell (sensu Mycetozoa)"
+obo:CLO_0000129
+  D "a immortal animal cell line that is derived from epithelial cell"
+obo:CLO_0000076
+  D "a immortal contractile cell line cell that is derived from muscle cell"
+obo:CLO_0000075
+  D "a immortal contractile cell line cell that is derived from myofibroblast cell"
+obo:CLO_0000090
+  D "a immortal seminiferous tubule epithelial cell line cell that is derived from spermatocyte"
+obo:CLO_0000962
+  D "An immortal epithelial cell line cell that derives from dog."
+obo:CLO_0000141
+  D "a immortal epithelial cell line that is derived from epithelial cell of lung"
+obo:CLO_0000326
+  D "An immortal epithelial cell line cell that derives from eye structure."
+obo:CLO_0000563
+  D "An immortal epithelial cell line cell that derives from human."
+obo:CLO_0000535
+  D "An immortal epithelial cell line cell that derives from mouse."
+obo:CLO_0000385
+  D "An immortal epithelial cell line cell that derives from organism part."
+obo:CLO_0000897
+  D "An immortal epithelial cell line cell that derives from rat."
+obo:CLO_0000389
+  D "An immortal epithelial cell line cell that derives from retina structure."
+obo:CLO_0000135
+  D "a immortal epithelial cell line that is derived from squamous epithelial cell"
+obo:CLO_0009775
+  D "An immortal epithelial cell line cell that derives from Syrian golden hamster."
+obo:CLO_0000283
+  D "An immortal epithelial cell line cell that derives from uterine cervix."
+obo:CLO_0000763
+  D "An immortal eye structure-derived epithelial cell line cell that derives from European rabbit, rabbit."
+obo:CLO_0009819
+  D "An immortal eye structure-derived epithelial cell line cell that derives from mouse."
+obo:CLO_0009818
+  D "An immortal eye structure-derived epithelial cell line cell that derives from pig."
+obo:CLO_0003358
+  D "Human amnion epithelial cell line."
+obo:CLO_0003707
+  D "Human Caucasian larynx carcinoma cell line with HeLa Characteristics."
+obo:CLO_0037196
+  D "An immortal human epithelial cell line cell that derives from human uterine cervix."
+obo:CLO_0006955
+  D "Human Caucasian embryonic intestine, HeLa characteristics."
+obo:CLO_0007074
+  D "Human cervix carcinoma (derivative of HELA) originally described as epidermoid carcinoma established from the mouth of a Caucasian man in 1954; however, as shown by DSMZ DNA fingerprinting this cell line must be considered an HELA subclone."
+obo:CLO_0009324
+  D "Human embryonal carcinoma (teratocarcinoma). NTERA-2 was cloned from cell line TERA-2 which was derived from a metastatic teratocarcinoma of a 22-year-old Caucasian male."
+obo:CLO_0009633
+  D "Hela cells containing human papilloma viral (HPV) DNA sequences."
+obo:CLO_0050767
+  D "A immortal mouse epithelial cell line cell that has the characteristics: Metastatic epithelial cell"
+obo:CLO_0009802
+  D "An immortal organism part-derived epithelial cell line cell that derives from human."
+obo:CLO_0009645
+  D "Rat XC sarcoma cell line, derived from a Rous sarcoma virus-induced Wistar strain rat tumor. XC forms syncytia when cultured in the presence of murine leukemia virus-producing mouse cells. However, one XC cell culture (designated as XC-v cells), found to produce type C virus particles, fails to form syncytia in the presence of murine leukemia virus-producing mouse cells."
+obo:CLO_0009807
+  D "An immortal retina structure-derived epithelial cell line cell that derives from human."
+obo:CLO_0000139
+  D "a immortal squamous epithelial cell line that is derived from epidermal cell"
+obo:CLO_0000088
+  D "a immortal lining cell line cell that is derived from mesothelial cell"
+obo:CLO_0000136
+  D "a immortal squamous epithelial cell line that is derived from stratified squamous epithelial cell"
+obo:CLO_0009784
+  D "An immortal epidermal cell line cell that derives from hagfish."
+obo:CLO_0000325
+  D "An immortal mesothelial cell line cell that derives from lung."
+obo:CLO_0000373
+  D "An immortal mesothelial cell line cell that derives from organism part."
+obo:CLO_0000089
+  D "a immortal mesothelial cell line cell that is derived from seminiferous tubule epithelial cell"
+obo:CLO_0000762
+  D "An immortal lung-derived mesothelial cell line cell that derives from cattle."
+obo:CLO_0000761
+  D "An immortal lung-derived mesothelial cell line cell that derives from rat."
+obo:CLO_0000985
+  D "An immortal organism part-derived mesothelial cell line cell that derives from human."
+obo:CLO_0000636
+  D "An immortal uterine cervix-derived epithelial cell line cell that derives from human."
+obo:CLO_0000168
+  D "a immortal epithelial cell line cell that is derived from HeLa cell"
+obo:CLO_0003685
+  D "Human epitheloid cervix carcinoma cell line from a black female."
+obo:CLO_0003698
+  D "Human epitheloid cervix carcinoma cell line from a black female."
+obo:CLO_0000661
+  D "An immortal muscle cell line cell that derives from human."
+obo:CLO_0000581
+  D "An immortal muscle cell line cell that derives from mouse."
+obo:CLO_0009754
+  D "An immortal muscle cell line cell that derives from rat."
+obo:CLO_0000077
+  D "a immortal muscle cell line cell that is derived from skeletal muscle cell"
+obo:CLO_0000078
+  D "a immortal muscle cell line cell that is derived from smooth muscle cell"
+obo:CLO_0051382
+  D "A immortal human muscle cell line cell that has the characteristics: Mixed mesodermal tumor consists of adenocarcinoma and rhabdomyosarcoma. Cell growth is slow."
+obo:CLO_0050871
+  D "A immortal mouse muscle cell line cell that has the characteristics: Said differentiate to myotubes, but need confirmation. Backup of ECA91031101."
+obo:CLO_0050870
+  D "A immortal mouse muscle cell line cell that has the characteristics: A-Jackson mouse-derived histiocyte-like cells from spontaneous sarcoma."
+obo:CLO_0009755
+  D "An immortal skeletal muscle cell line cell that derives from rat."
+obo:CLO_0000392
+  D "An immortal smooth muscle cell line cell that derives from carotid artery."
+obo:CLO_0000332
+  D "An immortal smooth muscle cell line cell that derives from common iliac artery."
+obo:CLO_0000331
+  D "An immortal smooth muscle cell line cell that derives from iliac vein."
+obo:CLO_0000314
+  D "An immortal smooth muscle cell line cell that derives from organism part."
+obo:CLO_0000388
+  D "An immortal smooth muscle cell line cell that derives from pulmonary artery."
+obo:CLO_0000222
+  D "An immortal smooth muscle cell line cell that derives from thoracic aorta."
+obo:CLO_0000198
+  D "An immortal smooth muscle cell line cell that derives from trachealis."
+obo:CLO_0009816
+  D "An immortal carotid artery-derived smooth muscle cell line cell that derives from cattle."
+obo:CLO_0000775
+  D "An immortal common iliac artery-derived smooth muscle cell line cell that derives from human."
+obo:CLO_0000774
+  D "An immortal iliac vein-derived smooth muscle cell line cell that derives from human."
+obo:CLO_0000700
+  D "An immortal organism part-derived smooth muscle cell line cell that derives from human."
+obo:CLO_0009806
+  D "An immortal pulmonary artery-derived smooth muscle cell line cell that derives from cattle."
+obo:CLO_0000507
+  D "An immortal thoracic aorta-derived smooth muscle cell line cell that derives from cattle."
+obo:CLO_0000476
+  D "An immortal thoracic aorta-derived smooth muscle cell line cell that derives from dog."
+obo:CLO_0000529
+  D "An immortal thoracic aorta-derived smooth muscle cell line cell that derives from horse."
+obo:CLO_0000509
+  D "An immortal thoracic aorta-derived smooth muscle cell line cell that derives from pig."
+obo:CLO_0000525
+  D "An immortal thoracic aorta-derived smooth muscle cell line cell that derives from pig-tailed macaque."
+obo:CLO_0000557
+  D "An immortal thoracic aorta-derived smooth muscle cell line cell that derives from rhesus macaque."
+obo:CLO_0000997
+  D "An immortal thoracic aorta-derived smooth muscle cell line cell that derives from Syrian golden hamster."
+obo:CLO_0000441
+  D "An immortal trachealis-derived smooth muscle cell line cell that derives from European rabbit, rabbit."
+obo:CLO_0000609
+  D "An immortal spermatocyte cell line cell that derives from mouse."
+obo:CLO_0000126
+  D "a immortal vegetative cell line (sensu Mycetozoa) that is derived from aggregate cell"
+obo:CLO_0000127
+  D "a immortal vegetative cell line (sensu Mycetozoa) that is derived from anterior like cell"
+obo:CLO_0000876
+  D "An immortal eye-derived cell line cell that derives from human."
+obo:CLO_0000608
+  D "An immortal eye-derived cell line cell that derives from torafugu."
+obo:CLO_0051565
+  D "A immortal human eye-derived cell line cell that has the characteristics: alpha, beta-crystaline expressing human lense epithelial cell line. plasmid DNA: pRSV-B-T Ag."
+obo:CLO_0051564
+  D "A immortal human eye-derived cell line cell that has the characteristics: Caucasian retinoblastoma. May have reverse transcriptase. Back up culture of ECA2583."
+obo:CLO_0051563
+  D "A immortal human eye-derived cell line cell that has the characteristics: Human cell line derived from retinoblastoma. TKG0601(Deposited from Tohoku Univ.)."
+obo:CLO_0008987
+  D "Insect - fall armyworm, Spodoptera frugiperda, cell line. This cell line was derived from immature ovaries of fall armyworm Spodoptera frugiperda pupae (species Spodoptera frugiperda, family Sciaridae, order Lepidoptera); cells are susceptible to Baculovirus infection."
+obo:CLO_0008988
+  D "Insect - fall armyworm (Spodoptera frugiperda) cell line, cloned from the parent cell line, IPLB-SF-21-AE, derived from pupal ovarian tissue of the fall armyworm (species Spodoptera frugiperda, family Sciaridae, order Lepidoptera); cells are susceptible to infection with MNPV and other Baculoviruses; cells can be used with Baculovirus expression vectors. It was derived from SF-21."
+obo:CLO_0002421
+  D "Chinese hamster ovary cell line, that was initiated from an ovary biopsy of an adult Chinese hamster in 1957."
+  A Chinese Hamster Ovary cell
+  A CHO
+  A 中国仓鼠卵巢细胞
+obo:CLO_0000675
+  D "An immortal female gonad-derived cell line cell that derives from Antheraea."
+obo:CLO_0000718
+  D "An immortal female gonad-derived cell line cell that derives from cat."
+obo:CLO_0000915
+  D "An immortal female gonad-derived cell line cell that derives from channel catfish."
+obo:CLO_0000527
+  D "An immortal female gonad-derived cell line cell that derives from Chinese hamster."
+obo:CLO_0009778
+  D "An immortal female gonad-derived cell line cell that derives from fall armyworm."
+obo:CLO_0000812
+  D "An immortal female gonad-derived cell line cell that derives from gypsy moth."
+obo:CLO_0000649
+  D "An immortal female gonad-derived cell line cell that derives from Himalayan Tahr."
+obo:CLO_0000606
+  D "An immortal female gonad-derived cell line cell that derives from human."
+obo:CLO_0000674
+  D "An immortal female gonad-derived cell line cell that derives from moth."
+obo:CLO_0000545
+  D "An immortal female gonad-derived cell line cell that derives from mouse."
+obo:CLO_0000751
+  D "An immortal female gonad-derived cell line cell that derives from northern pike."
+obo:CLO_0009769
+  D "An immortal female gonad-derived cell line cell that derives from rainbow trout."
+obo:CLO_0000892
+  D "An immortal female gonad-derived cell line cell that derives from silk moth."
+obo:CLO_0001571
+  D "Human ovarian carcinoma cell line."
+obo:CLO_0006672
+  D "Human ovary carcinoma cell line."
+obo:CLO_0008279
+  D "Human caucasian ovary adenocarcinoma cell line; established from a 60 years old caucasian female."
+obo:CLO_0009384
+  D "This cell line was initiated in October of 1992 from a patient with early onset ovarian cancer. The patient was of French-Canadian descent with an unknown family history of ovarian cancer."
+obo:CLO_0009385
+  D "This cell line was initiated in October of 1991 from a patient of French-Canadian descent with no family history of ovarian cancer."
+obo:CLO_0000657
+  D "An immortal femoral artery-derived cell line cell that derives from human."
+obo:CLO_0000982
+  D "An immortal fetal membrane-derived cell line cell that derives from Bolivian squirrel monkey."
+obo:CLO_0000472
+  D "An immortal fetal membrane-derived cell line cell that derives from cat."
+obo:CLO_0000459
+  D "An immortal fetal membrane-derived cell line cell that derives from cattle."
+obo:CLO_0009762
+  D "An immortal fetal membrane-derived cell line cell that derives from European rabbit, rabbit."
+obo:CLO_0000650
+  D "An immortal fetal membrane-derived cell line cell that derives from Himalayan Tahr."
+obo:CLO_0000539
+  D "An immortal fetal membrane-derived cell line cell that derives from human."
+obo:CLO_0000612
+  D "An immortal fetal membrane-derived cell line cell that derives from mouse."
+obo:CLO_0000699
+  D "An immortal fetal membrane-derived cell line cell that derives from rat."
+obo:CLO_0000571
+  D "An immortal fetal membrane-derived cell line cell that derives from rhesus macaque."
+obo:CLO_0000711
+  D "An immortal fetal membrane-derived cell line cell that derives from sheep."
+obo:CLO_0000531
+  D "An immortal fetal membrane-derived cell line cell that derives from Syrian golden hamster."
+obo:CLO_0000614
+  D "An immortal floating rib-derived cell line cell that derives from human."
+obo:CLO_0000605
+  D "An immortal follicular fluid-derived cell line cell that derives from human."
+obo:CLO_0009759
+  D "An immortal follicular fluid-derived cell line cell that derives from mouse."
+obo:CLO_0000875
+  D "An immortal follicular fluid-derived cell line cell that derives from rat."
+obo:CLO_0008209
+  D "Human thyroid follicular epithelial cell line."
+obo:CLO_0009767
+  D "An immortal gill-derived cell line cell that derives from rainbow trout."
+obo:CLO_0000603
+  D "An immortal gill-derived cell line cell that derives from walking catfish."
+obo:CLO_0000660
+  D "An immortal gingiva-derived cell line cell that derives from human."
+obo:CLO_0051380
+  D "A immortal human gingiva-derived cell line cell that has the characteristics: Human gingival carcinoma cell line. Expressing remarkable EGF receptor. HLA-A 2/24. TKG0485(Deposited from Tohoku Univ.)."
+obo:CLO_0000659
+  D "An immortal gingival epithelium-derived cell line cell that derives from human."
+obo:CLO_0009779
+  D "An immortal glomerular capsule-derived cell line cell that derives from rat."
+obo:CLO_0051594
+  D "A immortal gold fish cell line cell that has the characteristics: Scale fibroblast"
+obo:CLO_0051591
+  D "A immortal gold fish cell line cell that has the characteristics: Gold fish erythrophoroma with 4n chromosomal mode"
+obo:CLO_0051593
+  D "A immortal gold fish cell line cell that has the characteristics: Pinna fibroblast"
+obo:CLO_0051592
+  D "A immortal gold fish cell line cell that has the characteristics: Tumor cells derived from Gold Fish red pigment cells."
+obo:CLO_0051589
+  D "A immortal gold fish blood cell line cell that has the characteristics: Tumor cells derived from Gold Fish red pigment cells."
+obo:CLO_0051590
+  D "A immortal gold fish blood cell line cell that has the characteristics: Tumor cells derived from Gold Fish red pigment cells."
+obo:CLO_0051595
+  D "A immortal gold fish cell line cell that has the characteristics: Scale fibroblast. Possible to culture in DMEM medium. See RCB0082."
+obo:CLO_0009768
+  D "An immortal gonad-derived cell line cell that derives from rainbow trout."
+obo:CLO_0000934
+  D "An immortal heart-derived cell line cell that derives from chum salmon."
+obo:CLO_0000597
+  D "An immortal heart-derived cell line cell that derives from human."
+obo:CLO_0000883
+  D "An immortal heart-derived cell line cell that derives from Iguana."
+obo:CLO_0000948
+  D "An immortal heart-derived cell line cell that derives from Russell's viper."
+obo:CLO_0000951
+  D "An immortal heart-derived cell line cell that derives from Terrapene."
+obo:CLO_0001199
+  D "Human prostate carcinoma cell line; derived from a human prostate carcinoma xenograft (CWR22R) that was serially propagated in nude mice after castration-induced regression and relapse of the parental, androgen-dependent CWR22 xenograft."
+obo:CLO_0001008
+  A 697
+obo:CLO_0001577
+  D "Human T lymphocyte, acute T cell leukemia cell line. Morphology: lymphoblastoid. The A3 subclone was derived from a Jurkat cell line obtained from the laboratory of Gerald Crabtree at Stanford University. The Jurkat cells were treated with Fas Antibody and isolated by limiting dilution to obtain a cell line that had a low spontaneous rate of resistance to Fas-medicated apoptosis. The resulting wild-type A3 subclone is very sensitive to Fas-mediated apoptosis."
+obo:CLO_0001916
+  D "Human caucasian neuroblastoma cell line. The cell line BE(2)-M17 was isolated from SK-N-BE(2) by limiting dilution."
+obo:CLO_0002044
+  D "Human breast ductal carcinoma cell line. The BT-549 line was isolated in 1978 by W.G. Coutinho and E.Y. Lasfargues. Source tissue consisted of a papillary, invasive ductal tumor which had metastasized to 3 of 7 regional lymph nodes."
+  A BT-549
+obo:CLO_0002115
+  D "Cervical cancer cell line."
+  A C-33 A
+obo:CLO_0002360
+  D "A human lymphoblastoid B-cell line expressing the cell surface marker CD43 (leukocyte sialoglycoprotein sialophorin). The cell line was established from peripheral blood cells of a patient with myelomonocytic leukemia and immortalized by transformation with Epstein Barr virus."
+obo:CLO_0004009
+  D "Human breast cancer cell line; established from a 74-years-old caucasian female with infiltrating ductal carcinoma."
+  A Hs 578T
+  A HS578T
+obo:CLO_0007059
+  D "Human chronic myeloid leukemia in blast crisis established from the pleural effusion of a 53-year-old woman with chronic myeloid leukemia (CML) in blast crisis in 1970; cells can be used as highly sensitive targets in in-vitro natural killer assays; cells produce hemoglobin; cells carry the Philadelphia chromosome with a b3-a2 fusion gene."
+obo:CLO_0007089
+  D "Human T cell leukemia cell line; established from a 27-year-old man with acute lymphoblastic leukemia (ALL) in 1979."
+obo:CLO_0007094
+  D "Human acute myeloid leukemia, established from the bone marrow of a 59-year-old man with erythroleukemia that developped into acute myeloid leukemia (AML) at relapse in 1977; cells were described to form colonies in soft-agar in response to colony-stimulating factor."
+obo:CLO_0007604
+  D "Nontumorigenic human mammary epithelial cell line."
+obo:CLO_0007675
+  D "Human melanoma; established from the primary tumor of a woman with melanoma in 1976; cells express mRNA of the oncogene c-myc."
+obo:CLO_0007676
+  D "Human melanoma, established from the primary tumor of a 58-year-old woman with melanoma in 1977."
+obo:CLO_0007939
+  D "Human Burkitt lymphoma cell line; established from the tumor mass of an African child with Burkitt lymphoma in 1967."
+obo:CLO_0007955
+  D "Human pluripotent embryonal carcinoma, teratocarcinoma cell line; established in 1985 from a mediastinal mixed germ cell tumor of an adult Japanese male. This pluripotent stem cell line is capable of somatic and extraembryonic differentiation."
+obo:CLO_0050263
+  D "A immortal somatic nervous system-derived cell line cell that has the characteristics: N-myc gene unamplified tumor. Cell growth is slow."
+obo:CLO_0050117
+  D "A immortal human cell line cell that has the characteristics: Isolated from a patient with hiper dopaminemia andnorepinephrinemia."
+obo:CLO_0009045
+  D "Human melanoma derived from tumor tissue (subcutis metastasis) of a 67-year-old Caucasian man with malignant melanoma in 1975."
+obo:CLO_0009053
+  D "Human neuroblastoma cell line."
+obo:CLO_0009057
+  D "Neuroblastoma cell line; derived in 1979 from a bone marrow metastasis from a 11 year old Caucasian male with poorly differentiated embryonal neuroblastoma."
+obo:CLO_0009063
+  D "Human ovary; metastatic site: ascites adenocarcinoma cell line; established from a 64-year-old caucasian female."
+obo:CLO_0009126
+  D "Human large cell immunoblastic lymphoma cell line, derived from a pleural effusion of a 11 years old caucasian boy."
+obo:CLO_0009594
+  D "Human embryonic lung fibroblast cell line. The WI-38 human diploid cell line was derived by Leonard Hayflick from normal embryonic (3 months gestation) lung tissue."
+obo:CLO_0051451
+  D "A immortal human ovary-derived fibroblast cell line cell that has the characteristics: Human cell line derived from adenocarcinoma of ovary. TKG0602(Deposited from Tohoku Univ.)."
+obo:CLO_0050161
+  D "A immortal hybrid cell line cell that has the characteristics: Rat thymoma cell line fused to mouse cells during nude-mouse transplantation. Mouse chr. 5, 15, 17."
+obo:CLO_0050162
+  D "A immortal hybrid cell line cell that has the characteristics: Rat thymoma cell line fused to mouse cells during nude-mouse transplantation. Mouse chr. 5,7,15,17."
+obo:CLO_0050160
+  D "A immortal hybrid cell line cell that has the characteristics: Human hybrid (T and B lymphoblast) cell line. Fusion cll line between 174 and CEM.T2. This hybrid cells do not express MHC class II. HLA-A2 positive.TKG 0599(Deposited from Tohoku Univ.)."
+obo:CLO_0000926
+  D "An immortal hypodermis-derived cell line cell that derives from human."
+obo:CLO_0000637
+  D "An immortal ileocecal junction-derived cell line cell that derives from human."
+obo:CLO_0000810
+  D "An immortal ileum-derived cell line cell that derives from pig."
+obo:CLO_0000859
+  D "An immortal ileum-derived cell line cell that derives from rat."
+obo:CLO_0000646
+  D "An immortal iliac artery-derived cell line cell that derives from human."
+obo:CLO_0000651
+  D "An immortal iliac vein-derived cell line cell that derives from human."
+obo:CLO_0000655
+  D "An immortal inferior cervical ganglion-derived cell line cell that derives from human."
+obo:CLO_0000680
+  D "An immortal intestine-derived cell line cell that derives from human."
+obo:CLO_0009955
+  D "Human rectal carcinoma cell line."
+obo:CLO_0051398
+  D "A immortal human intestine-derived cell line cell that has the characteristics: Small-cell gastrointestinal carcinoma. High levels of creatine kinase brain isoenzyme. Cell growth is slow."
+obo:CLO_0000629
+  D "An immortal islet of Langerhans-derived cell line cell that derives from mouse."
+obo:CLO_0000683
+  D "An immortal islet of Langerhans-derived cell line cell that derives from Syrian golden hamster."
+obo:CLO_0000690
+  D "An immortal kidney-derived cell line cell that derives from African clawed frog."
+obo:CLO_0000941
+  D "An immortal kidney-derived cell line cell that derives from African green monkey polyomavirus."
+obo:CLO_0000735
+  D "An immortal kidney-derived cell line cell that derives from Aotus."
+obo:CLO_0000672
+  D "An immortal kidney-derived cell line cell that derives from Atlantic salmon."
+obo:CLO_0000739
+  D "An immortal kidney-derived cell line cell that derives from black-tailed deer."
+obo:CLO_0000631
+  D "An immortal kidney-derived cell line cell that derives from budgerigar."
+obo:CLO_0000709
+  D "An immortal kidney-derived cell line cell that derives from Burchell's zebra."
+obo:CLO_0000473
+  D "An immortal kidney-derived cell line cell that derives from cat."
+obo:CLO_0000574
+  D "An immortal kidney-derived cell line cell that derives from cattle."
+obo:CLO_0009782
+  D "An immortal kidney-derived cell line cell that derives from Dasyuridae."
+obo:CLO_0000573
+  D "An immortal kidney-derived cell line cell that derives from dog."
+obo:CLO_0000745
+  D "An immortal kidney-derived cell line cell that derives from European rabbit, rabbit."
+obo:CLO_0000696
+  D "An immortal kidney-derived cell line cell that derives from hamster."
+obo:CLO_0000587
+  D "An immortal kidney-derived cell line cell that derives from human."
+obo:CLO_0000630
+  D "An immortal kidney-derived cell line cell that derives from Miopithecus talapoin."
+obo:CLO_0000491
+  D "An immortal kidney-derived cell line cell that derives from monkey."
+obo:CLO_0000543
+  D "An immortal kidney-derived cell line cell that derives from mouse."
+obo:CLO_0000750
+  D "An immortal kidney-derived cell line cell that derives from peccary."
+obo:CLO_0000594
+  D "An immortal kidney-derived cell line cell that derives from pig."
+obo:CLO_0000756
+  D "An immortal kidney-derived cell line cell that derives from Potoroo."
+obo:CLO_0000956
+  D "An immortal kidney-derived cell line cell that derives from rainbow trout."
+obo:CLO_0000722
+  D "An immortal kidney-derived cell line cell that derives from rat."
+obo:CLO_0000714
+  D "An immortal kidney-derived cell line cell that derives from rhesus macaque."
+obo:CLO_0000576
+  D "An immortal kidney-derived cell line cell that derives from sheep."
+obo:CLO_0000713
+  D "An immortal kidney-derived cell line cell that derives from Silvery marmoset."
+obo:CLO_0000642
+  D "An immortal kidney-derived cell line cell that derives from Syrian golden hamster."
+obo:CLO_0000533
+  D "An immortal kidney-derived cell line cell that derives from vervet monkey."
+obo:CLO_0050249
+  D "A immortal kidney-derived cell line cell that has the characteristics: Susceptible to rubella virus, equiv. to ATCC CCL37"
+obo:CLO_0050248
+  D "A immortal kidney-derived cell line cell that has the characteristics: Frog (Xenopus laevis) cell line derived from kidney."
+obo:CLO_0050252
+  D "A immortal kidney-derived cell line cell that has the characteristics: Rabbit kidney cell line transformed by SV40 large T antigen. Derived from renal cortical collecting tubules."
+obo:CLO_0050251
+  D "A immortal kidney-derived cell line cell that has the characteristics: Rabbit kidney cell line transformed by SV40 large T antigen. Derived from renal distal tubules."
+obo:CLO_0050250
+  D "A immortal kidney-derived cell line cell that has the characteristics: Rabbit kidney cell line transformed by SV40 large T antigen. Derived from renal proximal tubules."
+obo:CLO_0007642
+  D "The MDBK cell line was derived from a kidney of an apparently normal adult steer, February 18, 1957, by S.H. Madin and N.B. Darby."
+obo:CLO_0050865
+  D "A immortal cattle kidney-derived cell line cell that has the characteristics: Kidney epithelial cell, equiv. to ATCC CRL6071"
+obo:CLO_0050863
+  D "A immortal cattle kidney-derived cell line cell that has the characteristics: Very flat and thin kidney epithelial cell"
+obo:CLO_0050864
+  D "A immortal cattle kidney-derived cell line cell that has the characteristics: Bovine kidney-derived epithelial cell line. FBS independent for culture."
+obo:CLO_0007646
+  D "The MDCK cell line was derived from a kidney of an apparently normal adult female cocker spaniel, September, 1958, by S.H. Madin and N.B. Darby. The cells are positive for keratin by immunoperoxidase staining. MDCK cells have been used to study processing of beta amyloid precursor protein and sorting of its proteolytic products."
+  A MDCK
+obo:CLO_0050861
+  D "A immortal dog kidney-derived cell line cell that has the characteristics: Canine kidney epithelial. Sensitive to wide range of viruses. Backup of ECA84121903."
+obo:CLO_0050862
+  D "A immortal dog kidney-derived cell line cell that has the characteristics: Dog cell line derived from kidney."
+obo:CLO_0007334
+  D "New Zealand white rabbit kidney cell line."
+obo:CLO_0008823
+  D "Rabbit renal epithlium cell line."
+obo:CLO_0051412
+  D "A immortal hamster kidney-derived cell line cell that has the characteristics: Thymidine kinase-defective mutant of ts13"
+obo:CLO_0051413
+  D "A immortal hamster kidney-derived cell line cell that has the characteristics: Culturable in suspension, cf. ECACC, BHK-21C13-3P"
+obo:CLO_0051408
+  D "A immortal hamster kidney-derived cell line cell that has the characteristics: Temperature-sensitive mutant of BHK-21. Causing premature chromosome condensation."
+obo:CLO_0051409
+  D "A immortal hamster kidney-derived cell line cell that has the characteristics: Temperature-sensitive mutant of BHK-21 with mutated DAD1 gene. Causing apoptosis at 39.5 C."
+obo:CLO_0051404
+  D "A immortal hamster kidney-derived cell line cell that has the characteristics: Temperature-sensitive mutant of BHK-21. Complemented with human X-linked CCG1 gene."
+obo:CLO_0051407
+  D "A immortal hamster kidney-derived cell line cell that has the characteristics: Temperature-senstive mutant of BHK-21. Complemented with ubiquitin-activating enzyme E1 cDNA."
+obo:CLO_0051410
+  D "A immortal hamster kidney-derived cell line cell that has the characteristics: Temperature-sensitive mutant of BHK-21 with defect in RNA polymerase III subunit."
+obo:CLO_0051411
+  D "A immortal hamster kidney-derived cell line cell that has the characteristics: Temperature-sensitive mutant of BHK-21. Stop growth after 2-day culture at 39.5 C."
+obo:CLO_0051405
+  D "A immortal hamster kidney-derived cell line cell that has the characteristics: Temperature-sensitive mutant of BHK-21. Complementation group A. Dye rapidly at 39.5 C."
+obo:CLO_0051406
+  D "A immortal hamster kidney-derived cell line cell that has the characteristics: Temperature-sensitive mutant of BHK-21 selected after MNNG treatment."
+obo:CLO_0051403
+  D "A immortal hamster kidney-derived cell line cell that has the characteristics: The parent cell line used for the temperature sensitive cell line series of BN."
+obo:CLO_0051402
+  D "A immortal hamster kidney-derived cell line cell that has the characteristics: SV40 transformed hamster cell line. Fibroblast-like cells."
+obo:CLO_0001596
+  D "Human kidney carcinoma cell line; established from the kidney carcinoma of a 52-year-old man in 1973."
+obo:CLO_0001654
+  D "Human renal cell carcinoma cell line."
+  A ACHN
+obo:CLO_0002175
+  D "Human renal cancer cell line, established from a 49-years-old male."
+  A CAKI-1
+obo:CLO_0003434
+  D "Human caucasian kidney cell line. G-401 was deposited as a cell line derived from a Wilms' tumor. Due to a change in the classification of such tumors, the cell line was examined by Garvin et al. and found to be more appropriately classified as derived from a rhabdoid tumor of the kidney."
+obo:CLO_0037236
+  D "An immortal kidney-derived cell line cell that derives from human."
+obo:CLO_0050899
+  D "A immortal human kidney-derived cell line cell that has the characteristics: Wilms' tumor. CA125 and TPA producing."
+obo:CLO_0050889
+  D "A immortal human kidney-derived cell line cell that has the characteristics: Renal tumor cell from a Japanese. Transplantable to nude mice."
+obo:CLO_0050890
+  D "A immortal human kidney-derived cell line cell that has the characteristics: Kidney carcinoma from a Japanese patient. Cell growth is slow."
+obo:CLO_0050895
+  D "A immortal human kidney-derived cell line cell that has the characteristics: Japanese kidney carcinoma cells. RCB original. Cell growth is slow."
+obo:CLO_0050898
+  D "A immortal human kidney-derived cell line cell that has the characteristics: Japanese renal carcinoma cells. Cell growth is slow."
+obo:CLO_0050896
+  D "A immortal human kidney-derived cell line cell that has the characteristics: Japanese renal carcinoma cells expressing HLA-A2402. Cell growth is slow."
+obo:CLO_0050897
+  D "A immortal human kidney-derived cell line cell that has the characteristics: Japanese renal carcinoma cells. Cell growth is slow."
+obo:CLO_0050891
+  D "A immortal human kidney-derived cell line cell that has the characteristics: Scarcely found primitive neuroectodermal tumor from a Japanese kidney."
+obo:CLO_0050903
+  D "A immortal human kidney-derived cell line cell that has the characteristics: Sheared human Ad5 DNA-transformed cell line. Widely used for production of manipulated adenovirus. Back up culture of ECA2737."
+obo:CLO_0050892
+  D "A immortal human kidney-derived cell line cell that has the characteristics: 293 cell line expressing the caspase-inhibiting CrmA gene"
+obo:CLO_0050893
+  D "A immortal human kidney-derived cell line cell that has the characteristics: Human renal cell carcinoma cell line. TKG0447(Deposited from Tohoku Univ.)."
+obo:CLO_0050901
+  D "A immortal human kidney-derived cell line cell that has the characteristics: Human primitive neuroectodermal tumor cell line derived from kidney."
+obo:CLO_0050894
+  D "A immortal human kidney-derived cell line cell that has the characteristics: Human cell line expressing SV40 large T antigen abundantly."
+obo:CLO_0050900
+  D "A immortal human kidney-derived cell line cell that has the characteristics: Subline of HEK293 cell line, expressing BtR175b (Cry 1Aa receptor)."
+obo:CLO_0050902
+  D "A immortal human kidney-derived cell line cell that has the characteristics: Retroviral vector packaging cell line expressing MoMLV (Moloney murine leukemia virus) gag/pol. Production of high titer retrovirus by cotransfection of envelope and vector plasmids."
+obo:CLO_0009635
+  D "This line was derived from the human embryonic kidney line 293, transfected with an expression plasmid containing cDNA encoding the rat GABA-A receptor alpha 1, beta 2 and gamma 2 subunits."
+obo:CLO_0001234
+  D "A 293-derived cell line that is stably transfected to secrete the chimeric protein (CHE-Fc), a recombinant soluble chirmeric protein useful as a probe to detect 9-O-Acetylated sialic acids."
+obo:CLO_0050515
+  D "A immortal monkey kidney-derived cell line cell that has the characteristics: No interferon production, best for vaccine product."
+obo:CLO_0050514
+  D "A immortal monkey kidney-derived cell line cell that has the characteristics: SV40 large T antigen expressing, derived from CV-1"
+obo:CLO_0050506
+  D "A immortal monkey kidney-derived cell line cell that has the characteristics: Highly susceptible to SV40 infection"
+obo:CLO_0050513
+  D "A immortal monkey kidney-derived cell line cell that has the characteristics: Culturable in proein-free MEM supplemented with biotin."
+obo:CLO_0050518
+  D "A immortal monkey kidney-derived cell line cell that has the characteristics: Cynomolgus monkey cell line."
+obo:CLO_0050508
+  D "A immortal monkey kidney-derived cell line cell that has the characteristics: SV40 large T antigen expressing, derived from CV-1"
+obo:CLO_0050512
+  D "A immortal monkey kidney-derived cell line cell that has the characteristics: Expressing SV40 tsA58 large T antigen. Verots S3 cultured in protein-free MEM. G418-resistant."
+obo:CLO_0050511
+  D "A immortal monkey kidney-derived cell line cell that has the characteristics: Expressing SV40 tsA58 large T antigen. Possible to culture in protein-free MEM. G418-resistant."
+obo:CLO_0050510
+  D "A immortal monkey kidney-derived cell line cell that has the characteristics: CAG-loxP-neopA-loxP-LacZ(incomplete) was inserted. Control cell line for 2-2 and 2-7 cells."
+obo:CLO_0050507
+  D "A immortal monkey kidney-derived cell line cell that has the characteristics: 35 copies of CAG-loxP-neopA-loxP-LacZ were tandemly inserted. Cre will delete neopA and induce LacZ."
+obo:CLO_0050509
+  D "A immortal monkey kidney-derived cell line cell that has the characteristics: A copy of CAG-loxP-neopA-loxP-LacZ was inserted. Cre will delete neopA and induce LacZ."
+obo:CLO_0050517
+  D "A immortal monkey kidney-derived cell line cell that has the characteristics: Cynomolgus monkey cell line. Possible to culture in DMEM medium. See RCB0456."
+obo:CLO_0050516
+  D "A immortal monkey kidney-derived cell line cell that has the characteristics: Subline of COS cell line expressing Fucci, a marker of cell cycle."
+obo:CLO_0008733
+  D "Mouse, BALB/cd, kidney, adenocarcinoma cell line. Derived from the original Renal-2a BALB/cd renal adenocarcinoma. Cells produce the unique kidney specific esterase ES-2 and have been used in somatic cell hybridisation studies because of their azaguanine resistant properties."
+obo:CLO_0050786
+  D "A immortal mouse kidney-derived cell line cell that has the characteristics: Kidney epithelial cells containing temperature sensitive SV40 large T antigen. Compared to TKC2."
+obo:CLO_0009284
+  D "Mouse normal kidney cell line; SV-40 transfomed."
+obo:CLO_0050908
+  D "A immortal pig kidney-derived cell line cell that has the characteristics: Buck-up culture of ECA86103005. Foot & mouth disease."
+obo:CLO_0050906
+  D "A immortal pig kidney-derived cell line cell that has the characteristics: Pig kidney (LLC-PK1) cells expressing human P-glycoproteins."
+obo:CLO_0050907
+  D "A immortal pig kidney-derived cell line cell that has the characteristics: Pig kidney (LLC-PK1) cells expressing human P-glycoproteins."
+obo:CLO_0008517
+  D "Marsupial - potoroo, kidney cell line."
+obo:CLO_0008518
+  D "Potorous tridactylis (potoroo) normal kidney cell line."
+obo:CLO_0008195
+  D "Normal kidney cell line from rattus norvegicus."
+obo:CLO_0008197
+  D "Rat kidney fibroblast cell line. Cell line was cloned from a mixed culture of normal rat kidney cells; cells exhibit contact inhibition and are very sensitive; indicator cells for viral or chemical transformation; this cell line is frequently used for TGF-beta bioassays."
+obo:CLO_0008198
+  D "Rat kidney epithelial-like cells. Cell line was cloned from a mixed culture of normal rat kidney cells as was NRK-49F the two cell lines were described to be distinct in growth properties and in transforming abilities; NRK-52E is supposed to be much more stable."
+obo:CLO_0051425
+  D "A immortal rat kidney-derived cell line cell that has the characteristics: Contact-inhibited semi-normal, original of NRK49F"
+obo:CLO_0051426
+  D "A immortal rat kidney-derived cell line cell that has the characteristics: Contact-inhibited semi-normal cell line"
+obo:CLO_0051428
+  D "A immortal rat kidney-derived cell line cell that has the characteristics: Rat renal tumor derived cell line."
+obo:CLO_0051429
+  D "A immortal rat kidney-derived cell line cell that has the characteristics: Rat (Wistar) cell line derived from renal (kidney) tumor."
+obo:CLO_0051427
+  D "A immortal rat kidney-derived cell line cell that has the characteristics: Rat (Wistar) cell line derived from renal (kidney) tumor."
+obo:CLO_0051430
+  D "A immortal rat kidney-derived cell line cell that has the characteristics: Rat cells derived from kidney carcinoma. After passage 2. Wister rat."
+obo:CLO_0051431
+  D "A immortal rat kidney-derived cell line cell that has the characteristics: Rat cell line derived from kidney carcinoma. After passage 100. Wister rat."
+obo:CLO_0051432
+  D "A immortal rat kidney-derived cell line cell that has the characteristics: Rat cells derived from kidney carcinoma. After passage 2. Wister rat."
+obo:CLO_0051433
+  D "A immortal rat kidney-derived cell line cell that has the characteristics: Rat cell line derived from kidney carcinoma. After passage 80. Wister rat."
+obo:CLO_0051434
+  D "A immortal rat kidney-derived cell line cell that has the characteristics: Rat cells derived from kidney carcinoma. After passage 2. Wister rat."
+obo:CLO_0051435
+  D "A immortal rat kidney-derived cell line cell that has the characteristics: Rat cell line derived from kidney carcinoma. After passage 100. Wister rat."
+obo:CLO_0051436
+  D "A immortal rat kidney-derived cell line cell that has the characteristics: Rat cells derived from kidney carcinoma. After passage 2. Wister rat."
+obo:CLO_0051437
+  D "A immortal rat kidney-derived cell line cell that has the characteristics: Rat cell line derived from kidney carcinoma. After passage 100. Wister rat."
+obo:CLO_0051423
+  D "A immortal rhesus macaque kidney-derived cell line cell that has the characteristics: Highly susceptible to Simian rotavirus SA11. Backup of ECA85102918."
+obo:CLO_0001965
+  D "Syrian hamster kidney BHK-21 is a subclone (clone 13) of the parental line established from the kidneys of five unsexed, one-day-old hamsters in 1961; cells can be used for virus replication studies."
+obo:CLO_0002597
+  D "African green monkey kidney derived from CV-1, a simian cell line (cercopithecus aethiops), by transformation with an origin-defective mutant of SV-40; cells were described to support the growth of SV-40 viruses."
+  A COS-7
+obo:CLO_0000972
+  D "An immortal larva-derived cell line cell that derives from Acrea moth."
+obo:CLO_0000953
+  D "An immortal larva-derived cell line cell that derives from cabbage looper."
+obo:CLO_0000489
+  D "An immortal larva-derived cell line cell that derives from cabbage moth."
+obo:CLO_0009748
+  D "An immortal larva-derived cell line cell that derives from forest day mosquito."
+obo:CLO_0000811
+  D "An immortal larva-derived cell line cell that derives from gypsy moth."
+obo:CLO_0000688
+  D "An immortal larva-derived cell line cell that derives from mosquito."
+obo:CLO_0000743
+  D "An immortal larva-derived cell line cell that derives from Pacific herring."
+obo:CLO_0000922
+  D "An immortal larva-derived cell line cell that derives from silk moth."
+obo:CLO_0050499
+  D "A immortal cabbage moth larva-derived cell line cell that has the characteristics: Cabbage armyworm cell line applicable to large scale insect virus production."
+obo:CLO_0050497
+  D "A immortal cabbage moth larva-derived cell line cell that has the characteristics: Cabbage armyworm cell line applicable to large scaale production of insect virus."
+obo:CLO_0050504
+  D "A immortal cabbage moth larva-derived cell line cell that has the characteristics: Show finely branched cytoplasmic processes"
+obo:CLO_0050500
+  D "A immortal cabbage moth larva-derived cell line cell that has the characteristics: Sensitive to nuclear polyhedrosis virus. Possible to grow in sea-water based low-cost medium."
+obo:CLO_0050505
+  D "A immortal cabbage moth larva-derived cell line cell that has the characteristics: Susceptible to insect viruses."
+obo:CLO_0050503
+  D "A immortal cabbage moth larva-derived cell line cell that has the characteristics: Show finely branched cytoplasmic processes"
+obo:CLO_0050498
+  D "A immortal cabbage moth larva-derived cell line cell that has the characteristics: Larval fat body hemocyte."
+obo:CLO_0050502
+  D "A immortal cabbage moth larva-derived cell line cell that has the characteristics: Insect cell line derived from Mamestra brassicae. Cell growth is slow."
+obo:CLO_0050501
+  D "A immortal cabbage moth larva-derived cell line cell that has the characteristics: Insect cell line derived from Mamestra brassicae"
+obo:CLO_0000654
+  D "An immortal larynx-derived cell line cell that derives from human."
+obo:CLO_0003706
+  D "Human Caucasian larynx carcinoma cell line with HeLa Characteristics."
+obo:CLO_0006705
+  D "Human B lymphoblastoid cell line (from patient with multiple myeloma); established from the bone marrow of a woman with multiple myeloma in 1967. Although derived from the blood of a patient with multiple myeloma, this line has been shown to be an EBV-transformed B lymphoblastoid cell line."
+obo:CLO_0000463
+  D "An immortal late embryo-derived cell line cell that derives from cat."
+obo:CLO_0009760
+  D "An immortal late embryo-derived cell line cell that derives from rat."
+obo:CLO_0000729
+  D "An immortal ligament-derived cell line cell that derives from mouse."
+obo:CLO_0000665
+  D "An immortal limb/fin-derived cell line cell that derives from human."
+obo:CLO_0000546
+  D "An immortal limb/fin-derived cell line cell that derives from mouse."
+obo:CLO_0000740
+  D "An immortal liver-derived cell line cell that derives from black-tailed deer."
+obo:CLO_0009774
+  D "An immortal liver-derived cell line cell that derives from chicken."
+obo:CLO_0000565
+  D "An immortal liver-derived cell line cell that derives from human."
+obo:CLO_0000537
+  D "An immortal liver-derived cell line cell that derives from mouse."
+obo:CLO_0000920
+  D "An immortal liver-derived cell line cell that derives from rainbow trout."
+obo:CLO_0000512
+  D "An immortal liver-derived cell line cell that derives from rat."
+obo:CLO_0000746
+  D "An immortal liver-derived cell line cell that derives from topminnow."
+obo:CLO_0000946
+  D "An immortal liver-derived cell line cell that derives from woodchuck."
+obo:CLO_0050270
+  D "A immortal liver-derived cell line cell that has the characteristics: Hepatocyte from the fish, Tilapia (Oreocheomis niloticus). Cell growth is slow."
+obo:CLO_0003710
+  D "Human hepatocellular carcinoma cell line; established from the tumor tissue of an 8-year-old black boy in 1976; description: cells contain integrated hepatitis B virus genome; cells were described to produce a variety of proteins, e.g. alpha-fetoprotein, albumin, transferrin, alpha2-macroglobulin, alpha1-antitrypsin, haptoglobin and others."
+obo:CLO_0003704
+  D "Human hepatocellular carcinoma, established from the tumor tissue of a 15-year-old Argentine boy with hepatocellular carcinoma in 1975."
+  A HepG2
+  A Hep G2
+  A HEPG2
+  A HEP-G2
+  A HEP G2
+obo:CLO_0009988
+  D "Human hepatoma cell line."
+obo:CLO_0050848
+  D "A immortal human liver-derived cell line cell that has the characteristics: Human liver cholangiocarcinoma. Said CEA and CA19-9 producing."
+obo:CLO_0050849
+  D "A immortal human liver-derived cell line cell that has the characteristics: Spindle cell-type cholangiocarcinoma cell line."
+obo:CLO_0050850
+  D "A immortal human liver-derived cell line cell that has the characteristics: Said producing alpha-fetoprotein, alpha-antitrypsin, ceruloplasmin, fibrinogen, fibronectin, etc."
+obo:CLO_0050851
+  D "A immortal human liver-derived cell line cell that has the characteristics: Hepatoblastoma. Said albumin and alpha-fetoprotein producing."
+obo:CLO_0050859
+  D "A immortal human liver-derived cell line cell that has the characteristics: Human cell line derived from cholangiocellular carcinoma. Cell growth is slow."
+obo:CLO_0050857
+  D "A immortal human liver-derived cell line cell that has the characteristics: A subline of HepG2. Expressing abundant glutamine synthetase. <a href='http://www.brc.riken.jp/lab/cell/english/hep_g2.shtml'>Information<\/a>"
+obo:CLO_0050852
+  D "A immortal human liver-derived cell line cell that has the characteristics: Human cell line derived from intrahepatic bile duct cancer. TKG0456(Deposited from Tohoku Univ.). Cell growth is slow."
+obo:CLO_0050854
+  D "A immortal human liver-derived cell line cell that has the characteristics: Human hepatoma cell line. This cell line was established from nude mouse xenograft tumor (Dr. Hirohashi., National Cancer Center, Tokyo) by Tanno, H. (Tohoku Univ., 1st Surg). AFP producing.TKG0368 (Deposited from Tohoku Univ.)."
+obo:CLO_0050853
+  D "A immortal human liver-derived cell line cell that has the characteristics: Human cell line derived from hepatoma. TKG0206 (Deposited from Tohoku Univ.)."
+obo:CLO_0050855
+  D "A immortal human liver-derived cell line cell that has the characteristics: Human cell line derived from cholangiocellular carcinoma. TKG0438 (Deposited from Tohoku Univ.). Cell growth is slow."
+obo:CLO_0009037
+  D "Human liver adenocarcinoma cell line; established from the ascites of a 52-year-old Caucasian man in 1971."
+obo:CLO_0009100
+  D "Human hepatocellular carcinoma cell line."
+obo:CLO_0050856
+  D "A immortal human liver-derived cell line cell that has the characteristics: hepatocellular carcinoma. Produce alpha-fetoprotein, albumin, etc. Back up of ECA2870. Almost equal to RCB0459, but the restriction is a. <a href='http://www.brc.riken.jp/lab/cell/english/hep_g2.shtml'>Information<\/a>"
+obo:CLO_0050858
+  D "A immortal human liver-derived cell line cell that has the characteristics: Human cell line derived from hepatocyte carcinoma. TKG0205 (Deposited from Tohoku Univ.). <a href='http://www.brc.riken.jp/lab/cell/english/hep_g2.shtml'>Information<\/a>"
+obo:CLO_0002011
+  D "Mus musculus BALB/c liver cell line; established from an embryo."
+obo:CLO_0003587
+  D "Epithelial-like cell line derived from a primary hepatocyte culture. Cells were collected from the livers of 6 week old female BALB/c mice, incubated at 33C, and infected with tsA255 (a temperature-sensitive mutant of SV40 virus)."
+obo:CLO_0003711
+  D "Mouse hepatoma cell line; derived from the BW7756 tumor that arose in a C57L mouse."
+obo:CLO_0003712
+  D "Mouse hepatoma cell line. This is a derivative of the BW7756 mouse hepatoma that arose in a C57/L mouse."
+obo:CLO_0050768
+  D "A immortal mouse liver-derived cell line cell that has the characteristics: Hepatocytes containing temperature sensitive SV40 large T antigen. P450IA1 inducible."
+obo:CLO_0050769
+  D "A immortal mouse liver-derived cell line cell that has the characteristics: Derived from BW7756 tumor in a C57L mouse. Back up culture of ECA3041."
+obo:CLO_0002031
+  D "Rat liver cell line. Established from the buffalo strain of rattus norvegicus."
+obo:CLO_0003603
+  A H-4-II-E
+obo:CLO_0003604
+  D "Rat hepatoma cell line."
+obo:CLO_0007595
+  D "Liver, hepatoma; Morris hepatoma 7777 cell line, established from a rattus norvegicus female."
+obo:CLO_0007709
+  D "Rat hepatoma, a clonal strain of epithelial cells was derived from a transplantable Morris hepatoma (#7795, Buffalo strain) in 1967; cells were described to synthesize and to secrete serum albumin and serum complement component C9."
+obo:CLO_0007923
+  D "The N1-S1 cell line was established from a Novikoff hepatoma induced by feeding 4-dimethylaminoazobenzene to a male rat."
+obo:CLO_0050613
+  D "A immortal rat liver-derived cell line cell that has the characteristics: Capable to form collagen network"
+obo:CLO_0050612
+  D "A immortal rat liver-derived cell line cell that has the characteristics: Epitherial cell from rat liver"
+obo:CLO_0050608
+  D "A immortal rat liver-derived cell line cell that has the characteristics: Non tumorigenic in nude mice"
+obo:CLO_0050614
+  D "A immortal rat liver-derived cell line cell that has the characteristics: Liver-derived cell, tumorigenic in nude mice"
+obo:CLO_0050618
+  D "A immortal rat liver-derived cell line cell that has the characteristics: ES cell differentiation inhibitory activity (DIA)"
+obo:CLO_0050623
+  D "A immortal rat liver-derived cell line cell that has the characteristics: Diploid rat liver epithelial cell line"
+obo:CLO_0050622
+  D "A immortal rat liver-derived cell line cell that has the characteristics: Spontaneous transformant of ARLJ301-3"
+obo:CLO_0050621
+  D "A immortal rat liver-derived cell line cell that has the characteristics: EJ-ras oncogene transformed ARLJ301-3"
+obo:CLO_0050619
+  D "A immortal rat liver-derived cell line cell that has the characteristics: EJ-ras oncogene transformed ARLJ301-3"
+obo:CLO_0050620
+  D "A immortal rat liver-derived cell line cell that has the characteristics: EJ-ras oncogene transformed ARLJ301-3"
+obo:CLO_0050625
+  D "A immortal rat liver-derived cell line cell that has the characteristics: SV40-Adeno Vector transformed hepatocytes. Albumin secretion and urea synthesis were reported."
+obo:CLO_0050607
+  D "A immortal rat liver-derived cell line cell that has the characteristics: Capable to form collagen network. Possible to culture in DMEM medium. See RCB0067."
+obo:CLO_0050611
+  D "A immortal rat liver-derived cell line cell that has the characteristics: Epitherial cell from rat liver. Possible to culture in DMEM medium."
+obo:CLO_0050609
+  D "A immortal rat liver-derived cell line cell that has the characteristics: Non tumorigenic in nude mice. Possible to culture in DMEM medium."
+obo:CLO_0050610
+  D "A immortal rat liver-derived cell line cell that has the characteristics: Liver-derived cell, tumorigenic in nude mice. Possible to culture in DMEM medium."
+obo:CLO_0050624
+  D "A immortal rat liver-derived cell line cell that has the characteristics: Rat cell line derived from histiocytic sarcoma. Possessing characteristics of macrophage."
+obo:CLO_0050617
+  D "A immortal rat liver-derived cell line cell that has the characteristics: Rat (Buffalo) cell line derived from hepatoma. TKG0365 (Deposited from Tohoku Univ.)."
+obo:CLO_0050616
+  D "A immortal rat liver-derived cell line cell that has the characteristics: Rat cell line derived from hepatoma cells in ascites. TKG0130(Deposited from Tohoku Univ.)."
+obo:CLO_0050615
+  D "A immortal rat liver-derived cell line cell that has the characteristics: Rat cell line derived from hepatoma cells in ascites. TKG0535(Deposited from Tohoku Univ.)."
+obo:CLO_0000813
+  D "An immortal pair of lungs-derived cell line cell that derives from African buffalo."
+obo:CLO_0009790
+  D "An immortal pair of lungs-derived cell line cell that derives from American black bear."
+obo:CLO_0000905
+  D "An immortal pair of lungs-derived cell line cell that derives from bat."
+obo:CLO_0009789
+  D "An immortal pair of lungs-derived cell line cell that derives from Canis."
+obo:CLO_0000471
+  D "An immortal pair of lungs-derived cell line cell that derives from cat."
+obo:CLO_0000758
+  D "An immortal pair of lungs-derived cell line cell that derives from Chinese hamster."
+obo:CLO_0000959
+  D "An immortal pair of lungs-derived cell line cell that derives from deer."
+obo:CLO_0000770
+  D "An immortal pair of lungs-derived cell line cell that derives from European rabbit, rabbit."
+obo:CLO_0000906
+  D "An immortal pair of lungs-derived cell line cell that derives from free-tailed bat."
+obo:CLO_0000601
+  D "An immortal pair of lungs-derived cell line cell that derives from gecko."
+obo:CLO_0000568
+  D "An immortal pair of lungs-derived cell line cell that derives from gray fox."
+obo:CLO_0009780
+  D "An immortal pair of lungs-derived cell line cell that derives from guinea pig."
+obo:CLO_0000493
+  D "An immortal lung-derived cell line cell that derives from human."
+obo:CLO_0000707
+  D "An immortal pair of lungs-derived cell line cell that derives from kusimanse."
+obo:CLO_0000599
+  D "An immortal pair of lungs-derived cell line cell that derives from Mongolian gerbil."
+obo:CLO_0000494
+  D "An immortal pair of lungs-derived cell line cell that derives from mouse."
+obo:CLO_0000590
+  D "An immortal pair of lungs-derived cell line cell that derives from Mustelinae."
+obo:CLO_0000708
+  D "An immortal pair of lungs-derived cell line cell that derives from Oryx."
+obo:CLO_0000721
+  D "An immortal pair of lungs-derived cell line cell that derives from rat."
+obo:CLO_0000979
+  D "An immortal pair of lungs-derived cell line cell that derives from rhesus macaque."
+obo:CLO_0000634
+  D "An immortal pair of lungs-derived cell line cell that derives from squamate."
+obo:CLO_0000978
+  D "An immortal pair of lungs-derived cell line cell that derives from vervet monkey."
+obo:CLO_0007904
+  A Mv 1 Lu
+obo:CLO_0009504
+  D "Lung cell line; derived from the lung tissue of a male Chinese hamster; clone of V79 cell line."
+obo:CLO_0001601
+  D "Human lung carcinoma established from an explanted lung tumor which was removed from a 58-year-old Caucasian man in 1972; cells were described to induce tumors in athymic mice and to synthesize lecithin."
+  A A549
+obo:CLO_0002192
+  D "Human lung adenocarcinoma cell line; established from a 25-year-old caucasian male."
+obo:CLO_0037032
+  D "Human large cell lung cancer cell line."
+obo:CLO_0008035
+  D "Human non-small cell lung cancer cell line."
+obo:CLO_0008394
+  D "Human lung adenocarcinoma cell line."
+obo:CLO_0050024
+  D "A immortal human cell line cell that has the characteristics: Lung adenocarcinoma"
+obo:CLO_0050043
+  D "A immortal human cell line cell that has the characteristics: Transformed in vitro with carcinogen"
+obo:CLO_0050061
+  D "A immortal human cell line cell that has the characteristics: SV40-transformed, 6TG-resistant and HAT-sensitive."
+obo:CLO_0050054
+  D "A immortal human cell line cell that has the characteristics: Normal human lung fibroblast."
+obo:CLO_0050044
+  D "A immortal human cell line cell that has the characteristics: SV40-transformed WI-38."
+obo:CLO_0050066
+  D "A immortal human cell line cell that has the characteristics: Lung Cancer-1/squamous, serum-free cultured"
+obo:CLO_0050026
+  D "A immortal human cell line cell that has the characteristics: Lung Cancer-1/squamous, floating variant, the same patient as RCB0455 LC-1/sq."
+obo:CLO_0050073
+  D "A immortal human cell line cell that has the characteristics: Adenocarcinoma, moderately diffirentiated. Cell growth is slow."
+obo:CLO_0050027
+  D "A immortal human cell line cell that has the characteristics: Japanese lung squamous carcinoma."
+obo:CLO_0050045
+  D "A immortal human cell line cell that has the characteristics: Parent cell line of LC/sq-SFthe same patient as RCB0439 LC-F. Cell growth is slow."
+obo:CLO_0050028
+  D "A immortal human cell line cell that has the characteristics: Small cell carcinoma, classic type. See Lu-134-B."
+obo:CLO_0050029
+  D "A immortal human cell line cell that has the characteristics: Small cell carcinoma, classic type. See Lu-134-A."
+obo:CLO_0050030
+  D "A immortal human cell line cell that has the characteristics: Small cell carcinoma, variant type"
+obo:CLO_0050031
+  D "A immortal human cell line cell that has the characteristics: Small cell carcinoma, classic type"
+obo:CLO_0050032
+  D "A immortal human cell line cell that has the characteristics: Small cell carcimoma, classic type"
+obo:CLO_0050075
+  D "A immortal human cell line cell that has the characteristics: Japanese lung large cell carcinoma"
+obo:CLO_0050071
+  D "A immortal human cell line cell that has the characteristics: Lung large cell carcinoma producing CSF. Cell growth is slow."
+obo:CLO_0050047
+  D "A immortal human cell line cell that has the characteristics: Japanese lung adenocarcinoma, highly metastatic in SCID mice. Also refer to RCB0444 RCRF-LC-AI. Cell growth is slow."
+obo:CLO_0050035
+  D "A immortal human cell line cell that has the characteristics: Human cell line derived from lung cancer. Oat cell type."
+obo:CLO_0050070
+  D "A immortal human cell line cell that has the characteristics: Human cell line derived from lung cancer. Small cell carcinoma."
+obo:CLO_0050036
+  D "A immortal human cell line cell that has the characteristics: Human cell line derived from lung cancer. Small cell carcinoma."
+obo:CLO_0050037
+  D "A immortal human cell line cell that has the characteristics: Human cell line derived from lung cancer. Small cell carcinoma."
+obo:CLO_0050038
+  D "A immortal human cell line cell that has the characteristics: Lung giant cell carcinoma cell line derived from human. TKG0495 (Deposited from Tohoku Univ.)."
+obo:CLO_0050039
+  D "A immortal human cell line cell that has the characteristics: Human lung squamous cell carcinoma cell line. TKG0481(Deposited from Tohoku Univ.)."
+obo:CLO_0050050
+  D "A immortal human cell line cell that has the characteristics: Human cell line derived from lung cancer. Small cell carcinoma. TKG0244(Deposited from Tohoku Univ.)."
+obo:CLO_0050059
+  D "A immortal human cell line cell that has the characteristics: Human lung carcinoma cell line. TKG0442(Deposited from Tohoku Univ.)."
+obo:CLO_0050064
+  D "A immortal human cell line cell that has the characteristics: Human lung squamous cell carcinoma cell line.TKG0494 (Deposited from Tohoku Univ.)."
+obo:CLO_0050040
+  D "A immortal human cell line cell that has the characteristics: Human cell line derived from lung cancer. Small cell carcinoma. TKG0503(Deposited from Tohoku Univ.)"
+obo:CLO_0050051
+  D "A immortal human cell line cell that has the characteristics: Human cell line derived from lung cancer. Adenocarcinoma. TKG0177 (Deposited from Tohoku Univ.)."
+obo:CLO_0050053
+  D "A immortal human cell line cell that has the characteristics: Human cell line derived from lung cancer. Large cell carcinoma. TKG0181(Deposited from Tohoku Univ.)."
+obo:CLO_0037044
+  D "Murine neuroendocrine tumor cell line."
+obo:CLO_0050025
+  D "A immortal human cell line cell that has the characteristics: Lung carcinoma, refer to ATCC CCL185"
+obo:CLO_0007105
+  D "Mus musculus (mouse);lung; squamous cell carcinoma cell line."
+obo:CLO_0007325
+  D "Mouse C57BL Lewis lung carcinoma cell line."
+obo:CLO_0007169
+  D "Human liver cell line."
+obo:CLO_0000501
+  D "An immortal lymph-derived cell line cell that derives from mouse."
+obo:CLO_0000911
+  D "An immortal lymphoid follicle-derived cell line cell that derives from human."
+obo:CLO_0000530
+  D "An immortal lymphoid follicle-derived cell line cell that derives from mouse."
+obo:CLO_0000806
+  D "An immortal mammalian vulva-derived cell line cell that derives from human."
+obo:CLO_0009820
+  D "An immortal mammary gland-derived cell line cell that derives from human."
+obo:CLO_0000616
+  D "An immortal mammary gland-derived cell line cell that derives from mouse."
+obo:CLO_0009761
+  D "An immortal mammary gland-derived cell line cell that derives from rat."
+obo:CLO_0051609
+  D "A immortal human mammary gland-derived cell line cell that has the characteristics: Same as OCUB-1, OCUB-F. Chromosome = pseudotetraploid."
+obo:CLO_0051610
+  D "A immortal human mammary gland-derived cell line cell that has the characteristics: Same as OCUB-1, OCUB-M. Chromosome = pseudodiploid"
+obo:CLO_0002086
+  D "Mouse mammary gland cell line. C127I cells are suitable hosts for transformation with bovine papilloma virus DNA plasmids."
+obo:CLO_0050961
+  D "A immortal mouse mammary gland-derived cell line cell that has the characteristics: Temperature-sensitive, forms multiple nuclei"
+obo:CLO_0050960
+  D "A immortal mouse mammary gland-derived cell line cell that has the characteristics: Temperature-sensitive at chromosome condensation"
+obo:CLO_0050962
+  D "A immortal mouse mammary gland-derived cell line cell that has the characteristics: Temperature-sensitive at DNA polymerase"
+obo:CLO_0050955
+  D "A immortal mouse mammary gland-derived cell line cell that has the characteristics: Host for bovine papiloma virus"
+obo:CLO_0050963
+  D "A immortal mouse mammary gland-derived cell line cell that has the characteristics: Mammary carcinoma, grow in vitro and in vivo"
+obo:CLO_0050956
+  D "A immortal mouse mammary gland-derived cell line cell that has the characteristics: Mammary tumor cell line without C-type virus"
+obo:CLO_0050964
+  D "A immortal mouse mammary gland-derived cell line cell that has the characteristics: Newcastle disease virus resistant"
+obo:CLO_0050966
+  D "A immortal mouse mammary gland-derived cell line cell that has the characteristics: murine mammary tumor cell lines. High level MMTV producer line."
+obo:CLO_0050965
+  D "A immortal mouse mammary gland-derived cell line cell that has the characteristics: Murine mammary tumor cell lines. .Higher incidence in lung metastasis."
+obo:CLO_0050959
+  D "A immortal mouse mammary gland-derived cell line cell that has the characteristics: Subline of mouse C127 cell line. Inducible expression of influenza virus protein (PB1, NP) is possible. Cell growth is slow."
+obo:CLO_0050954
+  D "A immortal mouse mammary gland-derived cell line cell that has the characteristics: A subline of C127. PB1 RNA polymerase subunit and nucleoprotein are inducible by dexamethasone."
+obo:CLO_0050952
+  D "A immortal mouse mammary gland-derived cell line cell that has the characteristics: Subline of mouse C127 cell line. Inducible expression of influenza virus protein (PB1, NP, PA, PB2) is possible."
+obo:CLO_0050953
+  D "A immortal mouse mammary gland-derived cell line cell that has the characteristics: Subline of mouse C127 cell line. Inducible expression of influenza virus protein (PB1, NP, PA) is possible."
+obo:CLO_0050957
+  D "A immortal mouse mammary gland-derived cell line cell that has the characteristics: Mouse cell line derived from mammary carcinoma. TKG0597 (Deposited from Tohoku Univ.)."
+obo:CLO_0050958
+  D "A immortal mouse mammary gland-derived cell line cell that has the characteristics: Mouse cell line derived from mammary carcinoma. Expressing human MUC1 (APR-MUC1) exogenously. TKG0595 (Deposited from Tohoku Univ.)."
+obo:CLO_0050967
+  D "A immortal mouse mammary gland-derived cell line cell that has the characteristics: A subline of the NMuMG cell line expressing Fucci, a cell cycle marker."
+obo:CLO_0050968
+  D "A immortal mouse mammary gland-derived cell line cell that has the characteristics: A subline of the NMuMG cell line expressing Fucci2, a cell cycle marker."
+obo:CLO_0051598
+  D "A immortal rat mammary gland-derived cell line cell that has the characteristics: Rat cell line derived from mammary gland carcinoma which is induced by DMBA in the transgenic rat expressing human prototype c-Ha-ras gene."
+obo:CLO_0051597
+  D "A immortal rat mammary gland-derived cell line cell that has the characteristics: Rat cell line derived from mammary gland carcinoma which is induced by DMBA in the transgenic rat expressing human prototype c-Ha-ras gene."
+obo:CLO_0051599
+  D "A immortal rat mammary gland-derived cell line cell that has the characteristics: Rat cell line derived from mammary gland carcinoma which is induced by DMBA in the transgenic rat expressing human prototype c-Ha-ras gene."
+obo:CLO_0051600
+  D "A immortal rat mammary gland-derived cell line cell that has the characteristics: Rat cell line derived from mammary gland carcinoma which is induced by DMBA in the transgenic rat expressing human prototype c-Ha-ras gene."
+obo:CLO_0051601
+  D "A immortal rat mammary gland-derived cell line cell that has the characteristics: Rat cell line derived from mammary gland carcinoma which is induced by DMBA in the transgenic rat expressing human prototype c-Ha-ras gene."
+obo:CLO_0051602
+  D "A immortal rat mammary gland-derived cell line cell that has the characteristics: Rat cell line derived from mammary gland carcinoma which is induced by DMBA in the transgenic rat expressing human prototype c-Ha-ras gene."
+obo:CLO_0051603
+  D "A immortal rat mammary gland-derived cell line cell that has the characteristics: Rat cell line derived from mammary carcinoma. TKG0132(Deposited from Tohoku Univ.)."
+obo:CLO_0051604
+  D "A immortal rat mammary gland-derived cell line cell that has the characteristics: Rat cell line derived from mammary carcinoma. TKG0565(Deposited from Tohoku Univ.)."
+obo:CLO_0051619
+  D "A immortal medaka cell line cell that has the characteristics: Fish (medaka) fin fibroblast. Cell growth is slow."
+obo:CLO_0051617
+  D "A immortal medaka cell line cell that has the characteristics: H04C medaka hepatoma pretreated with MAM-acetate"
+obo:CLO_0051620
+  D "A immortal medaka cell line cell that has the characteristics: HB32C medaka treated with MNNG. From peritoneum. Amelanotic. Cell growth is slow."
+obo:CLO_0051616
+  D "A immortal medaka cell line cell that has the characteristics: Medaka cell line derived from HNI strain."
+obo:CLO_0051613
+  D "A immortal medaka cell line cell that has the characteristics: Medaka cell line derived from HdrR strain."
+obo:CLO_0051614
+  D "A immortal medaka cell line cell that has the characteristics: Medaka cell line derived from HB32 strain."
+obo:CLO_0051618
+  D "A immortal medaka cell line cell that has the characteristics: Medaka cell line derived from hepatoma cells."
+obo:CLO_0051615
+  D "A immortal medaka cell line cell that has the characteristics: Medaka cell line derived from HB32 strain."
+obo:CLO_0000526
+  D "An immortal mesonephros-derived cell line cell that derives from mouse."
+obo:CLO_0000584
+  D "An immortal mesothelium-derived cell line cell that derives from human."
+obo:CLO_0000741
+  D "An immortal mixed endoderm/mesoderm-derived structure-derived cell line cell that derives from black-tailed deer."
+obo:CLO_0000726
+  D "An immortal mixed endoderm/mesoderm-derived structure-derived cell line cell that derives from brown bullhead."
+obo:CLO_0000469
+  D "An immortal mixed endoderm/mesoderm-derived structure-derived cell line cell that derives from cat."
+obo:CLO_0000462
+  D "An immortal mixed endoderm/mesoderm-derived structure-derived cell line cell that derives from cattle."
+obo:CLO_0009776
+  D "An immortal mixed endoderm/mesoderm-derived structure-derived cell line cell that derives from Cottontail rabbit."
+obo:CLO_0000540
+  D "An immortal mixed endoderm/mesoderm-derived structure-derived cell line cell that derives from fathead minnow."
+obo:CLO_0000490
+  D "An immortal mixed endoderm/mesoderm-derived structure-derived cell line cell that derives from human."
+obo:CLO_0000536
+  D "An immortal mixed endoderm/mesoderm-derived structure-derived cell line cell that derives from mouse."
+obo:CLO_0007530
+  D "Human malignant melanoma cell line derived from lung tisse of a 43 years old caucasian male."
+obo:CLO_0000101
+  D "a immortal motile cell line that is derived from amoeboid cell"
+obo:CLO_0004334
+  D "Mouse peritoneal macrophage, SV40 transformed. The IC-21 cell line was derived by transformation of normal C57BL/6 mouse peritoneal macrophages with SV40."
+obo:CLO_0050176
+  D "A immortal mouse cell line cell that has the characteristics: Myeloma"
+obo:CLO_0050168
+  D "A immortal mouse cell line cell that has the characteristics: Rapidly growing lymphoma"
+obo:CLO_0050171
+  D "A immortal mouse cell line cell that has the characteristics: Highly sensitive to X-ray irradiation"
+obo:CLO_0050170
+  D "A immortal mouse cell line cell that has the characteristics: Resistant to 6TG, isolated from M10"
+obo:CLO_0050169
+  D "A immortal mouse cell line cell that has the characteristics: Highly sensitive to X-ray irradiation"
+obo:CLO_0050165
+  D "A immortal mouse cell line cell that has the characteristics: Ehrlich's ascite tumor"
+obo:CLO_0050177
+  D "A immortal mouse cell line cell that has the characteristics: Myeloma"
+obo:CLO_0050175
+  D "A immortal mouse cell line cell that has the characteristics: Differentiate to macrophage and granulocyte"
+obo:CLO_0050164
+  D "A immortal mouse cell line cell that has the characteristics: Human myeloma. Lambda- chain producing."
+obo:CLO_0050178
+  D "A immortal mouse cell line cell that has the characteristics: Myeloma"
+obo:CLO_0050179
+  D "A immortal mouse cell line cell that has the characteristics: Myeloma"
+obo:CLO_0050201
+  D "A immortal mouse cell line cell that has the characteristics: In vivo transplantable highly metastatic sarcoma"
+obo:CLO_0050186
+  D "A immortal mouse cell line cell that has the characteristics: Highly metastatic neuroblastoma"
+obo:CLO_0050193
+  D "A immortal mouse cell line cell that has the characteristics: Macrophage-like cell"
+obo:CLO_0050172
+  D "A immortal mouse cell line cell that has the characteristics: Mouse lymphoid tumor, macrophage like. Buck-up culture of ECA85051501."
+obo:CLO_0050167
+  D "A immortal mouse cell line cell that has the characteristics: Highly metastatic and drug-resistant mouse tumor"
+obo:CLO_0050181
+  D "A immortal mouse cell line cell that has the characteristics: Cytotoxic T-cell line. IL-2 dependent."
+obo:CLO_0050202
+  D "A immortal mouse cell line cell that has the characteristics: Methylcholanthrene-induced fibrosarcoma. Metastatic to lung."
+obo:CLO_0050208
+  D "A immortal mouse cell line cell that has the characteristics: Differentiate to osteoblasts. Collagen producing."
+obo:CLO_0050195
+  D "A immortal mouse cell line cell that has the characteristics: IL-3 dependent mouse myeloid cells. MoLV induced."
+obo:CLO_0050174
+  D "A immortal mouse cell line cell that has the characteristics: IL-3 dependent mouse myeloid cells. MoLV induced."
+obo:CLO_0050173
+  D "A immortal mouse cell line cell that has the characteristics: Natural killer cell-sensitive mouse lymphoma."
+obo:CLO_0050217
+  D "A immortal mouse cell line cell that has the characteristics: Mouse mastocytoma. Used as a target cells for cytotoxic T cell assays."
+obo:CLO_0050206
+  D "A immortal mouse cell line cell that has the characteristics: Choroid plexus carcinoma cell line transfected with IgH enhancer-SV40 T fusion gene."
+obo:CLO_0050205
+  D "A immortal mouse cell line cell that has the characteristics: Choroid plexus carcinoma cell line transfected with IgH enhancer-SV40 T fusion gene. Different shape"
+obo:CLO_0050199
+  D "A immortal mouse cell line cell that has the characteristics: A highly metastatic cell line derived from Dunn's osteosarcoma (C3H mouse origin)."
+obo:CLO_0050200
+  D "A immortal mouse cell line cell that has the characteristics: Mouse ES (RCB1778 H-1) cell derived cell, useful for study of hematopoiesis."
+obo:CLO_0050219
+  D "A immortal mouse cell line cell that has the characteristics: Mouse T cell line transformed by Gross leukemia virus."
+obo:CLO_0050218
+  D "A immortal mouse cell line cell that has the characteristics: Mouse T cell line transformed by Gross leukemia virus."
+obo:CLO_0050220
+  D "A immortal mouse cell line cell that has the characteristics: Mouse T cell line transformed by Gross leukemia virus."
+obo:CLO_0050221
+  D "A immortal mouse cell line cell that has the characteristics: Mouse T cell line transformed by Gross leukemia virus."
+obo:CLO_0050166
+  D "A immortal mouse cell line cell that has the characteristics: 9,10-dimethyl-1,2benzanthracene induced lymphoma. Back up culture of ECA2504."
+obo:CLO_0050207
+  D "A immortal mouse cell line cell that has the characteristics: Mouse-derived gingival epithelial cell line. Derived from SV40-Large T antigen transgenic mouse."
+obo:CLO_0050198
+  D "A immortal mouse cell line cell that has the characteristics: Mouse osteosarcoma cell line. Transplantable to mouse and form bone tissue in mouse."
+obo:CLO_0050213
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from lung squamous cell carcinoma. TKG0473 (Deposited from Tohoku Univ.)."
+obo:CLO_0050185
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from neuroblastoma. TKG0307 (Deposited from Tohoku Univ.)."
+obo:CLO_0050222
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from meyloid leukemia. TKG0319 (Deposited from Tohoku Univ.)."
+obo:CLO_0050214
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from lung squamous cell carcinoma. TKG0214 (Deposited from Tohoku Univ.)."
+obo:CLO_0050180
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from neuroblastoma. TKG0509(Deposited from Tohoku Univ.)."
+obo:CLO_0050184
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from spontaneous malignant fibrous histiocytoma. A/J strain. TKG0497(Deposited from Tohoku Univ.)."
+obo:CLO_0050192
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from ascites. Macrophage-like cells. BALB/c strain. TKG0208(Deposited from Tohoku Univ.)."
+obo:CLO_0050203
+  D "A immortal mouse cell line cell that has the characteristics: Mouse osteoblast-like cell line derived from Runx2 deficient mouse."
+obo:CLO_0050204
+  D "A immortal mouse cell line cell that has the characteristics: Mouse osteoblast-like cell line derived from Runx2 deficient mouse."
+obo:CLO_0050194
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from lymphoma. Balb/c strain. TKG0571 (Deposited from Tohoku Univ.)."
+obo:CLO_0050216
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from lymphoid tumor. DBA/2 strain. TKG0326(Deposited from Tohoku Univ.)."
+obo:CLO_0050215
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from lymphoid tumor. DBA/2 strain. TKG0292 (Deposited from Tohoku Univ.)."
+obo:CLO_0050187
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from lymphoma. A/Sn strain. TKG0387 (Deposited from Tohoku Univ.)."
+obo:CLO_0050212
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from leukemia. Resistant to 6TG (10 microgram/ml).  DBA/2 strain. TKG0478 (Deposited from Tohoku Univ.)."
+obo:CLO_0050196
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from myelomonocytic leukemia cells. BALB/c strain. TKG0584(Deposited from Tohoku Univ.)."
+obo:CLO_0050197
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from bone marrow. Fibroblast-like. 6TG resistant. BALB/c strain. TKG0350(Deposited from Tohoku Univ.)."
+obo:CLO_0050209
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from Swiss Webster Sarcoma 180. CFW strain. TKG0637(Deposited from Tohoku Univ.)."
+obo:CLO_0050210
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from sarcoma cells in ascites. CFW strain. TKG0672(Deposited from Tohoku Univ.)."
+obo:CLO_0050211
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from sarcoma cells in ascites. CFW strain. TKG0638(Deposited from Tohoku Univ.)."
+obo:CLO_0050182
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from fibrosarcoma. TNF resistant. BALB/c strain. TKG0281(Deposited from Tohoku Univ.)."
+obo:CLO_0050183
+  D "A immortal mouse cell line cell that has the characteristics: Mouse cell line derived from fibrosarcoma. TNF sensitive. BALB/c strain. TKG0282(Deposited from Tohoku Univ.)."
+obo:CLO_0050190
+  D "A immortal mouse cell line cell that has the characteristics: Subline of OP9 cell line, expressing EGFP. Cell growth is slow.　See RCB2117 TSt-4/G."
+obo:CLO_0050191
+  D "A immortal mouse cell line cell that has the characteristics: Subline of OP9 cell line, expressing DLL1 and EGFP. Cell growth is slow. See RCB2118 TSt-4/G-DLL1."
+obo:CLO_0050189
+  D "A immortal mouse cell line cell that has the characteristics: Subline of OP9 cell line, expressing human NGF receptor. Cell growth is slow. See RCB2119 TSt-4/N."
+obo:CLO_0050188
+  D "A immortal mouse cell line cell that has the characteristics: Subline of OP9 cell line, expressing DLL1 and human NGF receptor. See RCB2120 TSt-4/N-DLL1."
+obo:CLO_0009112
+  D "SP2/0-AG14 is a hybrid between BALB/c spleen cells and the myeloma cell line P3X63AG8."
+obo:CLO_0009405
+  D "TSA is an aggressive and poorly immunogenic cell line established from a moderately differentiated mammary adenocarcinoma that arose spontaneously in a multiparous BALB/c mouse."
+obo:CLO_0000663
+  D "An immortal mouth-derived cell line cell that derives from human."
+obo:CLO_0051383
+  D "A immortal human mouth-derived cell line cell that has the characteristics: Human cell line derived from oral squamous cell carcinoma occurred in 69-yo, male patient. HLA-A 24/. TKG0487 (Deposited from Tohoku Univ.)."
+obo:CLO_0051384
+  D "A immortal human mouth-derived cell line cell that has the characteristics: Human cell line derived from squamous cell carcinoma at mouth floor. TKG0455(Deposited from Tohoku Univ.)."
+obo:CLO_0000947
+  D "An immortal mucosa of vagina-derived cell line cell that derives from human."
+obo:CLO_0000755
+  D "An immortal mucosa-derived cell line cell that derives from pig."
+obo:CLO_0000458
+  D "An immortal multi-cellular organism-derived cell line cell that derives from cat."
+obo:CLO_0009751
+  D "An immortal multi-cellular organism-derived cell line cell that derives from chicken."
+obo:CLO_0000541
+  D "An immortal multi-cellular organism-derived cell line cell that derives from human."
+obo:CLO_0000954
+  D "An immortal multi-cellular organism-derived cell line cell that derives from mosquito."
+obo:CLO_0000502
+  D "An immortal multi-cellular organism-derived cell line cell that derives from mouse."
+obo:CLO_0000464
+  D "An immortal muscle spindle-derived cell line cell that derives from cat."
+obo:CLO_0000916
+  D "An immortal muscle spindle-derived cell line cell that derives from mouse."
+obo:CLO_0000890
+  D "An immortal nasal concha-derived cell line cell that derives from cattle."
+obo:CLO_0009783
+  D "An immortal nasal vestibule-derived cell line cell that derives from rat."
+obo:CLO_0000921
+  D "An immortal nephron tubule-derived cell line cell that derives from Bolivian squirrel monkey."
+obo:CLO_0000888
+  D "An immortal neural nucleus-derived cell line cell that derives from mouse."
+obo:CLO_0000716
+  D "An immortal neural nucleus-derived cell line cell that derives from Mus musculus x Rattus norvegicus."
+obo:CLO_0000623
+  D "An immortal neural nucleus-derived cell line cell that derives from rat."
+obo:CLO_0000056
+  D "a immortal non-terminally differentiated cell line that is derived from muscle precursor cell"
+obo:CLO_0000055
+  D "a immortal non-terminally differentiated cell line that is derived from osteoblast"
+obo:CLO_0000057
+  D "a immortal muscle precursor cell line that is derived from myoblast"
+obo:CLO_0000058
+  D "a immortal myoblast cell line that is derived from fusion competent myoblast"
+obo:CLO_0009756
+  D "An immortal myoblast cell line cell that derives from rat."
+obo:CLO_0000347
+  D "An immortal myoblast cell line cell that derives from rhomboid."
+obo:CLO_0000336
+  D "An immortal myoblast cell line cell that derives from skeletal muscle."
+obo:CLO_0000914
+  D "An immortal fusion competent myoblast cell line cell that derives from human."
+obo:CLO_0000950
+  D "An immortal fusion competent myoblast cell line cell that derives from rat."
+obo:CLO_0000828
+  D "An immortal rhomboid-derived myoblast cell line cell that derives from human."
+obo:CLO_0000783
+  D "An immortal skeletal muscle-derived myoblast cell line cell that derives from chimpanzee."
+obo:CLO_0000809
+  D "An immortal skeletal muscle-derived myoblast cell line cell that derives from human."
+obo:CLO_0000151
+  D "a immortal myeloid cell line that is derived from erythroblast"
+obo:CLO_0000154
+  D "a immortal hematopoietic lineage restricted progenitor cell line that is derived from myeloblast"
+obo:CLO_0000155
+  D "a immortal myeloblast cell line that is derived from basophilic myeloblast"
+obo:CLO_0009791
+  D "An immortal myeloblast cell line cell that derives from human."
+obo:CLO_0000522
+  D "An immortal myeloblast cell line cell that derives from mouse."
+obo:CLO_0007093
+  D "Human acute myeloid leukemia, established from the bone marrow of a 59-year-old man with erythroleukemia that developped into acute myeloid leukemia (AML) at relapse in 1977; cells were described to form colonies in soft-agar in response to colony-stimulating factor."
+obo:CLO_0007095
+  D "The KG-1A cell line is derived from the KG-1 cell line and is almost identical."
+obo:CLO_0000782
+  D "An immortal organism part-derived cell line cell that derives from chimpanzee."
+obo:CLO_0000440
+  D "An immortal organism part-derived cell line cell that derives from human."
+obo:CLO_0000407
+  D "An immortal organism part-derived cell line cell that derives from long-tailed macaque."
+obo:CLO_0000435
+  D "An immortal organism part-derived cell line cell that derives from mouse."
+obo:CLO_0000401
+  D "An immortal organism part-derived cell line cell that derives from rat."
+obo:CLO_0000622
+  D "An immortal paired fin-derived cell line cell that derives from bluestriped grunt."
+obo:CLO_0000551
+  D "An immortal pancreas-derived cell line cell that derives from human."
+obo:CLO_0000515
+  D "An immortal pancreas-derived cell line cell that derives from mouse."
+obo:CLO_0000677
+  D "An immortal pancreas-derived cell line cell that derives from rat."
+obo:CLO_0000643
+  D "An immortal pancreas-derived cell line cell that derives from Syrian golden hamster."
+obo:CLO_0002197
+  D "Human pancreas adenocarcinoma cell line; established from the liver metastasis of a pancreatic ductal adenocarcinoma in a 40-year-old Caucasian man in 1974."
+obo:CLO_0002198
+  D "Human pancreas adenocarcinoma cell line; established from the tumor of a 56-year-old Caucasian man with pancreas adenocarcinoma in 1975."
+obo:CLO_0002395
+  D "This line was derived from a pancreatic duct adenocarcinoma (liver metastasis) from a patient with cystic fibrosis."
+obo:CLO_0003814
+  D "A pancreatic adenocarcinoma epithelial cell line derived in 1985 from a nude mouse xenograft of a primary tumor removed from the head of the pancreas of a woman with moderate to well differentiated pancreatic adenocarcinoma of ductal origin."
+obo:CLO_0037235
+  D "An immortal pancreas-derived cell line cell that derives from human."
+obo:CLO_0000488
+  D "An immortal septum of telencephalon-derived cell line cell that derives from human."
+obo:CLO_0008381
+  D "Human, Caucasian, pancreas, carcinoma cell line. Established from a pancreatic carcinoma of ductal origin from a 56-year-old Caucasian male. Cells possess the type B phenotype for G6PD."
+obo:CLO_0050102
+  D "A immortal human cell line cell that has the characteristics: Human cell line derived from pancreatic cancer. Ductal origin. TKG0606(Deposited from Tohoku Univ.)"
+obo:CLO_0002176
+  D "Human renal cancer cell line, established from a 49-years-old male."
+  A Caki-1
+obo:CLO_0002544
+  D "Human Caucasian colon adenocarcinoma cell line. Isolated from ascitic fluid of a 70-year-old Caucasian male with carcinoma of the colon."
+  A COLO 205
+obo:CLO_0003675
+  D "This is a substrain of HEC-1-A."
+obo:CLO_0003771
+  D "An immortalized proximal tubule epithelial cell line from normal adult human kidney."
+obo:CLO_0004255
+  D "Hs68 is one of a series of human foreskin fibroblast lines developed at the Naval Biosciences Laboratory (NBL) in Oakland, CA. The material was obtained from an apparently normal Caucasian newborn male in February, 1969."
+obo:CLO_0007378
+  D "Human colon adenocarcinoma cell line, established from the metastatic nodule resected from a 56-year-old Caucasian man with colon adenocarcinoma in 1972."
+obo:CLO_0007688
+  D "Human skin malignant melanoma cell line."
+obo:CLO_0008082
+  D "NCI-H295R was adapted from the NCI-H295 pluripotent adrenocortical carcinoma cell line established by A.F. Gazdar and associates from a carcinoma of the adrenal cortex."
+obo:CLO_0008102
+  D "Homo sapiens (human) lung; small cell lung cancer cell line, extrapulmonary origin; established from a 63 years adult caucasian male. Morphology: epithelial; cell type: neuroendocrine; Tumor stage E; derived from metastatic site: lymph node."
+obo:CLO_0009197
+  D "Human, ovary, adenocarcinoma cell line."
+obo:CLO_0009221
+  D "Human, Caucasian, colon, adenocarcinoma cell line; established from the tissue of a 51-year-old Caucasian male."
+obo:CLO_0009727
+  D "Human Caucasian breast carcinoma cell line; derived from a malignant ascitic effusion in a 63 year old female Caucasian with infiltrating ductal carcinoma."
+obo:CLO_0001932
+  D "Murine insulin-secreting pancreatic beta cells from an insulin producing tumour (insulinoma) in the pancreas."
+obo:CLO_0000879
+  D "An immortal parenchymal cell line cell that derives from zebra fish."
+obo:CLO_0000872
+  D "An immortal parotid gland-derived cell line cell that derives from human."
+obo:CLO_0009744
+  D "An immortal pelvic fin-derived cell line cell that derives from human."
+obo:CLO_0000669
+  D "An immortal peripheral vein-derived cell line cell that derives from human."
+obo:CLO_0000668
+  D "An immortal peritoneum-derived cell line cell that derives from Chinese hamster."
+obo:CLO_0000100
+  D "a immortal phagocyte cell line that is derived from polygonal cell"
+obo:CLO_0000598
+  D "An immortal pituitary gland-derived cell line cell that derives from rat."
+obo:CLO_0050272
+  D "A immortal pituitary gland-derived cell line cell that has the characteristics: Macrophage-like tumor dependent on L929 conditioned medium."
+obo:CLO_0050271
+  D "A immortal pituitary gland-derived cell line cell that has the characteristics: Pituitary folliculo-stellate-like cells. GFAP positive and S-100 positive."
+obo:CLO_0050943
+  D "A immortal rat pituitary gland-derived cell line cell that has the characteristics: Estrogen-induced tumor. Growth hormone producing."
+obo:CLO_0050944
+  D "A immortal rat pituitary gland-derived cell line cell that has the characteristics: Estradiol-dependent pituitary tumor"
+obo:CLO_0050942
+  D "A immortal rat pituitary gland-derived cell line cell that has the characteristics: Growth hormone, prolactine producing"
+obo:CLO_0050941
+  D "A immortal rat pituitary gland-derived cell line cell that has the characteristics: Estrogen-induced pituitary tumor. Compared with MtT/S, MtT/SM, and MtT/Se."
+obo:CLO_0000477
+  D "An immortal placenta-derived cell line cell that derives from cat."
+obo:CLO_0000702
+  D "An immortal placenta-derived cell line cell that derives from human."
+obo:CLO_0001935
+  D "Human placenta choriocarcinoma cell line."
+obo:CLO_0007011
+  D "Human choriocarcinomacell line; established from the trophoblastic tumor of the placenta of a 24-year-old Caucasian woman."
+obo:CLO_0000703
+  D "An immortal posterior commissure-derived cell line cell that derives from bluegill sunfish."
+obo:CLO_0000693
+  D "An immortal posterior commissure-derived cell line cell that derives from zebra fish."
+obo:CLO_0000658
+  D "An immortal prepuce of penis-derived cell line cell that derives from human."
+obo:CLO_0009772
+  D "An immortal prepuce of penis-derived cell line cell that derives from rhesus macaque."
+obo:CLO_0000698
+  D "An immortal pronephros-derived cell line cell that derives from mouse."
+obo:CLO_0000766
+  D "An immortal prostate epithelium-derived cell line cell that derives from human."
+obo:CLO_0000748
+  D "An immortal prostate gland-derived cell line cell that derives from human."
+obo:CLO_0000957
+  D "An immortal prostate gland-derived cell line cell that derives from mouse."
+obo:CLO_0000487
+  D "An immortal prostate gland-derived cell line cell that derives from rat."
+obo:CLO_0002174
+  D "Human prostate cancer cell line."
+obo:CLO_0007365
+  D "Human prostate carcinoma, established from the left supraclavicular lymph node metastasis from a 50-year-old man with prostate carcinoma in 1977; cells were described to be androgen-sensitive."
+obo:CLO_0051536
+  D "A immortal human prostate gland-derived cell line cell that has the characteristics: Human cell line derived from brain metastasis of prostate carcinoma. TKG0604(Deposited from Tohoku Univ.)."
+obo:CLO_0051537
+  D "A immortal human prostate gland-derived cell line cell that has the characteristics: Human cell line derived from prostate adenocarcinoma. Derived from lymph node metastasis. TKG0603(Deposited from Tohoku Univ.)."
+obo:CLO_0051535
+  D "A immortal human prostate gland-derived cell line cell that has the characteristics: Human cell line derived from bone metastasis of prostatic cancer. TKG0600(Deposited from Tohoku Univ.)."
+obo:CLO_0051534
+  D "A immortal human prostate gland-derived cell line cell that has the characteristics: Human cell line derived from malignant peripheral nerve sheath tumor."
+obo:CLO_0008905
+  D "Epithelial cells derived from the peripheral zone of a histologically normal adult human prostate were transfected with a single copy of the human papilloma virus 18 to establish the cell line."
+obo:CLO_0001761
+  D "Rat prostate carcinoma cell line."
+obo:CLO_0000938
+  D "An immortal proximal tubule-derived cell line cell that derives from European rabbit, rabbit."
+obo:CLO_0009743
+  D "An immortal pulmonary nerve plexus-derived cell line cell that derives from cattle."
+obo:CLO_0000682
+  D "An immortal pulmonary vein-derived cell line cell that derives from human."
+obo:CLO_0000633
+  D "An immortal pyramid of medulla oblongata-derived cell line cell that derives from human."
+obo:CLO_0000773
+  D "An immortal pyramid of medulla oblongata-derived cell line cell that derives from rat."
+obo:CLO_0004342
+  D "Rat normal small intestine cell line. Normal rat epithelial cells from the small intestine; cells were described to synthesize fibronectin and collagen."
+  A IEC-6
+obo:CLO_0050821
+  D "A immortal rat cell line cell that has the characteristics: Pheochromocytoma, differentiate by NGF stimulation"
+obo:CLO_0050816
+  D "A immortal rat cell line cell that has the characteristics: Subclone of AH-66, lost transplantability in rats."
+obo:CLO_0050813
+  D "A immortal rat cell line cell that has the characteristics: Ascites hepatoma."
+obo:CLO_0050817
+  D "A immortal rat cell line cell that has the characteristics: Rat lung fibroblast once said interferon-producing. Serum-& protein-free culturable."
+obo:CLO_0050819
+  D "A immortal rat cell line cell that has the characteristics: Sticky cell from lymph node."
+obo:CLO_0050827
+  D "A immortal rat cell line cell that has the characteristics: Rat thymoma cell line without mouse chromosome contamination. Compare to MTHC-2 and -3."
+obo:CLO_0050834
+  D "A immortal rat cell line cell that has the characteristics: Rat fibrous histiocytoma. Acid phosphatase and nonspecific esterase are weakly positive."
+obo:CLO_0050835
+  D "A immortal rat cell line cell that has the characteristics: Rat fibrous histiocytoma. Acid phosphatase-, non-specific esterase- & monocytic antigen-positive."
+obo:CLO_0050842
+  D "A immortal rat cell line cell that has the characteristics: So called clear cells from rat stomach mucosa."
+obo:CLO_0050826
+  D "A immortal rat cell line cell that has the characteristics: Rat small intestine epithelial cells. Backup of ECA88071401."
+obo:CLO_0050837
+  D "A immortal rat cell line cell that has the characteristics: A subline of NBT-II. Low invasive bladder carcinoma. Relatively high cadherin expression."
+obo:CLO_0050838
+  D "A immortal rat cell line cell that has the characteristics: A subline of NBT-II. Almost non-invasive bladder carcinoma. Relatively high cadherin expression."
+obo:CLO_0050839
+  D "A immortal rat cell line cell that has the characteristics: A subline of NBT-II. Invasive bladder carcinoma. Relatively low cadherin expression."
+obo:CLO_0050840
+  D "A immortal rat cell line cell that has the characteristics: A subline of NBT-II. Highly invasive bladder carcinoma. Relatively low cadherin expression."
+obo:CLO_0050841
+  D "A immortal rat cell line cell that has the characteristics: A subline of NBT-II. The most invasive bladder carcinoma. Relatively low cadherin expression."
+obo:CLO_0050814
+  D "A immortal rat cell line cell that has the characteristics: Subclone of AH-66, lost transplantability in rats. Possible to culture in DMEM medium. See RCB0063."
+obo:CLO_0050820
+  D "A immortal rat cell line cell that has the characteristics: Sticky cell from lymph node. Possible to culture in DMEM medium."
+obo:CLO_0050815
+  D "A immortal rat cell line cell that has the characteristics: Ascites hepatoma. Possible to culture in DMEM medium. See RCB0065."
+obo:CLO_0050818
+  D "A immortal rat cell line cell that has the characteristics: Rat lung fibroblast once said interferon-producing. Possible to culture in DMEM medium. See RCB0074 ."
+obo:CLO_0050836
+  D "A immortal rat cell line cell that has the characteristics: F344 male rat fibrosarcoma cells, but with histiocytic and/or myofibroblastic characteristics."
+obo:CLO_0050833
+  D "A immortal rat cell line cell that has the characteristics: Meningioma derived cell line. Derived from rat F344."
+obo:CLO_0050830
+  D "A immortal rat cell line cell that has the characteristics: Subline of KMY-J. Fibroblast-like"
+obo:CLO_0050832
+  D "A immortal rat cell line cell that has the characteristics: Subline of KMY-J. Epithelial-like"
+obo:CLO_0050831
+  D "A immortal rat cell line cell that has the characteristics: Subline of KMY-J. Polyploidy"
+obo:CLO_0050824
+  D "A immortal rat cell line cell that has the characteristics: Cell line for titration of murine leukemia virus."
+obo:CLO_0050822
+  D "A immortal rat cell line cell that has the characteristics: A subline of PC-12 lacking synaptotagmin-1."
+obo:CLO_0050823
+  D "A immortal rat cell line cell that has the characteristics: A subline of PC-12 expressing synaptotagmin-1, a control cell line for PC12-F7."
+obo:CLO_0050829
+  D "A immortal rat cell line cell that has the characteristics: Rat cell line derived from osteosarcoma. F344 strain."
+obo:CLO_0050828
+  D "A immortal rat cell line cell that has the characteristics: Rat cell line derived from lung cancer. TKG0135(Deposited from Tohoku Univ.)."
+obo:CLO_0050825
+  D "A immortal rat cell line cell that has the characteristics: Rat cell line derived from sarcoma cells in ascites. TKG0648(Deposited from Tohoku Univ.)."
+obo:CLO_0000681
+  D "An immortal rectum-derived cell line cell that derives from human."
+obo:CLO_0009749
+  D "An immortal rectum-derived cell line cell that derives from mouse."
+obo:CLO_0051401
+  D "A immortal human rectum-derived cell line cell that has the characteristics: Rectal carcinoma from a Japanese patient. Cell growth is slow."
+obo:CLO_0051400
+  D "A immortal human rectum-derived cell line cell that has the characteristics: Human cell line derived from rectal cancer. Cell growth is slow."
+obo:CLO_0051399
+  D "A immortal human rectum-derived cell line cell that has the characteristics: Human rectal cancer cell line."
+obo:CLO_0051596
+  D "A immortal mouse rectum-derived cell line cell that has the characteristics: Mouse cell line derived from rectal cancer. BALB/c strain.TKG0518(Deposited from Tohoku Univ.)."
+obo:CLO_0000919
+  D "An immortal renal glomerulus-derived cell line cell that derives from mouse."
+obo:CLO_0000913
+  D "An immortal respiration organ-derived cell line cell that derives from mouse."
+obo:CLO_0000885
+  D "An immortal retina-derived cell line cell that derives from human."
+obo:CLO_0000767
+  D "An immortal retinal neural layer-derived cell line cell that derives from Japanese quail."
+obo:CLO_0009747
+  D "An immortal right ureter-derived cell line cell that derives from human."
+obo:CLO_0009745
+  D "An immortal round window-derived cell line cell that derives from human."
+obo:CLO_0000673
+  D "An immortal round window-derived cell line cell that derives from mouse."
+obo:CLO_0000719
+  D "An immortal round window-derived cell line cell that derives from Mus musculus x Rattus norvegicus."
+obo:CLO_0000895
+  D "An immortal sacrum-derived cell line cell that derives from human."
+obo:CLO_0000068
+  D "a immortal secretory cell line that is derived from endocrine cell"
+obo:CLO_0000067
+  D "a immortal secretory cell line that is derived from exocrine cell"
+obo:CLO_0000060
+  D "a immortal secretory cell line that is derived from glandular epithelial cell"
+obo:CLO_0000064
+  D "a immortal glandular epithelial cell line that is derived from neck cell"
+obo:CLO_0000066
+  D "a immortal glandular cell line of stomach that is derived from parietal cell"
+obo:CLO_0000073
+  D "a immortal secretory cell line that is derived from plasma cell"
+obo:CLO_0000072
+  D "a immortal secretory cell line cell that is derived from Sertoli cell"
+obo:CLO_0000061
+  D "a immortal glandular epithelial cell line cell that is derived from chromophil cell of anterior pituitary gland"
+obo:CLO_0000071
+  D "a immortal endocrine cell line that is derived from Leydig cell"
+obo:CLO_0000063
+  D "a immortal chromophil cell line of anterior pituitary gland that is derived from acidophil cell of pars distalis of adenohypophysis"
+obo:CLO_0000062
+  D "a immortal chromophil cell line cell of anterior pituitary gland that is derived from thyrotroph"
+obo:CLO_0000720
+  D "An immortal thyrotroph cell line cell that derives from mouse."
+obo:CLO_0000671
+  D "An immortal exocrine cell line cell that derives from rat."
+obo:CLO_0000065
+  D "a immortal glandular epithelial cell line that is derived from glandular cell of stomach"
+obo:CLO_0000765
+  D "An immortal parietal cell line cell that derives from mouse."
+obo:CLO_0000272
+  D "An immortal plasma cell line cell that derives from organism part."
+obo:CLO_0000613
+  D "An immortal organism part-derived plasma cell line cell that derives from mouse."
+obo:CLO_0000738
+  D "An immortal septum of telencephalon-derived cell line cell that derives from American opossum."
+obo:CLO_0000995
+  D "An immortal septum of telencephalon-derived cell line cell that derives from cat."
+obo:CLO_0000704
+  D "An immortal septum of telencephalon-derived cell line cell that derives from cattle."
+obo:CLO_0000988
+  D "An immortal septum of telencephalon-derived cell line cell that derives from dog."
+obo:CLO_0000805
+  D "An immortal septum of telencephalon-derived cell line cell that derives from European rabbit, rabbit."
+obo:CLO_0000960
+  D "An immortal septum of telencephalon-derived cell line cell that derives from horse."
+obo:CLO_0000628
+  D "An immortal septum of telencephalon-derived cell line cell that derives from mouse."
+obo:CLO_0000619
+  D "An immortal septum of telencephalon-derived cell line cell that derives from Mustelinae."
+obo:CLO_0000639
+  D "An immortal septum of telencephalon-derived cell line cell that derives from rat."
+obo:CLO_0000771
+  D "An immortal septum of telencephalon-derived cell line cell that derives from rhesus macaque."
+obo:CLO_0000949
+  D "An immortal septum of telencephalon-derived cell line cell that derives from Russell's viper."
+obo:CLO_0009781
+  D "An immortal septum of telencephalon-derived cell line cell that derives from sheep."
+obo:CLO_0000648
+  D "An immortal septum of telencephalon-derived cell line cell that derives from Syrian golden hamster."
+obo:CLO_0008246
+  D "American Opossum kidney cell line; derived from proximal tubule of a kidney taken from an adult female opossum. Cells retain proximal tubule function."
+obo:CLO_0009701
+  D "Mouse adrenal cortex tumor. Mouse, LAF1 male; Tissue: adrenal cortex; Tumor: adrenal tumor."
+obo:CLO_0000899
+  D "An immortal single nucleate cell line cell that derives from human."
+obo:CLO_0000095
+  D "a immortal phagocyte cell line that is derived from mononuclear phagocyte"
+obo:CLO_0000484
+  D "An immortal mononuclear phagocyte cell line cell that derives from cat."
+obo:CLO_0050225
+  D "A immortal mononuclear phagocyte cell line cell that has the characteristics: T cell line derived from Chimpanzee (Pan troglodytes)"
+obo:CLO_0050224
+  D "A immortal mononuclear phagocyte cell line cell that has the characteristics: T cell line derived from Chimpanzee (Pan troglodytes)"
+obo:CLO_0050226
+  D "A immortal mononuclear phagocyte cell line cell that has the characteristics: Human B cell line transformed by Epstein-Barr Virus. HLA: A0206 and A2402. TKG0585 (Deposited from Tohoku Univ.)."
+obo:CLO_0000909
+  D "An immortal skin-derived cell line cell that derives from anteater."
+obo:CLO_0000963
+  D "An immortal skin-derived cell line cell that derives from camel."
+obo:CLO_0000467
+  D "An immortal skin-derived cell line cell that derives from cat."
+obo:CLO_0000886
+  D "An immortal skin-derived cell line cell that derives from chimpanzee."
+obo:CLO_0000992
+  D "An immortal skin-derived cell line cell that derives from Cottontail rabbit."
+obo:CLO_0000967
+  D "An immortal skin-derived cell line cell that derives from European rabbit, rabbit."
+obo:CLO_0000927
+  D "An immortal skin-derived cell line cell that derives from goat."
+obo:CLO_0000438
+  D "An immortal skin-derived cell line cell that derives from human."
+obo:CLO_0000815
+  D "An immortal skin-derived cell line cell that derives from Muntjacs."
+obo:CLO_0000478
+  D "An immortal skin-derived cell line cell that derives from rat."
+obo:CLO_0000874
+  D "An immortal skin-derived cell line cell that derives from Syrian golden hamster."
+obo:CLO_0001380
+  D "Human skin fibroblast cell line, SV40 T antigen transformed, derived from 46BR, a fibroblast from an individual with hypogammaglobulinaemia. The parent line was transformed with the plasmid pSV3gpt expressing SV40 T-antigen."

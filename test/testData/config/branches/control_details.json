@@ -1,0 +1,102 @@
+{
+    "schemaPrefix": "http://www.bioassayontology.org/bas/ControlDetails#",
+    "branchGroups": [],
+    "root": 
+    {
+        "name": "control details",
+        "descr": "",
+        "groupURI": "http://www.bioassayontology.org/bao#BAO_0000740",
+        "assignments": [],
+        "subGroups": 
+        [
+            {
+                "name": "control details",
+                "descr": "",
+                "groupURI": "http://www.bioassayontology.org/bao#BAO_0000740",
+                "assignments": 
+                [
+                    {
+                        "name": "positive control",
+                        "descr": "",
+                        "propURI": "http://www.bioassayontology.org/bao#BAX_0000054",
+                        "suggestions": "full",
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0003043",
+                                "name": "molecular entity",
+                                "descr": "",
+                                "wholeBranch": true
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "negative control",
+                        "descr": "",
+                        "propURI": "http://www.bioassayontology.org/bao#BAX_0000055",
+                        "suggestions": "full",
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0003043",
+                                "name": "molecular entity",
+                                "descr": "",
+                                "wholeBranch": true
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "background control",
+                        "descr": "",
+                        "propURI": "http://www.bioassayontology.org/bao#BAX_0000056",
+                        "suggestions": "full",
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0003043",
+                                "name": "molecular entity",
+                                "descr": "",
+                                "wholeBranch": true
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "reference compound",
+                        "descr": "",
+                        "propURI": "http://www.bioassayontology.org/bao#BAX_0000057",
+                        "suggestions": "full",
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0003043",
+                                "name": "molecular entity",
+                                "descr": "",
+                                "wholeBranch": true
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "plate control",
+                        "descr": "",
+                        "propURI": "http://www.bioassayontology.org/bao#BAX_0000058",
+                        "suggestions": "full",
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0002841",
+                                "name": "off plate control",
+                                "descr": ""
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0002840",
+                                "name": "on plate control",
+                                "descr": ""
+                            }
+                        ]
+                    }
+                ],
+                "subGroups": []
+            }
+        ]
+    }
+}

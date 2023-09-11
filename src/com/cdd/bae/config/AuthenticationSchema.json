@@ -1,0 +1,79 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"description": "Definition of identifiers for BioAssay Express (BAE)",
+	"type": "array",
+	"items":
+	{
+		"type": "object",
+		"required":
+		[
+			"name",
+			"prefix"
+		],
+		"properties":
+		{
+			"name":
+			{
+				"description": "Name",
+				"type": "string"
+			},
+			"prefix":
+			{
+				"description": "Prefix used to label authentication types",
+				"type": "string",
+				"pattern": "\\w+:"
+			},
+			"type":
+			{
+				"description": "Authentication type",
+				"type": "string",
+				"pattern": "(OAuth|Trusted|Basic|LDAP)"
+			},
+			"authURL":
+			{
+				"description": "URL for OAuth authorization",
+				"type": "string",
+				"format": "uri",
+				"default": ""
+			},
+			"tokenURL":
+			{
+				"description": "URL to retrieve token",
+				"type": "string",
+				"format": "uri",
+				"default": ""
+			},
+			"scope":
+			{
+				"type": "string"
+			},
+			"responseType":
+			{
+				"type": "string"
+			},
+			"redirectURI":
+			{
+				"description": "Redirect URI for OAuth authorization",
+				"type": "string",
+				"format": "uri",
+				"default": ""
+			},
+			"clientID":
+			{
+				"type": "string"
+			},
+			"clientSecret":
+			{
+				"type": "string"
+			},
+			"userID":
+			{
+				"type": "string"
+			},
+			"userName":
+			{
+				"type": "string"
+			}
+		}
+	}
+}

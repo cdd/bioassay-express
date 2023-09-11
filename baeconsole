@@ -1,0 +1,111 @@
+#!/usr/bin/env tcsh
+
+# This executable is for running the console using a development version of BAE. Class files are in the build/ 
+# subdirectory, and Tomcat files are wherever they were installed. Running the console using a live instance of
+# BAE involves a similar process, but with different settings.
+
+setenv LIB lib
+
+#setenv CLASSPATH web/WEB-INF/classes
+setenv CLASSPATH build/classes
+setenv CLASSPATH ${CLASSPATH}:../bax/bin
+
+setenv CLASSPATH ${CLASSPATH}:${LIB}/cdk-core-2.2-SNAPSHOT.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/cdk-ctab-2.2-SNAPSHOT.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/cdk-data-2.2-SNAPSHOT.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/cdk-fingerprint-2.2-SNAPSHOT.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/cdk-interfaces-2.2-SNAPSHOT.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/cdk-ioformats-2.2-SNAPSHOT.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/cdk-isomorphism-2.2-SNAPSHOT.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/cdk-model-2.2-SNAPSHOT.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/cdk-standard-2.2-SNAPSHOT.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/commons-collections-3.2.2.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/commons-collections4-4.4.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/commons-exec-1.3.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/commons-text-1.8.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/guava-28.1-jre.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/javax.json-1.1.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/jwnl-1.3.3.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/mongo-java-driver-3.11.0.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/okhttp-3.14.3.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/okio-1.17.4.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/opennlp-maxent-3.0.3.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/opennlp-tools-1.9.1.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/opennlp-uima-1.9.1.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/selenium-client-3.141.5.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/vecmath-1.5.2.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/xmlbeans-2.6.0.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/javax.json-1.1.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/javax.mail-1.6.2.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/activation-1.1.1.jar
+setenv CLASSPATH ${CLASSPATH}:${LIB}/commons-email-1.5.jar
+
+setenv CLASSPATH ${CLASSPATH}:../bax/pkg/BioAssayTemplate.jar
+
+# Configure logging using slf4j with log4j 1.2 backend
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/apache-log4j-extras-1.2.17.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/commons-cli-1.4.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/commons-codec-1.13.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/commons-compress-1.19.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/commons-csv-1.7.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/commons-io-2.6.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/commons-lang3-3.9.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/fontbox-2.0.17.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/httpclient-4.5.10.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/httpclient-cache-4.5.10.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/httpcore-4.4.12.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/jackson-core-2.9.10.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/jackson-databind-2.9.10.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/jackson-annotations-2.9.10.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/jcl-over-slf4j-1.7.28.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/jena-arq-3.12.0.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/jena-base-3.12.0.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/jena-core-3.12.0.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/jena-dboe-base-3.12.0.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/jena-dboe-index-3.12.0.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/jena-dboe-trans-data-3.12.0.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/jena-dboe-transaction-3.12.0.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/jena-iri-3.12.0.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/jena-shaded-guava-3.12.0.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/jena-tdb-3.12.0.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/jena-tdb2-3.12.0.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/jsonld-java-0.12.5.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/libthrift-0.12.0.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/log4j-1.2.17.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/pdfbox-2.0.17.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/slf4j-api-1.7.28.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/slf4j-log4j12-1.7.28.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/xercesImpl-2.12.0.jar
+setenv CLASSPATH ${CLASSPATH}:../bax/lib/xml-apis-1.4.01.jar
+
+#setenv TOMCATLIB /usr/share/tomcat8/lib
+setenv TOMCATLIB /opt/tomcat/lib
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/annotations-api.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/catalina-ant.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/catalina-ha.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/catalina-storeconfig.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/catalina-tribes.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/catalina.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/ecj-4.5.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/el-api.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/jasper-el.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/jasper.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/jsp-api.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/servlet-api.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/tomcat-api.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/tomcat-coyote.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/tomcat-dbcp.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/tomcat-jdbc.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/tomcat-jni.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/tomcat-util-scan.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/tomcat-util.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/tomcat-websocket.jar
+setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/websocket-api.jar
+
+# echo $CLASSPATH
+
+setenv PROPS ""
+setenv PROPS "${PROPS} -Dlog4j.configuration=file:cfg/log4j.properties"
+
+java ${PROPS} com.cdd.bae.main.Main $*
+

@@ -1,0 +1,101 @@
+{
+    "database": 
+    {
+        "host": "a.b.com",
+        "incorrectPattern": ".a.b.com",
+        "invalidInteger": 0.4,
+        "invalidNumber": "0.4.5",
+        "invalidFormat": "abcef",
+        "name": "bae",
+        "booleanRequired": null
+    },
+    "modules": 
+    {
+        "pubchem": 
+        {
+            "assays": false,
+            "compounds": true,
+            "directory": "assays"
+        },
+        "vault": 
+        {
+            "apiKey": "ABCDEFGHIJKLMNOP",
+            "vaultIDList": 
+            [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "propertyMap": 
+            {
+                "prop1": "A",
+                "prop2": "B"
+            },
+            "unitsMap": 
+            {
+                "child": "ABCDE",
+                "unit1": "U1"
+            },
+            "operatorMap": 
+            {
+            }
+        }
+    },
+    "authentication": 
+    {
+        "filename": "authentication.json"
+    },
+    "identifier": 
+    {
+        "filename": "identifier.json"
+    },
+    "templates": 
+    {
+        "directory": "template",
+        "files": 
+        [
+            "schema_ucsf.ttl",
+            "schema_azat.ttl"
+        ]
+    },
+    "nlp": 
+    {
+        "directory": "nlp"
+    },
+    "curation": 
+    {
+        "directory": "curation"
+    },
+    "provisional": 
+    {
+        "baseURI": "http://www.bioassayexpress.org/bae#"
+    },
+	"prefixes":
+	[
+		{
+			"baseURI": "http://www.collaborativedrug.com/cdd#"
+		},
+		{
+			"baseURI": "http://www.collaborativedrug.com/vault#",
+			"abbreviation": "vault"
+		}
+	],
+    "customWeb": 
+    {
+        "directory": "custom"
+    },
+    "pages": 
+    {
+        "randomAssay": "error"
+    },
+    "absence": ["incorrect"],
+	"buildinfo": 
+	{
+		"date": "25-11-2019",
+		"branch": "customer"
+	}
+}

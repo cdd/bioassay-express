@@ -1,0 +1,375 @@
+bao:BAO_0000338 has concentration
+bao:BAO_0000337 has percent response
+bao:BAO_0000214 has specification
+bao:BAO_0000335 has curve fit specification
+bao:BAO_0000212 has assay method
+bao:BAX_0000089 endpoint normalization method
+bao:BAO_0000211 has target
+bao:BAX_0000088 source document
+bao:BAO_0002874 has unit
+bao:BAX_0000087 assay protocol version
+bao:BAX_0000086 annotated by (e-mail)
+bao:BAO_0002875 is detected by
+bao:BAX_0000085 assay comment
+bao:BAO_0002876 has antibody source
+bao:BAX_0000084 assay measurement type
+bao:BAX_0000083 project name
+bao:BAX_0000082 has molecular entity potentiator
+bao:BAX_0000081 has protein purity
+bao:BAX_0000091 concentration of target value
+obo:OBI_0000417 achieves_planned_objective
+bao:BAX_0000090 filename
+bao:BAO_0002083 has date
+bao:BAO_0000108 has response value
+bao:BAO_0000106 has marker
+bao:BAO_0000589 is regulator of
+bao:BAX_0000079 has protein quality
+bao:BAX_0000078 has biochemical label
+bao:BAX_0000077 has molecular quality
+bao:BAX_0000076 uses reporter gene
+bao:BAX_0000075 uses DNA vector
+bao:BAX_0000074 uses transfection agent
+bao:BAX_0000073 has cell line modification method
+bao:BAO_0002767 is binding site of
+bao:BAX_0000072 has expression modulation method
+bao:BAX_0000071 has cell culture serum
+bao:BAX_0000070 has cell line inducer
+bao:BAO_0000109 has temperature value
+bao:BAX_0000080 has protein modification method
+bao:BAO_0002893 has sequence position
+bao:BAO_0000594 is specification of
+bao:BAO_0002859 has phenotype
+bao:BAO_0000559 is endpoint of
+bao:BAO_0002739 has substrate
+bao:BAO_0000555 is assay format of
+bao:BAO_0000552 has display info
+bao:BAO_0002851 has assay readout content parametricity
+bao:BAO_0002852 has assay source
+bao:BAO_0002853 has assay title
+bao:BAO_0002854 has bioassay type
+bao:BAO_0002855 is bioassay type of
+bao:BAO_0002856 has assay readout type
+bao:BAO_0002857 has signal direction
+bao:BAO_0002858 has endpoint modifier
+bao:BAO_0002860 is phenotype of
+bao:BAO_0002861 is localized in
+bao:BAO_0000207 has detection method
+bao:BAO_0000205 has assay format
+bao:BAO_0000203 has id value
+bao:BAX_0000099 column time_value
+bao:BAX_0000098 dilution factor
+bao:BAO_0002863 has concentration throughput
+bao:BAO_0002622 has purity value
+bao:BAX_0000097 detergent
+bao:BAO_0002864 has repetition throughput
+bao:BAX_0000096 for natural products
+bao:BAO_0002865 uses detection instrument
+bao:BAO_0002866 has wavelength value
+bao:BAX_0000095 perturbagen summary
+bao:BAO_0002867 has assay footprint
+bao:BAX_0000094 has reductant
+bao:BAX_0000093 location
+bao:BAO_0002868 is input data value of
+bao:BAO_0000209 has measure group
+bao:BAX_0000092 control format
+bao:BAO_0000208 has endpoint
+bao:BAO_0002869 silences
+bao:BAO_0002870 has gene symbol
+bao:BAO_0002871 is role of
+bao:BAO_0002872 is unit of
+bao:BAO_0000210 has assay stage
+bao:BAO_0090010 contains process
+bao:BAO_0090011 connected to
+bao:BAX_0000049 has chelator information
+bao:BAX_0000048 has quality metrics
+bao:BAO_0001105 based on normalization
+bao:BAX_0000047 has endpoint processing summary
+bao:BAX_0000046 has enzyme reaction details
+bao:BAO_0000135 stains
+bao:BAX_0000045 has coupled substrate incubation details
+bao:BAX_0000044 has substrate incubation details
+bao:BAO_0002796 tagged with
+bao:BAX_0000043 has ligand incubation details
+bao:BAO_0002797 has detected entity
+bao:BAX_0000042 has perturbagen incubation details
+bao:BAX_0000041 has antibody information
+bao:BAX_0000040 has metal salt information
+bao:BAO_0090012 has participant
+bao:BAO_0090013 participates in
+oboInOwl:SynonymTypeProperty synonym_type_property
+bao:BAO_0000383 has ID
+bao:BAX_0000039 has additional assay component
+bao:BAX_0000038 has detergent information
+bao:BAX_0000037 has reducing agent information
+bao:BAX_0000036 has solvent information
+bao:BAX_0000035 has buffer information
+bao:BAX_0000034 has assay components details
+bao:BAX_0000033 has assay molecule details
+bao:BAX_0000032 has purity measure
+bao:BAX_0000031 has biochemical assay information
+obo:rxno.obo#part_of part_of
+bao:BAX_0000030 has protocol details
+bao:BAO_0000397 has inducer
+bao:BAO_0000391 is assay method of
+obo:rxno.obo#has_part has_part
+bao:BAO_0095007 has value
+bao:BAO_0095008 reports assay measurment value
+bao:BAO_0000117 is substrate of
+bao:BAO_0095009 has assay design method
+bao:BAX_0000069 has cell culture method
+bao:BAO_0000598 is target of
+bao:BAX_0000068 has organism quality
+bao:BAX_0000067 has biological sex
+bao:BAX_0000066 is cell type of
+bao:BAX_0000065 has primary/stem cell
+bao:BAO_0002896 recombinantly expressed in
+bao:BAX_0000064 has bacteria/virus strain
+bao:BAO_0095000 is derived from
+bao:BAO_0002897 has preparation method
+bao:BAX_0000063 has anatomical entity
+bao:BAO_0095001 detects phenotype
+bao:BAX_0000062 has anatomical entity
+bao:BAO_0095002 has indicator
+bao:BAX_0000061 has organism details
+bao:BAO_0095003 is described by
+bao:BAX_0000060 has delivery method
+bao:BAO_0002659 encodes
+bao:BAO_0095004 quantifies
+bao:BAO_0002660 is measured entity of
+bao:BAO_0002662 has quality
+bao:BAO_0002663 uses assay kit
+bao:BAO_0000122 is marker of
+bao:BAO_0000361 is perturbagen of
+bao:BAO_0090000 phenotype of
+bao:BAX_0000059 has screened entity details
+bao:BAX_0000058 has plate control
+bao:BAX_0000057 has reference compound
+bao:BAX_0000056 has background control
+bao:BAX_0000055 has negative control
+bao:BAO_0090007 occurs in
+bao:BAO_0002664 has assay kit component
+bao:BAO_0095010 has assay supporting method
+bao:BAX_0000054 has positive control
+bao:BAO_0002665 uses as substrate
+bao:BAO_0090008 bearer of
+obo:RO_0002222 temporally related to
+bao:BAX_0000053 has assay data processing method
+bao:BAO_0002666 has concentration value
+bao:BAO_0002787 has concentration-point number
+bao:BAO_0090005 derives into
+bao:BAX_0000052 has assay readout parameter
+bao:BAO_0002788 has passage number
+bao:BAO_0090006 derives from
+bao:BAX_0000051 has cell growth property
+bao:BAO_0090003 has phenotype
+bao:BAX_0000050 has carrier protein information
+bao:BAO_0002669 has time value
+bao:BAO_0090004 has part
+bao:BAO_0090001 has function in
+bao:BAO_0090002 part of
+bao:BAO_0090009 inheres in
+bao:BAO_0002916 has activity threshold value
+bao:BAX_0000123 reaction time (min)
+bao:BAX_0000122 cap highest abundance atomic mass
+bao:BAX_0000121 protein highest abundance atomic mass
+bao:BAX_0000120 has buffer
+bao:BAO_0000737 has manufacturer
+bao:BAO_0002000 has measured entity
+bao:BAO_0002003 catalyzed by
+obo:BFO_0000055 realizes
+obo:BFO_0000057 has_participant
+bao:BAO_0000185 has perturbagen
+bao:BAX_0000118 binding site count
+bao:BAX_0000117 has surface plasmon resonance parameters
+bao:BAO_0002926 is transfected into
+bao:BAX_0000116 has equation
+bao:BAX_0000115 has software
+bao:BAX_0000114 has kinetic parameters
+bao:BAX_0000113 has solvent parameters
+bao:BAO_0000740 has assay control
+bao:BAX_0000112 has FRET donor
+bao:BAX_0000111 has detergent
+bao:BAX_0000110 quench
+bao:BAO_0002004 has cell line
+bao:BAO_0002920 has recommended name
+bao:BAO_0002008 has form
+bao:BAO_0002921 has organism
+bao:BAO_0002800 is cell line of
+bao:BAO_0002009 involves biological process
+bao:BAO_0002922 has assay medium
+bao:BAO_0002923 has assay serum
+bao:BAO_0002924 is grown in
+bao:BAO_0003102 has role
+bao:BAO_0003103 reports
+bao:BAO_0000196 has mode of action
+bao:BAO_0000195 has percent response value
+obo:BFO_0000162 has disposition at all times
+bao:BAX_0000119 has salt
+bao:BAX_0000029 has activity threshold information
+bao:BAX_0000028 has endpoint information
+bao:BAX_0000027 has transgene information
+bao:BAX_0000026 has cell line information
+bao:BAX_0000025 has microbe- or virus-specific information
+bao:BAX_0000024 has assay system information
+bao:BAO_0000399 has transcription factor
+bao:BAX_0000023 has screened entity summary
+bao:BAO_0000398 is regulated by
+bao:BAX_0000022 has control summary
+bao:BAX_0000021 has target information
+bao:BAX_0000020 has assay summary
+bao:BAO_0002586 is indicator of
+bao:BAX_0000019 has protocol-version
+bao:BAX_0000018 has project information
+bao:BAX_0000017 has measurement
+bao:BAX_0000016 has activity operator
+bao:BAO_0000600 is detection method of
+bao:BAX_0000015 has activity field
+bao:BAX_0000012 has protein identity
+bao:BAX_0000011 has gene identity
+obo:BFO_0000060 obsolete preceded by
+obo:BFO_0000063 precedes
+bao:BAO_0002832 has assay temperature value
+bao:BAO_0002833 has incubation time value
+bao:BAO_0000539 is related assay to
+bao:BAO_0002848 has associated disease
+bao:BAO_0002849 is associated disease of
+bao:BAO_0000426 is measure group of
+bao:BAO_0002845 has repetition point-number
+bao:BAO_0002846 has assay protocol
+bao:BAO_0000308 has assay kit
+bao:BAO_0002847 is assay protocol of
+bao:BAO_0002850 has assay readout content
+bao:BAX_0000107 rescue treatment
+bao:BAX_0000106 cell line information
+bao:BAO_0002817 has sequence
+bao:BAX_0000105 strain
+bao:BAX_0000104 microbe/virus-specific
+bao:BAX_0000103 cell fixation
+bao:BAX_0000102 cell density number
+bao:BAX_0000101 organism, tissue or cell information
+bao:BAX_0000100 compound incubation
+bao:BAO_0003104 has binding site
+bao:BAO_0003105 has function
+bao:BAO_0003107 involves molecular function
+bao:BAO_0002811 has cell count
+bao:BAO_0002813 has copy number
+bao:BAO_0002020 has assay phase characteristic
+bao:BAX_0000109 background fluorophore
+bao:BAX_0000108 fluorescent assay parameters
+bao:BAO_0002826 has biosafety level
+bao:BAO_0002827 has assay pH value
+bao:BAO_0002828 has assay pressure value
+bao:BAO_0000183 has concentration unit
+bao:BAO_0002623 has purity unit
+bao:BAO_0000182 has response unit
+bao:BAO_0000097 has temperature unit
+bao:BAO_0002668 has time unit
+bao:BAO_0002825 has assay deposition date
+bao:BAO_0002894 has shRNA probe sense sequence position
+bao:BAO_0002895 has siRNA probe sense sequence position
+bao:BAO_0095005 has molecular phenotype
+bao:BAO_0095006 has morphological phenotype
+bao:BAO_0002919 has absorbance wavelength value
+bao:BAO_0002918 has emission wavelength value
+bao:BAO_0002917 has excitation wavelength value
+bao:BAO_0002002 detects
+obo:ChemOnt#ChEBI_TERM ChEBI TERM
+obo:ChemOnt#CHEMONT_TERM ChemOnt TERM
+obo:ChemOnt#IUPAC_TERM IUPAC TERM
+obo:ChemOnt#LIPIDMAPS_TERM LIPIDMAPS TERM
+obo:ChemOnt#MeSH_TERM MeSH TERM
+obo:ChemOnt#UniProt_TERM UniProt TERM
+obo:RO_0002081 before_or_simultaneous_with
+obo:RO_0002084 during_which_ends
+obo:RO_0002088 during_which_starts
+obo:RO_0002229 ends
+obo:RO_0002230 ends with
+obo:RO_0002086 ends_after
+obo:RO_0002093 ends_during
+obo:RO_0002223 starts
+obo:RO_0002224 starts with
+obo:RO_0002089 starts_before
+obo:RO_0002091 starts_during
+obo:RO_0002083 before
+obo:RO_0002082 simultaneous_with
+obo:BFO_0000062 preceded by
+obo:RO_0002087 immediately_preceded_by
+obo:RO_0002092 happens_during
+obo:BFO_0000077 has participant beginning to exist
+obo:BFO_0000078 has participant ceasing to exist
+obo:RXNO_0000425 has_catalyst
+obo:RXNO_0000469 has_intermediate
+obo:RXNO_0000417 deprotects
+obo:RXNO_0000423 has specified product
+obo:RXNO_0000424 has specified reactant
+obo:RXNO_0000416 protects
+bao:BAO_0095012 has negative control
+bao:BAO_0095011 has positive control
+obo:RO_0002090 immediately_precedes
+bao:BAO_0002829 has cell modification temperature value
+bao:BAO_0002839 has coupled substrate incubation temperature value
+bao:BAO_0002822 has enzyme reaction temperature value
+bao:BAO_0002830 has perturbagen incubation temperature value
+bao:BAO_0002831 has substrate incubation temperature value
+bao:BAO_0002834 has cell modification time value
+bao:BAO_0002835 has coupled substrate incubation time value
+bao:BAO_0002836 has enzyme reaction time value
+bao:BAO_0002915 has ligand incubation time value
+bao:BAO_0002837 has perturbagen incubation time value
+bao:BAO_0002838 has substrate incubation time value
+bao:BAO_0001076 has alternate confirmatory assay
+bao:BAO_0000809 has confirmatory assay
+bao:BAO_0000810 has counter assay
+bao:BAO_0001095 has identical assay
+bao:BAO_0001084 has lead optimization assay
+bao:BAO_0000808 has primary assay
+bao:BAO_0001068 has selectivity assay
+bao:BAO_0000812 has summary assay
+bao:BAO_0001077 is alternate confirmatory assay of
+bao:BAO_0000540 is confirmatory assay of
+bao:BAO_0000541 is counter assay of
+bao:BAO_0000542 is identical assay of
+bao:BAO_0001085 is lead optimization assay of
+bao:BAO_0001067 is primary assay of
+bao:BAO_0001069 is selectivity assay of
+bao:BAO_0001094 is summary assay of
+bao:BAO_0001082 has alternate assay conditions
+bao:BAO_0000595 has alternate assay format
+bao:BAO_0001080 has alternate assay type
+bao:BAO_0000154 has orthogonal assay design
+bao:BAO_0001078 has orthogonal assay technology
+bao:BAO_0001062 has compound toxicity assay
+bao:BAO_0001058 has parental cell line assay
+bao:BAO_0001086 has physicochemical profiling assay
+bao:BAO_0000922 has variant construct assay
+bao:BAO_0001090 has compound aggregation assay
+bao:BAO_0001088 has compound fluorescence assay
+bao:BAO_0001092 has compound redox-activity assay
+bao:BAO_0001072 has alternate cell line assay
+bao:BAO_0001074 has alternate organism assay
+bao:BAO_0001070 has alternate target assay
+bao:BAO_0001083 is alternate assay conditions of
+bao:BAO_0000548 is alternate assay format of
+bao:BAO_0001081 is alternate assay type of
+bao:BAO_0000235 is orthogonal assay design of
+bao:BAO_0001079 is orthogonal assay technology of
+bao:BAO_0001071 is alternate target assay of
+bao:BAO_0001063 is compound toxicity assay of
+bao:BAO_0001059 is parental cell line assay of
+bao:BAO_0001087 is physicochemical profiling assay of
+bao:BAO_0000930 is variant construct assay of
+bao:BAO_0001091 is compound aggregation assay of
+bao:BAO_0001089 is compound fluorescence assay of
+bao:BAO_0001093 is compound redox-activity assay of
+bao:BAO_0001073 is alternate cell line assay of
+bao:BAO_0001075 is alternate organism assay of
+bao:BAO_0002819 has nucleic acid sequence
+bao:BAO_0002818 has protein sequence
+bao:BAO_0000300 has DNA sequence
+bao:BAO_0002820 has RNA sequence
+bao:BAO_0002824 has anti-sense strand sequence
+bao:BAO_0002823 has sense strand sequence
+bao:BAO_0002821 has shRNA sense sequence
+bao:BAO_0002816 has artificial regulatory region copy number
+bao:BAO_0002815 has cDNA copy number
+bao:BAO_0002814 has gene copy number

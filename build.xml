@@ -1,0 +1,388 @@
+<!--
+    BioAssay Express WAR (Web Archive) build file
+
+    (c) 2016-2019 Collaborative Drug Discovery Inc.
+
+    All rights reserved
+
+    http://collaborativedrug.com
+-->
+
+<project name="BAE-WAR" default="pkg" basedir=".">
+
+	<description>BAE Web Archive</description>
+
+	<!-- set global properties for this build -->
+	<property name="bax" location="../bax" />
+	<property name="baseURL" value="http://localhost:8080/bae" />
+
+	<target name="init" depends="check,tslint,buildinfo">
+		<tstamp />
+		<mkdir dir="web/WEB-INF/classes" />
+		<mkdir dir="pkg" />
+	</target>
+
+	<!-- BAX: dependent project in ${bax} (see https://github.com/cdd/bioassay-template) -->
+
+	<target name="bax" description="compile the Java sources for BAX">
+		<ant antfile="${bax}/build.xml" dir="${bax}" target="pkg" inheritall="false" />
+		<ant antfile="${bax}/build.xml" dir="${bax}" target="pkgAPI" inheritall="false" />
+	</target>
+
+	<!-- Java files for current project -->
+	<target name="bae" depends="init,bax" description="compile the Java sources for BAE">
+		<javac srcdir="src" destdir="web/WEB-INF/classes" debug="on" source="14" target="14" encoding="8859_1" listfiles="on" includeantruntime="false">
+			<classpath refid="classpath.main" />
+		</javac>
+		<copy todir="web/WEB-INF/classes">
+			<fileset dir="src">
+				<include name="**/*.json" />
+				<include name="**/*.txt" />
+				<include name="**/*.properties" />
+			</fileset>
+		</copy>
+	</target>
+
+	<!-- cross-compile TypeScript source to JavaScript -->
+
+	<target name="js" description="compile TypeScript sources">
+		<exec executable="tsc" dir="ts" failonerror="true" />
+	</target>
+
+	<target name="jstest" description="compile TypeScript test sources">
+		<exec executable="tsc" dir="tstest" failonerror="true" />
+		<exec executable="node" dir="tstest" failonerror="true" >
+			 <arg value="app/main.js"/>
+			 <arg value="--console" />
+		 </exec>
+	</target>
+
+	<!-- build everything-included full web app + application server package -->
+
+	<target name="war" depends="bae,js" description="web archive: build it into a WAR file">
+		<!-- add ",js" to depends above to make it always compile the TypeScript files -->
+		<jar jarfile="pkg/BioAssayExpress.war" basedir="web" includes="**" zip64Mode="as-needed">
+			<zipfileset src="${bax}/pkg/BioAssayTemplateAPI.jar" prefix="WEB-INF/classes">
+				<exclude name="*log4j.properties"/>
+				<exclude name="com/cdd/bao/Main*.class"/>
+				<exclude name="com/cdd/bao/editor/**"/>
+				<exclude name="com/cdd/bao/importer/**"/>
+			</zipfileset>
+			<zipfileset src="lib/cdk-core-2.2-SNAPSHOT.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/cdk-fingerprint-2.2-SNAPSHOT.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/cdk-interfaces-2.2-SNAPSHOT.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/cdk-ioformats-2.2-SNAPSHOT.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/cdk-model-2.2-SNAPSHOT.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/cdk-ctab-2.2-SNAPSHOT.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/cdk-data-2.2-SNAPSHOT.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/cdk-standard-2.2-SNAPSHOT.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/cdk-isomorphism-2.2-SNAPSHOT.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/guava-28.1-jre.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/vecmath-1.5.2.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/jwnl-1.3.3.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/mongo-java-driver-3.11.0.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/mongodb-driver-3.11.0.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/opennlp-maxent-3.0.3.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/opennlp-tools-1.9.1.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/opennlp-uima-1.9.1.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/poi-3.17.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/poi-ooxml-3.17.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/poi-ooxml-schemas-3.17.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/poi-scratchpad-3.17.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/commons-collections4-4.4.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/commons-exec-1.3.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/commons-text-1.8.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/xmlbeans-2.6.0.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/javax.json-1.1.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/javax.mail-1.6.2.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/activation-1.1.1.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="lib/commons-email-1.5.jar" prefix="WEB-INF/classes" />
+
+			<zipfileset src="${bax}/lib/apache-log4j-extras-1.2.17.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="${bax}/lib/log4j-1.2.17.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="${bax}/lib/slf4j-api-1.7.28.jar" prefix="WEB-INF/classes" />
+			<zipfileset src="${bax}/lib/slf4j-log4j12-1.7.28.jar" prefix="WEB-INF/classes" />
+		</jar>
+	</target>
+
+	<target name="jar" depends="bae,js" description="console: build it into a JAR file">
+		<!-- add ",js" to depends above to make it always compile the TypeScript files -->
+		<mkdir dir="build/classes" />
+		<jar jarfile="pkg/BioAssayConsole.jar" basedir="build/classes" zip64Mode="as-needed">
+			<manifest>
+				<attribute name="Main-Class" value="com.cdd.bae.main.Main" />
+			</manifest>
+			<zipfileset dir="${main.build.dir}" includes="**/*.class" />
+			<zipfileset src="${bax}/pkg/BioAssayTemplateAPI.jar" />
+			<zipgroupfileset dir="lib" includes="*.jar" />
+			<zipfileset src="tomcat-libs/servlet-api.jar" />
+			<fileset dir="src">
+				<include name="**/*.json" />
+				<include name="**/*.properties" />
+				<include name="**/*.txt" />
+			</fileset>
+		</jar>
+	</target>
+
+	<target name="pkg" depends="war,jar" description="package everything" />
+
+	<!-- unit tests -->
+
+	<property name="test.src.dir" value="test" />
+	<property name="test.build.dir" value="build/test" />
+	<property name="selenium.src.dir" value="selenium" />
+	<property name="selenium.build.dir" value="build/selenium" />
+	<property name="main.build.dir" value="web/WEB-INF/classes" />
+
+	<path id="classpath.main">
+		<pathelement location="${bax}/pkg/BioAssayTemplateAPI.jar" />
+
+		<pathelement location="lib/cdk-core-2.2-SNAPSHOT.jar" />
+		<pathelement location="lib/cdk-ctab-2.2-SNAPSHOT.jar" />
+		<pathelement location="lib/cdk-data-2.2-SNAPSHOT.jar" />
+		<pathelement location="lib/cdk-fingerprint-2.2-SNAPSHOT.jar" />
+		<pathelement location="lib/cdk-interfaces-2.2-SNAPSHOT.jar" />
+		<pathelement location="lib/cdk-ioformats-2.2-SNAPSHOT.jar" />
+		<pathelement location="lib/cdk-isomorphism-2.2-SNAPSHOT.jar" />
+		<pathelement location="lib/cdk-model-2.2-SNAPSHOT.jar" />
+		<pathelement location="lib/cdk-standard-2.2-SNAPSHOT.jar" />
+		<pathelement location="lib/commons-collections4-4.4.jar" />
+		<pathelement location="lib/commons-exec-1.3.jar" />
+		<pathelement location="lib/commons-text-1.8.jar" />
+		<pathelement location="lib/guava-28.1-jre.jar" />
+		<pathelement location="lib/javax.json-1.1.jar" />
+		<pathelement location="lib/jwnl-1.3.3.jar" />
+		<pathelement location="lib/mongo-java-driver-3.11.0.jar" />
+		<pathelement location="lib/opennlp-maxent-3.0.3.jar" />
+		<pathelement location="lib/opennlp-tools-1.9.1.jar" />
+		<pathelement location="lib/opennlp-uima-1.9.1.jar" />
+		<pathelement location="lib/poi-3.17.jar" />
+		<pathelement location="lib/poi-ooxml-3.17.jar" />
+		<pathelement location="lib/poi-ooxml-schemas-3.17.jar" />
+		<pathelement location="lib/poi-scratchpad-3.17.jar" />
+		<pathelement location="lib/vecmath-1.5.2.jar" />
+		<pathelement location="lib/xmlbeans-2.6.0.jar" />
+		<pathelement location="tomcat-libs/servlet-api.jar" />
+		<pathelement location="tomcat-libs/jsp-api.jar" />
+		<pathelement location="tomcat-libs/annotations-api.jar" />
+		<pathelement location="lib/javax.json-1.1.jar" />
+		<pathelement location="lib/javax.mail-1.6.2.jar" />
+		<pathelement location="lib/activation-1.1.1.jar" />
+		<pathelement location="lib/commons-email-1.5.jar" />
+
+		<pathelement location="lib/antlr-2.7.7.jar" />
+		<pathelement location="lib/api-all-1.0.3.jar" />
+		<pathelement location="lib/commons-collections-3.2.2.jar" />
+		<pathelement location="lib/mina-core-2.0.21.jar" />
+	</path>
+
+	<!-- copy the junit-platform jars to ant-s lib directory -->
+	<path id="classpath.junit">
+		<pathelement location="lib/ant-junitlauncher.jar" />
+		<pathelement location="lib/apiguardian-api-1.1.0.jar" />
+		<pathelement location="lib/junit-jupiter-api-5.5.2.jar" />
+		<pathelement location="lib/junit-jupiter-engine-5.5.2.jar" />
+		<pathelement location="lib/junit-platform-commons-1.5.2.jar" />
+		<pathelement location="lib/junit-platform-engine-1.5.2.jar" />
+		<pathelement location="lib/junit-platform-launcher-1.5.2.jar" />
+		<pathelement location="lib/opentest4j-1.2.0.jar" />
+	</path>
+
+	<path id="classpath.common.test">
+		<pathelement location="lib/byte-buddy-1.10.18.jar" />
+		<pathelement location="lib/byte-buddy-agent-1.10.18.jar" />
+		<pathelement location="lib/hamcrest-2.1.jar" />
+		<pathelement location="lib/mockito-core-3.6.0.jar" />
+	</path>
+
+	<path id="classpath.test">
+		<pathelement location="lib/mongo-java-server-1.20.0.jar" />
+		<pathelement location="lib/mongo-java-server-core-1.20.0.jar" />
+		<pathelement location="lib/mongo-java-server-memory-backend-1.20.0.jar" />
+		<pathelement location="lib/netty-all-4.1.42.Final.jar" />
+		<pathelement location="lib/objenesis-3.0.1.jar" />
+		<pathelement location="${main.build.dir}" />
+	</path>
+
+	<path id="classpath.selenium">
+		<pathelement location="lib/objenesis-3.0.1.jar" />
+		<pathelement location="lib/selenium-client-3.141.5.jar" />
+		<pathelement location="lib/okhttp-3.14.3.jar" />
+		<pathelement location="lib/okio-1.17.4.jar" />
+		<pathelement location="lib/commons-exec-1.3.jar" />
+		<pathelement location="lib/commons-compress-1.8.jar" />
+		<pathelement location="lib/mongo-java-server-1.15.0.jar" />
+		<pathelement location="lib/mongo-java-server-core-1.15.0.jar" />
+		<pathelement location="lib/mongo-java-server-memory-backend-1.15.0.jar" />
+		<pathelement location="lib/netty-all-4.1.36.Final.jar" />
+		<pathelement location="${main.build.dir}" />
+	</path>
+
+	<target name="test-compile" depends="bae">
+		<mkdir dir="${test.build.dir}" />
+		<javac srcdir="${test.src.dir}" destdir="${test.build.dir}" includeantruntime="false" debug="on">
+			<classpath>
+				<path refid="classpath.main" />
+				<path refid="classpath.junit" />
+				<path refid="classpath.common.test" />
+				<path refid="classpath.test" />
+			</classpath>
+		</javac>
+		<copy todir="${test.build.dir}">
+			<fileset dir="test">
+				<include name="log4j.properties" />
+				<include name="testData/**" />
+				<include name="mockito-extensions/**" />
+			</fileset>
+		</copy>
+	</target>
+
+	<target name="junit" depends="test-compile" description="run junit">
+		<junitlauncher printsummary="false" haltonfailure="yes">
+			<classpath>
+				<path refid="classpath.main" />
+				<path refid="classpath.junit" />
+				<path refid="classpath.common.test" />
+				<path refid="classpath.test" />
+				<pathelement location="${test.build.dir}" />
+			</classpath>
+			<testclasses>
+				<fileset dir="${test.build.dir}">
+					<include name="**/*Test.*" />
+				</fileset>
+				<listener classname="com.cdd.testutil.AntJUnit5Listener" resultFile="TEST-unit-results.txt" />
+			</testclasses>
+		</junitlauncher>
+	</target>
+
+	<target name="selenium-compile" depends="bae">
+		<mkdir dir="${selenium.build.dir}" />
+		<javac srcdir="${selenium.src.dir}" destdir="${selenium.build.dir}" includeantruntime="false" debug="on">
+			<classpath>
+				<path refid="classpath.main" />
+				<path refid="classpath.junit" />
+				<path refid="classpath.common.test" />
+				<path refid="classpath.selenium" />
+			</classpath>
+		</javac>
+		<copy todir="${selenium.build.dir}">
+			<fileset dir="selenium">
+				<!-- <include name="testData/**" /> -->
+			</fileset>
+		</copy>
+	</target>
+
+	<!-- ???
+	<script language="javascript">
+	  <![CDATA[
+	    var imports = new JavaImporter(java.lang.System);
+	    imports.System.setProperty('baseURL', baseURL)
+	    imports.System.setProperty('headless', '1')
+	  ]]>
+	</script>-->
+
+	<target name="selenium" depends="selenium-compile" description="run selenium">
+		<junitlauncher printsummary="false" haltonfailure="yes">
+			<classpath>
+				<path refid="classpath.main" />
+				<path refid="classpath.junit" />
+				<path refid="classpath.common.test" />
+				<path refid="classpath.selenium" />
+				<pathelement location="${selenium.build.dir}" />
+			</classpath>
+			<testclasses>
+				<fileset dir="${selenium.build.dir}">
+					<include name="**/*Test.*" />
+				</fileset>
+				<listener classname="com.cdd.testutil.SeleniumAntJUnit5Listener" resultFile="TEST-selenium-results.txt" />
+			</testclasses>
+		</junitlauncher>
+	</target>
+
+	<target name="clean" description="clean up">
+		<delete dir="bin" />
+		<delete dir="build" />
+		<delete dir="pkg" />
+		<delete dir="web/WEB-INF/classes" />
+	</target>
+
+	<!-- checkstyle configuration -->
+	<property name="check.config" location="check/bae_checks.xml" />
+	<path id="path.check">
+		<pathelement location="check/checkstyle-8.25-patch.jar" />
+		<pathelement location="check/checkstyle-8.25-all.jar" />
+	</path>
+
+	<path id="project.sourcepath">
+		<fileset dir="src">
+			<include name="**/*" />
+		</fileset>
+		<fileset dir="test">
+			<include name="**/*" />
+		</fileset>
+		<fileset dir="selenium">
+			<include name="**/*" />
+		</fileset>
+	</path>
+	<pathconvert property="classpath.check" refid="path.check" />
+
+	<target name="check">
+		<taskdef name="checkstyle" classname="com.puppycrawl.tools.checkstyle.ant.CheckstyleAntTask" classpath="${classpath.check}" />
+		<!-- Use failOnViolation="false" to make style violations warning only -->
+		<checkstyle config="${check.config}">
+			<path refid="project.sourcepath" />
+			<classpath path="${classpath.check}" />
+			<formatter type="plain" />
+		</checkstyle>
+	</target>
+
+	<target name="tslint">
+		<exec executable="npm" failonerror="true">
+			<arg value="run"/> <arg value="eslint"/>
+		</exec>
+		<exec executable="npm" failonerror="true">
+			<arg value="run"/> <arg value="eslinttest"/>
+		</exec>
+		<exec executable="npm" failonerror="true">
+			<arg value="run"/> <arg value="tslint"/>
+		</exec>
+		<exec executable="npm" failonerror="true">
+			<arg value="run"/> <arg value="tslinttest"/>
+		</exec>
+	</target>
+
+	<target name="buildinfo">
+		<tstamp>
+			<format property="buildtime" pattern="yyyy/MM/dd hh:mm aa" timezone="America/New_York" />
+		</tstamp>
+		<exec executable="git" resultproperty="git.rc" outputproperty="git.revision" failifexecutionfails="false">
+			<arg line="rev-parse HEAD" />
+		</exec>
+		<condition property="gitrevision" value="git failure">
+			<not>
+				<equals arg1="${git.rc}" arg2="0"/>
+			</not>
+		</condition>
+		<condition property="gitrevision" value="${git.revision}">
+			<equals arg1="${git.rc}" arg2="0"/>
+		</condition>
+
+		<exec executable="git" resultproperty="git.rc" outputproperty="git.branch" failifexecutionfails="false">
+			<arg line="rev-parse --abbrev-ref HEAD" />
+		</exec>
+		<condition property="gitbranch" value="git failure">
+			<not>
+				<equals arg1="${git.rc}" arg2="0"/>
+			</not>
+		</condition>
+		<condition property="gitbranch" value="${git.branch}">
+			<equals arg1="${git.rc}" arg2="0"/>
+		</condition>
+
+		<propertyfile file="src/com/cdd/bae/buildinfo.properties" comment="This file is automatically generated - DO NOT EDIT">
+			<entry key="buildtime" value="${buildtime}" />
+			<entry key="gitrevision" value="${gitrevision}" />
+			<entry key="gitbranch" value="${gitbranch}" />
+		</propertyfile>
+	</target>
+</project>

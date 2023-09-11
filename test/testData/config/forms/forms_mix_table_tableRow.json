@@ -1,0 +1,79 @@
+[
+	{
+		"name": "Data Entry",
+		"schemaURI": ["http://www.bioassayontology.org/bas#"],
+		"sections":
+		[
+			{
+				"name": "Target",
+				"layout": 
+				[
+					{
+						"type": "table",
+						"layout":
+						[
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "bioassay type"
+									},
+									{
+										"type": "cell",
+										"field": ["bao:BAO_0002854"]
+									}
+								]
+							},
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "assay cell line"
+									},
+									{
+										"type": "cell",
+										"field": ["bao:BAO_0002800"]
+									}
+								]
+							}
+						]
+					},
+					{
+						"type": "row",
+						"layout":
+						[
+							{
+								"type": "cell",
+								"label": "applies to disease"
+							},
+							{
+								"type": "cell",
+								"span": 3,
+								"field": ["bao:BAO_0002848"]										
+							}
+						]
+					},
+					{
+						"type": "row",
+						"layout":
+						[
+							{
+								"type": "cell",
+								"label": "protein identity"
+							},
+							{
+								"type": "cell",
+								"span": 3,
+								"field": ["bao:BAX_0000012"]										
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]

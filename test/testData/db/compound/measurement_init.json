@@ -1,0 +1,68 @@
+[
+	{
+		"assayID": NumberLong(1),
+		"name": "Active/Inactive",
+		"units": "binary",
+		"type": "activity",
+		"compoundID": [
+			NumberLong(1),
+			NumberLong(2),
+			NumberLong(3),
+			NumberLong(4),
+			NumberLong(5),
+			NumberLong(6),
+			NumberLong(7)
+		],
+		"value": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"relation": [
+			"=",
+			"=",
+			"=",
+			"=",
+			"=",
+			"=",
+			"="
+		]
+	},
+{
+    "assayID" : NumberLong(1),
+    "name" : "Qualified AC50",
+    "units" : "",
+    "type" : "measurement",
+    "compoundID" : [ 
+        NumberLong(1), 
+        NumberLong(2), 
+        NumberLong(3), 
+        NumberLong(4), 
+        NumberLong(5), 
+        NumberLong(6), 
+        NumberLong(7) 
+    ],
+    "value" : [ 
+        0.002, 
+        0.002, 
+        0.002, 
+        0.002, 
+        0.002, 
+        0.002, 
+        0.002 
+    ],
+    "relation" : [ 
+        "=", 
+        "=", 
+        "=", 
+        "=", 
+        "=", 
+        "=", 
+        "="
+    ]
+}	
+]

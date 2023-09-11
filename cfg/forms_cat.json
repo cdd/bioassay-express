@@ -1,0 +1,330 @@
+[
+	{
+		"name": "Sections",
+		"priority": 1,
+		"schemaURI": ["http://www.bioassayontology.org/bas#"],
+		"sections":
+		[
+			{
+				"name": "Info",
+				"layout":
+				[
+					{
+						"type": "table",
+						"layout":
+						[
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "title",
+										"field": ["bao:BAO_0002853"],
+										"span": 3
+									}
+								]
+							},
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "source",
+										"field": ["bao:BAO_0002852"]
+									},
+									{
+										"type": "cell",
+										"label": "related",
+										"field": ["bao:BAO_0000539"]
+									}
+								]
+							}
+						]
+					}					
+				]
+			},
+			{
+				"name": "Target",
+				"transliteration": "target",
+				"layout": 
+				[
+					{
+						"type": "table",
+						"layout":
+						[
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "bioassay type",
+										"field": ["bao:BAO_0002854"]
+									},
+									{
+										"type": "cell",
+										"label": "mode of action",
+										"field": ["bao:BAO_0000196"]
+									}
+								]
+							},
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "applies to disease",
+										"field": ["bao:BAO_0002848"]										
+									},
+									{
+										"type": "cell",
+										"label": "organism",
+										"field": ["bao:BAO_0002921"]
+									}
+								]
+							},
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "target",
+										"field": ["bao:BAO_0000211"],
+										"span": 3
+									}
+								]
+							}
+						]
+					},
+					{
+						"type": "table",
+						"layout":
+						[
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "biological process",
+										"field": ["bao:BAO_0002009"]
+									}
+								]
+							},
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "protein identity",
+										"field": ["bao:BAX_0000012"]										
+									}
+								]
+							},
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "gene identity",
+										"field": ["bao:BAX_0000011"]										
+									}
+								]
+							},
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "GO terms",
+										"field": ["bao:BAO_0003107"]										
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Method",
+				"transliteration": "method",
+				"layout": 
+				[
+					{
+						"type": "table",
+						"layout":
+						[
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "bioassay",
+										"field": ["bao:BAO_0002855"]
+									},
+									{
+										"type": "cell",
+										"label": "assay cell line",
+										"field": ["bao:BAO_0002800"]
+									},
+									{
+										"type": "cell",
+										"label": "assay format",
+										"field": ["bao:BAO_0000205"]
+									}
+								]
+							}
+						]
+					},
+					{
+						"type": "table",
+						"layout":
+						[
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "assay design method",
+										"field": ["bao:BAO_0095009"]
+									},
+									{
+										"type": "cell",
+										"label": "assay supporting method",
+										"field": ["bao:BAO_0095010"]
+									}
+								]
+							},					
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "assay footprint",
+										"field": ["bao:BAO_0002867"]
+									},
+									{
+										"type": "cell",
+										"label": "assay kit",
+										"field": ["bao:BAO_0002663"]
+									}
+								]
+							},					
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "physical detection method",
+										"field": ["bao:BAO_0000207"]
+									},
+									{
+										"type": "cell",
+										"label": "detection instrument",
+										"field": ["bao:BAO_0002865"]
+									}
+								]
+							}
+						]
+					}			
+				]
+			},
+			{
+				"name": "Results",
+				"transliteration": "results",
+				"layout": 
+				[
+					{
+						"type": "table",
+						"layout":
+						[
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "screening campaign stage",
+										"field": ["bao:BAO_0000210"]
+									},
+									{
+										"type": "cell",
+										"label": "perturbagen type",
+										"field": ["bao:BAO_0000185"]
+									}
+								]
+							},					
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "result",
+										"field": ["bao:BAO_0000208"]
+									}
+								]
+							}
+						]
+					},
+				],
+			},
+			{
+				"name": "Measurement",
+				"duplicationGroup": ["bao:BAX_0000017"],
+				"layout":
+				[
+					{
+						"type": "table",
+						"layout":
+						[
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "field",
+										"field": ["bao:BAX_0000015", "bao:BAX_0000017"]
+									},
+									{
+										"type": "cell",
+										"label": "operator",
+										"field": ["bao:BAX_0000016", "bao:BAX_0000017"]
+									},
+								],
+							},
+							{
+								"type": "row",
+								"layout":
+								[
+									{
+										"type": "cell",
+										"label": "units",
+										"field": ["bao:BAO_0002874", "bao:BAX_0000017"]
+									},									
+									{
+										"type": "cell",
+										"label": "threshold",
+										"field": ["bao:BAO_0002916", "bao:BAX_0000017"]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]

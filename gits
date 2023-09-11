@@ -1,0 +1,6 @@
+#!/bin/sh
+echo ------------------ BIOASSAY EXPRESS ------------------
+git status
+echo ------------------ TEMPLATE SCHEMA ------------------
+cd ../bax
+git status

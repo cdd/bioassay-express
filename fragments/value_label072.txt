@@ -1,0 +1,5000 @@
+obo:DOID_2426 gangliocytoma
+obo:DOID_0080320 peripheral nervous system benign neoplasm
+obo:DOID_3846 adamantinous craniopharyngioma
+obo:DOID_0080321 autonomic nervous system benign neoplasm
+obo:DOID_4817 ganglioneuroma
+obo:DOID_639 acute disseminated encephalomyelitis
+obo:DOID_10992 acute hemorrhagic leukoencephalitis
+obo:DOID_0050635 alternating hemiplegia of childhood
+obo:DOID_12156 arachnoiditis
+obo:DOID_9470 bacterial meningitis
+obo:DOID_10341 chronic meningitis
+obo:DOID_11608 fungal meningitis
+obo:DOID_10310 viral meningitis
+obo:DOID_11572 Listeria meningitis
+obo:DOID_11574 streptococcal meningitis
+obo:DOID_10361 eosinophilic meningitis
+obo:DOID_12157 aseptic meningitis
+obo:DOID_14022 algoneurodystrophy
+obo:DOID_3213 demyelinating disease
+obo:DOID_14261 fragile X syndrome
+obo:DOID_0050951 hereditary ataxia
+obo:DOID_12858 Huntington's disease
+obo:DOID_231 motor neuron disease
+obo:DOID_12707 myoclonic cerebellar dyssynergia
+obo:DOID_2106 myotonia congenita
+obo:DOID_0050765 neuroacanthocytosis
+obo:DOID_0110734 neurodegeneration with brain iron accumulation
+obo:DOID_14784 olivopontocerebellar atrophy
+obo:DOID_11870 Pick's disease
+obo:DOID_3688 plexopathy
+obo:DOID_13548 secondary Parkinson disease
+obo:DOID_0050890 synucleinopathy
+obo:DOID_680 tauopathy
+obo:DOID_636 central pontine myelinolysis
+obo:DOID_2377 multiple sclerosis
+obo:DOID_2378 relapsing-remitting multiple sclerosis
+obo:DOID_1441 autosomal dominant cerebellar ataxia
+obo:DOID_963 episodic ataxia
+obo:DOID_0060162 dentatorubral-pallidoluysian atrophy
+obo:DOID_1440 Machado-Joseph disease
+obo:DOID_230 lateral sclerosis
+obo:DOID_683 motor neuritis
+obo:DOID_681 progressive bulbar palsy
+obo:DOID_318 progressive muscular atrophy
+obo:DOID_12377 spinal muscular atrophy
+obo:DOID_0050529 adult spinal muscular atrophy
+obo:DOID_4873 anterior horn cell disease
+obo:DOID_0060160 childhood spinal muscular atrophy
+obo:DOID_12376 juvenile spinal muscular atrophy
+obo:DOID_13137 Werdnig-Hoffmann disease
+obo:DOID_0050766 chorea-acanthocytosis
+obo:DOID_3690 brachial plexus neuropathy
+obo:DOID_10383 amyotrophic neuralgia
+obo:DOID_8443 brachial plexus lesion
+obo:DOID_12217 Lewy body dementia
+obo:DOID_4752 multiple system atrophy
+obo:DOID_14330 Parkinson's disease
+obo:DOID_4751 striatonigral degeneration
+obo:DOID_10652 Alzheimer's disease
+obo:DOID_606 Brown-Sequard syndrome
+obo:DOID_2476 hereditary spastic paraplegia
+obo:DOID_0050246 granulomatous amebic encephalitis
+obo:DOID_327 syringomyelia
+obo:DOID_1089 tethered spinal cord syndrome
+obo:DOID_3620 central nervous system cancer
+obo:DOID_171 neuroectodermal tumor
+obo:DOID_1192 peripheral nervous system neoplasm
+obo:DOID_5772 central nervous system hematologic cancer
+obo:DOID_12969 central nervous system leukemia
+obo:DOID_4955 central nervous system melanocytic neoplasm
+obo:DOID_502 central nervous system mesenchymal non-meningothelial tumor
+obo:DOID_3565 meningioma
+obo:DOID_5612 spinal cancer
+obo:DOID_3234 central nervous system lymphoma
+obo:DOID_6379 diffuse meningeal melanocytosis
+obo:DOID_5900 meningeal melanocytoma
+obo:DOID_4055 ectomesenchymoma
+obo:DOID_6548 angiomatous meningioma
+obo:DOID_4210 clear cell meningioma
+obo:DOID_7211 fibrous meningioma
+obo:DOID_6110 jugular foramen meningioma
+obo:DOID_4591 lymphoplasmacyte-rich meningioma
+obo:DOID_7212 meningothelial meningioma
+obo:DOID_4594 microcystic meningioma
+obo:DOID_7210 psammomatous meningioma
+obo:DOID_4588 secretory meningioma
+obo:DOID_1138 spinal meningioma
+obo:DOID_7634 suprasellar meningioma
+obo:DOID_8368 chordoid meningioma
+obo:DOID_1140 spinal canal and spinal cord meningioma
+obo:DOID_5615 spinal canal intradural extramedullary neoplasm
+obo:DOID_0060103 central nervous system primitive neuroectodermal neoplasm
+obo:DOID_4794 ependymoblastoma
+obo:DOID_4788 intracranial primitive neuroectodermal tumor
+obo:DOID_4790 medulloepithelioma
+obo:DOID_2621 autonomic nervous system neoplasm
+obo:DOID_3193 peripheral nerve sheath neoplasm
+obo:DOID_769 neuroblastoma
+obo:DOID_4160 differentiating neuroblastoma
+obo:DOID_371 extracranial neuroblastoma
+obo:DOID_4163 ganglioneuroblastoma
+obo:DOID_5940 malignant peripheral nerve sheath tumor
+obo:DOID_962 neurofibroma
+obo:DOID_4697 perineurioma
+obo:DOID_6707 malignant triton tumor
+obo:DOID_5152 cellular neurofibroma
+obo:DOID_3512 neurofibrosarcoma
+obo:DOID_5151 plexiform neurofibroma
+obo:DOID_4696 intraneural perineurioma
+obo:DOID_7319 axonal neuropathy
+obo:DOID_5656 cranial nerve disease
+obo:DOID_9743 diabetic neuropathy
+obo:DOID_9240 erythromelalgia
+obo:DOID_0050548 hereditary sensory neuropathy
+obo:DOID_2537 inflammatory and toxic neuropathy
+obo:DOID_1195 ischemic neuropathy
+obo:DOID_1188 mononeuropathy
+obo:DOID_2477 motor peripheral neuropathy
+obo:DOID_1803 neuritis
+obo:DOID_0060053 peripheral neuropathy
+obo:DOID_2491 sensory peripheral neuropathy
+obo:DOID_338 cranial nerve neoplasm
+obo:DOID_3817 cranial nerve palsy
+obo:DOID_1756 facial nerve disease
+obo:DOID_3418 glossopharyngeal nerve disease
+obo:DOID_1279 ocular motility disease
+obo:DOID_1891 optic nerve disease
+obo:DOID_562 third cranial nerve disease
+obo:DOID_561 trigeminal nerve disease
+obo:DOID_12657 vestibulocochlear nerve disease
+obo:DOID_2815 cranial nerve malignant neoplasm
+obo:DOID_366 olfactory nerve neoplasm
+obo:DOID_369 olfactory neuroblastoma
+obo:DOID_1757 facial hemiatrophy
+obo:DOID_13934 facial paralysis
+obo:DOID_13501 Mobius syndrome
+obo:DOID_12506 Bell's palsy
+obo:DOID_14423 glossopharyngeal neuralgia
+obo:DOID_13866 multiple cranial nerve palsy
+obo:DOID_539 ophthalmoplegia
+obo:DOID_9650 pathologic nystagmus
+obo:DOID_540 strabismus
+obo:DOID_1278 tolosa-hunt syndrome
+obo:DOID_538 internuclear ophthalmoplegia
+obo:DOID_9649 congenital nystagmus
+obo:DOID_13174 dissociated nystagmus
+obo:DOID_11771 spontaneous ocular nystagmus
+obo:DOID_12667 binocular vision disease
+obo:DOID_12445 conjugate gaze palsy
+obo:DOID_12557 Duane retraction syndrome
+obo:DOID_9840 esotropia
+obo:DOID_1143 exotropia
+obo:DOID_9837 hypertropia
+obo:DOID_9841 hypotropia
+obo:DOID_10863 paralytic squint
+obo:DOID_12668 abnormal retinal correspondence
+obo:DOID_9839 accommodative esotropia
+obo:DOID_1142 alternating exotropia
+obo:DOID_12010 anterior ischemic optic neuropathy
+obo:DOID_705 Leber hereditary optic neuropathy
+obo:DOID_5723 optic atrophy
+obo:DOID_13561 optic disk drusen
+obo:DOID_3419 optic nerve neoplasm
+obo:DOID_1210 optic neuritis
+obo:DOID_146 papilledema
+obo:DOID_10627 primary optic atrophy
+obo:DOID_5632 optic nerve sheath meningioma
+obo:DOID_10175 optic papillitis
+obo:DOID_13329 toxic optic neuropathy
+obo:DOID_11550 oculomotor nerve paralysis
+obo:DOID_12098 trigeminal neuralgia
+obo:DOID_12785 diabetic polyneuropathy
+obo:DOID_11589 Riley-Day syndrome
+obo:DOID_14183 alcoholic neuropathy
+obo:DOID_2536 chronic inflammatory demyelinating polyneuritis
+obo:DOID_14402 critical illness polyneuropathy
+obo:DOID_572 mononeuritis of upper limb and mononeuritis multiplex
+obo:DOID_4196 femoral neuropathy
+obo:DOID_4201 peroneal neuropathy
+obo:DOID_1187 tibial neuropathy
+obo:DOID_4613 ulnar neuropathy
+obo:DOID_571 median neuropathy
+obo:DOID_1835 mononeuritis multiplex
+obo:DOID_12168 ulnar nerve lesion
+obo:DOID_12526 tarsal tunnel syndrome
+obo:DOID_3689 brachial plexus neuritis
+obo:DOID_1802 mononeuritis
+obo:DOID_9473 mononeuritis of lower limb
+obo:DOID_12528 lesion of sciatic nerve
+obo:DOID_11446 sciatic neuropathy
+obo:DOID_0060033 autoimmune disease of peripheral nervous system
+obo:DOID_11465 autonomic nervous system disease
+obo:DOID_11577 Cauda equina syndrome
+obo:DOID_573 nerve compression syndrome
+obo:DOID_6925 peroneal nerve paralysis
+obo:DOID_4953 poliomyelitis
+obo:DOID_1389 polyneuropathy
+obo:DOID_12842 Guillain-Barre syndrome
+obo:DOID_8869 neuromyelitis optica
+obo:DOID_12889 Miller Fisher syndrome
+obo:DOID_11504 autonomic neuropathy
+obo:DOID_3223 complex regional pain syndrome
+obo:DOID_11599 Frey Syndrome
+obo:DOID_11503 diabetic autonomic neuropathy
+obo:DOID_11486 Horner's syndrome
+obo:DOID_3222 causalgia
+obo:DOID_1811 reflex sympathetic dystrophy
+obo:DOID_12169 carpal tunnel syndrome
+obo:DOID_0050515 paralytic poliomyelitis
+obo:DOID_4952 postpoliomyelitis syndrome
+obo:DOID_12683 vestibular neuronitis
+obo:DOID_5221 chronic polyneuropathy
+obo:DOID_5214 demyelinating polyneuropathy
+obo:DOID_4308 polyradiculoneuropathy
+obo:DOID_5213 chronic inflammatory demyelinating polyradiculoneuropathy
+obo:DOID_4307 polyradiculopathy
+obo:DOID_4306 radiculopathy
+obo:DOID_2742 auditory system disease
+obo:DOID_1492 eye and adnexa disease
+obo:DOID_0060116 sensory system cancer
+obo:DOID_0050332 enlarged vestibular aqueduct
+obo:DOID_379 external ear disease
+obo:DOID_2952 inner ear disease
+obo:DOID_5100 middle ear disease
+obo:DOID_0050563 nonsyndromic deafness
+obo:DOID_2889 retrocochlear disease
+obo:DOID_9463 otitis externa
+obo:DOID_0050147 otomycosis
+obo:DOID_4539 labyrinthine disease
+obo:DOID_566 labyrinthine dysfunction
+obo:DOID_2951 motion sickness
+obo:DOID_3930 otitis interna
+obo:DOID_10003 sensorineural hearing loss
+obo:DOID_5463 cochlear disease
+obo:DOID_12185 otosclerosis
+obo:DOID_3426 vestibular disease
+obo:DOID_1468 labyrinthitis
+obo:DOID_9847 peripheral vertigo
+obo:DOID_13534 purulent labyrinthitis
+obo:DOID_13941 benign paroxysmal positional nystagmus
+obo:DOID_9848 endolymphatic hydrops
+obo:DOID_9849 Meniere's disease
+obo:DOID_4796 space motion sickness
+obo:DOID_10754 otitis media
+obo:DOID_5782 tympanic membrane disease
+obo:DOID_11180 non-suppurative otitis media
+obo:DOID_11506 suppurative otitis media
+obo:DOID_9739 eustachian tube disease
+obo:DOID_12358 patulous eustachian tube
+obo:DOID_14247 chronic purulent otitis media
+obo:DOID_13790 acute tympanitis
+obo:DOID_11217 chronic tympanitis
+obo:DOID_1214 tympanosclerosis
+obo:DOID_0050564 autosomal dominant nonsyndromic deafness
+obo:DOID_0050565 autosomal recessive nonsyndromic deafness
+obo:DOID_0050815 eye adnexa disease
+obo:DOID_5614 eye disease
+obo:DOID_530 eyelid disease
+obo:DOID_930 orbital disease
+obo:DOID_9423 blepharitis
+obo:DOID_348 blepharochalasis
+obo:DOID_10348 blepharophimosis
+obo:DOID_1570 ectropion
+obo:DOID_12397 entropion
+obo:DOID_6425 eyelid carcinoma
+obo:DOID_9909 hordeolum
+obo:DOID_12959 lagophthalmos
+obo:DOID_2456 blepharoconjunctivitis
+obo:DOID_13825 squamous blepharitis
+obo:DOID_2457 giant papillary conjunctivitis
+obo:DOID_12782 cicatricial ectropion
+obo:DOID_13113 cicatricial entropion
+obo:DOID_11230 acute orbital inflammation
+obo:DOID_1397 chronic orbital inflammation
+obo:DOID_11175 enophthalmos
+obo:DOID_929 myopathy of extraocular muscle
+obo:DOID_4143 orbital cancer
+obo:DOID_14233 orbital cyst
+obo:DOID_11234 orbital cellulitis
+obo:DOID_11719 oculopharyngeal muscular dystrophy
+obo:DOID_9986 orbit lymphoma
+obo:DOID_0050630 Aland Island eye disease
+obo:DOID_10376 amblyopia
+obo:DOID_10141 asthenopia
+obo:DOID_14686 Axenfeld-Rieger syndrome
+obo:DOID_8886 chorioretinitis
+obo:DOID_12270 coloboma
+obo:DOID_4251 conjunctival disease
+obo:DOID_10124 corneal disease
+obo:DOID_9370 exophthalmos
+obo:DOID_10034 eye accommodation disease
+obo:DOID_9799 eye degenerative disease
+obo:DOID_8501 fundus dystrophy
+obo:DOID_1686 glaucoma
+obo:DOID_1242 globe disease
+obo:DOID_9368 keratoconjunctivitis
+obo:DOID_1400 lacrimal apparatus disease
+obo:DOID_110 lens disease
+obo:DOID_10629 microphthalmia
+obo:DOID_0050633 ocular albinism
+obo:DOID_2174 ocular cancer
+obo:DOID_9282 ocular hypertension
+obo:DOID_790 ocular hypotension
+obo:DOID_0050268 ophthalmomyiasis
+obo:DOID_9835 refractive error
+obo:DOID_5679 retinal disease
+obo:DOID_11343 scleral disease
+obo:DOID_9335 scotoma
+obo:DOID_3480 uveal disease
+obo:DOID_1393 visual pathway disease
+obo:DOID_9726 vitreous detachment
+obo:DOID_9720 vitreous disease
+obo:DOID_10378 disuse amblyopia
+obo:DOID_10375 suppression amblyopia
+obo:DOID_1979 focal chorioretinitis
+obo:DOID_12731 pars planitis
+obo:DOID_10176 neuroretinitis
+obo:DOID_11227 acute hemorrhagic conjunctivitis
+obo:DOID_6195 conjunctivitis
+obo:DOID_4250 conjunctivochalasis
+obo:DOID_11184 acute conjunctivitis
+obo:DOID_2475 chronic conjunctivitis
+obo:DOID_2458 papillary conjunctivitis
+obo:DOID_11213 acute contagious conjunctivitis
+obo:DOID_11204 allergic conjunctivitis
+obo:DOID_2566 corneal dystrophy
+obo:DOID_1436 corneal ectasia
+obo:DOID_11030 corneal edema
+obo:DOID_12753 corneal staphyloma
+obo:DOID_4677 keratitis
+obo:DOID_10126 keratoconus
+obo:DOID_2283 keratopathy
+obo:DOID_0002116 pterygium
+obo:DOID_11554 Chandler syndrome
+obo:DOID_0060443 corneal endothelial dystrophy
+obo:DOID_0060441 epithelial-stromal TGFBI dystrophy
+obo:DOID_0060442 stromal dystrophy
+obo:DOID_11555 Fuchs' endothelial dystrophy
+obo:DOID_2565 macular corneal dystrophy
+obo:DOID_11033 idiopathic corneal edema
+obo:DOID_11382 corneal neovascularization
+obo:DOID_8463 corneal ulcer
+obo:DOID_9858 deep keratitis
+obo:DOID_4664 filamentary keratitis
+obo:DOID_13626 photokeratitis
+obo:DOID_12196 superficial keratitis
+obo:DOID_10439 Mooren's ulcer
+obo:DOID_10445 perforated corneal ulcer
+obo:DOID_11543 corneal abscess
+obo:DOID_14444 sclerosing keratitis
+obo:DOID_11031 bullous keratopathy
+obo:DOID_11637 accommodative spasm
+obo:DOID_10033 cycloplegia
+obo:DOID_980 choroidal sclerosis
+obo:DOID_10139 conjunctival degeneration
+obo:DOID_1237 corneal degeneration
+obo:DOID_11829 degenerative myopia
+obo:DOID_11772 leukocoria
+obo:DOID_8466 retinal degeneration
+obo:DOID_11816 vitreous syneresis
+obo:DOID_9794 hereditary choroidal atrophy
+obo:DOID_9822 partial central choroid dystrophy
+obo:DOID_10526 conjunctival pterygium
+obo:DOID_11029 pinguecula
+obo:DOID_11028 pseudopterygium
+obo:DOID_11342 arcus senilis
+obo:DOID_11164 band keratopathy
+obo:DOID_11267 keratomalacia
+obo:DOID_11541 recurrent corneal erosion
+obo:DOID_0050664 Bietti crystalline corneoretinal dystrophy
+obo:DOID_9821 choroideremia
+obo:DOID_4448 macular degeneration
+obo:DOID_12161 peripheral retinal degeneration
+obo:DOID_10584 retinitis pigmentosa
+obo:DOID_8465 retinoschisis
+obo:DOID_0050662 bestrophinopathy
+obo:DOID_2007 degeneration of macula and posterior pole
+obo:DOID_0050578 occult macular dystrophy
+obo:DOID_0050661 vitelliform macular dystrophy
+obo:DOID_10873 Kuhnt-Junius degeneration
+obo:DOID_2006 preretinal fibrosis
+obo:DOID_2569 retinal drusen
+obo:DOID_11105 fundus albipunctatus
+obo:DOID_8500 hereditary retinal dystrophy
+obo:DOID_14251 vitreoretinal dystrophy
+obo:DOID_13550 angle-closure glaucoma
+obo:DOID_11149 aqueous misdirection
+obo:DOID_9283 borderline glaucoma
+obo:DOID_1687 neovascular glaucoma
+obo:DOID_1067 open-angle glaucoma
+obo:DOID_12571 phacogenic glaucoma
+obo:DOID_0050593 primary congenital glaucoma
+obo:DOID_9946 steroid-induced glaucoma
+obo:DOID_1405 primary angle-closure glaucoma
+obo:DOID_13862 acute closed-angle glaucoma
+obo:DOID_13549 interval angle-closure glaucoma
+obo:DOID_1068 juvenile glaucoma
+obo:DOID_13544 low tension glaucoma
+obo:DOID_1070 primary open angle glaucoma
+obo:DOID_11212 hydrophthalmos
+obo:DOID_11211 buphthalmos
+obo:DOID_4692 endophthalmitis
+obo:DOID_14070 vestibular nystagmus
+obo:DOID_9724 purulent endophthalmitis
+obo:DOID_11752 acute endophthalmitis
+obo:DOID_10697 chronic endophthalmitis
+obo:DOID_13732 panophthalmitis
+obo:DOID_9461 exposure keratitis
+obo:DOID_11581 phlyctenulosis
+obo:DOID_12197 punctate epithelial keratoconjunctivitis
+obo:DOID_13014 shipyard eye
+obo:DOID_6970 acute inflammation of lacrimal passage
+obo:DOID_9935 chronic inflammation of lacrimal passage
+obo:DOID_950 dacryoadenitis
+obo:DOID_10140 dry eye syndrome
+obo:DOID_13757 excessive tearing
+obo:DOID_13929 lacrimal duct obstruction
+obo:DOID_12900 Mikulicz disease
+obo:DOID_9938 dacryocystitis
+obo:DOID_9937 chronic dacryocystitis
+obo:DOID_9939 dacryocystocele
+obo:DOID_12895 keratoconjunctivitis sicca
+obo:DOID_10138 xerophthalmia
+obo:DOID_11364 lens subluxation
+obo:DOID_5467 conjunctival cancer
+obo:DOID_6199 cornea cancer
+obo:DOID_292 lacrimal system cancer
+obo:DOID_1752 ocular melanoma
+obo:DOID_4645 retinal cancer
+obo:DOID_3479 uveal cancer
+obo:DOID_1751 malignant conjunctiva melanoma
+obo:DOID_294 lacrimal gland cancer
+obo:DOID_293 lacrimal gland carcinoma
+obo:DOID_296 mixed lacrimal gland cancer
+obo:DOID_298 lacrimal gland adenocarcinoma
+obo:DOID_4870 lacrimal gland adenoid cystic carcinoma
+obo:DOID_771 retinal cell cancer
+obo:DOID_5240 retinal hemangioblastoma
+obo:DOID_768 retinoblastoma
+obo:DOID_4650 bilateral retinoblastoma
+obo:DOID_4648 familial retinoblastoma
+obo:DOID_4653 intraocular retinoblastoma
+obo:DOID_4647 trilateral retinoblastoma
+obo:DOID_12759 choroid cancer
+obo:DOID_4352 ciliary body cancer
+obo:DOID_6039 uveal melanoma
+obo:DOID_6566 posterior uveal melanoma
+obo:DOID_0050304 aniseikonia
+obo:DOID_12273 anisometropia
+obo:DOID_11782 astigmatism
+obo:DOID_9834 hyperopia
+obo:DOID_11830 myopia
+obo:DOID_11638 presbyopia
+obo:DOID_13919 irregular astigmatism
+obo:DOID_11781 regular astigmatism
+obo:DOID_13401 angioid streaks
+obo:DOID_1432 blindness
+obo:DOID_11086 chorioretinal scar
+obo:DOID_11561 hypertensive retinopathy
+obo:DOID_7633 macular holes
+obo:DOID_9719 neovascular inflammatory vitreoretinopathy
+obo:DOID_8499 night blindness
+obo:DOID_5327 retinal detachment
+obo:DOID_6929 retinal edema
+obo:DOID_12510 retinal ischemia
+obo:DOID_3612 retinitis
+obo:DOID_13025 retinopathy of prematurity
+obo:DOID_14000 rubeosis iridis
+obo:DOID_13399 color blindness
+obo:DOID_13911 achromatopsia
+obo:DOID_11661 blue color blindness
+obo:DOID_13910 red color blindness
+obo:DOID_13909 red-green color blindness
+obo:DOID_11282 solar retinopathy
+obo:DOID_8498 hereditary night blindness
+obo:DOID_12514 retinal perforation
+obo:DOID_4449 macular retinal edema
+obo:DOID_4447 cystoid macular edema
+obo:DOID_11595 scleral staphyloma
+obo:DOID_13452 scleritis
+obo:DOID_14230 scleromalacia perforans
+obo:DOID_13794 anterior scleritis
+obo:DOID_1417 choroid disease
+obo:DOID_240 iris disease
+obo:DOID_13141 uveitis
+obo:DOID_11406 choroiditis
+obo:DOID_1415 gyrate atrophy
+obo:DOID_12271 aniridia
+obo:DOID_13641 exfoliation syndrome
+obo:DOID_1406 iritis
+obo:DOID_12732 intermediate uveitis
+obo:DOID_12030 panuveitis
+obo:DOID_1407 anterior uveitis
+obo:DOID_12574 posterior uveitis
+obo:DOID_9383 iridocyclitis
+obo:DOID_10443 hypopyon
+obo:DOID_1392 pseudopapilledema
+obo:DOID_5691 visual cortex disease
+obo:DOID_11831 cortical blindness
+obo:DOID_833 auditory system cancer
+obo:DOID_5101 ear cancer
+obo:DOID_5665 external ear cancer
+obo:DOID_229 female reproductive system disease
+obo:DOID_5223 infertility
+obo:DOID_48 male reproductive system disease
+obo:DOID_0050622 reproductive organ benign neoplasm
+obo:DOID_13938 amenorrhea
+obo:DOID_289 endometriosis
+obo:DOID_1962 fallopian tube disease
+obo:DOID_0060086 female reproductive organ benign neoplasm
+obo:DOID_120 female reproductive organ cancer
+obo:DOID_14133 Masters-Allen syndrome
+obo:DOID_1100 ovarian disease
+obo:DOID_4333 parovarian cyst
+obo:DOID_1003 pelvic inflammatory disease
+obo:DOID_727 premenstrual tension
+obo:DOID_1284 prolapse of female genital organ
+obo:DOID_345 uterine disease
+obo:DOID_121 vaginal disease
+obo:DOID_2059 vulvar disease
+obo:DOID_2273 vulvovaginitis
+obo:DOID_1380 endometrial cancer
+obo:DOID_11427 endosalpingiosis
+obo:DOID_5166 endometrial stromal tumor
+obo:DOID_4226 endometrial stromal sarcoma
+obo:DOID_5733 salpingitis
+obo:DOID_10973 acute salpingitis
+obo:DOID_5731 chronic salpingitis
+obo:DOID_5732 pyosalpinx
+obo:DOID_12718 chronic gonococcal salpingitis
+obo:DOID_0060112 ovarian benign neoplasm
+obo:DOID_0060114 vaginal benign neoplasm
+obo:DOID_0060088 vestibular gland benign neoplasm
+obo:DOID_0060109 vulvar benign neoplasm
+obo:DOID_5482 cystadenofibroma
+obo:DOID_2636 ovarian Brenner tumor
+obo:DOID_3269 ovarian cystadenoma
+obo:DOID_6469 ovarian mucinous adenofibroma
+obo:DOID_5474 ovarian serous adenofibroma
+obo:DOID_3267 mucinous ovarian cystadenoma
+obo:DOID_7320 ovarian serous cystadenofibroma
+obo:DOID_5402 vaginal adenoma
+obo:DOID_8104 vaginal tubulovillous adenoma
+obo:DOID_5142 vulvar leiomyoma
+obo:DOID_2064 vulvar syringoma
+obo:DOID_1964 fallopian tube cancer
+obo:DOID_2394 ovarian cancer
+obo:DOID_2021 placenta cancer
+obo:DOID_119 vaginal cancer
+obo:DOID_1245 vulva cancer
+obo:DOID_1963 fallopian tube carcinoma
+obo:DOID_4441 dysgerminoma
+obo:DOID_2999 granulosa cell tumor
+obo:DOID_2145 malignant ovarian cyst
+obo:DOID_2156 ovarian germ cell cancer
+obo:DOID_2150 ovarian lymphoma
+obo:DOID_2152 ovary epithelial cancer
+obo:DOID_5331 testicular granulosa cell tumor
+obo:DOID_6032 juvenile type testicular granulosa cell tumor
+obo:DOID_2155 malignant ovarian germ cell neoplasm
+obo:DOID_5567 ovarian germ cell teratoma
+obo:DOID_5351 ovarian primitive germ cell tumor
+obo:DOID_5511 dysgerminoma of ovary
+obo:DOID_5207 monodermal teratoma
+obo:DOID_2641 ovarian germ cell monodermal and highly specialized teratoma
+obo:DOID_2640 struma ovarii
+obo:DOID_5209 benign struma ovarii
+obo:DOID_5208 malignant struma ovarii
+obo:DOID_9597 Krukenberg carcinoma
+obo:DOID_2151 malignant ovarian surface epithelial-stromal neoplasm
+obo:DOID_6067 ovarian mucinous neoplasm
+obo:DOID_4000 ovary transitional cell carcinoma
+obo:DOID_4217 malignant ovarian Brenner tumor
+obo:DOID_4001 ovarian carcinoma
+obo:DOID_6170 ovarian carcinosarcoma
+obo:DOID_6179 ovarian small cell carcinoma
+obo:DOID_3594 choriocarcinoma
+obo:DOID_2025 gestational choriocarcinoma
+obo:DOID_4320 non-gestational choriocarcinoma
+obo:DOID_3596 placental site trophoblastic tumor
+obo:DOID_2024 placental choriocarcinoma
+obo:DOID_0050918 vaginal carcinoma
+obo:DOID_136 vaginal carcinosarcoma
+obo:DOID_4117 vaginal adenosarcoma
+obo:DOID_1294 vulva carcinoma
+obo:DOID_2076 vulvar glandular tumor
+obo:DOID_2093 vulvar melanoma
+obo:DOID_2096 vulvar sarcoma
+obo:DOID_3999 Bartholin's gland carcinoma
+obo:DOID_2098 vulva adenocarcinoma
+obo:DOID_4301 vulva basal cell carcinoma
+obo:DOID_2101 vulva squamous cell carcinoma
+obo:DOID_6316 Bartholin's gland adenocarcinoma
+obo:DOID_2097 vulval Paget's disease
+obo:DOID_2068 Bartholin's gland neoplasm
+obo:DOID_5382 Bartholin's gland adenoma
+obo:DOID_5286 vulvar leiomyosarcoma
+obo:DOID_3781 anovulation
+obo:DOID_7880 luteoma
+obo:DOID_10974 oophoritis
+obo:DOID_5119 ovarian cyst
+obo:DOID_1414 ovarian dysfunction
+obo:DOID_5425 ovarian hyperstimulation syndrome
+obo:DOID_7347 ovarian stromal hyperthecosis
+obo:DOID_5426 premature ovarian failure
+obo:DOID_10972 salpingo-oophoritis
+obo:DOID_13050 corpus luteum cyst
+obo:DOID_14336 estrogen excess
+obo:DOID_11612 polycystic ovary syndrome
+obo:DOID_10787 premature menopause
+obo:DOID_1260 parametritis
+obo:DOID_14130 lateral cystocele
+obo:DOID_2253 cervix disease
+obo:DOID_1005 endometrial disease
+obo:DOID_288 endometriosis of uterus
+obo:DOID_9958 hemometra
+obo:DOID_780 placenta disease
+obo:DOID_9042 polyp of corpus uteri
+obo:DOID_9346 Taylor's syndrome
+obo:DOID_0060095 uterine benign neoplasm
+obo:DOID_363 uterine cancer
+obo:DOID_997 uterine inversion
+obo:DOID_9108 uterus carcinoma in situ
+obo:DOID_4362 cervical cancer
+obo:DOID_9681 cervical incompetence
+obo:DOID_2568 cervicitis
+obo:DOID_361 cervix endometriosis
+obo:DOID_4112 cervical carcinosarcoma
+obo:DOID_2893 cervix carcinoma
+obo:DOID_3593 epithelioid trophoblastic tumor
+obo:DOID_4111 cervical adenosarcoma
+obo:DOID_3702 cervical adenocarcinoma
+obo:DOID_3744 cervical squamous cell carcinoma
+obo:DOID_6740 cervix small cell carcinoma
+obo:DOID_5636 cervical adenosquamous carcinoma
+obo:DOID_5303 cervical clear cell adenocarcinoma
+obo:DOID_7483 cervical keratinizing squamous cell carcinoma
+obo:DOID_10616 acute cervicitis
+obo:DOID_1513 chronic cervicitis
+obo:DOID_5757 endocervicitis
+obo:DOID_1002 endometritis
+obo:DOID_7528 acute endometritis
+obo:DOID_4561 granulomatous endometritis
+obo:DOID_0050697 chorioamnionitis
+obo:DOID_12215 oligohydramnios
+obo:DOID_4744 placenta accreta
+obo:DOID_11060 placenta praevia
+obo:DOID_9667 placental abruption
+obo:DOID_3891 placental insufficiency
+obo:DOID_8488 polyhydramnios
+obo:DOID_1373 endometrial stromal nodule
+obo:DOID_13223 uterine fibroid
+obo:DOID_9460 uterine corpus cancer
+obo:DOID_8302 mixed endometrial stromal and smooth muscle tumor
+obo:DOID_4114 uterine body mixed cancer
+obo:DOID_6171 uterine carcinosarcoma
+obo:DOID_11168 anogenital venereal wart
+obo:DOID_3767 vaginal discharge
+obo:DOID_2170 vaginitis
+obo:DOID_2272 vulvovaginal candidiasis
+obo:DOID_3766 leukorrhea
+obo:DOID_3385 bacterial vaginosis
+obo:DOID_14292 vulvar dystrophy
+obo:DOID_3901 vulvitis
+obo:DOID_0080373 epididymis disease
+obo:DOID_9912 hydrocele
+obo:DOID_12336 male infertility
+obo:DOID_3856 male reproductive organ cancer
+obo:DOID_1529 penile disease
+obo:DOID_47 prostate disease
+obo:DOID_11997 spermatocele
+obo:DOID_9365 vesiculitis
+obo:DOID_9402 epididymitis
+obo:DOID_9401 epididymo-orchitis
+obo:DOID_14227 azoospermia
+obo:DOID_14228 oligospermia
+obo:DOID_0050457 Sertoli cell-only syndrome
+obo:DOID_10366 epididymis cancer
+obo:DOID_10283 prostate cancer
+obo:DOID_518 scrotum neoplasm
+obo:DOID_2998 testicular cancer
+obo:DOID_10368 epididymis adenocarcinoma
+obo:DOID_10286 prostate carcinoma
+obo:DOID_10290 prostate lymphoma
+obo:DOID_4054 prostate sarcoma
+obo:DOID_2526 prostate adenocarcinoma
+obo:DOID_5282 prostate leiomyosarcoma
+obo:DOID_3252 prostate rhabdomyosarcoma
+obo:DOID_7152 prostate stromal sarcoma
+obo:DOID_3445 scrotal carcinoma
+obo:DOID_13159 scrotum squamous cell carcinoma
+obo:DOID_5557 testicular germ cell cancer
+obo:DOID_12286 testicular leukemia
+obo:DOID_12253 testicular lymphoma
+obo:DOID_5842 testis seminoma
+obo:DOID_5556 testicular malignant germ cell cancer
+obo:DOID_4087 testicular pure germ cell tumor
+obo:DOID_5345 testicular non-seminomatous germ cell cancer
+obo:DOID_13033 balanitis
+obo:DOID_13031 balanoposthitis
+obo:DOID_1875 impotence
+obo:DOID_11615 penile cancer
+obo:DOID_8616 Peyronie's disease
+obo:DOID_2712 phimosis
+obo:DOID_13477 balanitis xerotica obliterans
+obo:DOID_4762 vasculogenic impotence
+obo:DOID_3449 penis carcinoma
+obo:DOID_5518 penis squamous cell carcinoma
+obo:DOID_5334 paraphimosis
+obo:DOID_2301 atrophy of prostate
+obo:DOID_11132 prostatic hypertrophy
+obo:DOID_14654 prostatitis
+obo:DOID_13206 nodular prostate
+obo:DOID_0060087 male reproductive organ benign neoplasm
+obo:DOID_4757 sex cord-stromal neoplasm
+obo:DOID_11624 penile neoplasm
+obo:DOID_2887 prostate leiomyoma
+obo:DOID_3855 seminal vesicle tumor
+obo:DOID_3579 testicular gonadoblastoma
+obo:DOID_2696 Leydig cell tumor
+obo:DOID_2997 Sertoli-Leydig cell tumor
+obo:DOID_7675 testicular fibroma
+obo:DOID_4756 testicular Leydig cell tumor
+obo:DOID_4974 actinobacillosis
+obo:DOID_11088 asphyxia neonatorum
+obo:DOID_9395 croup
+obo:DOID_0050161 lower respiratory tract disease
+obo:DOID_0050621 respiratory system benign neoplasm
+obo:DOID_0050615 respiratory system cancer
+obo:DOID_974 upper respiratory tract disease
+obo:DOID_1176 bronchial disease
+obo:DOID_850 lung disease
+obo:DOID_1532 pleural disease
+obo:DOID_2841 asthma
+obo:DOID_3906 bronchial neoplasm
+obo:DOID_9563 bronchiectasis
+obo:DOID_2799 bronchiolitis obliterans
+obo:DOID_0080810 acute asthma
+obo:DOID_9415 allergic asthma
+obo:DOID_12323 cough variant asthma
+obo:DOID_9360 intrinsic asthma
+obo:DOID_9362 status asthmaticus
+obo:DOID_1584 acute chest syndrome
+obo:DOID_0050072 adiaspiromycosis
+obo:DOID_2942 bronchiolitis
+obo:DOID_0050073 invasive aspergillosis
+obo:DOID_1324 lung cancer
+obo:DOID_3319 lymphangioleiomyomatosis
+obo:DOID_11049 meconium aspiration syndrome
+obo:DOID_2810 middle lobe syndrome
+obo:DOID_2320 obstructive lung disease
+obo:DOID_552 pneumonia
+obo:DOID_12117 pulmonary alveolar microlithiasis
+obo:DOID_12120 pulmonary alveolar proteinosis
+obo:DOID_60001 pulmonary artery disease
+obo:DOID_424 pulmonary immaturity
+obo:DOID_11162 respiratory failure
+obo:DOID_3905 lung carcinoma
+obo:DOID_5764 lung meningioma
+obo:DOID_2784 lung sarcoma
+obo:DOID_4765 pulmonary blastoma
+obo:DOID_5410 pulmonary neuroendocrine tumor
+obo:DOID_3908 lung non-small cell carcinoma
+obo:DOID_5409 lung small cell carcinoma
+obo:DOID_4829 adenosquamous cell lung carcinoma
+obo:DOID_3910 lung adenocarcinoma
+obo:DOID_4556 lung large cell carcinoma
+obo:DOID_5588 lung papillary adenocarcinoma
+obo:DOID_5583 lung giant cell carcinoma
+obo:DOID_6658 pulmonary large cell neuroendocrine carcinoma
+obo:DOID_5411 lung oat cell carcinoma
+obo:DOID_5265 lung leiomyosarcoma
+obo:DOID_4769 pleuropulmonary blastoma
+obo:DOID_2798 bronchiolitis obliterans organizing pneumonia
+obo:DOID_6132 bronchitis
+obo:DOID_3083 chronic obstructive pulmonary disease
+obo:DOID_9675 pulmonary emphysema
+obo:DOID_10032 hyperlucent lung
+obo:DOID_10030 interstitial emphysema
+obo:DOID_3240 aspiration pneumonitis
+obo:DOID_12375 bronchopneumonia
+obo:DOID_5870 eosinophilic pneumonia
+obo:DOID_2797 idiopathic interstitial pneumonia
+obo:DOID_551 toxic pneumonitis
+obo:DOID_3241 lipid pneumonia
+obo:DOID_9502 chronic eosinophilic pneumonia
+obo:DOID_2800 acute interstitial pneumonia
+obo:DOID_0050157 cryptogenic organizing pneumonia
+obo:DOID_0050158 desquamative interstitial pneumonia
+obo:DOID_0050159 lymphoid interstitial pneumonia
+obo:DOID_2801 nonspecific interstitial pneumonia
+obo:DOID_11394 adult respiratory distress syndrome
+obo:DOID_11161 neonatal respiratory failure
+obo:DOID_12716 newborn respiratory distress syndrome
+obo:DOID_11396 pulmonary edema
+obo:DOID_7474 malignant pleural mesothelioma
+obo:DOID_3798 pleural empyema
+obo:DOID_10247 pleurisy
+obo:DOID_1673 pneumothorax
+obo:DOID_7381 lymphohistiocytoid mesothelioma
+obo:DOID_14305 tuberculous empyema
+obo:DOID_2718 hemopneumothorax
+obo:DOID_2598 laryngeal benign neoplasm
+obo:DOID_3683 lung benign neoplasm
+obo:DOID_1350 paranasal sinus neoplasm
+obo:DOID_10069 subglottis neoplasm
+obo:DOID_8002 supraglottis neoplasm
+obo:DOID_490 hemangioma of lung
+obo:DOID_5364 pulmonary coin lesion
+obo:DOID_1361 frontal sinus neoplasm
+obo:DOID_1325 bronchus cancer
+obo:DOID_3904 bronchus carcinoma
+obo:DOID_0050145 adenoiditis
+obo:DOID_10459 common cold
+obo:DOID_9398 epiglottitis
+obo:DOID_786 laryngeal disease
+obo:DOID_0050148 laryngotracheitis
+obo:DOID_9561 nasopharyngeal disease
+obo:DOID_2825 nose disease
+obo:DOID_2275 pharyngitis
+obo:DOID_0050084 rhinotracheitis
+obo:DOID_8596 scarlet fever
+obo:DOID_10456 tonsillitis
+obo:DOID_3225 tracheal disease
+obo:DOID_3437 laryngitis
+obo:DOID_11527 laryngostenosis
+obo:DOID_2596 larynx cancer
+obo:DOID_11797 chronic laryngitis
+obo:DOID_1583 laryngeal tuberculosis
+obo:DOID_2595 glottis cancer
+obo:DOID_13476 supraglottis cancer
+obo:DOID_7763 carcinoma of supraglottis
+obo:DOID_10460 nasopharyngitis
+obo:DOID_9072 lethal midline granuloma
+obo:DOID_2163 nasal cavity disease
+obo:DOID_1352 paranasal sinus disease
+obo:DOID_9574 choanal atresia
+obo:DOID_10811 nasal cavity cancer
+obo:DOID_4483 rhinitis
+obo:DOID_4931 nasal cavity carcinoma
+obo:DOID_10813 nasal cavity lymphoma
+obo:DOID_4731 atrophic rhinitis
+obo:DOID_8252 chronic rhinitis
+obo:DOID_4730 vasomotor rhinitis
+obo:DOID_0050619 paranasal sinus cancer
+obo:DOID_0050127 sinusitis
+obo:DOID_1363 ethmoid sinus cancer
+obo:DOID_1360 frontal sinus cancer
+obo:DOID_1357 maxillary sinus cancer
+obo:DOID_2766 ethmoid sinus adenocarcinoma
+obo:DOID_2764 ethmoid sinus adenoid cystic carcinoma
+obo:DOID_2441 frontal sinus squamous cell carcinoma
+obo:DOID_9507 ethmoid sinusitis
+obo:DOID_10791 frontal sinusitis
+obo:DOID_2051 maxillary sinusitis
+obo:DOID_10794 sphenoid sinusitis
+obo:DOID_14225 acute frontal sinusitis
+obo:DOID_2050 acute maxillary sinusitis
+obo:DOID_10792 chronic maxillary sinusitis
+obo:DOID_248 trachea leiomyoma
+obo:DOID_11920 tracheal cancer
+obo:DOID_3227 tracheal stenosis
+obo:DOID_9392 tracheitis
+obo:DOID_12001 tracheal lymphoma
+obo:DOID_3463 breast disease
+obo:DOID_0060097 thoracic benign neoplasm
+obo:DOID_0060082 breast benign neoplasm
+obo:DOID_1612 breast cancer
+obo:DOID_10688 hypertrophy of breast
+obo:DOID_10690 mastitis
+obo:DOID_5998 microglandular adenosis
+obo:DOID_1631 benign breast phyllodes tumor
+obo:DOID_9504 benign mammary dysplasia
+obo:DOID_10350 breast cyst
+obo:DOID_10354 breast fibrocystic disease
+obo:DOID_1629 breast myofibroblastoma
+obo:DOID_3009 breast neuroendocrine neoplasm
+obo:DOID_1634 breast papillomatosis
+obo:DOID_3013 intraductal breast neoplasm
+obo:DOID_5997 non-proliferative fibrocystic change of the breast
+obo:DOID_5999 apocrine adenosis of breast
+obo:DOID_10353 fibrosclerosis of breast
+obo:DOID_6839 breast intraductal proliferative lesion
+obo:DOID_1628 intraductal papillary breast neoplasm
+obo:DOID_1627 intraductal papilloma
+obo:DOID_1626 breast duct papilloma
+obo:DOID_3459 breast carcinoma
+obo:DOID_3016 breast malignant phyllodes tumor
+obo:DOID_3004 breast myoepithelial neoplasm
+obo:DOID_3017 breast sarcoma
+obo:DOID_0060076 estrogen-receptor negative breast cancer
+obo:DOID_0060075 estrogen-receptor positive breast cancer
+obo:DOID_0050671 female breast cancer
+obo:DOID_0060079 Her2-receptor positive breast cancer
+obo:DOID_1614 male breast cancer
+obo:DOID_0060078 progesterone-receptor negative breast cancer
+obo:DOID_0060077 progesterone-receptor positive breast cancer
+obo:DOID_0060081 triple-receptor negative breast cancer
+obo:DOID_6741 bilateral breast cancer
+obo:DOID_4877 breast adenoid cystic carcinoma
+obo:DOID_3007 breast ductal carcinoma
+obo:DOID_0050938 breast lobular carcinoma
+obo:DOID_4680 breast metaplastic carcinoma
+obo:DOID_5592 breast papillary carcinoma
+obo:DOID_7578 breast scirrhous carcinoma
+obo:DOID_5675 cribriform carcinoma
+obo:DOID_5050 Ehrlich tumor carcinoma
+obo:DOID_7843 female breast carcinoma
+obo:DOID_5658 lipid-rich carcinoma
+obo:DOID_8029 sporadic breast cancer
+obo:DOID_6742 synchronous bilateral breast carcinoma
+obo:DOID_3008 invasive ductal carcinoma
+obo:DOID_3457 invasive lobular carcinoma
+obo:DOID_4679 breast mucoepidermoid carcinoma
+obo:DOID_5514 breast squamous cell carcinoma
+obo:DOID_1642 breast adenomyoepithelioma
+obo:DOID_4511 breast angiosarcoma
+obo:DOID_6001 breast fibrosarcoma
+obo:DOID_5285 breast leiomyosarcoma
+obo:DOID_7787 breast osteosarcoma
+obo:DOID_8335 microglandular adenosis of breast
+obo:DOID_1412 bacteriuria
+obo:DOID_365 bladder disease
+obo:DOID_557 kidney disease
+obo:DOID_9590 lower urinary tract calculus
+obo:DOID_1439 pyuria
+obo:DOID_10080 sparganosis
+obo:DOID_1426 ureteral disease
+obo:DOID_732 urethral disease
+obo:DOID_731 urinary system benign neoplasm
+obo:DOID_5200 urinary tract obstruction
+obo:DOID_0050623 bladder benign neoplasm
+obo:DOID_11353 bladder diverticulum
+obo:DOID_13948 bladder neck obstruction
+obo:DOID_1679 cystitis
+obo:DOID_12145 detrusor sphincter dyssynergia
+obo:DOID_724 female stress incontinence
+obo:DOID_12144 low compliance bladder
+obo:DOID_12143 neurogenic bladder
+obo:DOID_11054 urinary bladder cancer
+obo:DOID_1394 urinary schistosomiasis
+obo:DOID_13109 bladder leiomyoma
+obo:DOID_7333 nephrogenic adenoma of urinary bladder
+obo:DOID_13148 acute cystitis
+obo:DOID_1680 chronic cystitis
+obo:DOID_7138 cystitis cystica
+obo:DOID_13949 interstitial cystitis
+obo:DOID_7127 radiation cystitis
+obo:DOID_13507 trigonitis
+obo:DOID_2392 glandular cystitis
+obo:DOID_11812 bladder sarcoma
+obo:DOID_580 acute urate nephropathy
+obo:DOID_2983 anuria
+obo:DOID_2975 cystic kidney disease
+obo:DOID_9266 cystinuria
+obo:DOID_9409 diabetes insipidus
+obo:DOID_0060062 familial juvenile hyperuricemic nephropathy
+obo:DOID_11705 impaired renal function disease
+obo:DOID_0080616 kidney cortex disease
+obo:DOID_2973 kidney cortex necrosis
+obo:DOID_1074 kidney failure
+obo:DOID_9622 kidney hypertrophy
+obo:DOID_10952 nephritis
+obo:DOID_585 nephrolithiasis
+obo:DOID_9617 orthostatic proteinuria
+obo:DOID_2982 perinephritis
+obo:DOID_2977 primary hyperoxaluria
+obo:DOID_576 proteinuria
+obo:DOID_2744 pyelitis
+obo:DOID_14766 renal agenesis
+obo:DOID_9733 renal tuberculosis
+obo:DOID_447 renal tubular transport disease
+obo:DOID_12132 Wegener's granulomatosis
+obo:DOID_0080322 polycystic kidney disease
+obo:DOID_898 polycystic kidney disease
+obo:DOID_12387 nephrogenic diabetes insipidus
+obo:DOID_13068 renal osteodystrophy
+obo:DOID_0080615 nephroma
+obo:DOID_3021 acute kidney failure
+obo:DOID_784 chronic kidney disease
+obo:DOID_4676 uremia
+obo:DOID_12556 acute kidney tubular necrosis
+obo:DOID_11823 hepatorenal syndrome
+obo:DOID_783 end stage renal disease
+obo:DOID_2921 glomerulonephritis
+obo:DOID_1063 interstitial nephritis
+obo:DOID_14064 acute poststreptococcal glomerulonephritis
+obo:DOID_13138 acute proliferative glomerulonephritis
+obo:DOID_4781 diffuse glomerulonephritis
+obo:DOID_0050851 glomerulosclerosis
+obo:DOID_2986 IgA glomerulonephritis
+obo:DOID_4784 immune-complex glomerulonephritis
+obo:DOID_2920 membranoproliferative glomerulonephritis
+obo:DOID_10976 membranous glomerulonephritis
+obo:DOID_4783 mesangial proliferative glomerulonephritis
+obo:DOID_4778 proliferative glomerulonephritis
+obo:DOID_4776 rapidly progressive glomerulonephritis
+obo:DOID_13139 crescentic glomerulonephritis
+obo:DOID_14066 acute diffuse nephritis
+obo:DOID_1312 focal segmental glomerulosclerosis
+obo:DOID_3052 Balkan nephropathy
+obo:DOID_582 hemoglobinuria
+obo:DOID_2527 nephrosis
+obo:DOID_1184 nephrotic syndrome
+obo:DOID_2590 familial nephrotic syndrome
+obo:DOID_11400 pyelonephritis
+obo:DOID_559 acute pyelonephritis
+obo:DOID_1076 chronic pyelonephritis
+obo:DOID_11401 xanthogranulomatous pyelonephritis
+obo:DOID_12594 Potter's syndrome
+obo:DOID_445 Bartter disease
+obo:DOID_1062 Fanconi syndrome
+obo:DOID_0050450 Gitelman syndrome
+obo:DOID_0050477 Liddle syndrome
+obo:DOID_4479 pseudohypoaldosteronism
+obo:DOID_9432 renal glycosuria
+obo:DOID_14219 renal tubular acidosis
+obo:DOID_13689 prostate calculus
+obo:DOID_9589 urethral calculus
+obo:DOID_11819 ureter cancer
+obo:DOID_4022 ureterocele
+obo:DOID_14146 ureterolithiasis
+obo:DOID_9620 vesicoureteral reflux
+obo:DOID_734 urethra cancer
+obo:DOID_9341 urethral diverticulum
+obo:DOID_13461 urethral intrinsic sphincter deficiency
+obo:DOID_12577 urethral obstruction
+obo:DOID_13498 urethral syndrome
+obo:DOID_1343 urethritis
+obo:DOID_4910 urethra adenocarcinoma
+obo:DOID_5307 urethra clear cell adenocarcinoma
+obo:DOID_1829 urethral stricture
+obo:DOID_2697 renal adenoma
+obo:DOID_11885 ureteral benign neoplasm
+obo:DOID_5433 urinary tract papillary transitional cell benign neoplasm
+obo:DOID_6404 metanephric adenoma
+obo:DOID_5432 bladder papillary transitional cell neoplasm
+obo:DOID_6933 bladder transitional cell papilloma
+obo:DOID_6239 non-invasive bladder papillary urothelial neoplasm
+obo:DOID_11111 hydronephrosis
+obo:DOID_5199 ureteral obstruction
+obo:DOID_0060072 benign neoplasm
+obo:DOID_162 cancer
+obo:DOID_0060071 pre-malignant neoplasm
+obo:DOID_0060084 cell type benign neoplasm
+obo:DOID_0060085 organ system benign neoplasm
+obo:DOID_2683 adenofibroma
+obo:DOID_657 adenoma
+obo:DOID_3314 angiomyolipoma
+obo:DOID_2645 benign mesothelioma
+obo:DOID_2649 chondroblastoma
+obo:DOID_2602 chondroma
+obo:DOID_5078 ganglioglioma
+obo:DOID_0080601 germ cell benign neoplasm
+obo:DOID_3301 gonadoblastoma
+obo:DOID_255 hemangioma
+obo:DOID_127 leiomyoma
+obo:DOID_3315 lipoma
+obo:DOID_2615 papilloma
+obo:DOID_2883 prostatic adenoma
+obo:DOID_3168 squamous cell neoplasm
+obo:DOID_5477 clear cell adenofibroma
+obo:DOID_2700 mucinous adenofibroma
+obo:DOID_1625 breast adenoma
+obo:DOID_1618 breast fibroadenoma
+obo:DOID_2634 cystadenoma
+obo:DOID_5398 lipoadenoma
+obo:DOID_5386 lung adenoma
+obo:DOID_3829 pituitary adenoma
+obo:DOID_7539 pregnancy adenoma
+obo:DOID_7223 breast giant fibroadenoma
+obo:DOID_2639 breast pericanalicular fibroadenoma
+obo:DOID_8003 alveoli adenoma
+obo:DOID_5391 bronchus adenoma
+obo:DOID_3828 chromophobe adenoma
+obo:DOID_5395 functioning pituitary adenoma
+obo:DOID_7004 ACTH-secreting pituitary adenoma
+obo:DOID_6255 growth hormone secreting pituitary adenoma
+obo:DOID_5394 prolactinoma
+obo:DOID_6275 TSH producing pituitary tumor
+obo:DOID_746 adenomatoid tumor
+obo:DOID_2601 juxtacortical chondroma
+obo:DOID_0080602 benign teratoma
+obo:DOID_479 angiokeratoma
+obo:DOID_11294 arteriovenous malformation
+obo:DOID_469 deep angioma
+obo:DOID_486 glomeruloid hemangioma
+obo:DOID_5241 hemangioblastoma
+obo:DOID_254 hemangioma of intra-abdominal structure
+obo:DOID_474 histiocytoid hemangioma
+obo:DOID_505 hobnail hemangioma
+obo:DOID_2517 intracranial structure hemangioma
+obo:DOID_468 intramuscular hemangioma
+obo:DOID_495 sclerosing hemangioma
+obo:DOID_496 spindle cell hemangioma
+obo:DOID_14175 von Hippel-Lindau disease
+obo:DOID_277 chorioangioma
+obo:DOID_256 hemangioma of spleen
+obo:DOID_5393 brain angioma
+obo:DOID_6621 cerebral angioma
+obo:DOID_5766 pulmonary sclerosing hemangioma
+obo:DOID_4265 angiomyoma
+obo:DOID_5127 bizarre leiomyoma
+obo:DOID_5139 cellular leiomyoma
+obo:DOID_5138 leiomyomatosis
+obo:DOID_5729 intravenous leiomyomatosis
+obo:DOID_3616 angiolipoma
+obo:DOID_10199 breast lipoma
+obo:DOID_10208 chondroid lipoma
+obo:DOID_7014 infiltrating lipoma
+obo:DOID_3116 kidney benign neoplasm
+obo:DOID_10192 pleomorphic lipoma
+obo:DOID_10188 skin lipoma
+obo:DOID_10184 spindle cell lipoma
+obo:DOID_2673 cystic nephroma
+obo:DOID_8411 kidney angiomyolipoma
+obo:DOID_2698 nephrogenic adenofibroma
+obo:DOID_7334 nephrogenic adenoma
+obo:DOID_6245 renal oncocytoma
+obo:DOID_6244 familial renal oncocytoma
+obo:DOID_8060 frontal sinus inverted papilloma
+obo:DOID_2682 intracystic papillary adenoma
+obo:DOID_3179 inverted papilloma
+obo:DOID_3172 papillary adenoma
+obo:DOID_139 squamous cell papilloma
+obo:DOID_2670 transitional papilloma
+obo:DOID_3177 verrucous papilloma
+obo:DOID_174 acanthoma
+obo:DOID_4323 epidermolytic acanthoma
+obo:DOID_4321 large cell acanthoma
+obo:DOID_6498 seborrheic keratosis
+obo:DOID_6945 inverted follicular keratosis
+obo:DOID_11684 melanoacanthoma
+obo:DOID_0060089 endocrine organ benign neoplasm
+obo:DOID_0050624 gastrointestinal system benign neoplasm
+obo:DOID_0060092 immune system organ benign neoplasm
+obo:DOID_0060121 integumentary system benign neoplasm
+obo:DOID_0060099 musculoskeletal system benign neoplasm
+obo:DOID_0060115 nervous system benign neoplasm
+obo:DOID_656 adrenal adenoma
+obo:DOID_1786 adrenal rest tumor
+obo:DOID_916 liver benign neoplasm
+obo:DOID_5389 oxyphilic adenoma
+obo:DOID_7608 parathyroid adenoma
+obo:DOID_60008 parathyroid gland benign neoplasm
+obo:DOID_0050771 pheochromocytoma
+obo:DOID_60009 pituitary gland benign neoplasm
+obo:DOID_2891 thyroid adenoma
+obo:DOID_12028 Conn's syndrome
+obo:DOID_3317 hepatic angiomyolipoma
+obo:DOID_917 liver leiomyoma
+obo:DOID_7607 chief cell adenoma
+obo:DOID_6204 follicular adenoma
+obo:DOID_8102 fetal adenoma
+obo:DOID_8162 thyroid hurthle cell adenoma
+obo:DOID_10087 gastric leiomyoma
+obo:DOID_5561 gastric teratoma
+obo:DOID_3117 hepatobiliary benign neoplasm
+obo:DOID_4610 intestinal benign neoplasm
+obo:DOID_452 pleomorphic adenoma
+obo:DOID_7532 squamous papillomatosis
+obo:DOID_4551 anus benign neoplasm
+obo:DOID_11240 appendiceal neoplasm
+obo:DOID_4119 intestinal neuroendocrine benign tumor
+obo:DOID_6460 large intestine lipoma
+obo:DOID_1984 rectal benign neoplasm
+obo:DOID_7505 small intestine neoplasm
+obo:DOID_10655 lipoma of colon
+obo:DOID_10156 ileal neoplasm
+obo:DOID_3218 jejunal neoplasm
+obo:DOID_4434 small intestine neuroendocrine neoplasm
+obo:DOID_1975 thymus lipoma
+obo:DOID_3165 skin benign neoplasm
+obo:DOID_5949 angiokeratoma circumscriptum
+obo:DOID_664 angiokeratoma of Fordyce
+obo:DOID_172 clear cell acanthoma
+obo:DOID_4418 cutaneous fibrous histiocytoma
+obo:DOID_2425 cutaneous ganglioneuroma
+obo:DOID_2438 dermis tumor
+obo:DOID_2433 epidermal appendage tumor
+obo:DOID_2173 eyelid neoplasm
+obo:DOID_2411 granular cell tumor
+obo:DOID_5375 hair follicle neoplasm
+obo:DOID_5759 sebaceous gland neoplasm
+obo:DOID_2495 senile angioma
+obo:DOID_471 skin hemangioma
+obo:DOID_3178 skin papilloma
+obo:DOID_2664 sweat gland neoplasm
+obo:DOID_5132 leiomyoma cutis
+obo:DOID_5374 pilomatrixoma
+obo:DOID_2648 sebaceous adenoma
+obo:DOID_4028 angioma serpiginosum
+obo:DOID_5876 apocrine sweat gland neoplasm
+obo:DOID_173 eccrine sweat gland neoplasm
+obo:DOID_3896 hidradenoma
+obo:DOID_2661 myoepithelioma
+obo:DOID_2065 syringoma
+obo:DOID_3895 apocrine adenoma
+obo:DOID_3893 hidrocystoma
+obo:DOID_5444 spiradenoma
+obo:DOID_5445 syringocystadenoma papilliferum
+obo:DOID_5442 eccrine acrospiroma
+obo:DOID_5443 clear cell hidradenoma
+obo:DOID_2061 nodular hidradenoma
+obo:DOID_5439 papillary hidradenoma
+obo:DOID_0060123 connective tissue benign neoplasm
+obo:DOID_4386 myofibroma
+obo:DOID_2701 nodular tenosynovitis
+obo:DOID_2001 neuroma
+obo:DOID_0060096 sensory organ benign neoplasm
+obo:DOID_5155 multiple mucosal neuroma
+obo:DOID_3192 neurilemmoma
+obo:DOID_12689 acoustic neuroma
+obo:DOID_3196 cellular schwannoma
+obo:DOID_3205 melanotic neurilemmoma
+obo:DOID_3204 neurilemmomatosis
+obo:DOID_3206 plexiform schwannoma
+obo:DOID_0080619 auditory system benign neoplasm
+obo:DOID_5387 middle ear adenoma
+obo:DOID_0050687 cell type cancer
+obo:DOID_11934 head and neck cancer
+obo:DOID_0050686 organ system cancer
+obo:DOID_0070003 blastoma
+obo:DOID_305 carcinoma
+obo:DOID_2994 germ cell cancer
+obo:DOID_0080364 malignant adenoma
+obo:DOID_3070 malignant glioma
+obo:DOID_1790 malignant mesothelioma
+obo:DOID_1909 melanoma
+obo:DOID_3350 mesenchymal cell neoplasm
+obo:DOID_154 mixed cell type cancer
+obo:DOID_1115 sarcoma
+obo:DOID_3025 acinar cell carcinoma
+obo:DOID_299 adenocarcinoma
+obo:DOID_3948 adrenocortical carcinoma
+obo:DOID_4007 bladder carcinoma
+obo:DOID_1519 cecum carcinoma
+obo:DOID_3308 embryonal carcinoma
+obo:DOID_2871 endometrial carcinoma
+obo:DOID_1107 esophageal carcinoma
+obo:DOID_4288 external ear carcinoma
+obo:DOID_4948 gallbladder carcinoma
+obo:DOID_2599 glottis carcinoma
+obo:DOID_4552 large cell carcinoma
+obo:DOID_2600 laryngeal carcinoma
+obo:DOID_5660 lymphoepithelioma-like carcinoma
+obo:DOID_5074 malignant ependymoma
+obo:DOID_4838 myoepithelial carcinoma
+obo:DOID_1800 neuroendocrine carcinoma
+obo:DOID_3113 papillary carcinoma
+obo:DOID_1540 parathyroid carcinoma
+obo:DOID_4916 pituitary carcinoma
+obo:DOID_5662 pleomorphic carcinoma
+obo:DOID_7141 prostate small cell carcinoma
+obo:DOID_4919 renal pelvis carcinoma
+obo:DOID_0050904 salivary gland carcinoma
+obo:DOID_0050685 small cell carcinoma
+obo:DOID_1749 squamous cell carcinoma
+obo:DOID_5517 stomach carcinoma
+obo:DOID_3963 thyroid carcinoma
+obo:DOID_2671 transitional cell carcinoma
+obo:DOID_4939 ureter carcinoma
+obo:DOID_4896 bile duct adenocarcinoma
+obo:DOID_3711 bladder adenocarcinoma
+obo:DOID_3458 breast adenocarcinoma
+obo:DOID_4468 clear cell adenocarcinoma
+obo:DOID_10816 duodenum adenocarcinoma
+obo:DOID_3706 fallopian tube adenocarcinoma
+obo:DOID_3717 gastric adenocarcinoma
+obo:DOID_3030 mucinous adenocarcinoma
+obo:DOID_3713 ovary adenocarcinoma
+obo:DOID_4074 pancreas adenocarcinoma
+obo:DOID_3112 papillary adenocarcinoma
+obo:DOID_3493 signet ring cell adenocarcinoma
+obo:DOID_4929 tubular adenocarcinoma
+obo:DOID_4947 cholangiocarcinoma
+obo:DOID_4928 intrahepatic cholangiocarcinoma
+obo:DOID_4927 Klatskin's tumor
+obo:DOID_6581 breast apocrine carcinoma
+obo:DOID_5605 breast medullary carcinoma
+obo:DOID_3610 breast mucinous carcinoma
+obo:DOID_4922 breast secretory carcinoma
+obo:DOID_5310 glycogen-rich clear cell breast carcinoma
+obo:DOID_6263 inflammatory breast carcinoma
+obo:DOID_3443 mammary Paget's disease
+obo:DOID_6585 oncocytic breast carcinoma
+obo:DOID_5831 fallopian tube endometrioid adenocarcinoma
+obo:DOID_6217 gastric diffuse adenocarcinoma
+obo:DOID_4023 linitis plastica
+obo:DOID_3716 mucinous stomach adenocarcinoma
+obo:DOID_3606 ovarian mucinous adenocarcinoma
+obo:DOID_5828 endometrioid ovary carcinoma
+obo:DOID_5304 ovarian clear cell adenocarcinoma
+obo:DOID_3605 ovarian cystadenocarcinoma
+obo:DOID_5744 ovary serous adenocarcinoma
+obo:DOID_3604 ovarian mucinous cystadenocarcinoma
+obo:DOID_5746 ovarian serous cystadenocarcinoma
+obo:DOID_5742 pancreatic acinar cell adenocarcinoma
+obo:DOID_4073 pancreatic cystadenocarcinoma
+obo:DOID_3498 pancreatic ductal adenocarcinoma
+obo:DOID_7716 mixed ductal-endocrine carcinoma
+obo:DOID_2632 papillary serous adenocarcinoma
+obo:DOID_3959 adrenal cortical adenocarcinoma
+obo:DOID_7371 superficial urinary bladder cancer
+obo:DOID_5680 embryonal testis carcinoma
+obo:DOID_2870 endometrial adenocarcinoma
+obo:DOID_7139 endometrial small cell carcinoma
+obo:DOID_5533 endometrial squamous cell carcinoma
+obo:DOID_5299 endometrial clear cell adenocarcinoma
+obo:DOID_3707 endometrial mucinous adenocarcinoma
+obo:DOID_4914 esophagus adenocarcinoma
+obo:DOID_3748 esophagus squamous cell carcinoma
+obo:DOID_7941 Barrett's adenocarcinoma
+obo:DOID_7051 esophageal basaloid squamous cell carcinoma
+obo:DOID_3500 gallbladder adenocarcinoma
+obo:DOID_7133 gallbladder small cell carcinoma
+obo:DOID_5535 gallbladder squamous cell carcinoma
+obo:DOID_7144 laryngeal small cell carcinoma
+obo:DOID_2876 laryngeal squamous cell carcinoma
+obo:DOID_3752 larynx verrucous carcinoma
+obo:DOID_5509 pediatric ependymoma
+obo:DOID_4531 mucoepidermoid carcinoma
+obo:DOID_4866 salivary gland adenoid cystic carcinoma
+obo:DOID_5524 adenoid squamous cell carcinoma
+obo:DOID_4830 adenosquamous carcinoma
+obo:DOID_5525 anal squamous cell carcinoma
+obo:DOID_5522 basaloid squamous cell carcinoma
+obo:DOID_5521 keratinizing squamous cell carcinoma
+obo:DOID_3907 lung squamous cell carcinoma
+obo:DOID_5515 nasal cavity squamous cell carcinoma
+obo:DOID_4015 spindle cell carcinoma
+obo:DOID_3737 verrucous carcinoma
+obo:DOID_7174 anus basaloid carcinoma
+obo:DOID_7173 cloacogenic carcinoma
+obo:DOID_5635 gastric adenosquamous carcinoma
+obo:DOID_6552 gastric small cell carcinoma
+obo:DOID_5516 gastric squamous cell carcinoma
+obo:DOID_3962 follicular thyroid carcinoma
+obo:DOID_3969 papillary thyroid carcinoma
+obo:DOID_0080524 thyroid gland adenocarcinoma
+obo:DOID_3973 thyroid medullary carcinoma
+obo:DOID_7089 tall cell variant papillary carcinoma
+obo:DOID_0080525 differentiated thyroid gland carcinoma
+obo:DOID_4006 bladder urothelial carcinoma
+obo:DOID_4012 papillary transitional carcinoma
+obo:DOID_6477 invasive bladder transitional cell carcinoma
+obo:DOID_4439 central nervous system germ cell tumor
+obo:DOID_688 embryonal cancer
+obo:DOID_1911 endodermal sinus tumor
+obo:DOID_4717 extragonadal germ cell cancer
+obo:DOID_3095 germ cell and embryonal cancer
+obo:DOID_3304 germinoma
+obo:DOID_3306 mixed germ cell cancer
+obo:DOID_4440 seminoma
+obo:DOID_4766 embryoma
+obo:DOID_3305 teratocarcinoma
+obo:DOID_3307 teratoma
+obo:DOID_4085 trophoblastic neoplasm
+obo:DOID_2660 cystic teratoma
+obo:DOID_5563 malignant teratoma
+obo:DOID_5566 mature teratoma
+obo:DOID_2658 dermoid cyst
+obo:DOID_3590 gestational trophoblastic neoplasm
+obo:DOID_5838 extragonadal seminoma
+obo:DOID_5834 spermatocytoma
+obo:DOID_60004 malignant cystadenoma
+obo:DOID_3111 cystadenocarcinoma
+obo:DOID_3603 mucinous cystadenocarcinoma
+obo:DOID_3114 serous cystadenocarcinoma
+obo:DOID_3069 astrocytoma
+obo:DOID_4202 brain stem glioma
+obo:DOID_4848 cerebellar astrocytoma
+obo:DOID_3774 chordoid glioma
+obo:DOID_0080829 low-grade glioma
+obo:DOID_5076 mixed glioma
+obo:DOID_3181 oligodendroglioma
+obo:DOID_3185 spinal cord glioma
+obo:DOID_7305 astroblastoma
+obo:DOID_6726 fibrillary astrocytoma
+obo:DOID_7005 gemistocytic astrocytoma
+obo:DOID_3068 glioblastoma
+obo:DOID_3079 juvenile astrocytoma
+obo:DOID_4845 pilomyxoid astrocytoma
+obo:DOID_4852 pleomorphic xanthoastrocytoma
+obo:DOID_3074 giant cell glioblastoma
+obo:DOID_3071 gliosarcoma
+obo:DOID_4860 brain stem astrocytic neoplasm
+obo:DOID_4853 pilocytic astrocytoma of cerebellum
+obo:DOID_0080830 pediatric low-grade glioma
+obo:DOID_4851 pilocytic astrocytoma
+obo:DOID_6812 childhood pilocytic astrocytoma
+obo:DOID_6811 juvenile pilocytic astrocytoma
+obo:DOID_5503 spinal cord ependymoma
+obo:DOID_4489 malignant epithelial mesothelioma
+obo:DOID_4488 sarcomatoid mesothelioma
+obo:DOID_4359 amelanotic melanoma
+obo:DOID_6846 familial melanoma
+obo:DOID_3162 malignant spindle cell melanoma
+obo:DOID_7206 melanomatosis
+obo:DOID_6755 amyloid tumor
+obo:DOID_6193 epithelioid sarcoma
+obo:DOID_2685 ossifying fibromyxoid tumor
+obo:DOID_2647 parachordoma
+obo:DOID_4236 carcinosarcoma
+obo:DOID_2609 adenomyoma
+obo:DOID_1974 adenosarcoma
+obo:DOID_4993 atypical polypoid adenomyoma
+obo:DOID_0001816 angiosarcoma
+obo:DOID_3640 central nervous system teratoma
+obo:DOID_4233 clear cell sarcoma
+obo:DOID_7146 Langerhans cell sarcoma
+obo:DOID_355 mast-cell sarcoma
+obo:DOID_7615 sarcomatosis
+obo:DOID_4235 spindle cell sarcoma
+obo:DOID_268 liver angiosarcoma
+obo:DOID_176 cardiovascular cancer
+obo:DOID_170 endocrine gland cancer
+obo:DOID_1725 peritoneum cancer
+obo:DOID_193 reproductive organ cancer
+obo:DOID_5875 retroperitoneal cancer
+obo:DOID_5093 thoracic cancer
+obo:DOID_3996 urinary system cancer
+obo:DOID_175 vascular cancer
+obo:DOID_3316 perivascular tumor
+obo:DOID_3850 hemangiopericytic tumor
+obo:DOID_2643 perivascular epithelioid cell tumor
+obo:DOID_2431 glomus tumor
+obo:DOID_169 neuroendocrine tumor
+obo:DOID_1793 pancreatic cancer
+obo:DOID_5032 pineal gland cancer
+obo:DOID_1785 pituitary cancer
+obo:DOID_3277 thymus cancer
+obo:DOID_5577 gastrinoma
+obo:DOID_4430 somatostatinoma
+obo:DOID_5574 VIPoma
+obo:DOID_1799 islet cell tumor
+obo:DOID_1795 malignant exocrine pancreas neoplasm
+obo:DOID_4905 pancreatic carcinoma
+obo:DOID_3892 insulinoma
+obo:DOID_1798 pancreatic endocrine carcinoma
+obo:DOID_5580 pancreatic gastrinoma
+obo:DOID_4432 pancreatic somatostatinoma
+obo:DOID_3587 pancreatic ductal carcinoma
+obo:DOID_6823 pancreatoblastoma
+obo:DOID_8031 pineal region meningioma
+obo:DOID_1664 pineoblastoma
+obo:DOID_5030 pineal parenchymal tumor of intermediate differentiation
+obo:DOID_5716 hormone producing pituitary cancer
+obo:DOID_5396 prolactin producing pituitary tumor
+obo:DOID_3284 thymic carcinoma
+obo:DOID_3275 thymoma
+obo:DOID_4923 thymus adenocarcinoma
+obo:DOID_4678 thymus mucoepidermoid carcinoma
+obo:DOID_5595 papillary thymic adenocarcinoma
+obo:DOID_3279 spindle cell thymoma
+obo:DOID_4554 type C thymoma
+obo:DOID_1788 peritoneal mesothelioma
+obo:DOID_192 sex cord-gonadal stromal tumor
+obo:DOID_0050616 malignant Leydig cell tumor
+obo:DOID_3577 Sertoli cell tumor
+obo:DOID_12341 retroperitoneal sarcoma
+obo:DOID_5284 retroperitoneal leiomyosarcoma
+obo:DOID_5559 mediastinal cancer
+obo:DOID_6868 mediastinal malignant lymphoma
+obo:DOID_6867 mediastinal gray zone lymphoma
+obo:DOID_263 kidney cancer
+obo:DOID_3675 childhood kidney cancer
+obo:DOID_262 kidney hemangiopericytoma
+obo:DOID_4242 kidney sarcoma
+obo:DOID_4772 mesoblastic nephroma
+obo:DOID_2154 nephroblastoma
+obo:DOID_4451 renal carcinoma
+obo:DOID_4454 childhood kidney cell carcinoma
+obo:DOID_4773 congenital mesoblastic nephroma
+obo:DOID_3672 rhabdoid cancer
+obo:DOID_8082 cellular congenital mesoblastic nephroma
+obo:DOID_3674 kidney rhabdoid cancer
+obo:DOID_4880 kidney clear cell sarcoma
+obo:DOID_5287 kidney leiomyosarcoma
+obo:DOID_5183 hereditary Wilms' tumor
+obo:DOID_4450 renal cell carcinoma
+obo:DOID_4471 chromophobe adenocarcinoma
+obo:DOID_4464 collecting duct carcinoma
+obo:DOID_4455 hereditary renal cell carcinoma
+obo:DOID_4463 multilocular clear cell renal cell carcinoma
+obo:DOID_4465 papillary renal cell carcinoma
+obo:DOID_4467 renal clear cell carcinoma
+obo:DOID_4473 sarcomatoid renal cell carcinoma
+obo:DOID_6606 eosinophilic variant of chromophobe renal cell carcinoma
+obo:DOID_6163 familial renal papillary carcinoma
+obo:DOID_0050387 nonpapillary renal cell carcinoma
+obo:DOID_8866 actinic keratosis
+obo:DOID_8719 in situ carcinoma
+obo:DOID_4943 adenocarcinoma in situ
+obo:DOID_9053 bladder carcinoma in situ
+obo:DOID_8791 breast carcinoma in situ
+obo:DOID_8991 cervix uteri carcinoma in situ
+obo:DOID_5172 endometrium carcinoma in situ
+obo:DOID_9024 intestine carcinoma in situ
+obo:DOID_8800 lung carcinoma in situ
+obo:DOID_8634 prostate carcinoma in situ
+obo:DOID_8687 skin carcinoma in situ
+obo:DOID_9138 stomach carcinoma in situ
+obo:DOID_5670 comedo carcinoma
+obo:DOID_0060074 ductal carcinoma in situ
+obo:DOID_3010 lobular neoplasia
+obo:DOID_507 adjustment disorder
+obo:DOID_1561 cognitive disorder
+obo:DOID_0060037 developmental disorder of mental health
+obo:DOID_10935 dissociative disorder
+obo:DOID_1766 factitious disorder
+obo:DOID_1234 gender identity disorder
+obo:DOID_10937 impulse control disorder
+obo:DOID_1510 personality disorder
+obo:DOID_0060043 sexual disorder
+obo:DOID_535 sleep disorder
+obo:DOID_4737 somatoform disorder
+obo:DOID_303 substance-related disorder
+obo:DOID_10914 amnestic disorder
+obo:DOID_2030 anxiety disorder
+obo:DOID_1307 dementia
+obo:DOID_3324 mood disorder
+obo:DOID_2468 psychotic disorder
+obo:DOID_5340 anterograde amnesia
+obo:DOID_4543 retrograde amnesia
+obo:DOID_13027 transient global amnesia
+obo:DOID_6088 acute stress disorder
+obo:DOID_14320 generalized anxiety disorder
+obo:DOID_4964 neurotic disorder
+obo:DOID_10933 obsessive-compulsive disorder
+obo:DOID_594 panic disorder
+obo:DOID_591 phobic disorder
+obo:DOID_2055 post-traumatic stress disorder
+obo:DOID_10685 separation anxiety disorder
+obo:DOID_6950 combat disorder
+obo:DOID_593 agoraphobia
+obo:DOID_599 specific phobia
+obo:DOID_0060048 nosophobia
+obo:DOID_602 cancerophobia
+obo:DOID_8725 vascular dementia
+obo:DOID_12294 atypical depressive disorder
+obo:DOID_3312 bipolar disorder
+obo:DOID_12139 dysthymic disorder
+obo:DOID_1596 mental depression
+obo:DOID_14042 bipolar I disorder
+obo:DOID_845 cyclothymic disorder
+obo:DOID_1595 endogenous depression
+obo:DOID_1470 major depressive disorder
+obo:DOID_2848 melancholia
+obo:DOID_778 delusional disorder
+obo:DOID_5418 schizoaffective disorder
+obo:DOID_5419 schizophrenia
+obo:DOID_11328 schizophreniform disorder
+obo:DOID_8646 substance-induced psychosis
+obo:DOID_6680 Capgras syndrome
+obo:DOID_1229 paranoid schizophrenia
+obo:DOID_251 alcohol-induced mental disorder
+obo:DOID_1203 drug-induced mental disorder
+obo:DOID_252 alcoholic psychosis
+obo:DOID_1742 drug psychosis
+obo:DOID_0060040 pervasive developmental disorder
+obo:DOID_0060038 specific developmental disorder
+obo:DOID_0060041 autism spectrum disorder
+obo:DOID_13487 childhood disintegrative disease
+obo:DOID_1206 Rett syndrome
+obo:DOID_0050432 Asperger syndrome
+obo:DOID_0060042 atypical autism
+obo:DOID_12849 autistic disorder
+obo:DOID_1094 attention deficit hyperactivity disorder
+obo:DOID_2033 communication disorder
+obo:DOID_12995 conduct disorder
+obo:DOID_9923 developmental coordination disorder
+obo:DOID_8670 eating disorder
+obo:DOID_0050696 fetal alcohol spectrum disorder
+obo:DOID_1059 intellectual disability
+obo:DOID_8927 learning disability
+obo:DOID_2303 stereotypic movement disorder
+obo:DOID_2769 tic disorder
+obo:DOID_4090 agnosia
+obo:DOID_93 language disorder
+obo:DOID_92 speech disorder
+obo:DOID_0060131 alexithymia
+obo:DOID_0060132 amusia
+obo:DOID_0060133 anosognosia
+obo:DOID_0060134 apperceptive agnosia
+obo:DOID_0060135 apraxia
+obo:DOID_0060136 associative agnosia
+obo:DOID_0060150 astereognosia
+obo:DOID_0060137 auditory agnosia
+obo:DOID_0060140 cortical deafness
+obo:DOID_0060141 finger agnosia
+obo:DOID_0060142 form agnosia
+obo:DOID_0060145 pain agnosia
+obo:DOID_4970 prosopagnosia
+obo:DOID_0060148 simultanagnosia
+obo:DOID_0060151 tactile agnosia
+obo:DOID_0060154 verbal auditory agnosia
+obo:DOID_0060155 visual agnosia
+obo:DOID_4260 gait apraxia
+obo:DOID_4627 ideomotor apraxia
+obo:DOID_0060046 aphasia
+obo:DOID_11385 expressive language disorder
+obo:DOID_4186 articulation disorder
+obo:DOID_4189 mutism
+obo:DOID_8689 anorexia nervosa
+obo:DOID_0050668 alcohol-related birth defect
+obo:DOID_0050667 alcohol-related neurodevelopmental disorder
+obo:DOID_0050665 fetal alcohol syndrome
+obo:DOID_0050666 partial fetal alcohol syndrome
+obo:DOID_0050889 non-syndromic intellectual disability
+obo:DOID_0050888 syndromic intellectual disability
+obo:DOID_0060179 Renpenning syndrome
+obo:DOID_12568 dyscalculia
+obo:DOID_13365 reading disorder
+obo:DOID_0060047 writing disorder
+obo:DOID_4428 dyslexia
+obo:DOID_4540 dysgraphia
+obo:DOID_10600 chronic tic disorder
+obo:DOID_11119 Gilles de la Tourette syndrome
+obo:DOID_11038 depersonalization disorder
+obo:DOID_11037 dissociative amnesia
+obo:DOID_10934 multiple personality disorder
+obo:DOID_0060045 Munchausen by proxy
+obo:DOID_10919 transsexualism
+obo:DOID_12401 intermittent explosive disorder
+obo:DOID_12400 kleptomania
+obo:DOID_12399 pathological gambling
+obo:DOID_12402 pyromania
+obo:DOID_0050587 trichotillomania
+obo:DOID_10939 antisocial personality disorder
+obo:DOID_1509 avoidant personality disorder
+obo:DOID_10930 borderline personality disorder
+obo:DOID_10931 dependent personality disorder
+obo:DOID_334 histrionic personality disorder
+obo:DOID_2745 narcissistic personality disorder
+obo:DOID_10932 obsessive-compulsive personality disorder
+obo:DOID_10938 paranoid personality disorder
+obo:DOID_10936 schizoid personality disorder
+obo:DOID_10646 schizotypal personality disorder
+obo:DOID_0060044 paraphilia disorder
+obo:DOID_10132 psychosexual disorder
+obo:DOID_1876 sexual dysfunction
+obo:DOID_10236 exhibitionism
+obo:DOID_1235 fetishism
+obo:DOID_13351 pedophilia
+obo:DOID_10834 voyeurism
+obo:DOID_1233 transvestism
+obo:DOID_13868 hypoactive sexual desire disorder
+obo:DOID_13709 premature ejaculation
+obo:DOID_0050628 advanced sleep phase syndrome
+obo:DOID_2846 bruxism
+obo:DOID_8986 narcolepsy
+obo:DOID_9207 periodic limb movement disorder
+obo:DOID_8619 recurrent hypersomnia
+obo:DOID_0050847 sleep apnea
+obo:DOID_0060165 Kleine-Levin syndrome
+obo:DOID_9220 central sleep apnea
+obo:DOID_0060163 body dysmorphic disorder
+obo:DOID_11569 neurocirculatory asthenia
+obo:DOID_0060164 pain disorder
+obo:DOID_13918 somatization disorder
+obo:DOID_302 substance abuse
+obo:DOID_9973 substance dependence
+obo:DOID_0060001 withdrawal disorder
+obo:DOID_1574 alcohol abuse
+obo:DOID_670 amphetamine abuse
+obo:DOID_9505 cannabis abuse
+obo:DOID_809 cocaine abuse
+obo:DOID_11206 opioid abuse
+obo:DOID_5062 phencyclidine abuse
+obo:DOID_0050741 alcohol dependence
+obo:DOID_9974 drug dependence
+obo:DOID_0050742 nicotine dependence
+obo:DOID_2575 barbiturate dependence
+obo:DOID_9975 cocaine dependence
+obo:DOID_9977 hallucinogen dependence
+obo:DOID_2559 opiate dependence
+obo:DOID_1849 cannabis dependence
+obo:DOID_9976 heroin dependence
+obo:DOID_2560 morphine dependence
+obo:DOID_9828 neonatal abstinence syndrome
+obo:DOID_0060158 acquired metabolic disease
+obo:DOID_655 inherited metabolic disorder
+obo:DOID_9120 amyloidosis
+obo:DOID_0050013 carbohydrate metabolism disease
+obo:DOID_9969 carotenemia
+obo:DOID_12700 hyperprolactinemia
+obo:DOID_1920 hyperuricemia
+obo:DOID_0050758 metabolic acidosis
+obo:DOID_0050032 mineral metabolism disease
+obo:DOID_374 nutrition disease
+obo:DOID_9246 cerebral amyloid angiopathy
+obo:DOID_0050637 Finnish type amyloidosis
+obo:DOID_0050638 transthyretin amyloidosis
+obo:DOID_4194 glucose metabolism disease
+obo:DOID_9351 diabetes mellitus
+obo:DOID_4195 hyperglycemia
+obo:DOID_11714 gestational diabetes
+obo:DOID_11717 neonatal diabetes mellitus
+obo:DOID_11716 prediabetes syndrome
+obo:DOID_9744 type 1 diabetes mellitus
+obo:DOID_9352 type 2 diabetes mellitus
+obo:DOID_1837 diabetic ketoacidosis
+obo:DOID_11712 lipoatrophic diabetes
+obo:DOID_10603 glucose intolerance
+obo:DOID_3650 lactic acidosis
+obo:DOID_10575 calcium metabolism disease
+obo:DOID_4500 hypokalemia
+obo:DOID_2351 iron metabolism disease
+obo:DOID_2485 phosphorus metabolism disease
+obo:DOID_182 calcinosis
+obo:DOID_12678 hypercalcemia
+obo:DOID_4734 calciphylaxis
+obo:DOID_12679 nephrocalcinosis
+obo:DOID_0050711 aceruloplasminemia
+obo:DOID_12119 hemosiderosis
+obo:DOID_0050459 hyperphosphatemia
+obo:DOID_0050336 hypophosphatemia
+obo:DOID_5113 nutritional deficiency disease
+obo:DOID_654 overnutrition
+obo:DOID_8456 choline deficiency disease
+obo:DOID_14026 folic acid deficiency anemia
+obo:DOID_0050083 Keshan disease
+obo:DOID_8457 pellagra
+obo:DOID_13381 pernicious anemia
+obo:DOID_11801 protein-energy malnutrition
+obo:DOID_8455 pyridoxine deficiency anemia
+obo:DOID_8454 riboflavin deficiency
+obo:DOID_13724 scurvy
+obo:DOID_4025 steatitis
+obo:DOID_5112 swayback
+obo:DOID_0070313 thiamine deficiency disease
+obo:DOID_11249 vitamin K deficiency hemorrhagic disease
+obo:DOID_10915 Wernicke-Korsakoff syndrome
+obo:DOID_13579 kwashiorkor
+obo:DOID_12328 marasmus
+obo:DOID_13725 beriberi
+obo:DOID_14221 abdominal obesity-metabolic syndrome 1
+obo:DOID_9972 hypervitaminosis A
+obo:DOID_9971 hypervitaminosis D
+obo:DOID_9970 obesity
+obo:DOID_11981 morbid obesity
+obo:DOID_9252 amino acid metabolic disorder
+obo:DOID_2741 bilirubin metabolic disorder
+obo:DOID_2978 carbohydrate metabolic disorder
+obo:DOID_3146 lipid metabolism disorder
+obo:DOID_3211 lysosomal storage disease
+obo:DOID_896 metal metabolism disorder
+obo:DOID_700 mitochondrial metabolism disease
+obo:DOID_906 peroxisomal disease
+obo:DOID_2345 plasma protein metabolism disease
+obo:DOID_13268 porphyria
+obo:DOID_653 purine-pyrimidine metabolic disorder
+obo:DOID_0050718 vitamin metabolic disorder
+obo:DOID_9280 carbamoyl phosphate synthetase I deficiency disease
+obo:DOID_0050573 2-hydroxyglutaric aciduria
+obo:DOID_0050710 3-Methylcrotonyl-CoA carboxylase deficiency
+obo:DOID_9270 alkaptonuria
+obo:DOID_14755 argininosuccinic aciduria
+obo:DOID_0050798 cerebral creatine deficiency syndrome
+obo:DOID_0060176 gamma-amino butyric acid metabolism disorder
+obo:DOID_9268 glycine encephalopathy
+obo:DOID_1060 Hartnup disease
+obo:DOID_9265 histidine metabolism disease
+obo:DOID_9263 homocystinuria
+obo:DOID_9279 hyperhomocysteinemia
+obo:DOID_9274 hyperlysinemia
+obo:DOID_0050544 hypermethioninemia
+obo:DOID_0060159 organic acidemia
+obo:DOID_0050720 ornithine translocase deficiency
+obo:DOID_9281 phenylketonuria
+obo:DOID_0050721 serine deficiency
+obo:DOID_14365 systemic primary carnitine deficiency disease
+obo:DOID_9275 tyrosinemia
+obo:DOID_9267 urea cycle disorder
+obo:DOID_0050575 D-2-hydroxyglutaric aciduria
+obo:DOID_0050712 AGAT deficiency
+obo:DOID_0060177 homocarnosinosis
+obo:DOID_0060175 succinic semialdehyde dehydrogenase deficiency
+obo:DOID_0060168 histidinemia
+obo:DOID_14753 isovaleric acidemia
+obo:DOID_9269 maple syrup urine disease
+obo:DOID_14749 methylmalonic acidemia
+obo:DOID_14701 propionic acidemia
+obo:DOID_0050722 PHGDH deficiency
+obo:DOID_0050726 tyrosinemia type I
+obo:DOID_0050725 tyrosinemia type II
+obo:DOID_0050727 tyrosinemia type III
+obo:DOID_9273 citrullinemia
+obo:DOID_9278 hyperargininemia
+obo:DOID_9271 ornithine carbamoyltransferase deficiency
+obo:DOID_3803 Crigler-Najjar syndrome
+obo:DOID_12308 Dubin-Johnson syndrome
+obo:DOID_2739 Gilbert syndrome
+obo:DOID_5212 congenital disorder of glycosylation
+obo:DOID_5204 fructose-1,6-bisphosphatase deficiency
+obo:DOID_9870 galactosemia
+obo:DOID_2862 glucosephosphate dehydrogenase deficiency
+obo:DOID_0050728 glycogen metabolism disorder
+obo:DOID_9869 hereditary fructose intolerance syndrome
+obo:DOID_13317 hyperinsulinemic hypoglycemia
+obo:DOID_9868 intestinal disaccharidase deficiency
+obo:DOID_10604 lactose intolerance
+obo:DOID_857 multiple carboxylase deficiency
+obo:DOID_3649 pyruvate decarboxylase deficiency
+obo:DOID_14695 galactokinase deficiency
+obo:DOID_13628 favism
+obo:DOID_2747 glycogen storage disease
+obo:DOID_2749 glycogen storage disease I
+obo:DOID_2752 glycogen storage disease II
+obo:DOID_2750 glycogen storage disease IV
+obo:DOID_2746 glycogen storage disease V
+obo:DOID_2754 glycogen storage disease VI
+obo:DOID_11721 glycogen storage disease VII
+obo:DOID_2751 glycogen storage disease VIII
+obo:DOID_856 biotinidase deficiency
+obo:DOID_859 holocarboxylase synthetase deficiency
+obo:DOID_1168 familial hyperlipidemia
+obo:DOID_0050527 familial hypertriglyceridemia
+obo:DOID_1387 hypolipoproteinemia
+obo:DOID_14498 lipoid proteinosis
+obo:DOID_10582 Refsum disease
+obo:DOID_14692 Smith-Lemli-Opitz syndrome
+obo:DOID_1701 steroid inherited metabolic disorder
+obo:DOID_0111417 familial chylomicronemia syndrome
+obo:DOID_13809 familial combined hyperlipidemia
+obo:DOID_13810 familial hypercholesterolemia
+obo:DOID_1172 hyperlipoproteinemia type IV
+obo:DOID_14118 familial lipoprotein lipase deficiency
+obo:DOID_1390 hypobetalipoproteinemia
+obo:DOID_1391 Norum disease
+obo:DOID_1388 Tangier disease
+obo:DOID_3413 alpha-mannosidosis
+obo:DOID_0050461 aspartylglucosaminuria
+obo:DOID_3633 beta-mannosidosis
+obo:DOID_14500 fucosidosis
+obo:DOID_9455 lipid storage disease
+obo:DOID_12798 mucopolysaccharidosis
+obo:DOID_3659 sialuria
+obo:DOID_14502 cholesterol ester storage disease
+obo:DOID_0050464 Farber lipogranulomatosis
+obo:DOID_9452 fatty liver disease
+obo:DOID_0080217 lysosomal and lipase deficiency
+obo:DOID_0080488 mucolipidosis
+obo:DOID_14503 neuronal ceroid lipofuscinosis
+obo:DOID_0050729 neutral lipid storage disease
+obo:DOID_1927 sphingolipidosis
+obo:DOID_3345 xanthomatosis
+obo:DOID_14497 Wolman disease
+obo:DOID_3343 glycoproteinosis
+obo:DOID_0050756 Batten disease
+obo:DOID_0110731 neuronal ceroid lipofuscinosis 3
+obo:DOID_14499 Fabry disease
+obo:DOID_2368 gangliosidosis
+obo:DOID_1926 Gaucher's disease
+obo:DOID_10587 Krabbe disease
+obo:DOID_10581 metachromatic leukodystrophy
+obo:DOID_0050441 mucosulfatidosis
+obo:DOID_14504 Niemann-Pick disease
+obo:DOID_4423 sea-blue histiocytosis
+obo:DOID_3322 gangliosidosis GM1
+obo:DOID_3321 gangliosidosis GM2
+obo:DOID_3323 Sandhoff disease
+obo:DOID_3320 Tay-Sachs disease
+obo:DOID_4810 cerebrotendinous xanthomatosis
+obo:DOID_5769 verruciform xanthoma of skin
+obo:DOID_12802 mucopolysaccharidosis I
+obo:DOID_12799 mucopolysaccharidosis II
+obo:DOID_12801 mucopolysaccharidosis III
+obo:DOID_12804 mucopolysaccharidosis IV
+obo:DOID_12800 mucopolysaccharidosis VI
+obo:DOID_12803 Sly syndrome
+obo:DOID_1029 familial periodic paralysis
+obo:DOID_2352 hemochromatosis
+obo:DOID_4184 pseudohypoparathyroidism
+obo:DOID_14451 hyperkalemic periodic paralysis
+obo:DOID_14452 hypokalemic periodic paralysis
+obo:DOID_0080053 Albright's hereditary osteodystrophy
+obo:DOID_4183 pseudopseudohypoparathyroidism
+obo:DOID_0050730 coenzyme Q10 deficiency disease
+obo:DOID_3762 cytochrome-c oxidase deficiency disease
+obo:DOID_0050757 deafness dystonia syndrome
+obo:DOID_0050713 fatal infantile encephalocardiomyopathy
+obo:DOID_3652 Leigh disease
+obo:DOID_0070329 mitochondrial DNA depletion syndrome
+obo:DOID_0060067 Pearson syndrome
+obo:DOID_0080122 Alpers-Huttenlocher syndrome
+obo:DOID_0080126 mitochondrial DNA depletion syndrome 7
+obo:DOID_2582 acatalasia
+obo:DOID_0050444 infantile Refsum disease
+obo:DOID_0080377 peroxisomal biogenesis disorder
+obo:DOID_905 Zellweger syndrome
+obo:DOID_13372 alpha 1-antitrypsin deficiency
+obo:DOID_9080 macroglobulinemia
+obo:DOID_2346 monoclonal paraproteinemia
+obo:DOID_2344 polyclonal hypergammaglobulinemia
+obo:DOID_3133 acute porphyria
+obo:DOID_13271 cutaneous porphyria
+obo:DOID_3890 acute intermittent porphyria
+obo:DOID_13270 erythropoietic protoporphyria
+obo:DOID_5230 hepatoerythropoietic porphyria
+obo:DOID_13269 hereditary coproporphyria
+obo:DOID_4346 variegate porphyria
+obo:DOID_14218 dihydropyrimidine dehydrogenase deficiency
+obo:DOID_1919 Lesch-Nyhan syndrome
+obo:DOID_0050731 vitamin B12 deficiency
+obo:DOID_0050605 acrodermatitis enteropathica
+obo:DOID_4367 apparent mineralocorticoid excess syndrome
+obo:DOID_2581 chondrodysplasia punctata
+obo:DOID_0080014 chromosomal disease
+obo:DOID_1925 Coffin-Siris syndrome
+obo:DOID_11725 Cornelia de Lange syndrome
+obo:DOID_0050524 maturity-onset diabetes of the young
+obo:DOID_0050452 mevalonic aciduria
+obo:DOID_0050177 monogenic disease
+obo:DOID_4501 orofaciodigital syndrome
+obo:DOID_2580 rhizomelic chondrodysplasia punctata
+obo:DOID_0060388 chromosomal deletion syndrome
+obo:DOID_0060429 chromosomal duplication syndrome
+obo:DOID_1085 Edwards syndrome
+obo:DOID_11665 Patau syndrome
+obo:DOID_14681 Silver-Russell syndrome
+obo:DOID_12580 Cri-Du-Chat syndrome
+obo:DOID_1933 Rubinstein-Taybi syndrome
+obo:DOID_14699 thrombocytopenia-absent radius syndrome
+obo:DOID_12583 velocardiofacial syndrome
+obo:DOID_14515 WAGR syndrome
+obo:DOID_1928 Williams-Beuren syndrome
+obo:DOID_0050460 Wolf-Hirschhorn syndrome
+obo:DOID_14250 Down syndrome
+obo:DOID_1921 Klinefelter's syndrome
+obo:DOID_332 amyotrophic lateral sclerosis
+obo:DOID_0050739 autosomal genetic disease
+obo:DOID_4997 Camurati-Engelmann disease
+obo:DOID_83 cataract
+obo:DOID_0050572 cone-rod dystrophy
+obo:DOID_0050467 erythrokeratodermia variabilis
+obo:DOID_3490 Noonan syndrome
+obo:DOID_0050735 X-linked monogenic disease
+obo:DOID_0050752 amyotrophic lateral sclerosis type 8
+obo:DOID_0050629 Aicardi-Goutieres syndrome
+obo:DOID_0050736 autosomal dominant disease
+obo:DOID_0050737 autosomal recessive disease
+obo:DOID_2987 familial Mediterranean fever
+obo:DOID_0050475 Weill-Marchesani syndrome
+obo:DOID_6683 Aarskog-Scott syndrome
+obo:DOID_0050601 ADULT syndrome
+obo:DOID_10871 age related macular degeneration
+obo:DOID_4252 Alexander disease
+obo:DOID_14725 autosomal dominant microcephaly
+obo:DOID_0060307 autosomal dominant non-syndromic intellectual disability
+obo:DOID_0050660 Beare-Stevenson cutis gyrata syndrome
+obo:DOID_0050675 Birk-Barel syndrome
+obo:DOID_0050676 Birt-Hogg-Dube syndrome
+obo:DOID_0050678 Blau syndrome
+obo:DOID_0050540 Charcot-Marie-Tooth disease type 3
+obo:DOID_13994 cleidocranial dysplasia
+obo:DOID_0050469 Costello syndrome
+obo:DOID_0050547 familial medullary thyroid carcinoma
+obo:DOID_13374 fibrodysplasia ossificans progressiva
+obo:DOID_12318 granular corneal dystrophy
+obo:DOID_2736 Hajdu-Cheney syndrome
+obo:DOID_5683 hereditary breast ovarian cancer syndrome
+obo:DOID_14213 hypophosphatasia
+obo:DOID_1702 ichthyosis vulgaris
+obo:DOID_14764 Larsen syndrome
+obo:DOID_8943 lattice corneal dystrophy
+obo:DOID_3012 Li-Fraumeni syndrome
+obo:DOID_0050466 Loeys-Dietz syndrome
+obo:DOID_14323 Marfan syndrome
+obo:DOID_0050472 monilethrix
+obo:DOID_10017 multiple endocrine neoplasia type 1
+obo:DOID_10016 multiple endocrine neoplasia type 2B
+obo:DOID_2512 nevoid basal cell carcinoma syndrome
+obo:DOID_14291 Noonan syndrome with multiple lentigines
+obo:DOID_9248 Pallister-Hall syndrome
+obo:DOID_0050773 paraganglioma
+obo:DOID_9631 Pelger-Huet anomaly
+obo:DOID_0050770 polycystic liver disease
+obo:DOID_14789 spondyloepiphyseal dysplasia congenita
+obo:DOID_0080046 Stickler syndrome
+obo:DOID_0060173 Timothy syndrome
+obo:DOID_2908 Treacher Collins syndrome
+obo:DOID_4998 trichorhinophalangeal syndrome type II
+obo:DOID_13515 tuberous sclerosis
+obo:DOID_9258 Waardenburg's syndrome
+obo:DOID_14731 Weaver syndrome
+obo:DOID_0050600 ABCD syndrome
+obo:DOID_1386 abetalipoproteinemia
+obo:DOID_0050603 acheiropody
+obo:DOID_10983 Alport syndrome
+obo:DOID_0050649 atransferrinemia
+obo:DOID_0050950 autosomal recessive cerebellar ataxia
+obo:DOID_0060655 autosomal recessive congenital ichthyosis
+obo:DOID_14723 beta-ketothiolase deficiency
+obo:DOID_0050677 Bjornstad syndrome
+obo:DOID_2717 Bloom syndrome
+obo:DOID_3613 Canavan disease
+obo:DOID_14773 cartilage-hair hypoplasia
+obo:DOID_2935 Chediak-Higashi syndrome
+obo:DOID_0050546 congenital adrenal insufficiency
+obo:DOID_1699 congenital ichthyosiform erythroderma
+obo:DOID_0050577 cranioectodermal dysplasia
+obo:DOID_1485 cystic fibrosis
+obo:DOID_1064 cystinosis
+obo:DOID_14687 diastrophic dysplasia
+obo:DOID_0060021 DNA ligase IV deficiency
+obo:DOID_14796 Dubowitz syndrome
+obo:DOID_0060025 immunoglobulin alpha deficiency
+obo:DOID_0050553 JMP syndrome
+obo:DOID_0050588 muscular dystrophy-dystroglycanopathy
+obo:DOID_12712 nephronophthisis
+obo:DOID_0050474 Netherton syndrome
+obo:DOID_0050528 nonphotosensitive trichothiodystrophy 4
+obo:DOID_0050632 oculocutaneous albinism
+obo:DOID_3981 pantothenate kinase-associated neurodegeneration
+obo:DOID_3911 progeria
+obo:DOID_2235 prothrombin deficiency
+obo:DOID_5813 purine nucleoside phosphorylase deficiency
+obo:DOID_0080038 pycnodysostosis
+obo:DOID_0050774 rapadilino syndrome
+obo:DOID_0060020 reticular dysgenesis
+obo:DOID_5325 Roberts syndrome
+obo:DOID_0050536 SC phocomelia syndrome
+obo:DOID_0050569 Seckel syndrome
+obo:DOID_0050576 Senior-Loken syndrome
+obo:DOID_10923 sickle cell anemia
+obo:DOID_14501 Sjogren-Larsson syndrome
+obo:DOID_0080036 SOST-related sclerosing bone dysplasia
+obo:DOID_0050602 triple-A syndrome
+obo:DOID_0050558 Ullrich congenital muscular dystrophy
+obo:DOID_0050560 Walker-Warburg syndrome
+obo:DOID_5688 Werner syndrome
+obo:DOID_12704 ataxia telangiectasia
+obo:DOID_0050754 ataxia with oculomotor apraxia type 1
+obo:DOID_0050755 ataxia with oculomotor apraxia type 2
+obo:DOID_12705 Friedreich ataxia
+obo:DOID_0050556 infantile onset spinocerebellar ataxia
+obo:DOID_0111229 congenital muscular dystrophy-dystroglycanopathy type A
+obo:DOID_13328 diabetic cataract
+obo:DOID_0050537 posterior polar cataract
+obo:DOID_9669 senile cataract
+obo:DOID_13717 mature cataract
+obo:DOID_13964 Morgagni cataract
+obo:DOID_0050631 Allan-Herndon-Dudley syndrome
+obo:DOID_0050681 Borjeson-Forssman-Lehmann syndrome
+obo:DOID_14737 craniofrontonasal syndrome
+obo:DOID_2120 focal dermal hypoplasia
+obo:DOID_0050776 non-syndromic X-linked intellectual disability
+obo:DOID_0060309 syndromic X-linked intellectual disability
+obo:DOID_0080009 X-linked dominant disease
+obo:DOID_1700 X-linked ichthyosis
+obo:DOID_0050566 X-linked nonsyndromic deafness
+obo:DOID_0080012 X-linked recessive disease
+obo:DOID_0050647 Arts syndrome
+obo:DOID_14744 Partington syndrome
+obo:DOID_3783 Coffin-Lowry syndrome
+obo:DOID_0050437 Danon disease
+obo:DOID_0050445 X-linked hypophosphatemic rickets
+obo:DOID_10588 adrenoleukodystrophy
+obo:DOID_0050476 Barth syndrome
+obo:DOID_0050679 blue cone monochromacy
+obo:DOID_14179 Bruton-type agammaglobulinemia
+obo:DOID_11723 Duchenne muscular dystrophy
+obo:DOID_12134 factor VIII deficiency
+obo:DOID_0060013 gamma chain deficiency
+obo:DOID_0060161 Kennedy's disease
+obo:DOID_3210 Pelizaeus-Merzbacher disease
+obo:DOID_0050554 X-linked sideroblastic anemia with ataxia
+obo:DOID_11367 congenital aphakia
+obo:DOID_0050674 congenital bile acid synthesis defect
+obo:DOID_3827 congenital diaphragmatic hernia
+obo:DOID_8418 congenital fibrosarcoma
+obo:DOID_589 congenital hemolytic anemia
+obo:DOID_14177 congenital hypogammaglobulinemia
+obo:DOID_1342 congenital hypoplastic anemia
+obo:DOID_0050328 congenital hypothyroidism
+obo:DOID_0050557 congenital muscular dystrophy
+obo:DOID_3635 congenital myasthenic syndrome
+obo:DOID_2490 congenital nervous system abnormality
+obo:DOID_0050534 congenital stationary night blindness
+obo:DOID_11383 cryptorchidism
+obo:DOID_11044 gastroschisis
+obo:DOID_10892 hypospadias
+obo:DOID_14791 Leber congenital amaurosis
+obo:DOID_9487 Meckel's diverticulum
+obo:DOID_0080074 neural tube defect
+obo:DOID_0050567 orofacial cleft
+obo:DOID_12961 Poland syndrome
+obo:DOID_1148 polydactyly
+obo:DOID_9827 radioulnar synostosis
+obo:DOID_0050590 severe congenital neutropenia
+obo:DOID_0050545 visceral heterotaxy
+obo:DOID_1338 congenital dyserythropoietic anemia
+obo:DOID_2861 congenital nonspherocytic hemolytic anemia
+obo:DOID_2860 hemoglobinopathy
+obo:DOID_12971 hereditary spherocytosis
+obo:DOID_2859 hemoglobin C disease
+obo:DOID_5379 hemoglobin E disease
+obo:DOID_10783 methemoglobinemia
+obo:DOID_1339 Diamond-Blackfan anemia
+obo:DOID_13636 Fanconi's anemia
+obo:DOID_0050663 Bethlem myopathy
+obo:DOID_0050559 Fukuyama congenital muscular dystrophy
+obo:DOID_0060668 anencephaly
+obo:DOID_4621 holoprosencephaly
+obo:DOID_0050453 lissencephaly
+obo:DOID_10907 microcephaly
+obo:DOID_0050454 periventricular nodular heterotopia
+obo:DOID_4626 hydranencephaly
+obo:DOID_0080016 spina bifida
+obo:DOID_1088 meningocele
+obo:DOID_674 cleft palate
+obo:DOID_758 situs inversus
+obo:DOID_6691 Aagenaes syndrome
+obo:DOID_0111824 Aarskog syndrome
+obo:DOID_0060611 abdominal obesity-metabolic syndrome
+obo:DOID_9250 acrocallosal syndrome
+obo:DOID_11549 Adie syndrome
+obo:DOID_8461 Aicardi syndrome
+obo:DOID_0050473 Alstrom syndrome
+obo:DOID_1932 Angelman syndrome
+obo:DOID_6712 anterior spinal artery syndrome
+obo:DOID_0050462 Antley-Bixler syndrome
+obo:DOID_0050763 ARC syndrome
+obo:DOID_0050657 Bannayan-Riley-Ruvalcaba syndrome
+obo:DOID_1935 Bardet-Biedl syndrome
+obo:DOID_0050658 Bart-Pumphrey syndrome
+obo:DOID_5572 Beckwith-Wiedemann syndrome
+obo:DOID_14778 blepharophimosis, ptosis, and epicanthus inversus syndrome
+obo:DOID_0050684 Bowen-Conradi syndrome
+obo:DOID_0050689 brachydactyly-syndactyly syndrome
+obo:DOID_0050691 branchiooculofacial syndrome
+obo:DOID_14702 branchiootorenal syndrome
+obo:DOID_0050694 Brown-Vialetto-Van Laere syndrome
+obo:DOID_0050471 Carney complex
+obo:DOID_8544 chronic fatigue syndrome
+obo:DOID_0060340 ciliopathy
+obo:DOID_2962 Cockayne syndrome
+obo:DOID_6457 Cowden syndrome
+obo:DOID_3764 Denys-Drash syndrome
+obo:DOID_6677 diffuse infiltrative lymphocytosis syndrome
+obo:DOID_0050470 Donohue Syndrome
+obo:DOID_10041 dysplastic nevus syndrome
+obo:DOID_2121 ectodermal dysplasia
+obo:DOID_12714 Ellis-Van Creveld syndrome
+obo:DOID_14711 FG syndrome
+obo:DOID_0050438 Frasier syndrome
+obo:DOID_9375 Fuchs' heterochromic uveitis
+obo:DOID_2907 Goldenhar syndrome
+obo:DOID_4837 Gorham's disease
+obo:DOID_4534 Hallermann-Streiff syndrome
+obo:DOID_3753 Hermansky-Pudlak syndrome
+obo:DOID_0060858 hypotonia-cystinuria syndrome
+obo:DOID_14694 Johanson-Blizzard syndrome
+obo:DOID_14780 KBG syndrome
+obo:DOID_2926 Klippel-Trenaunay syndrome
+obo:DOID_0050331 LADD syndrome
+obo:DOID_9521 Laron syndrome
+obo:DOID_1930 Laurence-Moon syndrome
+obo:DOID_13087 Lown-Ganong-Levine syndrome
+obo:DOID_3883 Lynch syndrome
+obo:DOID_1858 McCune Albright syndrome
+obo:DOID_0050436 mulibrey nanism
+obo:DOID_11824 multicentric reticulohistiocytosis
+obo:DOID_4661 multiple chemical sensitivity
+obo:DOID_3125 multiple endocrine neoplasia
+obo:DOID_0050769 N syndrome
+obo:DOID_9467 nail-patella syndrome
+obo:DOID_8712 neurofibromatosis
+obo:DOID_7400 Nijmegen breakage syndrome
+obo:DOID_1056 oculocerebrorenal syndrome
+obo:DOID_4624 Ollier disease
+obo:DOID_0050449 pachyonychia congenita
+obo:DOID_1166 palindromic rheumatism
+obo:DOID_4491 persian gulf syndrome
+obo:DOID_11983 Prader-Willi syndrome
+obo:DOID_14283 primary hypertrophic osteoarthropathy
+obo:DOID_13482 Proteus syndrome
+obo:DOID_0050656 pseudo-TORCH syndrome 1
+obo:DOID_0080690 RASopathy
+obo:DOID_14525 Reye syndrome
+obo:DOID_13677 SAPHO syndrome
+obo:DOID_14748 Sotos syndrome
+obo:DOID_13002 subclavian steal syndrome
+obo:DOID_9007 sudden infant death syndrome
+obo:DOID_2508 Takayasu's arteritis
+obo:DOID_6678 tooth and nail syndrome
+obo:DOID_14743 trichorhinophalangeal syndrome type I
+obo:DOID_0111866 trichothiodystrophy
+obo:DOID_0050439 Usher syndrome
+obo:DOID_14679 VACTERL association
+obo:DOID_9169 Wiskott-Aldrich syndrome
+obo:DOID_10632 Wolfram syndrome
+obo:DOID_0050427 xeroderma pigmentosum
+obo:DOID_9562 primary ciliary dyskinesia
+obo:DOID_14693 Clouston syndrome
+obo:DOID_14793 hypohidrotic ectodermal dysplasia
+obo:DOID_0050465 Muir-Torre syndrome
+obo:DOID_0050430 multiple endocrine neoplasia type 2A
+obo:DOID_0111867 nonphotosensitive trichothiodystrophy
+obo:DOID_2960 photosensitive trichothiodystrophy
+bat:SeeGeneID see Gene ID
+bao:BAX_0000056 has background control
+bao:BAX_0000055 has negative control
+bao:BAX_0000054 has positive control
+bao:BAX_0000057 has reference compound
+obo:BTO_0005352 1-LN cell
+obo:BTO_0003166 10T1/2 cell
+obo:CLO_0001056 1205Lu cell
+obo:CLO_0001088 143B cell
+obo:CLO_0001138 184B5 cell
+obo:BTO_0004035 222 cell
+obo:CLO_0001200 22Rv1 cell
+obo:BTO_0004796 253J cell
+obo:BTO_0004325 2T3 cell
+obo:BTO_0004004 3-LL cell
+obo:CLO_0001296 32D cell
+obo:BTO_0004405 3D5 cell
+obo:BTO_0001169 3T3-F442A cell
+obo:CLO_0001352 3T3-L1 cell
+obo:BTO_0003998 41-M cell
+obo:BTO_0002951 624 cell
+obo:BTO_0002183 95C cell
+obo:BTO_0002182 95D cell
+obo:BTO_0002214 A-1235 cell
+obo:CLO_0001582 A-375 cell
+obo:BTO_0003984 A-375P cell
+obo:CLO_0001590 A-427 cell
+obo:CLO_0001620 A-9 cell
+obo:BTO_0003845 A2780/CP70 cell
+obo:BTO_0005129 A2780/S cell
+obo:CLO_0001614 A7r5 cell
+obo:BTO_0000020 abdomen
+obo:BTO_0004041 abdominal adipose tissue
+obo:BTO_0000022 abdominal ganglion
+obo:BTO_0001261 abdominal muscle
+obo:BTO_0004642 abductor
+obo:BTO_0001657 abscission zone
+obo:BTO_0004797 accessory olfactory bulb
+obo:BTO_0004798 accessory sex gland
+obo:BTO_0000027 achene
+obo:CLO_0001656 ACT 1 cell
+obo:BTO_0000731 acute lymphoblastic leukemia cell
+obo:BTO_0004963 acute megakaryoblastic leukemia cell
+obo:BTO_0004961 acute megakaryoblastic leukemia cell line
+obo:BTO_0001545 acute myeloid leukemia cell
+obo:BTO_0001883 acute myeloid leukemia cell line
+obo:BTO_0004585 acute promyelocytic leukemia cell
+obo:BTO_0000030 adductor
+obo:BTO_0000029 adductor longus
+obo:BTO_0001312 adductor magnus
+obo:BTO_0000604 adenocarcinoma cell
+obo:BTO_0000167 adenocarcinoma cell line
+obo:BTO_0000040 adenohypophysis
+obo:BTO_0001683 adenohypophysis tumor cell
+obo:BTO_0000777 adenoid
+obo:BTO_0003848 adenoid cystic carcinoma cell
+obo:BTO_0000178 adenoma cell
+obo:BTO_0003849 adenosquamous carcinoma cell
+obo:BTO_0000443 adipocyte
+obo:BTO_0003452 adipocyte cell line
+obo:BTO_0001487 adipose tissue
+obo:BTO_0005198 adipose-derived stem cell
+obo:BTO_0004752 adipose-derived stromal cell
+obo:BTO_0000045 adrenal cortex
+obo:BTO_0000851 adrenal cortex cell line
+obo:BTO_0000047 adrenal gland
+obo:BTO_0000592 adrenal gland cancer cell
+obo:BTO_0000049 adrenal medulla
+obo:BTO_0002219 adrenocortical carcinoma cell
+obo:BTO_0004114 adrenocortical carcinoma cell line
+obo:BTO_0001043 adult
+obo:BTO_0004270 adult liver stem cell
+obo:BTO_0002666 adult stem cell
+obo:BTO_0002928 adult stem cell line
+obo:BTO_0001344 adult T-cell lymphoma cell
+obo:BTO_0004049 adult T-cell lymphoma cell line
+obo:BTO_0005273 adventitious root
+obo:BTO_0001658 aerial part
+obo:BTO_0001659 aerial root
+obo:BTO_0003422 AF5 cell
+obo:BTO_0004342 agranular insular cortex
+obo:BTO_0004799 AILNCaP cell
+obo:BTO_0004045 air pouch
+obo:BTO_0003606 airway fluid
+obo:BTO_0004984 alate adult
+obo:BTO_0000053 albedo
+obo:BTO_0000054 albumen gland
+obo:BTO_0000057 aleurone layer
+obo:BTO_0004586 alevin
+obo:BTO_0000058 alimentary canal
+obo:BTO_0001662 allantoic fluid
+obo:BTO_0000474 allantois
+obo:BTO_0003805 alpha-motoneuron
+obo:BTO_0003566 alphaT3-1 cell
+obo:BTO_0001383 alveolar bone
+obo:BTO_0000395 alveolar cell
+obo:BTO_0000780 alveolar cell type I
+obo:BTO_0000538 alveolar cell type II
+obo:BTO_0003512 alveolar epithelial cell line
+obo:BTO_0000802 alveolar macrophage
+obo:BTO_0002889 alveolar macrophage cell line
+obo:BTO_0004046 alveolar mucosa
+obo:BTO_0000061 alveolar sac
+obo:BTO_0002543 alveolar wall
+obo:BTO_0000060 alveolus
+obo:BTO_0004044 amacrine cell
+obo:BTO_0000062 amastigote
+obo:BTO_0000850 amelanotic melanoma cell
+obo:BTO_0001663 ameloblast
+obo:BTO_0005142 ameloblastic layer
+obo:BTO_0005110 ameloblastoma cell
+obo:BTO_0000066 amniocyte
+obo:BTO_0000065 amnion
+obo:BTO_0001005 amnion epithelial cell
+obo:BTO_0000897 amnion epithelium
+obo:BTO_0004800 amnioserosa
+obo:BTO_0000025 amniotic cavity
+obo:BTO_0000110 amniotic cell line
+obo:BTO_0000068 amniotic fluid
+obo:BTO_0005312 amoeba
+obo:BTO_0000071 amoebocyte
+obo:BTO_0002124 ampulla
+obo:BTO_0001042 amygdala
+obo:BTO_0002774 amyloid plaque
+obo:BTO_0002775 ANA-1 cell
+obo:BTO_0001978 anal canal
+obo:BTO_0004652 anal fin
+obo:BTO_0001681 anal sac
+obo:BTO_0002505 anaplastic large cell lymphoma cell
+obo:BTO_0004868 anaplastic large cell lymphoma cell line
+obo:BTO_0003208 anaplastic thyroid cancer cell
+obo:BTO_0004985 angioblast
+obo:BTO_0004360 angiomyolipoma cell
+obo:BTO_0004389 angiomyolipoma cell line
+obo:BTO_0004724 animal cap
+obo:BTO_0004706 ankle joint
+obo:BTO_0003627 annulus fibrosus
+obo:BTO_0000074 antenna
+obo:BTO_0000075 antennal gland
+obo:BTO_0005269 antennal lobe
+obo:BTO_0004387 anterior cardinal vein
+obo:BTO_0002084 anterior chamber of the eye
+obo:BTO_0004249 anterior cingulate cortex
+obo:BTO_0002169 anterior commissure
+obo:BTO_0005151 anterior horn
+obo:BTO_0002450 anterior hypothalamic nucleus
+obo:BTO_0000496 anterior lobe
+obo:BTO_0000076 anterior midgut
+obo:BTO_0003649 anterior olfactory nucleus
+obo:BTO_0004700 anterior pharynx
+obo:BTO_0001795 anterior silk gland
+obo:BTO_0000865 anterior spinal root
+obo:BTO_0003361 anterior visceral endoderm
+obo:BTO_0000079 anther
+obo:BTO_0003374 antheridium
+obo:BTO_0001684 antler
+obo:BTO_0004107 antral mucosa
+obo:BTO_0002984 antropyloric mucosa
+obo:BTO_0001680 anus
+obo:BTO_0000135 aorta
+obo:BTO_0000394 aorta endothelium
+obo:BTO_0001964 aorta smooth muscle cell line
+obo:BTO_0003245 aortic endothelial cell
+obo:BTO_0004695 aortic root
+obo:BTO_0001685 aortic smooth muscle
+obo:BTO_0004577 aortic smooth muscle cell
+obo:BTO_0004628 aortic valve
+obo:BTO_0000274 apical bud
+obo:BTO_0004047 apical hook
+obo:BTO_0000034 apical meristem
+obo:BTO_0001162 apocrine gland
+obo:BTO_0001458 apocrine sweat gland
+obo:BTO_0001928 AR4-2J cell
+obo:BTO_0001636 arachnoid mater
+obo:BTO_0003375 archegonium
+obo:BTO_0001696 archenteron
+obo:BTO_0003408 arcopallium
+obo:BTO_0003425 area postrema
+obo:CLO_0001745 ARH-77 cell
+obo:BTO_0004048 aril
+obo:BTO_0002306 ARO cell
+obo:BTO_0003357 ARPE cell
+obo:BTO_0005132 arrector pili muscle
+obo:BTO_0005086 arteria profunda penis
+obo:BTO_0004758 arterial endothelial cell
+obo:BTO_0004757 arterial endothelium
+obo:BTO_0000087 arterial smooth muscle
+obo:BTO_0004690 arterial system
+obo:BTO_0001997 arteriole
+obo:BTO_0000573 artery
+obo:BTO_0002009 artery wall
+obo:BTO_0001572 articular cartilage
+obo:BTO_0000090 ascidian
+obo:BTO_0000091 ascites
+obo:BTO_0000094 ascites tumor cell
+obo:BTO_0004260 Askin's tumor cell
+obo:CLO_0001756 AsPC-1 cell
+obo:BTO_0000099 astrocyte
+obo:BTO_0002600 astrocyte cell line
+obo:BTO_0000100 astrocytoma cell
+obo:BTO_0000101 astrocytoma cell line
+obo:BTO_0003852 astroglia
+obo:BTO_0002609 astroglial cell
+obo:BTO_0001687 asynchronous muscle
+obo:BTO_0001929 ATDC-5 cell
+obo:BTO_0003120 atherosclerotic plaque
+obo:BTO_0002485 atrial appendage
+obo:BTO_0001198 atrial gland
+obo:BTO_0000903 atrium
+obo:BTO_0003696 ATRkd cell
+obo:CLO_0001766 AtT-20 cell
+obo:BTO_0004343 auditory cortex
+obo:BTO_0002661 auditory vesicle
+obo:BTO_0002507 autonomic nervous system
+obo:BTO_0001091 axenic culture
+obo:BTO_0001689 axillary bud
+obo:BTO_0002611 axopodium
+obo:BTO_0004397 B-103 cell
+obo:BTO_0000576 B-16 cell
+obo:CLO_0001820 B-50 cell
+obo:BTO_0001100 B-cell acute lymphoblastic leukemia cell
+obo:BTO_0003354 B-cell chronic lymphocytic leukemia cell
+obo:BTO_0005014 B-cell leukemia cell
+obo:BTO_0001690 B-cell lymphoma cell
+obo:BTO_0001528 B-lymphoblast
+obo:BTO_0005261 B-lymphoblast cell line
+obo:BTO_0002878 B-lymphoblastoid cell
+obo:BTO_0002062 B-lymphoblastoid cell line
+obo:BTO_0002628 B-lymphoblastoma cell
+obo:BTO_0000776 B-lymphocyte
+obo:BTO_0001522 B-lymphocyte cell line
+obo:BTO_0001518 B-lymphoma cell line
+obo:BTO_0002808 B16-BL6 cell
+obo:CLO_0001793 B16-F1 cell
+obo:CLO_0001815 B35 cell
+obo:BTO_0000109 bacteroid
+obo:CLO_0001850 BAEC cell
+obo:BTO_0000218 BALB/3T3 cell
+obo:BTO_0001301 bark
+obo:BTO_0003427 Barrett's esophagus
+obo:BTO_0000939 basal cell
+obo:BTO_0001298 basal cell carcinoma cell
+obo:BTO_0002444 basal forebrain
+obo:BTO_0002448 basal telencephalon
+obo:BTO_0000129 basophil
+obo:BTO_0004286 basophilic leukemia cell
+obo:BTO_0001018 basophilic leukemia cell line
+obo:BTO_0002727 BCBL-1 cell
+obo:CLO_0009833 BCWM.1 cell
+obo:CLO_0001925 BEAS-2B cell
+obo:BTO_0002698 bed nucleus of stria terminalis
+obo:BTO_0004050 BEL-7402 cell
+obo:CLO_0001926 BEN cell
+obo:BTO_0000119 berry
+obo:CLO_0001933 beta-TC6 cell
+obo:CLO_0001934 BeWo cell
+obo:BTO_0000177 BG-1 cell
+obo:CLO_0001952 BGC-823 cell
+obo:BTO_0001131 BHK cell
+obo:BTO_0003429 BIC-1 cell
+obo:BTO_0003178 biceps
+obo:BTO_0003419 biceps brachii
+obo:BTO_0003418 biceps femoris
+obo:BTO_0000121 bile
+obo:BTO_0002841 bile canaliculus
+obo:BTO_0000122 bile duct
+obo:BTO_0003909 bile duct cell line
+obo:BTO_0002840 bile ductule
+obo:BTO_0001514 biliary epithelial cell
+obo:BTO_0001513 biliary epithelium
+obo:BTO_0002690 biofilm
+obo:BTO_0004051 bipolar cell
+obo:BTO_0001931 BJAB cell
+obo:BTO_0002748 BL-2 cell
+obo:CLO_0001985 BL-3 cell
+obo:BTO_0000123 bladder
+obo:BTO_0001462 bladder wall
+obo:BTO_0000125 blast cell
+obo:BTO_0001638 blastema
+obo:BTO_0001099 blastocyst
+obo:BTO_0003882 blastocyte
+obo:BTO_0000126 blastoderm
+obo:BTO_0001504 blastodisc
+obo:BTO_0001473 blastomere
+obo:BTO_0001695 blastopore
+obo:BTO_0000128 blastula
+obo:BTO_0002803 BLM cell
+obo:BTO_0000089 blood
+obo:BTO_0000102 blood clot
+obo:BTO_0000131 blood plasma
+obo:BTO_0000132 blood platelet
+obo:BTO_0001102 blood vessel
+obo:BTO_0000766 blood vessel endothelium
+obo:BTO_0004378 blood vessel wall
+obo:BTO_0000134 bloodstream form
+obo:BTO_0003620 BMMC cell
+obo:CLO_0002000 BmN cell
+obo:BTO_0000139 body wall
+obo:BTO_0001863 body wall muscle
+obo:BTO_0003856 BON-1 cell
+obo:BTO_0000140 bone
+obo:BTO_0000141 bone marrow
+obo:BTO_0000583 bone marrow cancer cell
+obo:BTO_0004850 bone marrow cell
+obo:BTO_0000264 bone marrow cell line
+obo:BTO_0004052 bone marrow stem cell
+obo:BTO_0004122 bone marrow stromal cell
+obo:BTO_0003296 bone marrow stromal cell line
+obo:BTO_0002668 bone marrow stromal stem cell
+obo:BTO_0003857 bone marrow-derived dendritic cell
+obo:BTO_0004732 bone marrow-derived macrophage
+obo:BTO_0004685 bony labyrinth
+obo:BTO_0005400 BPH cell
+obo:CLO_0002022 BPH-1 cell
+obo:BTO_0002222 bract
+obo:BTO_0002342 bradyzoite
+obo:BTO_0000142 brain
+obo:BTO_0001573 brain cancer cell
+obo:BTO_0003352 brain capillary endothelial cell line
+obo:BTO_0002515 brain cortex cell line
+obo:BTO_0005201 brain endothelial cell
+obo:BTO_0003248 brain endothelium
+obo:BTO_0003249 brain endothelium cell line
+obo:BTO_0000145 brain myelin
+obo:BTO_0000146 brain stem
+obo:BTO_0001442 brain ventricle
+obo:BTO_0000148 branch
+obo:BTO_0001785 branchial arch
+obo:BTO_0000149 breast
+obo:BTO_0000150 breast cancer cell
+obo:BTO_0000356 breast cancer cell line
+obo:BTO_0001211 breast epithelial cell
+obo:BTO_0001428 breast epithelium
+obo:BTO_0002844 breast invasive ductal carcinoma cell
+obo:BTO_0001933 BRL cell
+obo:BTO_0003394 Brockmann body
+obo:BTO_0001405 bronchial cancer cell
+obo:BTO_0002922 bronchial epithelial cell
+obo:BTO_0002022 bronchial epithelial cell line
+obo:BTO_0001846 bronchial mucosa
+obo:BTO_0004402 bronchial smooth muscle cell
+obo:BTO_0002060 bronchioalveolar carcinoma cell
+obo:BTO_0001866 bronchiolar epithelium
+obo:BTO_0002375 bronchiole
+obo:BTO_0000155 bronchoalveolar lavage
+obo:BTO_0001245 bronchoalveolar stem cell
+obo:BTO_0000136 bronchoalveolar system
+obo:BTO_0001340 bronchus
+obo:BTO_0000156 brown adipose tissue
+obo:BTO_0003525 BSC cell
+obo:BTO_0003232 BT-325 cell
+obo:CLO_0002042 BT-474 cell
+obo:BTO_0004804 buccal epithelial cell
+obo:BTO_0004803 buccal epithelium
+obo:BTO_0003833 buccal mucosa
+obo:BTO_0000159 bulb
+obo:BTO_0005202 bulbil
+obo:BTO_0001698 bulbourethral gland
+obo:BTO_0000160 bundle sheath
+obo:BTO_0000309 bundle sheath cell
+obo:BTO_0000889 Burkitt lymphoma cell line
+obo:BTO_0004681 bursa copulatrix
+obo:BTO_0001699 bursa of Fabricius
+obo:CLO_0002052 BV-173 cell
+obo:BTO_0003350 BV-2 cell
+obo:CLO_0002057 BW5147 cell
+obo:CLO_0002065 BxPC-3 cell
+obo:BTO_0001682 byssus
+obo:BTO_0000228 C-1300 cell
+obo:BTO_0004058 C3H10T1/2 cell
+obo:BTO_0003347 C4-2 cell
+obo:BTO_0004959 C4-2B cell
+obo:BTO_0003569 C57MG cell
+obo:BTO_0000529 C6 glioma cell
+obo:BTO_0002016 C81-61 cell
+obo:CLO_0002168 CA-46 cell
+obo:BTO_0002890 CA-77 cell
+obo:BTO_0005204 Ca9-22 cell
+obo:BTO_0003695 CAD cell
+obo:BTO_0002355 calcaneal bone
+obo:BTO_0001010 callus
+obo:BTO_0004361 callus culture
+obo:BTO_0003110 CALO cell
+obo:CLO_0002193 Calu-6 cell
+obo:BTO_0001328 calvarium
+obo:BTO_0000169 calyx
+obo:BTO_0000170 cambium
+obo:BTO_0001700 cancellous bone
+obo:BTO_0004254 cancer stem cell
+obo:BTO_0002045 capillary
+obo:BTO_0004679 capillary pericyte
+obo:BTO_0000336 caput epididymis
+obo:BTO_0001701 carapace
+obo:BTO_0001965 carcass
+obo:BTO_0000729 carcinoid cell
+obo:BTO_0000176 carcinoma cell
+obo:BTO_0000197 carcinosarcoma cell
+obo:BTO_0000198 cardia
+obo:BTO_0000199 cardiac muscle
+obo:BTO_0001735 cardiac Purkinje fiber
+obo:BTO_0002122 cardiac stomach
+obo:BTO_0004385 cardinal vein
+obo:BTO_0003093 cardiofibroblast
+obo:BTO_0001940 cardiomyoblast
+obo:BTO_0003324 cardiomyocyte cell line
+obo:BTO_0000088 cardiovascular system
+obo:BTO_0000168 carotid artery
+obo:BTO_0003445 carotid atherosclerotic plaque
+obo:BTO_0000204 carotid body
+obo:BTO_0004978 carotid sinus nerve
+obo:BTO_0000072 carpel
+obo:BTO_0000206 cartilage
+obo:BTO_0000208 caryopsis
+obo:BTO_0004033 catecholaminergic neuron
+obo:BTO_0000210 cauda epididymis
+obo:BTO_0000211 caudate nucleus
+obo:BTO_0000212 caudate putamen
+obo:BTO_0001121 cauline leaf
+obo:BTO_0000317 caulonema
+obo:BTO_0002996 cavernous artery
+obo:BTO_0003447 cavum septum pellucidum
+obo:CLO_0002306 CCD-13Lu cell
+obo:CLO_0002309 CCD-18Co cell
+obo:BTO_0003560 CCE cell
+obo:CLO_0002329 CCF-STTG1 cell
+obo:BTO_0002995 CCL-39 cell
+obo:BTO_0002477 cecal epithelium
+obo:BTO_0000166 cecum
+obo:BTO_0000214 cell culture
+obo:BTO_0004304 cell lysate
+obo:BTO_0000221 cell suspension culture
+obo:BTO_0000225 CEM cell
+obo:BTO_0005155 CEM-VBL100 cell
+obo:BTO_0002143 CEM-VCR R cell
+obo:BTO_0002738 cement gland
+obo:BTO_0002525 cementum
+obo:BTO_0005023 cEND cell
+obo:BTO_0000227 central nervous system
+obo:BTO_0000229 centrum semiovale
+obo:BTO_0001906 cephalothorax
+obo:BTO_0002155 ceratobranchial
+obo:BTO_0000043 cerebellar cortex
+obo:BTO_0004278 cerebellar granule cell
+obo:BTO_0003835 cerebellar nucleus
+obo:BTO_0001011 cerebellar Purkinje cell
+obo:BTO_0000232 cerebellum
+obo:BTO_0005205 cerebral artery
+obo:BTO_0000233 cerebral cortex
+obo:BTO_0004102 cerebral cortical neuron
+obo:BTO_0001843 cerebral ganglion
+obo:BTO_0004262 cerebral giant cell
+obo:BTO_0000823 cerebral gray matter
+obo:BTO_0002495 cerebral gyrus
+obo:BTO_0000231 cerebral hemisphere
+obo:BTO_0000445 cerebral lobe
+obo:BTO_0004676 cerebral peduncle
+obo:BTO_0002858 cerebral subcortex
+obo:BTO_0000236 cerebral white matter
+obo:BTO_0000237 cerebrospinal fluid
+obo:BTO_0001852 cerebrovascular endothelium
+obo:BTO_0003840 cerebrovascular system
+obo:BTO_0003165 cervical adenocarcinoma cell
+obo:BTO_0002249 cervical canal
+obo:BTO_0001967 cervical cancer cell line
+obo:BTO_0000180 cervical carcinoma cell
+obo:BTO_0001966 cervical cell line
+obo:BTO_0002478 cervical epithelial cell
+obo:BTO_0000241 cervical epithelium
+obo:BTO_0005212 cervical intraepithelial neoplasia cell
+obo:BTO_0000242 cervical mucus
+obo:BTO_0004148 cervical spine
+obo:BTO_0004223 cervical squamous cell carcinoma cell
+obo:BTO_0003632 cervicovaginal fluid
+obo:BTO_0005278 cestode
+obo:BTO_0002218 chalazal cell
+obo:BTO_0002085 chamber of the eye
+obo:BTO_0002049 Chang cell
+obo:BTO_0001754 cheek
+obo:BTO_0002224 cheek pouch
+obo:BTO_0001982 chemostat culture
+obo:BTO_0004064 chloragocyte
+obo:BTO_0003794 chlorenchyma
+obo:BTO_0002641 CHO-AA8 cell
+obo:BTO_0002640 CHO-EM9 cell
+obo:BTO_0004897 CHO-LY-B cell
+obo:BTO_0004065 CHO-MG cell
+obo:BTO_0003434 choanomastigote
+obo:BTO_0001326 cholangiocarcinoma cell
+obo:BTO_0002932 cholangiocarcinoma cell line
+obo:BTO_0003164 cholangiocyte
+obo:BTO_0003446 cholesteatoma tissue
+obo:BTO_0004902 cholinergic neuron
+obo:BTO_0003607 chondroblast
+obo:BTO_0000249 chondrocyte
+obo:BTO_0003858 chondrocyte cell line
+obo:BTO_0005092 chondrogenic cell
+obo:BTO_0000250 chondrosarcoma cell
+obo:BTO_0001574 chondrosarcoma cell line
+obo:BTO_0002426 CHOP cell
+obo:BTO_0000251 chorioallantois
+obo:BTO_0001576 choriocarcinoma cell
+obo:BTO_0001575 choriocarcinoma cell line
+obo:BTO_0005211 choriodecidua
+obo:BTO_0005145 chorionic epithelium
+obo:BTO_0002879 chorionic plate
+obo:BTO_0001161 chorionic villus
+obo:BTO_0001829 choroid
+obo:BTO_0000258 choroid plexus
+obo:BTO_0000860 CHRB-30 cell
+obo:BTO_0000259 chromaffin cell
+obo:BTO_0001546 chronic lymphocytic leukemia cell
+obo:BTO_0005322 chronic myelogenous leukemia progenitor cell
+obo:BTO_0001544 chronic myeloid leukemia cell
+obo:BTO_0000260 ciliary body
+obo:BTO_0001770 ciliary epithelium
+obo:BTO_0000654 ciliary muscle
+obo:BTO_0003975 cingulate cortex
+obo:BTO_0003976 cingulate gyrus
+obo:BTO_0005213 circular smooth muscle
+obo:BTO_0003108 CL-1 prostate cancer cell
+obo:BTO_0005288 CL-48 cell
+obo:BTO_0003345 CL1 lung adenocarcinoma cell
+obo:BTO_0003344 CL1-4 cell
+obo:BTO_0002876 CL1-5 cell
+obo:BTO_0004811 Clara cell
+obo:BTO_0004292 claustrum
+obo:BTO_0001719 claw
+obo:BTO_0002787 clear cell adenocarcinoma cell
+obo:BTO_0002020 clitoris
+obo:BTO_0000262 clove
+obo:CLO_0002532 CMT-93 cell
+obo:BTO_0001706 cnidoblast
+obo:BTO_0003694 CNS cell line
+obo:BTO_0000265 coagulating gland
+obo:BTO_0000266 cob
+obo:BTO_0000267 cochlea
+obo:BTO_0001692 cochlear duct
+obo:BTO_0001688 cochlear ganglion
+obo:BTO_0003143 coculture
+obo:BTO_0001707 coelom
+obo:BTO_0001708 coelomic fluid
+obo:BTO_0002856 coelomocyte
+obo:BTO_0000268 coleoptile
+obo:BTO_0000761 collecting duct
+obo:BTO_0002658 collecting duct cell line
+obo:BTO_0002370 colleterial gland
+obo:CLO_0002548 COLO 357 cell
+obo:CLO_0002574 COLO-699 cell
+obo:BTO_0000269 colon
+obo:BTO_0000641 colon descendens
+obo:BTO_0004362 colon muscle
+obo:BTO_0000645 colon sigmoideum
+obo:BTO_0000272 colon transversum
+obo:BTO_0004013 Colon-26 cell
+obo:BTO_0000032 colonic adenocarcinoma cell
+obo:BTO_0000586 colonic cancer cell
+obo:BTO_0000797 colonic cancer cell line
+obo:BTO_0000188 colonic cell line
+obo:BTO_0004297 colonic epithelial cell
+obo:BTO_0001709 colonic epithelium
+obo:BTO_0003250 colonic epithelium cell line
+obo:BTO_0000271 colonic mucosa
+obo:BTO_0000275 colonocyte
+obo:BTO_0001615 colorectal cancer cell
+obo:BTO_0001614 colorectal cell line
+obo:BTO_0002435 colorectal mucosa
+obo:BTO_0001613 colorectum
+obo:BTO_0002484 columnar cell
+obo:BTO_0000278 commercial preparation
+obo:BTO_0004388 common cardinal vein
+obo:BTO_0005085 common penile artery
+obo:BTO_0002499 companion cell
+obo:BTO_0001921 compound eye
+obo:BTO_0003834 conceptus
+obo:BTO_0000280 cone
+obo:BTO_0003415 conjunctiva
+obo:BTO_0004705 connecting stalk
+obo:BTO_0004539 connecting tubule
+obo:BTO_0004541 connecting tubule cell
+obo:BTO_0000421 connective tissue
+obo:BTO_0002667 cord blood stem cell
+obo:BTO_0000285 corm
+obo:BTO_0005305 corn ear
+obo:BTO_0002854 corn silk
+obo:BTO_0000286 cornea
+obo:BTO_0004298 corneal epithelial cell
+obo:BTO_0000287 corneal epithelium
+obo:BTO_0001943 corneocyte
+obo:BTO_0003705 cornu ammonis
+obo:BTO_0000163 corolla
+obo:BTO_0000290 coronary artery
+obo:BTO_0004096 coronary artery endothelial cell
+obo:BTO_0002985 coronary artery smooth muscle
+obo:BTO_0005101 coronary artery smooth muscle cell
+obo:BTO_0003698 coronary atherosclerotic plaque
+obo:BTO_0002784 corpus albicans
+obo:BTO_0000291 corpus allatum
+obo:BTO_0003256 corpus amylaceum
+obo:BTO_0000615 corpus callosum
+obo:BTO_0000432 corpus cardiacum
+obo:BTO_0002018 corpus cavernosum clitoridis
+obo:BTO_0002019 corpus cavernosum penis
+obo:BTO_0000209 corpus epididymis
+obo:BTO_0000292 corpus luteum
+obo:BTO_0001311 corpus striatum
+obo:BTO_0002643 cortical collecting duct
+obo:BTO_0004537 cortical collecting duct cell
+obo:BTO_0002509 corticotropic cell
+obo:BTO_0004055 COS cell
+obo:CLO_0002596 COS-1 cell
+bao:BAO_0000732 COS-7 cell
+obo:BTO_0000299 cotton fibre
+obo:BTO_0000300 cotyledon
+obo:BTO_0001104 cranial nerve
+obo:BTO_0003370 craniofacial region
+obo:BTO_0001295 cranium
+obo:BTO_0004141 cribriform plate
+obo:BTO_0000303 crown gall
+obo:BTO_0000305 crypt
+obo:BTO_0000307 crystalline style
+obo:BTO_0003630 CT-26 cell
+obo:BTO_0002357 cuboid bone
+obo:BTO_0000216 culture condition
+obo:BTO_0002008 culture condition:antigen-presenting cell
+obo:BTO_0005453 culture condition:CD4+ cell
+obo:BTO_0004410 culture condition:CD8+ cell
+obo:BTO_0000311 culture filtrate
+obo:BTO_0002233 culture fluid
+obo:BTO_0000316 culture medium
+obo:BTO_0002217 culture supernatant
+obo:CLO_0002640 CV-1 cell
+obo:BTO_0000320 cyst
+obo:BTO_0002786 cystadenoma cell
+obo:BTO_0003168 cysticercus
+obo:BTO_0004074 cystocyte
+obo:BTO_0000289 cytotoxic T-lymphocyte
+obo:BTO_0000308 cytotoxic T-lymphocyte cell line
+obo:BTO_0000322 cytotrophoblast
+obo:BTO_0004595 D-407 cell
+obo:BTO_0005364 D-54MG cell
+obo:BTO_0004418 Daltons lymphoma ascites
+obo:BTO_0004416 Daltons lymphoma cell
+obo:BTO_0001550 Dami cell
+obo:BTO_0003367 daphnid
+obo:BTO_0002395 DC-3F/ADX cell
+obo:CLO_0002736 DDT1-MF2 cell
+obo:BTO_0001901 death phase culture
+obo:BTO_0001360 decidua
+obo:BTO_0002819 decidua basalis
+obo:BTO_0000334 decidua parietalis
+obo:BTO_0002770 decidual cell
+obo:BTO_0002042 dendritic cell
+obo:BTO_0000337 dental follicle
+obo:BTO_0001839 dental papilla
+obo:BTO_0000338 dental plaque
+obo:BTO_0000339 dental pulp
+obo:BTO_0003453 dentin
+obo:BTO_0004812 dermal dendritic cell
+obo:BTO_0004419 dermal fibroblast
+obo:BTO_0004574 dermal microvascular endothelial cell
+obo:BTO_0001858 dermal papilla
+obo:BTO_0003431 dermatofibroma cell
+obo:BTO_0003765 dermatofibroma cell line
+obo:BTO_0000294 dermis
+obo:BTO_0001453 detrusor
+obo:BTO_0003867 deutocerebrum
+obo:CLO_0002767 DG-75 cell
+obo:BTO_0001617 DHL-9 cell
+obo:BTO_0002445 diagonal band
+obo:BTO_0000341 diaphragm
+obo:BTO_0000342 diencephalon
+obo:BTO_0002521 diffuse large B-cell lymphoma cell
+obo:BTO_0004420 digestive cell
+obo:BTO_0000345 digestive gland
+obo:BTO_0000351 disc
+obo:BTO_0004876 distal tip
+obo:BTO_0004877 distal tip cell
+obo:BTO_0003948 distal tubular epithelium
+obo:BTO_0004333 Do11.10 cell
+obo:CLO_0002807 DON cell
+obo:BTO_0004032 dopaminergic neuron
+obo:BTO_0003954 dopaminergic system
+obo:BTO_0004673 dorsal aorta
+obo:BTO_0004650 dorsal fin
+obo:BTO_0002451 dorsal hypothalamic nucleus
+obo:BTO_0002329 dorsal nerve cord
+obo:BTO_0002434 dorsal raphe nucleus
+obo:BTO_0004701 dorsal striatum
+obo:BTO_0001713 dorsum
+obo:BTO_0002264 dried cell
+obo:BTO_0005034 DT-40 3KO cell
+obo:CLO_0002837 DT40 cell
+obo:BTO_0002054 Dunn cell
+obo:BTO_0001714 duodenal adenocarcinoma cell
+obo:BTO_0002376 duodenal gland
+obo:BTO_0000366 duodenal juice
+obo:BTO_0000367 duodenal mucosa
+obo:BTO_0000365 duodenum
+obo:BTO_0000396 EAhy 926 cell
+obo:BTO_0000368 ear
+obo:CLO_0002869 EB-1 cell
+obo:BTO_0002323 eccrine sweat gland
+obo:BTO_0000315 ectoderm
+obo:BTO_0001715 ectoplacental cone
+obo:BTO_0000369 egg
+obo:BTO_0000370 egg white
+obo:BTO_0000371 egg yolk
+obo:BTO_0001716 eggshell
+obo:CLO_0002899 EHEB cell
+obo:BTO_0000373 Ehrlich ascites carcinoma cell
+obo:BTO_0004265 EJ cell
+obo:BTO_0001580 ejaculatory duct
+obo:BTO_0000376 electric organ
+obo:BTO_0002344 electrocyte
+obo:BTO_0000377 elementary body
+obo:BTO_0002857 eleocyte
+obo:BTO_0003253 ELT-3 cell
+obo:BTO_0000378 elytron
+obo:BTO_0000379 embryo
+obo:BTO_0004975 embryogenic cell line
+obo:BTO_0001718 embryoid body
+obo:BTO_0000380 embryonic axis
+obo:BTO_0000381 embryonic blood
+obo:BTO_0004726 embryonic brain
+obo:BTO_0001437 embryonic carcinoma cell line
+obo:BTO_0000669 embryonic cell line
+obo:BTO_0004014 embryonic cerebral cortex
+obo:BTO_0004725 embryonic fibroblast
+obo:BTO_0005319 embryonic germ cell
+obo:BTO_0004091 embryonic neural stem cell
+obo:BTO_0001086 embryonic stem cell
+obo:BTO_0001581 embryonic stem cell line
+obo:BTO_0004423 empyema fluid
+obo:BTO_0003413 encysting cell
+obo:BTO_0000387 endocardium
+obo:BTO_0000730 endocarp
+obo:BTO_0003002 endocervix
+obo:BTO_0002157 endochondral bone
+obo:BTO_0001488 endocrine gland
+obo:BTO_0000650 endocrine pancreas
+obo:BTO_0001603 endocuticle
+obo:BTO_0000800 endoderm
+obo:BTO_0000388 endodermis
+obo:BTO_0003953 endomesoderm
+obo:BTO_0001555 endometrial cancer cell line
+obo:BTO_0003433 endometrial gland
+obo:BTO_0003697 endometrial stromal cell
+obo:BTO_0000194 endometrioid carcinoma cell
+obo:BTO_0003457 endometrioma cell
+obo:BTO_0000390 endosperm
+obo:BTO_0003173 endostyle
+obo:BTO_0001176 endothelial cell
+obo:BTO_0001519 endothelial cell line
+obo:BTO_0004093 endothelial progenitor cell
+obo:BTO_0004508 endothelioma cell
+obo:BTO_0004509 endothelioma cell line
+obo:BTO_0000393 endothelium
+obo:BTO_0003810 enrichment culture
+obo:BTO_0004878 enteric muscle
+obo:BTO_0002506 enteric nervous system
+obo:BTO_0002437 enteric plexus
+obo:BTO_0002692 enterochromaffin-like cell
+obo:BTO_0000398 enterocyte
+obo:BTO_0003865 enteroendocrine cell
+obo:BTO_0004345 entorhinal cortex
+obo:BTO_0004095 EONT cell
+obo:BTO_0000399 eosinophil
+obo:BTO_0002421 eosinophilic leukemia cell
+obo:BTO_0002406 eosinophilic leukemia cell line
+obo:BTO_0003454 eosinophilic myelocyte
+obo:BTO_0000401 ependymal epithelium
+obo:BTO_0001724 ependymocyte
+obo:BTO_0002088 ependymoma cell
+obo:BTO_0004593 epiblast
+obo:BTO_0000402 epicotyl
+obo:BTO_0001601 epicuticle
+obo:BTO_0001470 epidermal cell
+obo:BTO_0004830 epidermal cell line
+obo:BTO_0005098 epidermal stem cell
+obo:BTO_0000404 epidermis
+obo:BTO_0004097 epididymal clear cell
+obo:BTO_0003003 epididymal fluid
+obo:BTO_0000408 epididymis
+obo:BTO_0001628 epiglottis
+obo:BTO_0000409 epimastigote
+obo:BTO_0000412 epiphyseal growth plate
+obo:BTO_0000413 epiphysis
+obo:BTO_0003305 epipodite
+obo:BTO_0000175 epithalamus
+obo:BTO_0000414 epithelial cell
+obo:BTO_0001120 epithelial cell line
+obo:BTO_0004094 epithelial ovarian cancer cell
+obo:BTO_0005096 epithelial stem cell
+obo:BTO_0000416 epithelium
+obo:BTO_0004084 epitrochlearis muscle
+obo:BTO_0004816 ERpP cell
+obo:BTO_0001571 erythroblast
+obo:BTO_0000424 erythrocyte
+obo:BTO_0000425 erythrocytic stage
+obo:BTO_0002731 erythroid cell
+obo:BTO_0004911 erythroid progenitor cell
+obo:BTO_0000426 erythroleukemia cell
+obo:BTO_0000846 erythroleukemia cell line
+obo:CLO_0002947 ES-2 cell
+obo:BTO_0005136 ES-E14 cell
+obo:BTO_0001577 esophageal cancer cell
+obo:BTO_0002817 esophageal cancer cell line
+obo:BTO_0003640 esophageal cell line
+obo:BTO_0001578 esophageal epithelium
+obo:BTO_0003634 esophageal gland
+obo:BTO_0002859 esophageal mucosa
+obo:BTO_0002861 esophageal squamous cell carcinoma cell
+obo:BTO_0002428 esophageal squamous cell carcinoma cell line
+obo:BTO_0000959 esophagus
+obo:BTO_0004140 ethmoid bone
+obo:BTO_0003385 etiolated plant tissue
+obo:BTO_0004255 Ewing's family tumor cell
+obo:BTO_0002513 Ewing's sarcoma cell
+obo:BTO_0004201 Ewing's sarcoma cell line
+obo:BTO_0004785 Ewing's sarcoma family tumor cell line
+obo:BTO_0004719 excretory canal
+obo:BTO_0000431 excretory gland
+obo:BTO_0000733 exocarp
+obo:BTO_0000433 exocrine acinar cell
+obo:BTO_0000765 exocrine gland
+obo:BTO_0002977 exocrine glandular secretion
+obo:BTO_0000434 exocrine pancreas
+obo:BTO_0001602 exocuticle
+obo:BTO_0002240 exodermis
+obo:BTO_0000569 exoerythrocytic stage
+obo:BTO_0004659 exoskeleton
+obo:BTO_0000151 extensor
+obo:BTO_0001337 extensor digitorum brevis
+obo:BTO_0001343 extensor digitorum communis
+obo:BTO_0000436 extensor digitorum longus
+obo:BTO_0004696 external carotid artery
+obo:BTO_0004689 external gill
+obo:BTO_0004666 external iliac artery
+obo:BTO_0001319 external plexiform layer
+obo:BTO_0003360 extraembryonic tissue
+obo:BTO_0005159 extraglomerular mesangial cell
+obo:BTO_0001579 extraocular muscle
+obo:BTO_0004257 extraosseus Ewing's sarcoma cell
+obo:BTO_0004704 extrastriate cortex
+obo:BTO_0002366 extravillous trophoblast
+obo:BTO_0000439 eye
+obo:BTO_0000579 eye cancer cell
+obo:BTO_0002241 eyelid
+obo:BTO_0001604 eyestalk
+obo:BTO_0004530 F5 meningioma cell
+obo:BTO_0004958 F9-12 cell
+obo:BTO_0003369 face
+obo:BTO_0005035 Fanconi anemia disease specific cell type
+obo:BTO_0005036 Fanconi anemia lymphoid cell line
+obo:BTO_0002930 fascia
+obo:BTO_0004101 fascicle
+obo:BTO_0002318 fast muscle
+obo:BTO_0001813 fast twitch muscle fiber
+obo:BTO_0000442 fat body
+obo:BTO_0000444 fat pad
+obo:BTO_0001189 FAZA cell
+obo:BTO_0004640 FD-2 cell
+obo:CLO_0003072 FDCP-1 cell
+obo:BTO_0000447 feather
+obo:BTO_0001608 feather calamus
+obo:BTO_0002536 feather vane
+obo:BTO_0001654 female cone
+obo:BTO_0003101 female pudendum
+obo:BTO_0000083 female reproductive system
+obo:BTO_0001624 femoral artery
+obo:BTO_0004396 femorotibial joint
+obo:BTO_0001284 femur
+obo:BTO_0001242 fetal cell line
+obo:BTO_0000473 fetal membrane
+obo:BTO_0000449 fetus
+obo:CLO_0003236 FHC cell
+obo:BTO_0000450 fiber
+obo:BTO_0002191 fibre tract
+obo:BTO_0000452 fibroblast
+obo:BTO_0000453 fibroblast cell line
+obo:BTO_0004060 fibroblast-like synoviocyte
+obo:BTO_0001622 fibroblastoma cell
+obo:BTO_0001623 fibroma cell
+obo:BTO_0000459 fibrosarcoma cell
+obo:BTO_0000460 fibrosarcoma cell line
+obo:BTO_0002346 fibula
+obo:BTO_0000463 filament
+obo:BTO_0005194 fine root
+obo:BTO_0004669 finger
+obo:BTO_0002811 flag leaf
+obo:BTO_0000464 flagellate
+obo:BTO_0000465 flavedo
+obo:BTO_0001257 flexor
+obo:BTO_0000466 flexor digitorum longus
+obo:BTO_0001246 flexor digitorum profundus
+obo:BTO_0000467 flight muscle
+obo:BTO_0003326 FLK cell
+obo:BTO_0001720 floor plate
+obo:BTO_0001725 floral meristem
+obo:BTO_0001116 floral primordium
+obo:BTO_0000468 floret
+obo:BTO_0000469 flower
+obo:BTO_0000470 flower bud
+obo:BTO_0002244 flower stalk
+obo:BTO_0003872 foam cell
+obo:BTO_0004267 follicular dendritic cell
+obo:BTO_0004383 follicular fluid
+obo:BTO_0004656 follicular lymphoma cell
+obo:BTO_0002517 follicular lymphoma cell line
+obo:BTO_0005099 follicular stem cell
+obo:BTO_0001888 follicular thyroid cancer cell
+obo:BTO_0000477 foot muscle
+obo:BTO_0005078 foot sole
+obo:BTO_0001447 forearm
+obo:BTO_0000478 forebrain
+obo:BTO_0000507 foregut
+obo:BTO_0003107 foreign-body giant cell
+obo:BTO_0001729 forelimb
+obo:BTO_0000479 forelimb muscle
+obo:BTO_0002245 foreskin fibroblast cell line
+obo:BTO_0003426 fourth ventricle
+obo:BTO_0004105 FPMI-CF-203 cell
+obo:BTO_0001551 free-living state
+obo:BTO_0001263 Friend erythroleukemia cell line
+obo:BTO_0000483 frond
+obo:BTO_0003368 frontal gland
+obo:BTO_0000484 frontal lobe
+obo:CLO_0003396 FRTL-5 cell
+obo:BTO_0000486 fruit
+obo:BTO_0000487 fruit body
+obo:BTO_0004057 fruit juice
+obo:BTO_0000031 fruit peduncle
+obo:CLO_0003402 FTC-133 cell
+obo:BTO_0003875 FTC-236 cell
+obo:BTO_0003234 FTO-2B cell
+obo:CLO_0003413 G cell
+obo:BTO_0003877 G-292 cell
+obo:BTO_0000493 gall bladder
+obo:BTO_0003237 gall bladder cancer cell
+obo:BTO_0003236 gall bladder cancer cell line
+obo:BTO_0000996 gametocyte
+obo:BTO_0003372 gametophore
+obo:BTO_0000495 gametophyte
+obo:BTO_0000497 ganglion
+obo:BTO_0003398 ganglion cell layer
+obo:BTO_0002093 ganglioneuroma cell
+obo:BTO_0000036 gastric adenocarcinoma cell
+obo:BTO_0002380 gastric adenocarcinoma cell line
+obo:BTO_0001732 gastric antrum
+obo:BTO_0000498 gastric cancer cell
+obo:BTO_0000787 gastric cancer cell line
+obo:BTO_0004492 gastric epithelial cell
+obo:BTO_0000500 gastric epithelium
+obo:BTO_0004493 gastric epithelium cell line
+obo:BTO_0000503 gastric gland
+obo:BTO_0000501 gastric juice
+obo:BTO_0001308 gastric mucosa
+obo:BTO_0002364 gastric pit
+obo:BTO_0002990 gastric ulcer
+obo:BTO_0001329 gastrinoma cell
+obo:BTO_0000506 gastrocnemius
+obo:BTO_0000509 gastrodermis
+obo:BTO_0004365 gastroesophageal cancer cell
+obo:BTO_0004364 gastroesophageal junction
+obo:BTO_0001895 gastrointestinal endocrine cell
+obo:BTO_0005024 gastrointestinal smooth muscle
+obo:BTO_0004111 gastrointestinal stromal tumor cell
+obo:BTO_0000511 gastrointestinal tract
+obo:BTO_0001403 gastrula
+obo:BTO_0004112 GBC-SD cell
+obo:BTO_0004684 genital pore
+obo:BTO_0002433 genital primordium
+obo:BTO_0002892 GEO cell
+obo:BTO_0002865 GER cell
+obo:BTO_0000514 germ
+obo:BTO_0000535 germ cell
+obo:BTO_0000556 germ layer
+obo:BTO_0003671 germinal center
+obo:BTO_0000494 germinal disc
+obo:BTO_0004524 germinal epithelium
+obo:BTO_0003365 germinated grain
+obo:BTO_0000516 ghost
+obo:BTO_0003766 giant cell tumor cell line
+obo:BTO_0000518 gill
+obo:BTO_0002152 gill arch
+obo:BTO_0002150 gill filament
+obo:BTO_0002149 gill raker
+obo:BTO_0000519 gingiva
+obo:BTO_0003578 gingival cell line
+obo:BTO_0003364 gingival fluid
+obo:BTO_0000520 gizzard
+obo:BTO_0002991 glandular epithelium
+obo:BTO_0003791 glandular stomach
+obo:BTO_0003118 glans penis
+obo:BTO_0002385 GLC-4 cell
+obo:BTO_0002386 GLC-4/ADR cell
+obo:BTO_0000524 glia
+obo:BTO_0002606 glial cell
+obo:BTO_0001531 glial cell line
+obo:BTO_0000527 glioblastoma cell
+obo:BTO_0001530 glioblastoma cell line
+obo:BTO_0002373 glioblastoma multiforme cell
+obo:BTO_0000526 glioma cell
+obo:BTO_0000711 glioma cell line
+obo:BTO_0002246 globus pallidus
+obo:BTO_0001515 glomerular epithelium
+obo:BTO_0001317 glomerular layer
+obo:BTO_0004979 glossopharyngeal nerve
+obo:BTO_0001627 glottis
+obo:BTO_0001731 glucagonoma cell
+obo:BTO_0002631 glume
+obo:BTO_0000531 gluteal muscle
+obo:BTO_0005403 glycogen cell
+obo:BTO_0001540 goblet cell
+obo:BTO_0000534 gonad
+obo:BTO_0002482 gonadotrophic cell
+obo:BTO_0004982 gonocyte
+obo:CLO_0037078 GOTO cell
+obo:BTO_0000536 gracilis muscle
+obo:BTO_0003257 granulation tissue
+obo:BTO_0003393 granule cell
+obo:BTO_0001327 granule cell layer
+obo:BTO_0000539 granulocyte
+obo:BTO_0000542 granulosa cell
+obo:BTO_0002285 granulosa cell line
+obo:BTO_0004733 gravid adult
+obo:BTO_0003271 great saphenous vein
+obo:BTO_0003358 groin
+obo:BTO_0003528 GRX cell
+obo:BTO_0003898 GT1 cell
+obo:BTO_0002708 GT1-7 cell
+obo:BTO_0000544 guard cell
+obo:BTO_0000545 gut
+obo:BTO_0000349 gut cavity
+obo:BTO_0000956 gut epithelium
+obo:BTO_0001734 gut juice
+obo:BTO_0000546 gut mucosa
+obo:BTO_0000547 gut wall
+obo:BTO_0002742 gynecophoral canal
+obo:BTO_0001733 gynoecium
+obo:BTO_0004266 H-10 cell
+obo:BTO_0003704 H4 neuroglioma cell
+obo:CLO_0003612 H9 cell
+obo:BTO_0001879 H9c2 cell
+obo:BTO_0002429 HA22T/VGH cell
+obo:BTO_0003684 habenula
+obo:BTO_0004115 HAC cell
+obo:BTO_0000552 HaCaT cell
+obo:BTO_0001501 hair
+obo:BTO_0004744 hair cell
+obo:BTO_0000554 hair follicle
+obo:BTO_0003971 hair follicle inner root sheath
+obo:BTO_0003969 hair follicle outer root sheath
+obo:BTO_0004671 hair medulla
+obo:BTO_0000555 hair root
+obo:BTO_0004672 hair shaft
+obo:BTO_0003682 hairy cell leukemia cell
+obo:BTO_0003681 hairy cell leukemia cell line
+obo:BTO_0004305 hairy root
+obo:BTO_0003915 hairy root culture
+obo:BTO_0002349 hallux
+obo:BTO_0004668 hand
+obo:BTO_0000557 harderian gland
+obo:BTO_0000558 hatching gland
+obo:BTO_0004603 HBE cell
+obo:BTO_0002023 HBE-1 cell
+obo:BTO_0002534 HBL-3 cell
+obo:BTO_0003031 HCA-7 cell
+obo:BTO_0003642 Hca-F cell
+obo:BTO_0003321 HCE cell
+obo:BTO_0003339 HCMEC/D3 cell
+obo:CLO_0003667 HCT-8 cell
+obo:BTO_0003643 HD-11 cell
+obo:BTO_0000282 head
+obo:BTO_0002709 head and neck squamous cell carcinoma cell line
+obo:BTO_0004711 head capsule
+obo:BTO_0005189 head kidney
+obo:BTO_0003509 headfoot
+obo:BTO_0000562 heart
+obo:BTO_0001887 heart primordium
+obo:BTO_0000564 heart valve
+obo:BTO_0000862 heart ventricle
+obo:BTO_0004862 HEI-OC1 cell
+obo:CLO_0001230 HEK-293 cell
+obo:BTO_0002974 HEK-293-EBNA cell
+obo:BTO_0005025 HEK-293-TrkB cell
+obo:BTO_0002524 HEK-293A cell
+obo:BTO_0003032 HEK-293F cell
+obo:BTO_0005029 HEK-293FT cell
+obo:BTO_0003033 HEK-293H cell
+obo:BTO_0002181 HEK-293T cell
+obo:BTO_0003263 HEK-AD293 cell
+obo:CLO_0003679 HEL cell
+obo:CLO_0003684 HeLa cell
+obo:BTO_0003588 HeLa-MAGI cell
+obo:CLO_0003699 HELA-S3 cell
+obo:BTO_0002417 helper T-lymphocyte
+obo:BTO_0001737 hemangioendothelioma cell
+obo:BTO_0000574 hematopoietic cell
+obo:BTO_0001035 hematopoietic cell line
+obo:BTO_0000725 hematopoietic stem cell
+obo:BTO_0000570 hematopoietic system
+obo:BTO_0004002 HEMn cell
+obo:BTO_0000571 hemocyte
+obo:BTO_0001897 hemocyte cell line
+obo:BTO_0000572 hemolymph
+obo:BTO_0004608 Henles loop
+obo:BTO_0004116 HEP-3B2 cell
+obo:BTO_0003586 Hep-G2/C3A cell
+obo:BTO_0003319 Hepa-1 cell
+obo:BTO_0004307 hepatic artery
+obo:BTO_0002855 hepatic cecum
+obo:BTO_0003391 hepatic primordium
+obo:BTO_0002741 hepatic stellate cell
+obo:BTO_0003513 hepatic stellate cell line
+obo:BTO_0001666 hepatoblastoma cell
+obo:BTO_0001664 hepatoblastoma cell line
+obo:BTO_0000575 hepatocyte
+obo:BTO_0001330 hepatoma ascites cell
+obo:BTO_0000608 hepatoma cell
+obo:BTO_0000578 hepatoma cell line
+obo:BTO_0000597 hepatopancreas
+obo:CLO_0003718 Het-1A cell
+obo:BTO_0002590 HEY cell
+obo:BTO_0004117 HFK cell
+obo:CLO_0003734 HFL1 cell
+obo:BTO_0004827 hFOB cell
+obo:CLO_0003739 HGC-27 cell
+obo:CLO_0003740 HGF cell
+obo:BTO_0004528 high endothelial venule
+obo:BTO_0003390 high vocal center
+obo:BTO_0000672 hindbrain
+obo:BTO_0000510 hindgut
+obo:BTO_0002345 hindlimb
+obo:BTO_0001457 hip
+obo:BTO_0001502 hip joint
+obo:BTO_0003036 hippocampal cell line
+obo:BTO_0001066 hippocampal pyramidal layer
+obo:BTO_0000601 hippocampus
+obo:BTO_0004691 hippocampus minor
+obo:BTO_0000602 histiocyte
+obo:BTO_0001738 histiocytic lymphoma cell
+obo:CLO_0003758 HIT-T15 cell
+obo:BTO_0003264 HL-1 cell
+obo:CLO_0003782 HL-60/MX-2 cell
+obo:BTO_0003572 HL60/ADR cell
+obo:BTO_0002221 HLE-B3 cell
+obo:BTO_0004864 HMC cell
+obo:BTO_0001669 HMC-1 cell
+obo:BTO_0002769 HME cell
+obo:BTO_0002828 HMEC-1 cell
+obo:BTO_0002178 HMEpC cell
+obo:BTO_0003884 HMT-3522 cell
+obo:CLO_0003788 HN cell
+obo:BTO_0005040 HN-12 cell
+obo:BTO_0005039 HN-30 cell
+obo:BTO_0004974 Hodgkin lymphoma cell
+obo:BTO_0004973 Hodgkin lymphoma cell line
+obo:BTO_0002821 HOG cell
+obo:BTO_0002325 holocrine gland
+obo:BTO_0000605 honey
+obo:BTO_0003994 hoof
+obo:BTO_0004120 horizontal cell
+obo:BTO_0002555 HOSE cell
+obo:BTO_0003151 HPAEC cell
+obo:BTO_0003266 HPAF-2 cell
+obo:BTO_0004925 HRA cell
+obo:CLO_0003836 HRT-18 cell
+obo:CLO_0004041 Hs 68 cell
+obo:CLO_0004102 HS-766T cell
+obo:BTO_0005167 HSC-1 cell
+obo:BTO_0003881 HSC-2 cell
+obo:BTO_0002026 HSC-4 cell
+obo:BTO_0003520 HSC-T6 cell
+obo:BTO_0004438 HSCC cell
+obo:CLO_0004276 HT-1080 cell
+obo:CLO_0004278 HT-1197 cell
+obo:CLO_0004279 HT-1376 cell
+obo:CLO_0004280 HT-144 cell
+obo:BTO_0004010 HT-2 cell
+obo:BTO_0003037 HT-22 cell
+obo:CLO_0004283 HT-29 cell
+obo:BTO_0001566 HT-29 G cell
+obo:BTO_0001565 HT-29-MTX cell
+obo:CLO_0004285 HT29/219 cell
+obo:BTO_0002664 HTAU cell
+obo:CLO_0004288 HTC cell
+obo:CLO_0009989 HuH-7 cell
+obo:BTO_0004126 Huh-7.5 cell
+obo:BTO_0004660 human amniotic epithelial cell
+obo:BTO_0004602 human aortic endothelial cell
+obo:BTO_0003125 human bladder microvascular endothelial cell
+obo:BTO_0003127 human bone marrow endothelial cell line
+obo:BTO_0003129 human brain microvascular endothelial cell
+obo:BTO_0003072 human lens epithelial cell line
+obo:BTO_0003599 human lung microvascular endothelial cell
+obo:BTO_0000609 husk
+obo:BTO_0001949 HUVEC cell
+obo:BTO_0004271 hyalocyte
+obo:BTO_0004272 hyalocyte cell line
+obo:BTO_0000610 hybridoma cell
+obo:BTO_0001926 hybridoma cell line
+obo:BTO_0004957 hydathode
+obo:BTO_0002243 hypanthium
+obo:BTO_0003400 hyperpallium
+obo:BTO_0003594 hypnozoite
+obo:BTO_0002156 hypobranchial
+obo:BTO_0000613 hypocotyl
+obo:BTO_0003039 hypodermal seam cell
+obo:BTO_0000313 hypodermis
+obo:BTO_0003386 hypoglossal nerve
+obo:BTO_0001740 hypopharynx
+obo:BTO_0001073 hypophysis
+obo:BTO_0000614 hypothalamus
+obo:BTO_0000616 I-cell
+obo:BTO_0001180 idioblast
+obo:CLO_0004341 IEC-18 cell
+obo:BTO_0000619 ileal mucosa
+obo:BTO_0002273 ileocecum
+obo:BTO_0000620 ileum
+obo:BTO_0004665 iliac artery
+obo:BTO_0000621 iliopsoas muscle
+obo:BTO_0004658 imaginal disc
+obo:BTO_0001512 imago
+obo:BTO_0003912 IMCD cell
+obo:BTO_0002313 immature cell
+obo:BTO_0002276 immobilized cell
+obo:BTO_0005100 implantation fossa
+obo:CLO_0006948 IMR-32 cell
+obo:CLO_0006951 IMR-90 cell
+obo:BTO_0001741 incisor
+obo:BTO_0000152 infected cell
+obo:BTO_0000240 inferior cervical ganglion
+obo:BTO_0004835 inferior frontal gyrus
+obo:BTO_0002302 inferior mesenteric artery
+obo:BTO_0002298 inferior olivary complex
+obo:BTO_0003844 inferior olivary nucleus
+obo:BTO_0002682 inferior vena cava
+obo:BTO_0003861 inflammatory cell
+obo:BTO_0000628 inflorescence
+obo:BTO_0002776 inflorescence apex
+obo:BTO_0001726 inflorescence meristem
+obo:BTO_0002660 inflorescence stalk
+obo:BTO_0002473 infundibular nucleus
+obo:BTO_0000768 infundibulum
+obo:BTO_0004538 initial collecting tubule
+obo:BTO_0000629 ink
+obo:BTO_0005090 inner chondrogenic layer of perichondrium
+obo:BTO_0003463 inner dental epithelium
+obo:BTO_0000630 inner ear
+obo:BTO_0003382 inner ear vestibulum
+obo:BTO_0003667 inner hair cell
+obo:BTO_0004544 inner medullary collecting duct
+obo:BTO_0004543 inner medullary collecting duct cell
+obo:BTO_0003176 inner nuclear layer
+obo:BTO_0003175 inner plexiform layer
+obo:BTO_0003318 INS-1 823/13 cell
+obo:BTO_0002135 INS-1 cell
+obo:BTO_0003317 INS-1E cell
+obo:BTO_0004104 insect labium
+obo:BTO_0003870 insect tracheal system
+obo:BTO_0001105 insular cortex
+obo:BTO_0000632 insulinoma cell
+obo:BTO_0000634 integument
+obo:BTO_0003149 interalveolar septum
+obo:BTO_0005093 intercalated cell
+obo:BTO_0005281 intercostal muscle
+obo:BTO_0004670 interdigit
+obo:BTO_0003672 interdigitating reticulum cell
+obo:BTO_0004697 internal carotid artery
+obo:BTO_0004667 internal iliac artery
+obo:BTO_0003096 internal male genital organ
+obo:BTO_0001320 internal plexiform layer
+obo:BTO_0002978 internal secretion
+obo:BTO_0003811 interneuron
+obo:BTO_0000638 interrenal cell
+obo:BTO_0000639 intersegmental muscle
+obo:BTO_0004238 interstitial cell
+obo:BTO_0003914 interstitial cell of Cajal
+obo:BTO_0002483 interventricular septum
+obo:BTO_0003625 intervertebral disc
+obo:BTO_0000489 intestinal cancer cell
+obo:BTO_0000003 intestinal cell line
+obo:BTO_0000781 intestinal epithelium
+obo:BTO_0000640 intestinal gland
+obo:BTO_0000644 intestinal juice
+obo:BTO_0000643 intestinal muscle
+obo:BTO_0000647 intestinal wall
+obo:BTO_0000648 intestine
+obo:CLO_0006954 Intestine 407 cell
+obo:BTO_0004043 intramuscular adipose tissue
+obo:BTO_0000585 intraocular melanoma cell
+obo:BTO_0003787 intraparietal sulcus
+obo:BTO_0001752 invertebrate mandible
+obo:BTO_0001266 invertebrate muscular system
+obo:BTO_0000653 iris
+obo:BTO_0000656 iris sphincter muscle
+obo:CLO_0037163 Ishikawa cell
+obo:BTO_0002279 J-774 cell
+obo:CLO_0007002 J558L cell
+obo:BTO_0001749 jaw
+obo:BTO_0004831 JB6 cell
+obo:CLO_0007017 JEG-3 cell
+obo:BTO_0001743 jejunal epithelium
+obo:BTO_0001742 jejunal mucosa
+obo:BTO_0000657 jejunum
+obo:BTO_0001686 joint
+obo:BTO_0001744 jugular vein
+obo:BTO_0000659 juice
+obo:BTO_0005401 junctional zone
+obo:CLO_0007043 JURKAT cell
+obo:BTO_0001948 JURKAT E-6.1 cell
+obo:BTO_0002168 juvenile
+obo:BTO_0005157 juxtaglomerular apparatus
+obo:BTO_0005158 juxtaglomerular cell
+obo:BTO_0002899 K-1034 RPE cell
+obo:BTO_0005195 K-562/R7 cell
+obo:BTO_0004462 K-562R cell
+obo:CLO_0007064 K6H6/B5 cell
+obo:CLO_0007065 KARPAS-299 cell
+obo:CLO_0007066 KARPAS-422 cell
+obo:BTO_0005161 KAT-18 cell
+obo:CLO_0007073 KATO III cell
+obo:BTO_0005215 KB-C2 cell
+obo:BTO_0002546 KBM-5 cell
+obo:BTO_0005196 KBv200 cell
+obo:BTO_0003669 keloid
+obo:BTO_0000667 keratinocyte
+obo:BTO_0000375 keratinocyte cell line
+obo:BTO_0005216 keratocyst
+obo:BTO_0005170 keratocyte
+obo:BTO_0000668 kernel
+obo:BTO_0003921 KHOS cell
+obo:BTO_0000671 kidney
+obo:BTO_0000680 kidney cancer cell
+obo:BTO_0000067 kidney cell line
+obo:BTO_0002502 kinetoplastid
+obo:BTO_0002971 KJ29 cell
+obo:BTO_0003312 KM-12C cell
+obo:BTO_0000681 KM-3 cell
+obo:BTO_0003310 KMCH cell
+obo:BTO_0003932 KMS-11 cell
+obo:BTO_0003595 knee
+obo:BTO_0003545 KU-1 cell
+obo:BTO_0003544 KU-7 cell
+obo:BTO_0000685 Kupffer cell
+obo:BTO_0000686 Kurloff cell
+obo:CLO_0007132 KYSE-30 cell
+obo:CLO_0007155 L-1210 cell
+obo:BTO_0000795 L-5178-Y cell
+obo:CLO_0007220 L-929 cell
+obo:BTO_0000171 L-cell
+obo:BTO_0004875 labellum
+obo:BTO_0001548 labial gland
+obo:BTO_0005404 labyrinthine zone
+obo:BTO_0000703 lacquer
+obo:BTO_0003423 lacrimal gland acinar cell
+obo:BTO_0002994 lacteal cyst
+obo:BTO_0004139 LAD-2 cell
+obo:BTO_0001902 lag phase culture
+obo:BTO_0003752 lamina epithelialis mucosa
+obo:BTO_0002330 lamina propria
+obo:CLO_0007242 LAN-5 cell
+obo:BTO_0000705 Langerhans cell
+obo:BTO_0002997 LAPC4 cell
+obo:BTO_0002059 large cell carcinoma cell
+obo:BTO_0002205 large cell lung cancer cell line
+obo:BTO_0004833 large cell neuroendocrine carcinoma cell
+obo:BTO_0000706 large intestine
+obo:BTO_0000707 larva
+obo:BTO_0004727 larval brain
+obo:BTO_0000708 larval integument
+obo:BTO_0001625 laryngeal cancer cell
+obo:BTO_0003660 laryngeal cartilage
+obo:BTO_0000955 laryngeal cell line
+obo:BTO_0001626 laryngeal muscle
+obo:BTO_0003936 laryngeal squamous cell carcinoma cell
+obo:BTO_0001208 larynx
+obo:BTO_0002704 lateral amygdaloid nucleus
+obo:BTO_0004347 lateral entorhinal cortex
+obo:BTO_0004367 lateral geniculate body
+obo:BTO_0004366 lateral geniculate nucleus
+obo:BTO_0002699 lateral habenular nucleus
+obo:BTO_0002275 lateral hypodermal chord
+obo:BTO_0000879 lateral ventricle
+obo:BTO_0004370 lateral vestibular nucleus
+obo:BTO_0000710 latex
+obo:BTO_0000712 laticifer
+obo:BTO_0004467 LbetaT2 cell
+obo:BTO_0000713 leaf
+obo:BTO_0000714 leaf axil
+obo:BTO_0000715 leaf base
+obo:BTO_0003668 leaf bud
+obo:BTO_0003938 leaf disc
+obo:BTO_0000718 leaf epidermis
+obo:BTO_0000719 leaf lamina
+obo:BTO_0004103 leaf primordium
+obo:BTO_0005094 leaf sheath
+obo:BTO_0001814 leaf tip
+obo:BTO_0001702 left atrium
+obo:BTO_0000646 left colon
+obo:BTO_0001629 left ventricle
+obo:BTO_0000721 leg
+obo:BTO_0000722 leg muscle
+obo:BTO_0002694 leiomyoma cell
+obo:BTO_0001631 leiomyosarcoma cell
+obo:BTO_0002595 leiomyosarcoma cell line
+obo:BTO_0000723 lens
+obo:BTO_0001632 lens cortex
+obo:BTO_0001874 lens epithelial cell line
+obo:BTO_0001873 lens epithelium
+obo:BTO_0000724 lens fiber
+obo:BTO_0001633 lens nucleus
+obo:BTO_0001634 leptomeninx
+obo:BTO_0001271 leukemia cell
+obo:BTO_0000737 leukemia cell line
+obo:BTO_0004178 leukemic stem cell
+obo:BTO_0000751 leukocyte
+obo:BTO_0000745 Lewis lung carcinoma cell
+obo:BTO_0000181 Lewis lung carcinoma cell line
+obo:BTO_0000755 Leydig cell
+obo:BTO_0004522 Leydig cell line
+obo:BTO_0002687 Leydig cell tumor cell
+obo:BTO_0002280 lignifying cell
+obo:BTO_0001916 LIM1215 cell
+obo:BTO_0001918 LIM1863 cell
+obo:BTO_0001492 limb
+obo:BTO_0001640 limb bud
+obo:BTO_0000928 limbic system
+obo:BTO_0001647 lip
+obo:BTO_0003745 liposarcoma cell
+obo:BTO_0003744 liposarcoma cell line
+obo:BTO_0000759 liver
+obo:BTO_0001642 liver bud
+obo:BTO_0000594 liver cancer cell
+obo:BTO_0004269 liver cancer stem cell
+obo:BTO_0000224 liver cell line
+obo:BTO_0002931 liver epithelial cell line
+obo:BTO_0001251 liver sinusoidal endothelial cell
+obo:BTO_0000760 LLC-PK1 cell
+obo:CLO_0007335 LLC-WRC 256 cell
+obo:BTO_0002215 LN-319 cell
+obo:CLO_0037116 LNCaP cell
+obo:BTO_0002613 lobopodium
+obo:BTO_0000186 lobular carcinoma cell
+obo:BTO_0001408 locus ceruleus
+obo:BTO_0001903 logarithmic phase culture
+obo:BTO_0001505 loin
+obo:BTO_0004256 long bone
+obo:BTO_0001648 longissimus
+obo:BTO_0001925 longissimus lumborum
+obo:BTO_0001651 longissimus thoracis
+obo:BTO_0005214 longitudinal smooth muscle
+obo:BTO_0000488 lower epidermis
+obo:BTO_0002170 LOX cell
+obo:CLO_0007393 LS 174T cell
+obo:CLO_0007394 LS 180 cell
+obo:BTO_0002921 LS174T-HM7 cell
+obo:BTO_0004147 lumbar spine
+obo:BTO_0000763 lung
+obo:BTO_0002057 lung adenocarcinoma cell
+obo:BTO_0001911 lung adenocarcinoma cell line
+obo:BTO_0001643 lung bud
+obo:BTO_0000551 lung cancer cell
+obo:BTO_0000762 lung cancer cell line
+obo:BTO_0000353 lung cell line
+obo:BTO_0004128 lung endothelium
+obo:BTO_0004299 lung epithelial cell
+obo:BTO_0001653 lung epithelium
+obo:BTO_0003213 lung epithelium cell line
+obo:BTO_0000764 lung fibroblast
+obo:BTO_0000161 lung fibroblast cell line
+obo:BTO_0003613 lung squamous cell carcinoma cell
+obo:BTO_0002486 lupulin gland
+obo:BTO_0003516 LX-2 cell
+obo:BTO_0000855 lymph
+obo:BTO_0000784 lymph node
+obo:BTO_0000752 lymph vessel
+obo:BTO_0000772 lymphoblast
+obo:BTO_0000773 lymphoblastoid cell line
+obo:BTO_0000774 lymphoblastoma cell
+obo:BTO_0000775 lymphocyte
+obo:BTO_0000741 lymphocytic leukemia cell line
+obo:BTO_0001096 lymphoid cell
+obo:BTO_0001586 lymphoid cell line
+obo:BTO_0002684 lymphoid follicle
+obo:BTO_0004731 lymphoid progenitor cell
+obo:BTO_0000753 lymphoid tissue
+obo:BTO_0000785 lymphoma cell
+obo:BTO_0000104 lymphoma cell line
+obo:BTO_0000799 lymphosarcoma cell
+obo:BTO_0003600 M cell
+obo:BTO_0005043 M1 melanoma cell
+obo:BTO_0002965 M10 cell
+obo:BTO_0005128 M12 prostate cancer cell
+obo:BTO_0002805 M14 cell
+obo:CLO_0007484 M5076 cell
+obo:BTO_0004160 Ma-1 cell
+obo:BTO_0003050 MA-10 cell
+obo:BTO_0003802 macrogamete
+obo:BTO_0000801 macrophage
+obo:BTO_0002278 macrophage cell line
+obo:BTO_0005054 macrophage foam cell
+obo:BTO_0003940 macula densa
+obo:BTO_0003015 macula lutea
+obo:BTO_0004471 Mahlavu cell
+obo:BTO_0003115 major vestibular gland
+obo:BTO_0001655 male cone
+obo:BTO_0004089 male urethra
+obo:BTO_0005316 malignant peripheral nerve sheath cancer cell
+obo:CLO_0007529 MALME-3M cell
+obo:BTO_0000810 malpighian tubule
+obo:BTO_0002845 mammary duct
+obo:BTO_0004851 mammary ductal carcinoma cell
+obo:BTO_0004300 mammary epithelial cell
+obo:BTO_0002768 mammary epithelial cell line
+obo:BTO_0000817 mammary gland
+obo:BTO_0003568 mammary gland cell line
+obo:BTO_0004087 mammary gland tumor cell
+obo:BTO_0002311 mammary myoepithelial cell
+obo:BTO_0002310 mammary myoepithelium
+obo:BTO_0001748 mandible
+obo:BTO_0001942 mandibular incisor
+obo:BTO_0001753 mandibular organ
+obo:BTO_0000825 mantle
+obo:BTO_0000826 mantle cavity
+obo:BTO_0004472 mantle cell lymphoma cell
+obo:BTO_0000827 mantle muscle
+obo:BTO_0000829 marrow
+obo:BTO_0001441 marrow cell
+obo:BTO_0001755 masseter
+obo:BTO_0000830 mast cell
+obo:BTO_0001668 mast cell line
+obo:BTO_0000832 mastocytoma cell
+obo:BTO_0000403 mastocytoma cell line
+obo:BTO_0003306 Mat-Ly-Lu cell
+obo:BTO_0002312 mature cell
+obo:BTO_0003562 MB-49 cell
+obo:BTO_0003051 MBA-15 cell
+obo:BTO_0001898 mbn-2 cell
+obo:CLO_0007582 MC3T3-E1 cell
+obo:BTO_0005218 MC57 cell
+obo:CLO_0007599 MCF 10A cell
+obo:CLO_0007600 MCF 10F cell
+obo:BTO_0001567 MDA-MB-435 cell
+obo:BTO_0004606 MDCK-1 cell
+obo:BTO_0004607 MDCK-2 cell
+obo:BTO_0003270 Me665/2 cell
+obo:BTO_0000838 meconium
+obo:BTO_0002702 medial amygdaloid nucleus
+obo:BTO_0002360 medial cuneiform bone
+obo:BTO_0004346 medial entorhinal cortex
+obo:BTO_0002674 medial geniculate body
+obo:BTO_0002670 medial geniculate nucleus
+obo:BTO_0003686 medial habenular nucleus
+obo:BTO_0003951 medial longitudinal fasciculus
+obo:BTO_0005226 medial pterygoid muscle
+obo:BTO_0002446 medial septum
+obo:BTO_0004477 medial temporal lobe
+obo:BTO_0004371 medial vestibular nucleus
+obo:BTO_0001954 median eminence
+obo:BTO_0004778 medium spiny neuron
+obo:BTO_0000041 medulla oblongata
+obo:BTO_0000191 medullary carcinoma cell
+obo:BTO_0004536 medullary collecting duct
+obo:BTO_0004535 medullary collecting duct cell
+obo:BTO_0000184 medullary thyroid carcinoma cell
+obo:BTO_0003073 medullary thyroid carcinoma cell line
+obo:BTO_0001757 medulloblastoma cell
+obo:BTO_0001359 medulloblastoma cell line
+obo:BTO_0002572 MEF cell
+obo:CLO_0007668 MEG-01 cell
+obo:BTO_0000842 megagametophyte
+obo:BTO_0001164 megakaryoblast
+obo:BTO_0000843 megakaryocyte
+obo:BTO_0001549 megakaryocytic cell line
+obo:BTO_0001777 megasporangium
+obo:BTO_0004165 meibomian gland
+obo:BTO_0000845 meiotic cell
+obo:BTO_0004475 MEL cell
+obo:BTO_0001674 Mel Im cell
+obo:BTO_0003944 Mel-Ab cell
+obo:BTO_0003216 melan-a cell
+obo:BTO_0003217 melanoblast
+obo:BTO_0000847 melanocyte
+obo:BTO_0003183 melanocyte cell line
+obo:BTO_0000848 melanoma cell
+obo:BTO_0000849 melanoma cell line
+obo:BTO_0001711 melanophore
+obo:BTO_0002277 melanotroph
+obo:BTO_0001756 meningioma cell
+obo:BTO_0004398 meningioma cell line
+obo:BTO_0000144 meninx
+obo:BTO_0001592 meniscus
+obo:BTO_0000852 meristem
+obo:BTO_0002324 merocrine gland
+obo:BTO_0002272 merozoite
+obo:BTO_0004476 MES-23.5 cell
+obo:BTO_0000853 mesangial cell
+obo:BTO_0002494 mesangium
+obo:BTO_0002625 mesenchymal cell
+obo:BTO_0002075 mesenchymal epithelium
+obo:BTO_0003298 mesenchymal stem cell
+obo:BTO_0003952 mesenchymal stromal cell
+obo:BTO_0001393 mesenchyme
+obo:BTO_0000767 mesenteric lymph node
+obo:BTO_0001380 mesentery
+obo:BTO_0000856 mesocarp
+obo:BTO_0001467 mesocotyl
+obo:BTO_0000839 mesoderm
+obo:BTO_0001542 mesonephron
+obo:BTO_0003405 mesopallium
+obo:BTO_0000858 mesophyll
+obo:BTO_0002423 mesothelioma cell
+obo:BTO_0002424 mesothelioma cell line
+obo:BTO_0002422 mesothelium
+obo:BTO_0003927 metacercaria
+obo:BTO_0000859 metacestode
+obo:BTO_0002487 metacyclic form
+obo:BTO_0001543 metanephron
+obo:BTO_0004629 metaphloem
+obo:BTO_0002347 metatarsal bone
+obo:BTO_0000673 metencephalon
+obo:CLO_0007687 MEWO cell
+obo:BTO_0004953 MGC-803 cell
+obo:BTO_0004168 MHCC-97 cell
+obo:BTO_0004169 MHCC97-H cell
+obo:BTO_0004170 MHCC97-L cell
+obo:BTO_0002138 MiaPaCa cell
+obo:BTO_0002137 MiaPaCa-2 cell
+obo:BTO_0003670 microfilarial stage
+obo:BTO_0000147 microgametophyte
+obo:BTO_0000078 microglia
+obo:BTO_0003349 microglial cell line
+obo:BTO_0001778 microsporangium
+obo:BTO_0000124 microspore
+obo:BTO_0003132 microsporidian
+obo:BTO_0003124 microvascular endothelial cell line
+obo:BTO_0004395 microvessel
+obo:BTO_0000138 midbrain
+obo:BTO_0005206 middle cerebral artery
+obo:BTO_0000359 middle cervical ganglion
+obo:BTO_0002099 middle ear
+obo:BTO_0004834 middle frontal gyrus
+obo:BTO_0004630 middle midgut
+obo:BTO_0000863 midgut
+obo:BTO_0002145 midgut cell line
+obo:BTO_0005053 midgut epithelium
+obo:BTO_0000866 midgut secretion
+obo:BTO_0000868 milk
+obo:BTO_0002284 MIN-6 cell
+obo:BTO_0003116 minor vestibular gland
+obo:BTO_0001283 mitral cell
+obo:BTO_0001108 mitral cell layer
+obo:CLO_0007733 MKN-45 cell
+obo:BTO_0002382 MKN-7 cell
+obo:CLO_0037142 MKN28 cell
+obo:CLO_0007735 ML-1 cell
+obo:BTO_0003929 MM1-R cell
+obo:BTO_0001082 MM46 cell
+obo:BTO_0003946 MMDD1 cell
+obo:BTO_0003945 MN-9D cell
+obo:BTO_0002946 MNT-1 cell
+obo:CLO_0007816 Mo-B cell
+obo:BTO_0001693 modiolus
+obo:BTO_0001759 molaris
+obo:BTO_0004906 molecular layer
+obo:CLO_0009848 MOLM-13 cell
+obo:CLO_0007825 MOLT-4 cell
+obo:BTO_0000884 molting fluid
+obo:BTO_0000874 molting gland
+obo:CLO_0007827 MONO-MAC-1 cell
+obo:BTO_0000876 monocyte
+obo:BTO_0002900 monocyte-derived dendritic cell
+obo:BTO_0002420 monocytic leukemia cell
+obo:BTO_0000878 mononuclear cell
+obo:BTO_0000577 Morris hepatoma 3924A cell
+obo:BTO_0001080 Morris hepatoma cell
+obo:BTO_0001508 morula
+obo:BTO_0000312 motoneuron
+obo:BTO_0004348 motor cortex
+obo:BTO_0001075 motor trigeminal nucleus
+obo:BTO_0001090 mouth
+obo:BTO_0003790 MR-Mel cell
+obo:BTO_0004837 MRC5-SV cell
+obo:BTO_0000492 MST cell
+obo:CLO_0007880 MSTO-211H cell
+obo:CLO_0007891 MT4 cell
+obo:BTO_0004617 mucilage
+obo:BTO_0002788 mucinous adenocarcinoma cell
+obo:BTO_0005264 mucoepidermoid carcinoma cell
+obo:BTO_0000886 mucosa
+obo:BTO_0003622 mucosal mast cell
+obo:BTO_0003690 mucous acinar cell
+obo:BTO_0003689 mucous cell
+obo:BTO_0002101 multiple myeloma cell
+obo:BTO_0000727 multiple myeloma cell line
+obo:BTO_0004720 mural cell
+obo:BTO_0000887 muscle
+obo:BTO_0000888 muscle fibre
+obo:BTO_0005300 muscle stem cell
+obo:BTO_0004838 muscular coat
+obo:BTO_0001485 muscular system
+obo:BTO_0002675 mushroom body
+obo:BTO_0000758 myelencephalon
+obo:BTO_0004996 myelinating Schwann cell
+obo:BTO_0000187 myeloblast
+obo:BTO_0000734 myelocyte
+obo:BTO_0000906 myeloid cell line
+obo:BTO_0004721 myeloid dendritic cell
+obo:BTO_0001056 myeloid leukemia cell
+obo:BTO_0004730 myeloid progenitor cell
+obo:BTO_0000898 myeloma cell
+obo:BTO_0000899 myeloma cell line
+obo:BTO_0002510 myelomonocytic leukemia cell
+obo:BTO_0002436 myenteric plexus
+obo:BTO_0000222 myoblast
+obo:BTO_0000256 myoblast cell line
+obo:BTO_0000901 myocardium
+obo:BTO_0002309 myoepithelial cell
+obo:BTO_0002308 myoepithelium
+obo:BTO_0001946 myofibroblast
+obo:BTO_0004166 myofibroblast cell line
+obo:BTO_0002029 myoma cell
+obo:BTO_0004519 myometrial cell
+obo:BTO_0004237 myometrial cell line
+obo:BTO_0000907 myometrium
+obo:BTO_0000742 myotome
+obo:BTO_0001760 myotube
+obo:BTO_0000908 myrosin cell
+obo:BTO_0003955 N-11 cell
+obo:BTO_0002393 N-27 cell
+obo:BTO_0003957 N-9 cell
+obo:CLO_0007922 N1E-115 cell
+obo:BTO_0000875 N20.1 cell
+obo:BTO_0004003 NA cell
+obo:CLO_0007938 NALM-6 cell
+obo:BTO_0000957 nape
+obo:BTO_0002096 nasal cavity
+obo:BTO_0004977 nasal lavage fluid
+obo:BTO_0000912 nasal mucosa
+obo:BTO_0001452 nasal nerve
+obo:BTO_0000913 nasal polyp
+obo:BTO_0001761 nasal vestibule
+obo:BTO_0000192 nasopharyngeal carcinoma cell
+obo:BTO_0003960 nasopharyngeal carcinoma cell line
+obo:BTO_0000662 nasopharynx
+obo:BTO_0004480 nasopharynx epithelium
+obo:BTO_0000914 natural killer cell
+obo:BTO_0002030 natural killer cell line
+obo:BTO_0000915 nauplius
+obo:BTO_0002356 navicular bone
+obo:BTO_0005103 NB-1 cell
+obo:BTO_0003056 NB-2 cell
+obo:CLO_0007947 NB-4 cell
+obo:BTO_0003057 NB2-Sp cell
+obo:BTO_0003058 NB2a/d1 cell
+obo:CLO_0007952 NC37 cell
+obo:BTO_0003764 NCI cell
+obo:CLO_0007986 NCI-H1299 cell
+obo:CLO_0008083 NCI-H322 cell
+obo:CLO_0008085 NCI-H358 cell
+obo:CLO_0008087 NCI-H441 cell
+obo:BTO_0002836 NCI-H460M cell
+obo:CLO_0008105 NCI-H69 cell
+obo:CLO_0008121 NCI-H838 cell
+obo:CLO_0008127 NCI-H929 cell
+obo:BTO_0003028 NCI-N417 cell
+obo:BTO_0004181 NCI/ADR-RES cell
+obo:BTO_0004306 NCM-460 cell
+obo:CLO_0008132 NCTC-2544 cell
+obo:BTO_0000420 neck
+obo:BTO_0000537 nectar
+obo:BTO_0000357 nectary
+obo:BTO_0000917 needle
+obo:BTO_0005262 NEF cell
+obo:BTO_0000920 neocortex
+obo:BTO_0003359 neointima
+obo:BTO_0001762 neonate
+obo:BTO_0000418 neostriatum
+obo:BTO_0000923 nephridium
+obo:BTO_0004575 nephroblastoma cell
+obo:BTO_0004597 nephrocyte
+obo:BTO_0000924 nephron
+obo:BTO_0003673 nephrotome
+obo:BTO_0000925 nerve
+obo:BTO_0001656 nerve cord
+obo:BTO_0000205 nerve plexus
+obo:BTO_0005313 nerve sheath
+obo:BTO_0000927 nerve trunk
+obo:BTO_0001484 nervous system
+obo:BTO_0001763 neural arch
+obo:BTO_0004024 neural cord
+obo:BTO_0001764 neural crest
+obo:BTO_0002901 neural crest cell line
+obo:BTO_0004481 neural crest-derived stem cell
+obo:BTO_0001765 neural plate
+obo:BTO_0000929 neural retina
+obo:BTO_0002881 neural stem cell
+obo:BTO_0002891 neural stem cell line
+obo:BTO_0001057 neural tube
+obo:BTO_0003047 neurilemoma cell
+obo:BTO_0003225 neurilemoma cell line
+obo:BTO_0000930 neuroblast
+obo:BTO_0000931 neuroblastoma cell
+obo:BTO_0000932 neuroblastoma cell line
+obo:BTO_0002691 neuroendocrine cell
+obo:BTO_0001407 neuroendocrine tumor cell
+obo:BTO_0003583 neuroendocrine tumor cell line
+obo:BTO_0004301 neuroepithelial cell
+obo:BTO_0002372 neuroepithelioma cell
+obo:BTO_0002912 neuroepithelioma cell line
+obo:BTO_0000314 neuroepithelium
+obo:BTO_0003046 neurofibroma cell
+obo:BTO_0002106 neurohemal organ
+obo:BTO_0000937 neurohypophysis
+obo:BTO_0003048 neurolemma
+obo:BTO_0000938 neuron
+obo:BTO_0003144 neuron-oligodendrocyte coculture
+obo:BTO_0000947 neuronal cell line
+obo:BTO_0005268 neuropil
+obo:BTO_0001767 neurosecretory cell
+obo:BTO_0001766 neurula
+obo:BTO_0000130 neutrophil
+obo:BTO_0003455 neutrophilic myelocyte
+obo:CLO_0008162 NG108-15 cell
+obo:BTO_0002924 NHBE cell
+obo:BTO_0003185 NHDF cell
+obo:BTO_0003182 NHEK cell
+obo:BTO_0002194 NHK cell
+obo:BTO_0004845 NHOst cell
+obo:BTO_0003389 nidopallium
+obo:BTO_0000821 nipple
+obo:CLO_0008186 NMuMG cell
+obo:BTO_0001156 node
+obo:BTO_0002846 non-Hodgkin lymphoma cell
+obo:BTO_0002904 non-Hodgkin lymphoma cell line
+obo:BTO_0004997 non-myelinating Schwann cell
+obo:BTO_0004901 non-neuronal cell
+obo:BTO_0002058 non-small cell lung cancer cell
+obo:BTO_0003095 normoblast
+obo:BTO_0000840 nose
+obo:BTO_0001768 notochord
+obo:BTO_0000950 Novikoff hepatoma cell
+obo:BTO_0004771 NPA cell
+obo:BTO_0005301 NPrEC cell
+obo:BTO_0001907 NS-1 cell
+obo:CLO_0008205 NS20Y cell
+obo:BTO_0004488 NSC-34 cell
+obo:CLO_0008207 NT2-D1 cell
+obo:BTO_0000891 NTERA-2 cell
+obo:BTO_0000952 nuchal ligament
+obo:BTO_0001862 nucleus accumbens
+obo:BTO_0003411 nucleus isthmo-opticus
+obo:BTO_0002250 nucleus lentiformis
+obo:BTO_0003626 nucleus pulposus
+obo:BTO_0003662 nucleus recessus lateralis
+obo:BTO_0002459 nucleus reuniens
+obo:BTO_0003963 nucleus solitarius
+obo:BTO_0000953 nurse cell
+obo:BTO_0000954 nymph
+obo:BTO_0001977 Oc cell
+obo:BTO_0000293 occipital lobe
+obo:BTO_0001868 occipital pole
+obo:BTO_0001758 ocellus
+obo:BTO_0004623 OCI-M2 cell
+obo:BTO_0001769 odontoblast
+obo:BTO_0002516 odontoclast
+obo:CLO_0008239 OE-21 cell
+obo:BTO_0003964 OECM-1 cell
+obo:BTO_0005160 oil gland
+obo:BTO_0000961 olfactory bulb
+obo:BTO_0001446 olfactory cortex
+obo:BTO_0002771 olfactory ensheathing cell
+obo:BTO_0000108 olfactory epithelium
+obo:BTO_0001697 olfactory gland
+obo:BTO_0003653 olfactory glomerulus
+obo:BTO_0001362 olfactory lobe
+obo:BTO_0003648 olfactory nerve
+obo:BTO_0001772 olfactory organ
+obo:BTO_0004185 olfactory receptor neuron
+obo:BTO_0003647 olfactory tract
+obo:BTO_0000962 oligodendrocyte
+obo:BTO_0000872 oligodendrocytic cell line
+obo:BTO_0000770 oligodendroglia
+obo:BTO_0000963 oligodendroglioma cell
+obo:BTO_0002820 oligodendroglioma cell line
+obo:BTO_0002299 oliva
+obo:BTO_0000348 omasum
+obo:BTO_0001922 ommatidium
+obo:BTO_0001773 oocyst
+obo:BTO_0000964 oocyte
+obo:BTO_0004857 ookinete
+obo:BTO_0000926 ophthalmic nerve
+obo:BTO_0005351 optic cup
+obo:BTO_0003650 optic ganglion
+obo:BTO_0000965 optic lobe
+obo:BTO_0000966 optic nerve
+obo:BTO_0001774 oral cancer cell
+obo:BTO_0002027 oral cancer cell line
+obo:BTO_0005375 oral cell line
+obo:BTO_0002242 oral epithelial cell
+obo:BTO_0001775 oral epithelium
+obo:BTO_0002860 oral mucosa
+obo:BTO_0003614 oral squamous cell carcinoma cell
+obo:BTO_0002211 oral squamous cell carcinoma cell line
+obo:BTO_0004687 orbit
+obo:BTO_0005258 oropharyngeal cancer cell
+obo:BTO_0005259 oropharyngeal carcinoma cell line
+obo:BTO_0003773 oropharyngeal squamous cell carcinoma cell
+obo:BTO_0005257 oropharynx
+obo:BTO_0002403 OS-RC-2 cell
+obo:BTO_0004995 osphradium
+obo:BTO_0003967 OSRGA cell
+obo:BTO_0000967 osseous plate
+obo:BTO_0001593 osteoblast
+obo:BTO_0004324 osteoblast cell line
+obo:BTO_0000006 osteoblastoma cell
+obo:BTO_0002361 osteochondroma cell
+obo:BTO_0000968 osteoclast
+obo:BTO_0004384 osteoclast stem cell
+obo:BTO_0000969 osteoclastoma cell
+obo:BTO_0002038 osteocyte
+obo:BTO_0002050 osteogenic cell
+obo:BTO_0002052 osteogenic cell line
+obo:BTO_0005219 osteophyte
+obo:BTO_0000970 osteosarcoma cell
+obo:BTO_0000407 osteosarcoma cell line
+obo:BTO_0003462 outer dental epithelium
+obo:BTO_0002100 outer ear
+obo:BTO_0003666 outer hair cell
+obo:BTO_0003174 outer plexiform layer
+obo:BTO_0003792 OV-2008 cell
+obo:BTO_0004487 OV-MZ-6 cell
+obo:BTO_0002236 ovarian cumulus cell
+obo:BTO_0005122 ovarian cyst
+obo:BTO_0005123 ovarian cyst fluid
+obo:BTO_0001055 ovarian epithelial cell
+obo:BTO_0004569 ovarian fluid
+obo:BTO_0000475 ovarian follicle
+obo:BTO_0003804 ovarian serous adenocarcinoma cell line
+obo:BTO_0002729 ovarian serous carcinoma cell
+obo:BTO_0004484 ovarian surface epithelial cell
+obo:BTO_0004482 ovarian surface epithelial cell line
+obo:BTO_0004483 ovarian surface epithelium
+obo:BTO_0004241 ovariole
+obo:BTO_0000975 ovary
+obo:BTO_0001023 ovary cancer cell
+obo:BTO_0000811 ovary cancer cell line
+obo:BTO_0000977 ovary cell line
+obo:BTO_0003661 ovary epithelium
+obo:BTO_0002564 OVCA-429 cell
+obo:BTO_0002565 OVCA-432 cell
+obo:BTO_0001870 OVCA-5 cell
+obo:BTO_0003054 OVCA-8 cell
+obo:BTO_0000980 oviduct
+obo:BTO_0003059 oviduct epithelial cell line
+obo:BTO_0004285 oviductal ampulla
+obo:BTO_0002689 oviductal fluid
+obo:CLO_0037097 OVISE cell
+obo:BTO_0000981 ovotestis
+obo:BTO_0003801 ovum
+obo:BTO_0001780 oxyntic cell
+obo:CLO_0008301 P-19 cell
+obo:CLO_0008327 P-388D1 cell
+obo:CLO_0008340 P-815 cell
+obo:BTO_0003291 P493-6 cell
+obo:BTO_0003540 P4E6 cell
+obo:CLO_0008350 PA-1 cell
+obo:BTO_0004190 pacemaker cell
+obo:BTO_0000986 pachytene cell
+obo:BTO_0001779 palate
+obo:BTO_0004714 palatine tonsil
+obo:BTO_0000987 palisade parenchyma
+obo:BTO_0001747 palpus
+obo:BTO_0005067 PAM212 cell
+obo:BTO_0000988 pancreas
+obo:BTO_0000028 pancreatic acinar cell
+obo:BTO_0001521 pancreatic adenocarcinoma cell line
+obo:BTO_0000990 pancreatic alpha cell
+obo:BTO_0002980 pancreatic alpha cell line
+obo:BTO_0000783 pancreatic beta cell
+obo:BTO_0000716 pancreatic beta cell line
+obo:BTO_0000584 pancreatic cancer cell
+obo:BTO_0000794 pancreatic cancer cell line
+obo:BTO_0000803 pancreatic delta cell
+obo:BTO_0002362 pancreatic duct
+obo:BTO_0002363 pancreatic ductal carcinoma cell
+obo:BTO_0000991 pancreatic islet
+obo:BTO_0000504 pancreatic juice
+obo:BTO_0000993 paneth cell
+obo:BTO_0003290 PanIN cell
+obo:BTO_0003152 papillary thyroid cancer cell
+obo:BTO_0003210 papillary thyroid cancer cell line
+obo:BTO_0001334 papilloma cell
+obo:BTO_0004380 parahippocampal gyrus
+obo:BTO_0004379 parahippocampal region
+obo:BTO_0000995 paramyeloblast
+obo:BTO_0001833 parasympathetic nervous system
+obo:BTO_0000997 parathyroid gland
+obo:BTO_0001781 parathyroid gland cancer cell
+obo:BTO_0001539 parenchyma
+obo:BTO_0004579 parenchyma of thyroid gland
+obo:BTO_0002174 parenchymal cell
+obo:BTO_0001841 parietal ganglion
+obo:BTO_0001001 parietal lobe
+obo:BTO_0001003 parotid acinar cell
+obo:BTO_0001004 parotid gland
+obo:BTO_0004554 parotid gland duct
+obo:BTO_0003749 pars compacta
+obo:BTO_0001787 pars distalis
+obo:BTO_0001788 pars intermedia
+obo:BTO_0000055 pars recta
+obo:BTO_0003750 pars reticulata
+obo:BTO_0001739 pars tuberalis
+obo:BTO_0005191 Patu-8988 cell
+obo:BTO_0002073 pavement epithelium
+obo:BTO_0004359 paw
+obo:BTO_0002747 PC-1 cell
+obo:BTO_0001676 PC-12D cell
+obo:CLO_0008395 PC-3 cell
+obo:BTO_0005220 PC-3M cell
+obo:BTO_0002752 PC-6 cell
+obo:BTO_0004191 PC-J cell
+obo:BTO_0005071 PC3-MM2 cell
+obo:BTO_0003800 PCCL-3 cell
+obo:BTO_0004653 pectoral fin
+obo:BTO_0000023 pectoral muscle
+obo:BTO_0001012 pedal ganglion
+obo:CLO_0008416 PEER cell
+obo:BTO_0005197 peltate gland
+obo:BTO_0004651 pelvic fin
+obo:BTO_0001006 pelvis
+obo:BTO_0000405 penis
+obo:BTO_0004280 peptonephridium
+obo:BTO_0001727 perianth
+obo:BTO_0004638 peribronchial gland
+obo:BTO_0001016 pericardial fluid
+obo:BTO_0000717 pericardium
+obo:BTO_0001017 pericarp
+obo:BTO_0005089 perichondrium
+obo:BTO_0001465 pericycle
+obo:BTO_0002441 pericyte
+obo:BTO_0003377 periderm
+obo:BTO_0003796 periglomerular cell
+obo:BTO_0002083 perilymphatic space
+obo:BTO_0003153 perineurium
+obo:BTO_0001020 periodontal ligament
+obo:BTO_0001022 periosteum
+obo:BTO_0000553 peripheral blood
+obo:BTO_0003494 peripheral blood cell
+obo:BTO_0004729 peripheral blood lymphocyte
+obo:BTO_0001025 peripheral blood mononuclear cell
+obo:BTO_0002669 peripheral blood stem cell
+obo:BTO_0001027 peripheral nerve
+obo:BTO_0001028 peripheral nervous system
+obo:BTO_0004261 peripheral primitive neuroectodermal tumor cell
+obo:BTO_0004355 perirhinal cortex
+obo:BTO_0001029 perisperm
+obo:BTO_0002105 perisympathetic organ
+obo:BTO_0001782 peritoneal cavity
+obo:BTO_0003616 peritoneal dialysis fluid
+obo:BTO_0003617 peritoneal exudate
+obo:BTO_0001031 peritoneal fluid
+obo:BTO_0003156 peritoneal mesothelium
+obo:BTO_0001472 peritoneum
+obo:BTO_0001038 peritrophic membrane
+obo:BTO_0001039 peritubular cell
+obo:BTO_0005081 periurethral tissue
+obo:BTO_0001496 perivascular astrocyte
+obo:BTO_0001040 petal
+obo:BTO_0001041 petiole
+obo:BTO_0001784 Peyer's gland
+obo:CLO_0008426 PG cell
+obo:BTO_0002414 PG-CL3 cell
+obo:BTO_0001044 phagocyte
+obo:BTO_0001046 pharate pupa
+obo:BTO_0002097 pharyngeal cavity
+obo:BTO_0005240 pharyngeal epithelium
+obo:BTO_0004849 pharyngeal gland
+obo:BTO_0001048 pharyngeal muscle
+obo:BTO_0004195 pharyngeal organ
+obo:BTO_0001049 pharynx
+obo:BTO_0003378 phellem
+obo:BTO_0003380 phelloderm
+obo:BTO_0001054 pheochromocytoma cell
+obo:BTO_0000201 pheochromocytoma cell line
+obo:BTO_0001786 pheromone gland
+obo:BTO_0001058 phloem
+obo:BTO_0002790 phloem parenchyma cell
+obo:BTO_0001477 photophore
+obo:BTO_0001060 photoreceptor
+obo:BTO_0001063 phrenic nerve
+obo:BTO_0001064 phycobiont
+obo:BTO_0001635 pia mater
+obo:BTO_0001067 pineal gland
+obo:BTO_0001068 pinealocyte
+obo:BTO_0002651 piriform area
+obo:BTO_0001069 pitcher
+obo:BTO_0001071 pith
+obo:BTO_0000427 pituitary gland cell line
+obo:BTO_0001076 pituitary gland tumor cell
+obo:BTO_0004854 PK-1 cell
+obo:CLO_0008447 PK-15 cell
+obo:BTO_0001078 placenta
+obo:BTO_0001975 placental cell line
+obo:BTO_0003678 placental disc
+obo:BTO_0003281 planktonic cell
+obo:BTO_0004253 plant candle
+obo:BTO_0001971 plant cell line
+obo:BTO_0002340 plant collar
+obo:BTO_0000321 plant cuticle
+obo:BTO_0001233 plant embryo
+obo:BTO_0003876 plant funiculus
+obo:BTO_0005083 plant mucous cell
+obo:BTO_0000750 plant ovary
+obo:BTO_0001776 plant ovule
+obo:BTO_0000999 plant parenchyma
+obo:BTO_0002017 plant reproductive system
+obo:BTO_0000902 plant vessel
+obo:BTO_0001084 plantlet
+obo:BTO_0000392 plasma cell
+obo:BTO_0004625 plasmacytoid dendritic cell
+obo:BTO_0001087 plasmacytoma cell
+obo:BTO_0000456 plasmacytoma cell line
+obo:BTO_0005124 platysma muscle
+obo:BTO_0003492 PLC-PRF-5 cell
+obo:BTO_0003646 pleomorphic adenoma cell
+obo:BTO_0001790 pleopod
+obo:BTO_0001791 pleura
+obo:BTO_0004422 pleural cavity
+obo:BTO_0003080 pleural fluid
+obo:BTO_0001842 pleural ganglion
+obo:BTO_0003155 pleural mesothelium
+obo:CLO_0008460 PLHC-1 cell
+obo:BTO_0002480 plume
+obo:BTO_0001495 plumule
+obo:CLO_0008475 PNT1A cell
+obo:CLO_0008476 PNT2 cell
+obo:BTO_0003539 PNT2-C2 cell
+obo:BTO_0002295 podocyte
+obo:BTO_0001097 pollen
+obo:BTO_0000540 pollen mother cell
+obo:BTO_0001101 pons
+obo:BTO_0003396 pontine nucleus
+obo:BTO_0004007 porcine aortic endothelial cell
+obo:BTO_0001792 portal vein
+obo:BTO_0001850 portio vaginalis cervicis
+obo:BTO_0005399 POS cell
+obo:BTO_0004354 postcentral gyrus
+obo:BTO_0002619 posterior adductor muscle
+obo:BTO_0002086 posterior chamber of the eye
+obo:BTO_0004250 posterior cingulate cortex
+obo:BTO_0000561 posterior lobe
+obo:BTO_0000077 posterior midgut
+obo:BTO_0002462 posterior nuclear complex of thalamus
+obo:BTO_0001794 posterior silk gland
+obo:BTO_0002655 postlarva
+obo:BTO_0002177 PR cell
+obo:BTO_0003789 PR-Mel cell
+obo:BTO_0001094 pre-B acute lymphoblastic leukemia cell
+obo:BTO_0001133 pre-B-lymphocyte
+obo:BTO_0000743 pre-B-lymphocyte cell line
+obo:BTO_0001107 preadipocyte
+obo:BTO_0000746 preadipocyte cell line
+obo:BTO_0003160 PrEC cell
+obo:BTO_0002807 prefrontal cortex
+obo:BTO_0004381 prelimbic cortex
+obo:BTO_0004657 premonocyte
+obo:BTO_0001796 preoptic area
+obo:BTO_0002051 preosteoblast
+obo:BTO_0004496 preosteoclast
+obo:BTO_0001113 prepuce
+obo:BTO_0001110 prepupa
+obo:BTO_0001111 preputial gland
+obo:BTO_0002290 primary cell line
+obo:BTO_0001127 primary culture
+obo:BTO_0002719 primary effusion lymphoma cell line
+obo:BTO_0001114 primary leaf
+obo:BTO_0000589 primary meristem
+obo:BTO_0000512 primary oocyte
+obo:BTO_0001182 primary root
+obo:BTO_0001115 primary spermatocyte
+obo:BTO_0002123 primitive endoderm
+obo:BTO_0004258 primitive neuroectodermal tumor cell
+obo:BTO_0004259 primitive neuroectodermal tumor cell line
+obo:BTO_0001886 primordium
+obo:BTO_0004542 principal cell
+obo:BTO_0003104 pro-B-lymphocyte
+obo:BTO_0003103 pro-B-lymphocyte cell line
+obo:BTO_0001117 proboscis
+obo:BTO_0001119 procambium
+obo:BTO_0001122 procyclic form
+obo:BTO_0001124 promastigote
+obo:BTO_0001797 promyelocytic leukemia cell
+obo:BTO_0002489 promyelocytic leukemia cell line
+obo:BTO_0001541 pronephros
+obo:BTO_0001128 prostasome
+obo:BTO_0002021 prostate adenocarcinoma cell
+obo:BTO_0005049 prostate adenocarcinoma cell line
+obo:BTO_0001033 prostate cancer cell line
+obo:BTO_0002398 prostate epithelium cell line
+obo:BTO_0001129 prostate gland
+obo:BTO_0001130 prostate gland cancer cell
+obo:BTO_0002397 prostate gland epithelium
+obo:BTO_0004499 prostate gland intraepithelial neoplasia cell line
+obo:BTO_0003972 prostate gland stromal cell
+obo:BTO_0003692 prostatic intraepithelial neoplasia cell
+obo:BTO_0003163 prostatic urethra
+obo:BTO_0004198 prostomium
+obo:BTO_0001798 prothallium
+obo:BTO_0003868 protocerebrum
+obo:BTO_0001134 protonema
+obo:BTO_0000310 protophloem
+obo:BTO_0002304 protoscolex
+obo:BTO_0001135 protoxylem
+obo:BTO_0001136 proventriculus
+obo:CLO_0008486 Pro–5 cell
+obo:BTO_0003162 PrSC cell
+obo:BTO_0005008 psammoma body
+obo:BTO_0001140 psoas
+obo:BTO_0005180 pterygium
+obo:BTO_0000778 pulmonary artery
+obo:BTO_0003336 pulmonary artery smooth muscle cell
+obo:BTO_0001799 pulmonary vein
+obo:BTO_0001142 pulp
+obo:BTO_0001783 pulvinus
+obo:BTO_0004377 pup
+obo:BTO_0004909 Purkinje layer
+obo:BTO_0002120 pyloric cecum
+obo:BTO_0004110 pyloric mucosa
+obo:BTO_0001146 pyloric region
+obo:BTO_0002121 pyloric stomach
+obo:BTO_0003102 pyramidal neuron
+obo:BTO_0001149 quadriceps
+obo:BTO_0001152 radicle
+obo:BTO_0001506 radula
+obo:BTO_0001153 radular muscle
+obo:CLO_0008734 RAJI cell
+obo:CLO_0008738 RAMOS cell
+obo:BTO_0003387 raphe nucleus
+obo:BTO_0003293 Rat-1 cell
+obo:BTO_0004966 Rat-1/BB16 cell
+obo:CLO_0008749 RAT-2 cell
+obo:CLO_0008753 RAW-264.7 cell
+obo:BTO_0001155 ray cell
+obo:BTO_0003785 ray floret
+obo:BTO_0004566 Rb-1 cell
+obo:CLO_0008762 RBL-1 cell
+obo:BTO_0003781 RCC 786-O cell
+obo:BTO_0004200 RCSN-3 cell
+obo:CLO_0008770 RD cell
+obo:CLO_0008774 RD-ES cell
+obo:BTO_0003782 rectal adenocarcinoma cell
+obo:BTO_0003783 rectal adenocarcinoma cell line
+obo:BTO_0000193 rectal cancer cell
+obo:BTO_0001532 rectal cancer cell line
+obo:BTO_0001157 rectal gland
+obo:BTO_0001158 rectum
+obo:BTO_0001564 rectus femoris
+obo:BTO_0001160 red bone marrow
+obo:BTO_0001955 REF-52 cell
+obo:BTO_0004698 regio oralis
+obo:BTO_0004688 regio orbitalis
+obo:BTO_0004693 regio parietalis capitis
+obo:BTO_0004520 regulatory T-lymphocyte
+obo:CLO_0008781 REH cell
+obo:BTO_0001165 renal artery
+obo:BTO_0003192 renal cancer cell line
+obo:BTO_0000037 renal cell carcinoma cell
+obo:BTO_0000383 renal cell carcinoma cell line
+obo:BTO_0004098 renal clear cell
+obo:BTO_0000333 renal corpuscle
+obo:BTO_0001166 renal cortex
+obo:BTO_0000482 renal distal tubule
+obo:BTO_0000059 renal epithelium
+obo:BTO_0002886 renal epithelium cell line
+obo:BTO_0002297 renal glomerular capsule
+obo:BTO_0003581 renal glomerular cell line
+obo:BTO_0000530 renal glomerulus
+obo:BTO_0001745 renal inner medulla
+obo:BTO_0001167 renal medulla
+obo:BTO_0001746 renal outer medulla
+obo:BTO_0003925 renal papilla
+obo:BTO_0003604 renal parenchyma
+obo:BTO_0001498 renal proximal tubule
+obo:BTO_0003926 renal pyramid
+obo:BTO_0000343 renal tubule
+obo:BTO_0005239 renal tubule epithelium
+obo:BTO_0002681 renal vein
+obo:BTO_0001168 rennet
+obo:BTO_0000081 reproductive system
+obo:BTO_0003222 respiratory bronchiole
+obo:BTO_0000419 respiratory epithelium
+obo:BTO_0004533 respiratory epithelium cell
+obo:BTO_0002637 respiratory epithelium cell line
+obo:BTO_0000973 respiratory mucosa
+obo:BTO_0003603 respiratory mucus
+obo:BTO_0001660 respiratory smooth muscle
+obo:BTO_0000203 respiratory system
+obo:BTO_0001170 resting cell
+obo:BTO_0001172 reticulate body
+obo:BTO_0001173 reticulocyte
+obo:BTO_0001174 reticuloendothelial system
+obo:BTO_0002614 reticulopodium
+obo:BTO_0000347 reticulum
+obo:BTO_0001605 reticulum trabeculare
+obo:BTO_0001175 retina
+obo:BTO_0003061 retinal cell line
+obo:BTO_0001036 retinal cone
+obo:BTO_0001800 retinal ganglion cell
+obo:BTO_0005117 retinal ganglion cell line
+obo:BTO_0005001 retinal microvascular endothelial cell
+obo:BTO_0004910 retinal pigment epithelial cell
+obo:BTO_0001177 retinal pigment epithelium
+obo:BTO_0002334 retinal pigment epithelium cell line
+obo:BTO_0001024 retinal rod
+obo:BTO_0003982 retinal stem cell
+obo:BTO_0001178 retinoblastoma cell
+obo:BTO_0002919 retinoblastoma cell line
+obo:BTO_0003977 retrosplenial region
+obo:CLO_0008799 RFL-6 cell
+obo:BTO_0005118 RGC-5 cell
+obo:BTO_0004494 RGM-1 cell
+obo:BTO_0001802 rhabdomyosarcoma cell
+obo:BTO_0002267 rhabdomyosarcoma cell line
+obo:BTO_0003703 rheumatoid arthritis disease specific fibroblast-like synoviocyte
+obo:BTO_0004914 rheumatoid arthritis disease specific synovial fibroblast
+obo:BTO_0004728 rheumatoid arthritis disease specific synovial fluid
+obo:BTO_0003702 rheumatoid arthritis disease specific synovial tissue
+obo:BTO_0001181 rhizome
+obo:BTO_0001179 rhizophore
+obo:BTO_0004203 RIE-1 cell
+obo:BTO_0001703 right atrium
+obo:BTO_0000649 right colon
+obo:BTO_0005208 right middle cerebral artery
+obo:BTO_0001630 right ventricle
+obo:BTO_0001184 rind
+obo:BTO_0001893 ring stage
+obo:CLO_0008819 RINm5F cell
+obo:CLO_0008820 RK-13 cell
+obo:CLO_0008825 RKO cell
+obo:CLO_0008828 RL cell
+obo:BTO_0003779 RN-46A cell
+obo:BTO_0002031 RNK-16 cell
+obo:BTO_0001187 roe
+obo:BTO_0001188 root
+obo:BTO_0000039 root cap
+obo:BTO_0003987 root culture
+obo:BTO_0001190 root nodule
+obo:BTO_0005444 root nodule primordium
+obo:BTO_0004791 root primordium
+obo:BTO_0005385 root quiescent center
+obo:BTO_0001191 root tip
+obo:BTO_0001192 rootlet
+obo:BTO_0004012 ROS cell
+obo:BTO_0002648 ROS-17/2.8 cell
+obo:BTO_0001201 rosette
+obo:BTO_0003086 rosette leaf
+obo:BTO_0003412 rostral migratory stream
+obo:BTO_0002778 rostral ventrolateral medulla
+obo:BTO_0003485 RPAEC cell
+obo:CLO_0008872 RPMI 7932 cell
+obo:CLO_0008876 RPMI-2650 cell
+obo:CLO_0008877 RPMI-7951 cell
+obo:CLO_0008873 RPMI-8226 cell
+obo:CLO_0009858 RPMI-8866 cell
+obo:CLO_0008890 RT-112 cell
+obo:BTO_0002870 RT-4 cell
+obo:BTO_0001194 rumen
+obo:BTO_0001195 rumen epithelium
+obo:BTO_0004789 ruminal fluid
+obo:BTO_0001197 S-180 cell
+obo:BTO_0001341 S-49 cell
+obo:BTO_0001805 saccule
+obo:BTO_0001652 sacrospinalis
+obo:BTO_0003506 SAF-1 cell
+obo:BTO_0001202 saliva
+obo:BTO_0005115 salivary duct
+obo:BTO_0001203 salivary gland
+obo:BTO_0002773 salivary gland cancer cell
+obo:BTO_0003205 salivary gland cell line
+obo:BTO_0004421 salivary gland epithelium
+obo:BTO_0003645 salivary gland tumor cell line
+obo:BTO_0001204 salt gland
+obo:BTO_0001808 saphenous vein
+obo:BTO_0001597 sapling
+obo:BTO_0001206 sarcocarp
+obo:BTO_0001207 sarcoma cell
+obo:BTO_0000400 sarcoma cell line
+obo:BTO_0001215 sartorius
+obo:BTO_0003981 SAS cell
+obo:BTO_0002314 satellite cell
+obo:BTO_0003283 SC-M1 cell
+obo:BTO_0005055 scale
+obo:BTO_0001809 scalp
+obo:BTO_0001217 scape
+obo:BTO_0001218 scapula
+obo:BTO_0002193 SCC-13 cell
+obo:BTO_0002068 scent gland
+obo:BTO_0004339 ScGT1 cell
+obo:BTO_0002743 schistosomulum
+obo:BTO_0001002 schizont
+obo:BTO_0001677 SCHNEIDER-2 cell
+obo:BTO_0001220 Schwann cell
+obo:BTO_0001216 Schwann cell line
+obo:BTO_0001221 sciatic nerve
+obo:BTO_0001606 sclera
+obo:BTO_0001222 sclerenchyma
+obo:BTO_0003716 ScN2a cell
+obo:BTO_0002305 scolex
+obo:BTO_0003098 scrotum
+obo:BTO_0001223 scutellum
+obo:BTO_0004783 SeAx cell
+obo:BTO_0001980 sebaceous gland
+obo:BTO_0003483 sebaceous gland cell line
+obo:BTO_0001981 sebum
+obo:BTO_0003094 secondary oocyte
+obo:BTO_0001183 secondary root
+obo:BTO_0000709 secondary spermatocyte
+obo:BTO_0003659 secretory cell
+obo:BTO_0003799 secretory trichome
+obo:BTO_0001226 seed
+obo:BTO_0001227 seed coat
+obo:BTO_0004209 seed vessel
+obo:BTO_0001228 seedling
+obo:BTO_0001230 semen
+obo:BTO_0003383 semicircular canal
+obo:BTO_0003177 semimembranosus
+obo:BTO_0001232 seminal plasma
+obo:BTO_0001234 seminal vesicle
+obo:BTO_0002053 seminal vesicle fluid
+obo:BTO_0001811 seminiferous epithelium
+obo:BTO_0001235 seminiferous tubule
+obo:BTO_0004210 seminoma cell
+obo:BTO_0001236 semitendinosus
+obo:BTO_0000202 sense organ
+obo:BTO_0001237 sensillum
+obo:BTO_0004211 sensillum trichodeum
+obo:BTO_0001037 sensory cell
+obo:BTO_0001547 sepal
+obo:BTO_0002705 septal area
+obo:BTO_0003448 septum pellucidum
+obo:BTO_0003621 serosal mast cell
+obo:BTO_0002939 serous adenocarcinoma cell
+obo:BTO_0001837 serous gland
+obo:BTO_0001238 Sertoli cell
+obo:BTO_0004513 Sertoli cell line
+obo:BTO_0001239 serum
+obo:BTO_0003280 sessile cell
+obo:BTO_0004567 sessile serrated adenoma cell
+obo:BTO_0004212 seta
+obo:BTO_0001557 SF-767 cell
+obo:BTO_0002392 SGC-7901 cell
+obo:BTO_0005397 SH-EP cell
+obo:CLO_0009015 SH-SY5Y cell
+obo:BTO_0001241 shell gland
+obo:BTO_0003231 SHG-44 cell
+obo:BTO_0001243 shoot
+obo:BTO_0000247 shoot tip
+obo:BTO_0002656 sickle cell
+obo:BTO_0001247 sieve tube
+obo:BTO_0001249 silique
+obo:BTO_0001250 silk gland
+obo:BTO_0004358 sinus node
+obo:BTO_0002056 siphon
+obo:BTO_0005068 SK-CO15 cell
+obo:CLO_0009039 SK-LU-1 cell
+obo:CLO_0009043 SK-MEL-28 cell
+obo:BTO_0002967 SK-MEL-37 cell
+obo:CLO_0009051 SK-N-AS cell
+obo:CLO_0009052 SK-N-BE(2) cell
+obo:BTO_0004787 SK-N-LO cell
+obo:BTO_0005372 SK-N-MC-IXC cell
+obo:CLO_0009059 SK-N-SH cell
+obo:CLO_0009066 SK-UT-1B cell
+obo:BTO_0001103 skeletal muscle
+obo:BTO_0004392 skeletal muscle cell
+obo:BTO_0002662 skeletal muscle cell line
+obo:BTO_0002319 skeletal muscle fiber
+obo:BTO_0001486 skeletal system
+obo:BTO_0001253 skin
+obo:BTO_0001286 skin cancer cell
+obo:BTO_0003894 skin carcinoma cell line
+obo:BTO_0004382 skin epithelium
+obo:BTO_0001255 skin fibroblast
+obo:BTO_0001619 skin fibroblast cell line
+obo:BTO_0005082 skin mucus
+obo:BTO_0005097 skin stem cell
+obo:BTO_0002317 slow muscle
+obo:BTO_0000189 small cell lung cancer cell
+obo:BTO_0002206 small cell lung cancer cell line
+obo:BTO_0000651 small intestine
+obo:BTO_0001537 small intestine cell line
+obo:BTO_0001259 small intestine mucosa
+obo:BTO_0003272 small saphenous vein
+obo:BTO_0003227 SMMC-7721 cell
+obo:BTO_0001260 smooth muscle
+obo:BTO_0004576 smooth muscle cell
+obo:BTO_0003548 SMS-KCN cell
+obo:BTO_0004221 SN-12C cell
+obo:BTO_0003556 SN-56 cell
+obo:CLO_0009097 SNU-387 cell
+obo:BTO_0003478 SNU-638 cell
+obo:BTO_0001262 soft body part
+obo:BTO_0004779 soft tissue sarcoma cell
+obo:BTO_0004780 soft tissue sarcoma cell line
+obo:BTO_0001265 soleus
+obo:BTO_0002294 solid substrate culture
+obo:BTO_0001268 somatic cell
+obo:BTO_0001138 somatic embryo
+obo:BTO_0004353 somatosensory cortex
+obo:BTO_0001558 somite
+obo:BTO_0001269 spadix
+obo:BTO_0001270 spear
+obo:BTO_0002407 spermary
+obo:BTO_0001273 spermatheca
+obo:BTO_0001274 spermatid
+obo:BTO_0001275 spermatocyte
+obo:BTO_0000958 spermatogonium
+obo:BTO_0002046 spermatozoid
+obo:BTO_0001277 spermatozoon
+obo:BTO_0001278 spike
+obo:BTO_0002119 spikelet
+obo:BTO_0000818 spinal column
+obo:BTO_0001279 spinal cord
+obo:BTO_0001264 spinal ganglion
+obo:BTO_0002621 spinal muscle
+obo:BTO_0000870 spinal nerve
+obo:BTO_0000883 spinal root
+obo:BTO_0003651 spindle cell
+obo:BTO_0001691 spiral organ
+obo:BTO_0001281 spleen
+obo:BTO_0003788 splenial gyrus
+obo:BTO_0000747 sporangiospore
+obo:BTO_0001287 sporangium
+obo:BTO_0001290 sporocarp
+obo:BTO_0000735 sporophyte
+obo:BTO_0001292 sporozoite
+obo:BTO_0001293 sporulated oocyst
+obo:BTO_0001294 sporulating cell
+obo:BTO_0001296 sprout
+obo:BTO_0001297 sputum
+obo:BTO_0001289 squamous cell carcinoma cell
+obo:BTO_0002024 squamous cell carcinoma cell line
+obo:BTO_0002072 squamous epithelium
+obo:BTO_0001559 stamen
+obo:BTO_0001899 stationary phase culture
+obo:BTO_0003758 STAV-AB cell
+obo:BTO_0001299 stele
+obo:BTO_0002316 stellate cell
+obo:BTO_0001815 stellate ganglion
+obo:BTO_0001300 stem
+obo:BTO_0001816 stem nodule
+obo:BTO_0001721 sternal cartilage
+obo:BTO_0005125 sternocleidomastoid muscle
+obo:BTO_0001302 sternum
+obo:BTO_0001303 stigma
+obo:BTO_0002067 stinger
+obo:BTO_0001304 stipe
+obo:BTO_0001305 stipule
+obo:BTO_0001306 stolon
+obo:BTO_0000052 stoma
+obo:BTO_0001307 stomach
+obo:BTO_0001818 stomach smooth muscle
+obo:BTO_0004224 stomodeum
+obo:BTO_0001310 storage tissue
+obo:BTO_0002074 stratified epithelium
+obo:BTO_0004680 stratum basale
+obo:BTO_0000344 stratum corneum
+obo:BTO_0000438 stratum germinativum
+obo:BTO_0000361 stratum granulosum
+obo:BTO_0004425 stratum granulosum cerebelli
+obo:BTO_0000364 stratum lucidum
+obo:BTO_0000435 stratum spinosum
+obo:BTO_0001819 stria vascularis
+obo:BTO_0004703 striate cortex
+obo:BTO_0002916 striated muscle cell
+obo:BTO_0004776 striatonigral neuron
+obo:BTO_0002064 stromal cell
+obo:BTO_0001313 style
+obo:BTO_0000230 subarachnoid space
+obo:BTO_0001820 subcommissural organ
+obo:BTO_0004042 subcutaneous adipose tissue
+obo:BTO_0004525 subcutaneous tissue
+obo:BTO_0001314 subcutis
+obo:BTO_0002082 subdural space
+obo:BTO_0001821 subesophageal ganglion
+obo:BTO_0003087 subiculum
+obo:BTO_0001315 sublingual gland
+obo:BTO_0001318 submandibular ganglion
+obo:BTO_0001316 submandibular gland
+obo:BTO_0004556 submandibular gland duct
+obo:BTO_0004503 submerged culture
+obo:BTO_0002107 submucosa
+obo:BTO_0003751 submucosal gland
+obo:BTO_0003401 subpallium
+obo:BTO_0000143 substantia nigra
+obo:BTO_0002252 subthalamic nucleus
+obo:BTO_0003090 subventricular zone
+obo:BTO_0005388 SUM-149 cell
+obo:CLO_0009164 SUP-T1 cell
+obo:BTO_0004549 superficial inguinal lymph node
+obo:BTO_0003747 superficial temporal artery
+obo:BTO_0003748 superficial temporal vein
+obo:BTO_0001325 superior cervical ganglion
+obo:BTO_0004836 superior frontal gyrus
+obo:BTO_0002303 superior mesenteric artery
+obo:BTO_0002683 superior vena cava
+obo:BTO_0004372 superior vestibular nucleus
+obo:BTO_0002315 supporting cell
+obo:BTO_0001822 suprachiasmatic nucleus
+obo:BTO_0002697 supraoptic nucleus
+obo:CLO_0009183 SW-1116 cell
+obo:CLO_0009217 SW-480 cell
+obo:CLO_0009196 SW-620 cell
+obo:CLO_0009222 SW-626 cell
+obo:CLO_0009225 SW-948 cell
+obo:BTO_0001254 sweat
+obo:BTO_0001331 sweat gland
+obo:BTO_0001607 swim bladder
+obo:BTO_0004921 swine testicular cell line
+obo:BTO_0001834 sympathetic chain
+obo:BTO_0001832 sympathetic nervous system
+obo:BTO_0001335 syncytiotrophoblast
+obo:BTO_0001871 synganglion
+obo:BTO_0001339 synovia
+obo:BTO_0003652 synovial cell
+obo:BTO_0003436 synovial cell line
+obo:BTO_0001336 synovial fibroblast
+obo:BTO_0001824 synovial sarcoma cell
+obo:BTO_0001338 synovial tissue
+obo:BTO_0001823 synovium
+obo:BTO_0001106 T-cell acute lymphoblastic leukemia cell
+obo:BTO_0003505 T-cell chronic lymphocytic leukemia cell
+obo:BTO_0001825 T-cell lymphoma cell
+obo:BTO_0001826 T-lymphoblast
+obo:BTO_0002629 T-lymphoblastoid cell line
+obo:BTO_0002627 T-lymphoblastoma cell
+obo:BTO_0000782 T-lymphocyte
+obo:BTO_0001045 T-lymphocyte cell line
+obo:BTO_0003212 T-lymphoma cell line
+obo:BTO_0005238 T-REx 293 cell
+obo:BTO_0003860 T/C-28a2 cell
+obo:BTO_0003771 T2 cell
+obo:BTO_0002864 T3M4 cell
+obo:CLO_0009254 T84 cell
+obo:CLO_0009258 T98G cell
+obo:BTO_0001346 tachyzoite
+obo:BTO_0004770 TAD-2 cell
+obo:BTO_0001347 tadpole
+obo:BTO_0001348 tail
+obo:BTO_0001445 tail bud
+obo:BTO_0001827 tail fin
+obo:BTO_0001905 tail muscle
+obo:BTO_0003737 tailbud stage
+obo:BTO_0004609 TALH cell
+obo:BTO_0002354 talus
+obo:BTO_0004226 TAMH cell
+obo:BTO_0001953 tanycyte
+obo:BTO_0001350 tapetum
+obo:BTO_0001828 tapetum lucidum
+obo:BTO_0002343 tarsal bone
+obo:BTO_0001830 tassel
+obo:BTO_0000989 taste bud
+obo:BTO_0001399 Tay-Sachs disease specific cell type
+obo:BTO_0001972 TBY-2 cell
+obo:BTO_0004601 TE-1 cell
+obo:BTO_0004599 TE-13 cell
+obo:CLO_0009317 TE-671 cell
+obo:CLO_0009320 TE-8 cell
+obo:BTO_0001499 tear
+obo:BTO_0000044 tear gland
+obo:BTO_0001793 tectum mesencephali
+obo:BTO_0003388 tegmentum
+obo:BTO_0000239 telencephalon
+obo:BTO_0001353 telson
+obo:BTO_0001355 temporal lobe
+obo:BTO_0003674 temporomandibular joint
+obo:BTO_0001356 tendon
+obo:BTO_0000051 tendon sheath
+obo:BTO_0001500 tendril
+obo:BTO_0003738 tenia tecta
+obo:BTO_0001357 tentacle
+obo:BTO_0001728 tepal
+obo:BTO_0000223 teratocarcinoma cell
+obo:BTO_0000306 teratocarcinoma cell line
+obo:BTO_0004769 teratocyte
+obo:BTO_0003657 tergal gland
+obo:BTO_0003658 tergal gland secretion
+obo:BTO_0003223 terminal bronchiole
+obo:BTO_0000279 testicular cancer cell
+obo:BTO_0004229 testicular cell line
+obo:BTO_0002678 testicular vein
+obo:BTO_0001363 testis
+obo:CLO_0009326 TF-1 cell
+obo:BTO_0002888 Th-1 cell line
+obo:BTO_0001679 Th2-cell
+obo:BTO_0002452 thalamic nucleus
+obo:BTO_0001365 thalamus
+obo:BTO_0001366 thallus
+obo:BTO_0004498 THCE cell
+obo:BTO_0002850 theca cell
+obo:BTO_0002852 theca externa
+obo:BTO_0002851 theca interna
+obo:BTO_0001376 thigh
+obo:BTO_0001367 thigh muscle
+obo:BTO_0001831 thoracic ganglion
+obo:BTO_0004150 thoracic spine
+obo:BTO_0004634 thoracico-abdominal ganglion
+obo:BTO_0001368 thorax
+obo:BTO_0000828 throat
+obo:BTO_0001455 thymic carcinoma cell
+obo:BTO_0002934 thymic cortex
+obo:BTO_0004562 thymic cortical epithelial cell
+obo:BTO_0004564 thymic dendritic cell
+obo:BTO_0001836 thymic epithelium
+obo:BTO_0004560 thymic medulla
+obo:BTO_0004563 thymic medullary epithelial cell
+obo:BTO_0004565 thymic medullary epithelium
+obo:BTO_0004561 thymic stromal cell
+obo:BTO_0001372 thymocyte
+obo:BTO_0001454 thymoma cell
+obo:BTO_0001374 thymus
+obo:BTO_0000196 thyroid cancer cell
+obo:BTO_0001610 thyroid cancer cell line
+obo:BTO_0003655 thyroid cartilage
+obo:BTO_0001876 thyroid cell line
+obo:BTO_0003736 thyroid epithelial cell
+obo:BTO_0004708 thyroid follicle
+obo:BTO_0001379 thyroid gland
+obo:BTO_0002617 thyroid nodule
+obo:BTO_0004709 thyroid primordium
+obo:BTO_0001252 tibia
+obo:BTO_0000207 tibial cartilage
+obo:BTO_0001382 tibialis anterior
+obo:BTO_0000867 tibialis posterior
+obo:BTO_0001384 tissue culture
+obo:BTO_0000000 tissues, cell types and enzyme sources
+obo:CLO_0009357 TK6 cell
+obo:BTO_0003219 TMK-1 cell
+obo:BTO_0002348 toe
+obo:BTO_0001385 tongue
+obo:BTO_0004976 tongue cancer cell
+obo:BTO_0000885 tongue cell line
+obo:BTO_0000992 tongue epithelium
+obo:BTO_0001386 tongue muscle
+obo:BTO_0001387 tonsil
+obo:BTO_0000397 tooth
+obo:BTO_0001838 tooth bud
+obo:BTO_0001844 tooth enamel
+obo:BTO_0001511 tooth germ
+obo:BTO_0002959 TP17 cell
+obo:BTO_0002501 trabecula
+obo:BTO_0001388 trachea
+obo:BTO_0004641 tracheal cell line
+obo:BTO_0001389 tracheal epithelium
+obo:BTO_0001391 tracheal smooth muscle
+obo:BTO_0002927 tracheobronchial epithelial cell
+obo:BTO_0002926 tracheobronchial epithelial cell line
+obo:BTO_0002925 tracheobronchial epithelium
+obo:CLO_0009401 TRAMP-C1 cell
+obo:BTO_0002815 transitional cell carcinoma cell
+obo:BTO_0002869 transitional cell carcinoma cell line
+obo:BTO_0001395 trichome
+obo:BTO_0001231 trigeminal ganglion
+obo:BTO_0001072 trigeminal nerve
+obo:BTO_0003869 tritocerebrum
+obo:BTO_0001840 trophectoderm
+obo:BTO_0001079 trophoblast
+obo:BTO_0003420 trophoblast cell line
+obo:BTO_0005362 trophoblast giant cell
+obo:BTO_0004774 trophoblast stem cell
+obo:BTO_0004773 trophoblast stem cell line
+obo:BTO_0001396 trophosome tissue
+obo:BTO_0001397 trophozoite
+obo:BTO_0003141 true leaf
+obo:BTO_0001493 trunk
+obo:BTO_0005188 trunk kidney
+obo:BTO_0004243 trypanosomoid cell line
+obo:BTO_0001398 trypomastigote
+obo:BTO_0005283 TS-20 cell
+obo:BTO_0004232 tsA-201 cell
+obo:BTO_0001065 Tsu-Pr1 cell
+obo:CLO_0009421 TT cell
+obo:BTO_0004965 TTA-1 cell
+obo:BTO_0001919 tube foot
+obo:BTO_0001400 tuber
+obo:BTO_0001401 tuber cortex
+obo:BTO_0002173 tubercle
+obo:BTO_0001309 tuberous root
+obo:BTO_0002012 tunica intima vasorum
+obo:BTO_0002616 turion
+obo:BTO_0001411 twig
+obo:BTO_0001704 twitch muscle
+obo:BTO_0002128 TX3868 cell
+obo:BTO_0002098 tympanum
+obo:BTO_0005059 TZM-bl cell

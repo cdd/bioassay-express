@@ -1,0 +1,107 @@
+.login_container {
+	display: grid;
+	grid-template-columns: 30% 40% 30%;
+	grid-template-rows: repeat(8, auto);
+	align-items: end;
+	font-size: 13px;
+	text-align: center;
+	margin-top: 50px;
+	justify-items: start;
+}
+
+.center {
+	grid-column-start: 2;
+}
+
+.right {
+	grid-column-start: 3;
+}
+
+.login_container .input_text {
+	width: 100%;
+	border: 1px solid #CCD9E8;
+	border-radius: 3px;
+	font-size: 11px;
+	margin-top: 1px;
+}
+
+.buttony {
+	height: 35px;
+	margin-top: 5px;
+	color: white;
+	background-color: #1362B3;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	font-size: 14px;
+}
+
+.buttony:disabled {
+	opacity: 0.65;
+}
+
+#loginheader {
+	grid-row-start: 1;
+	margin-top: 20px;
+}
+
+label {
+	font-weight: 100;
+	padding-left: 3px;
+	padding-right: 5px;
+}
+
+#modeselector {
+	grid-row-start: 2;
+}
+
+#username {
+	grid-row-start: 3;
+}
+
+#password {
+	grid-row-start: 4;
+}
+
+#newpassword1 {
+	grid-row-start: 5;
+}
+
+#newpassword2 {
+	grid-row-start: 6;
+}
+
+#login_submit {
+	grid-row-start: -1;
+}
+
+#errorMain {
+	grid-column-start: 1;
+	grid-row-start: 3;
+	grid-row-end: -2;
+	align-self: center;
+	justify-self: start;
+	text-align: left;
+	line-height: normal;
+}
+
+#error1 {
+	grid-row-start: 5;
+}
+
+#error2 {
+	grid-row-start: 6;
+}
+
+#username {
+	margin-bottom: 5px;
+}
+
+#login_submit {
+	width: 100%;
+}
+
+.error {
+	margin-left: 10px;
+	justify-self: start;
+	color: #FF4444;
+}

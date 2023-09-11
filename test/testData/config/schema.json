@@ -1,0 +1,330 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "description": "Configuration file for BioAssay Express (BAE)",
+    "type": "object",
+    "required": 
+    [
+        "database",
+        "authentication",
+        "identifier",
+        "schema",
+        "templates",
+        "nlp",
+        "curation",
+        "customWeb"
+    ],
+    "properties": 
+    {
+        "database": 
+        {
+            "description": "Database configuration",
+            "type": "object",
+            "properties": 
+            {
+                "host": 
+                {
+                    "type": "string",
+                    "format": "hostname"
+                },
+                "incorrectPattern": 
+                {
+                    "type": "string",
+                    "format": "hostname"
+                },
+                "invalidInteger": 
+                {
+                    "type": "integer",
+                    "default": 0
+                },
+                "invalidNumber": 
+                {
+                    "type": "number"
+                },
+                "name": 
+                {
+                    "type": "string"
+                },
+                "requiredMissing": 
+                {
+                    "type": "string",
+                    "required": true
+                },
+                "requiredDefault": 
+                {
+                    "type": "string",
+                    "required": true,
+                    "default": true
+                },
+                "requiredArrayMissing": 
+                {
+                    "type": "array",
+                    "required": true,
+                    "items": 
+                    {
+                        "type": "string"
+                    }
+                },
+                "arrayMissing": 
+                {
+                    "type": "array",
+                    "required": true,
+                    "items": 
+                    {
+                        "type": "string"
+                    }
+                },
+                "requiredArrayDefaultMissing": 
+                {
+                    "type": "array",
+                    "required": true,
+                    "default": 
+                    [
+                        "A",
+                        "B",
+                        "C"
+                    ],
+                    "items": 
+                    {
+                        "type": "string"
+                    }
+                }
+            }
+        },
+        "authentication": 
+        {
+            "description": "Authentication information (relative or absolute filepath)",
+            "type": "object",
+            "properties": 
+            {
+                "filename": 
+                {
+                    "description": "Relative or absolute filename",
+                    "type": "string",
+                    "validate": "file",
+                    "pattern": "(\\/*\\w\\S*)*\\w"
+                }
+            }
+        },
+        "identifier": 
+        {
+            "description": "Identifier information",
+            "type": "object",
+            "properties": 
+            {
+                "filename": 
+                {
+                    "description": "Relative or absolute filename",
+                    "type": "string",
+                    "pattern": "(\\/*\\w\\S*)*\\w"
+                }
+            }
+        },
+        "schema": 
+        {
+            "description": "Assay schema",
+            "type": "object",
+            "properties": 
+            {
+                "filename": 
+                {
+                    "description": "Relative or absolute filename",
+                    "type": "string",
+                    "pattern": "(\\/*\\w\\S*)*\\w"
+                }
+            }
+        },
+        "templates": 
+        {
+            "description": "Templates",
+            "type": "object",
+            "properties": 
+            {
+                "directory": 
+                {
+                    "description": "Relative or absolute directory name",
+                    "type": "string",
+                    "format": "uri",
+                    "pattern": "(\\/*\\w\\S*)*\\w"
+                },
+                "files": 
+                {
+                    "description": "List of template files in 'directory'",
+                    "type": "array",
+                    "minItems": 1,
+                    "uniqueItems": true,
+                    "items": 
+                    {
+                        "type": "string",
+                        "pattern": "\\w[\\w\\-\\.]*\\w"
+                    }
+                }
+            }
+        },
+        "nlp": 
+        {
+            "description": "nlp ",
+            "type": "object",
+            "properties": 
+            {
+                "directory": 
+                {
+                    "description": "Relative or absolute directory name",
+                    "type": "string",
+                    "pattern": "(\\/*\\w\\S*)+"
+                }
+            }
+        },
+        "curation": 
+        {
+            "description": "Curation",
+            "type": "object",
+            "properties": 
+            {
+                "directory": 
+                {
+                    "description": "Relative or absolute directory name",
+                    "type": "string",
+                    "pattern": "(\\/*\\w\\S*)+"
+                }
+            }
+        },
+        "customWeb": 
+        {
+            "description": "Custom",
+            "type": "object",
+            "properties": 
+            {
+                "directory": 
+                {
+                    "description": "Relative or absolute directory name",
+                    "type": "string",
+                    "pattern": "(\\/*\\w\\S*)+"
+                }
+            }
+        },
+        "provisional": 
+        {
+            "description": "Provisional extensions",
+            "type": "object",
+            "properties": 
+            {
+                "baseURI": 
+                {
+                    "description": "URI where schema extensions can be found",
+                    "type": "string",
+                    "format": "uri"
+                }
+            }
+        },
+        "modules": 
+        {
+            "description": "Additional modules",
+            "type": "object",
+            "properties": 
+            {
+                "pubchem": 
+                {
+                    "description": "PubChem interface",
+                    "type": "object",
+                    "properties": 
+                    {
+                        "assays": 
+                        {
+                            "description": "Flag controls loading of assays",
+                            "type": "boolean"
+                        },
+                        "compounds": 
+                        {
+                            "description": "Flag controls loading of compounds",
+                            "type": "boolean"
+                        },
+                        "directory": 
+                        {
+                            "description": "Directory name to store assays",
+                            "type": "string",
+                            "pattern": "(\\/*\\w\\S*)+"
+                        }
+                    }
+                },
+                "vault": 
+                {
+                    "description": "CDD-Vault interface",
+                    "type": "object",
+                    "properties": 
+                    {
+                        "apiKey": 
+                        {
+                            "description": "Secret key",
+                            "type": "string",
+                            "pattern": "\\S+"
+                        },
+                        "vaultIDList": 
+                        {
+                            "description": "???",
+                            "type": "array",
+                            "minItems": 1,
+                            "uniqueItems": true,
+                            "items": 
+                            {
+                                "type": "number"
+                            }
+                        },
+                        "propertyMap": 
+                        {
+                            "description": "???",
+                            "type": "object",
+                            "properties": 
+                            {
+                            },
+                            "additionalProperties": 
+                            {
+                                "type": "string"
+                            }
+                        },
+                        "unitsMap": 
+                        {
+                            "description": "???",
+                            "type": "object",
+                            "properties": 
+                            {
+                                "child": 
+                                {
+                                    "type": "string"
+                                }
+                            },
+                            "additionalProperties": 
+                            {
+                                "type": "string"
+                            }
+                        },
+                        "operatorMap": 
+                        {
+                            "description": "???",
+                            "type": "object",
+                            "properties": 
+                            {
+                            },
+                            "additionalProperties": 
+                            {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+		"pages": 
+		{
+			"description": "Frontend configuration",
+			"type": "object",
+			"properties": 
+			{
+				"randomAssay": 
+				{
+					"type": "boolean",
+					"default": true
+				}
+			}
+		}
+    }
+}

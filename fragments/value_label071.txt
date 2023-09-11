@@ -1,0 +1,5000 @@
+obo:CHEMONTID_0001605 Carbonyl hydrates
+obo:CHEMONTID_0001292 Cyclic alcohols and derivatives
+obo:CHEMONTID_0004564 Ethoxyethynyl alcohols
+obo:CHEMONTID_0002286 Polyols
+obo:CHEMONTID_0000286 Primary alcohols
+obo:CHEMONTID_0001661 Secondary alcohols
+obo:CHEMONTID_0001670 Tertiary alcohols
+obo:CHEMONTID_0002509 Cyclitols and derivatives
+obo:CHEMONTID_0002510 Aminocyclitols and derivatives
+obo:CHEMONTID_0004344 Cyclitols
+obo:CHEMONTID_0002511 Inositol phosphates
+obo:CHEMONTID_0002512 Quinic acids and derivatives
+obo:CHEMONTID_0002278 Shikimic acids and derivatves
+obo:CHEMONTID_0004343 Aminocyclitols
+obo:CHEMONTID_0002513 O-galloylquinic acids and derivatives
+obo:CHEMONTID_0002856 1,1-diols
+obo:CHEMONTID_0002467 1,2-diols
+obo:CHEMONTID_0003104 Geminal diols
+obo:CHEMONTID_0002647 Cyclohexanols
+obo:CHEMONTID_0002938 Cyclopentanols
+obo:CHEMONTID_0004807 Methoxides
+obo:CHEMONTID_0003305 Aminosaccharides
+obo:CHEMONTID_0001848 Carbonucleotoids
+obo:CHEMONTID_0001849 Carbopeptoids
+obo:CHEMONTID_0001542 Disaccharides
+obo:CHEMONTID_0002105 Glycosyl compounds
+obo:CHEMONTID_0001540 Monosaccharides
+obo:CHEMONTID_0000198 Oligosaccharides
+obo:CHEMONTID_0000215 Sugar acids and derivatives
+obo:CHEMONTID_0002210 Sugar alcohols
+obo:CHEMONTID_0003303 Amino oligosaccharides
+obo:CHEMONTID_0001148 Amino sugars
+obo:CHEMONTID_0000282 Aminoglycosides
+obo:CHEMONTID_0003572 Guanidinoglycosides
+obo:CHEMONTID_0002276 N-acyl-alpha-hexosamines
+obo:CHEMONTID_0003304 Acylamino oligosaccharides
+obo:CHEMONTID_0000146 Acylaminosugars
+obo:CHEMONTID_0001675 Aminocyclitol glycosides
+obo:CHEMONTID_0003575 2-deoxystreptamine aminoglycosides
+obo:CHEMONTID_0003576 Streptamine aminoglycosides
+obo:CHEMONTID_0003573 4,5-disubstituted 2-deoxystreptamines
+obo:CHEMONTID_0003574 4,6-disubstituted 2-deoxystreptamines
+obo:CHEMONTID_0001380 N-acyl-alpha-hexosamine-1-phosphates
+obo:CHEMONTID_0002281 N-acyl-alpha-hexosamine-6-phosphates
+obo:CHEMONTID_0001599 Disaccharide phosphates
+obo:CHEMONTID_0003307 Disaccharide sulfates
+obo:CHEMONTID_0004101 N-linked disaccharides
+obo:CHEMONTID_0004100 Thio-linked disaccharides
+obo:CHEMONTID_0002204 C-glycosyl compounds
+obo:CHEMONTID_0002365 Cyanogenic glycosides
+obo:CHEMONTID_0002203 Glycosylamines
+obo:CHEMONTID_0002207 O-glycosyl compounds
+obo:CHEMONTID_0004165 Phenolic glycosides
+obo:CHEMONTID_0002206 Selenoglycosides
+obo:CHEMONTID_0002205 Thioglycosides
+obo:CHEMONTID_0003497 Benzofuran-2-C-glycosides
+obo:CHEMONTID_0003499 Benzofuran-5-C-glycosides
+obo:CHEMONTID_0003702 Pyranosyl nitrile oxides
+obo:CHEMONTID_0003498 Benzofuran-2-O-glycosides
+obo:CHEMONTID_0003500 Benzofuran-5-O-glycosides
+obo:CHEMONTID_0001499 Heptoses
+obo:CHEMONTID_0001498 Hexoses
+obo:CHEMONTID_0001541 Monosaccharide phosphates
+obo:CHEMONTID_0003306 Monosaccharide sulfates
+obo:CHEMONTID_0001501 Nonoses
+obo:CHEMONTID_0001500 Octoses
+obo:CHEMONTID_0001497 Pentoses
+obo:CHEMONTID_0001496 Tetroses
+obo:CHEMONTID_0001356 Trioses
+obo:CHEMONTID_0004135 Desulfoglucosinolates
+obo:CHEMONTID_0002262 Gluconolactones
+obo:CHEMONTID_0000373 Glucosinolates
+obo:CHEMONTID_0002260 Hexose phosphates
+obo:CHEMONTID_0003925 Alkylglucosinolates
+obo:CHEMONTID_0002255 Glyceraldehyde-3-phosphates
+obo:CHEMONTID_0002259 Pentose phosphates
+obo:CHEMONTID_0002191 Oligosaccharide phosphates
+obo:CHEMONTID_0003308 Oligosaccharide sulfates
+obo:CHEMONTID_0002094 Glucuronic acid derivatives
+obo:CHEMONTID_0001366 Sugar amino acids and derivatives
+obo:CHEMONTID_0000374 Glucuronides
+obo:CHEMONTID_0002812 Acyl glucuronides
+obo:CHEMONTID_0002815 C-glucuronides
+obo:CHEMONTID_0002814 N-glucuronides
+obo:CHEMONTID_0002813 O-glucuronides
+obo:CHEMONTID_0002816 S-glucuronides
+obo:CHEMONTID_0001698 Bicyclic amino acids and derivatives
+obo:CHEMONTID_0001170 Epoxide amino acids and derivatives
+obo:CHEMONTID_0001696 Furanoid amino acids and derivatives
+obo:CHEMONTID_0001695 Oxetane amino acids and derivatives
+obo:CHEMONTID_0001697 Pyranoid amino acids and derivatives
+obo:CHEMONTID_0001258 Neuraminic acids and derivatives
+obo:CHEMONTID_0003049 N-acylneuraminic acids and derivatives
+obo:CHEMONTID_0003050 Neuraminic acids
+obo:CHEMONTID_0003048 N-acylneuraminic acids
+obo:CHEMONTID_0004261 N-acylneuraminate-9-phosphates
+obo:CHEMONTID_0000133 1,3-dicarbonyl compounds
+obo:CHEMONTID_0002088 Acyloins
+obo:CHEMONTID_0000124 Aldehydes
+obo:CHEMONTID_0003131 Alpha,beta-unsaturated carbonyl compounds
+obo:CHEMONTID_0003677 Alpha-acyloxy carbonyl compounds
+obo:CHEMONTID_0000118 Ketones
+obo:CHEMONTID_0003926 Beta-diketones
+obo:CHEMONTID_0001280 Alpha ketoaldehydes
+obo:CHEMONTID_0002432 Alpha-bromoaldehydes
+obo:CHEMONTID_0002434 Alpha-hydrogen aldehydes
+obo:CHEMONTID_0003675 Alpha-hydroxyaldehydes
+obo:CHEMONTID_0003213 Aryl-aldehydes
+obo:CHEMONTID_0001376 Beta ketoaldehydes
+obo:CHEMONTID_0002435 Beta-hydroxy aldehydes
+obo:CHEMONTID_0002229 Medium-chain aldehydes
+obo:CHEMONTID_0002230 Short-chain aldehydes
+obo:CHEMONTID_0001345 Benzaldehydes
+obo:CHEMONTID_0003978 Hydroxybenzaldehydes
+obo:CHEMONTID_0002433 Alpha,beta-unsaturated aldehydes
+obo:CHEMONTID_0003672 Alpha,beta-unsaturated ketones
+obo:CHEMONTID_0002436 Enals
+obo:CHEMONTID_0002437 Ynals
+obo:CHEMONTID_0003674 Alpha-branched alpha,beta-unsaturated ketones
+obo:CHEMONTID_0003673 b'-hydroxy-alpha,beta-unsaturated ketones
+obo:CHEMONTID_0001363 Enones
+obo:CHEMONTID_0001373 Ynones
+obo:CHEMONTID_0003685 Alpha-acyloxy aldehydes
+obo:CHEMONTID_0003420 Alpha-acyloxy ketones
+obo:CHEMONTID_0000122 Alpha-amino ketones
+obo:CHEMONTID_0001223 Alpha-diketones
+obo:CHEMONTID_0004808 Alpha-haloketones
+obo:CHEMONTID_0002912 Alpha-hydroxy ketones
+obo:CHEMONTID_0003670 Aryl ketones
+obo:CHEMONTID_0000280 Beta-amino ketones
+obo:CHEMONTID_0002913 Beta-hydroxy ketones
+obo:CHEMONTID_0003487 Cyclic ketones
+obo:CHEMONTID_0001118 Gamma-amino ketones
+obo:CHEMONTID_0003444 Glycerone and derivatives
+obo:CHEMONTID_0004809 Alpha-chloroketones
+obo:CHEMONTID_0003671 Aryl alkyl ketones
+obo:CHEMONTID_0004296 Phenylketones
+obo:CHEMONTID_0004298 Alkyl-phenylketones
+obo:CHEMONTID_0004297 Aryl-phenylketones
+obo:CHEMONTID_0004673 Benzoylcyclohexane-1,3-diones
+obo:CHEMONTID_0000156 Adamantanones
+obo:CHEMONTID_0002646 Cyclohexanones
+obo:CHEMONTID_0004325 Cyclohexenones
+obo:CHEMONTID_0000125 Quinomethanes
+obo:CHEMONTID_0002495 Quinones
+obo:CHEMONTID_0002075 M-quinomethanes
+obo:CHEMONTID_0002122 O-quinomethanes
+obo:CHEMONTID_0002123 P-quinomethanes
+obo:CHEMONTID_0004523 Aziridinylquinones
+obo:CHEMONTID_0002384 Benzoquinones
+obo:CHEMONTID_0002851 Iminoquinones
+obo:CHEMONTID_0002386 M-quinones
+obo:CHEMONTID_0002385 O-quinones
+obo:CHEMONTID_0002387 P-quinones
+obo:CHEMONTID_0002493 M-benzoquinones
+obo:CHEMONTID_0002492 O-benzoquinones
+obo:CHEMONTID_0002494 P-benzoquinones
+obo:CHEMONTID_0002522 P-toluquinones
+obo:CHEMONTID_0000152 M-iminoquinones
+obo:CHEMONTID_0002388 O-iminoquinones
+obo:CHEMONTID_0002390 P-iminoquinones
+obo:CHEMONTID_0003446 Glycerone phosphates
+obo:CHEMONTID_0003445 O-alkylglycerones
+obo:CHEMONTID_0003448 O-acylglycerone-phosphates
+obo:CHEMONTID_0003447 O-alkylglycerone phosphates
+obo:CHEMONTID_0004587 Arenediazoates
+obo:CHEMONTID_0001656 Acetals
+obo:CHEMONTID_0000128 Alkyl aryl ethers
+obo:CHEMONTID_0001167 Dialkyl ethers
+obo:CHEMONTID_0002463 Diarylethers
+obo:CHEMONTID_0001009 Enol ethers
+obo:CHEMONTID_0001092 Hemiacetals
+obo:CHEMONTID_0004472 Ketals
+obo:CHEMONTID_0003338 Polyethylene glycols
+obo:CHEMONTID_0001215 Heterocyclic diaryl ethers
+obo:CHEMONTID_0001216 Homocyclic diaryl ethers
+obo:CHEMONTID_0004669 Pyrimidinyloxybenzylamines
+obo:CHEMONTID_0002539 Hemiketals
+obo:CHEMONTID_0003799 Phosphorothioate polynucleotides
+obo:CHEMONTID_0003302 Polycarbamates
+obo:CHEMONTID_0003301 Polynucleotides
+obo:CHEMONTID_0003298 Polypeptides
+obo:CHEMONTID_0001539 Polysaccharides
+obo:CHEMONTID_0003299 Polystyrenes
+obo:CHEMONTID_0003300 Polyureas
+obo:CHEMONTID_0001690 Polysaccharide phosphates
+obo:CHEMONTID_0003309 Polysaccharide sulfates
+obo:CHEMONTID_0004026 Cyanide salts
+obo:CHEMONTID_0003920 Hydrobromides
+obo:CHEMONTID_0003921 Hydrochlorides
+obo:CHEMONTID_0000126 Organic azides
+obo:CHEMONTID_0004458 Organic bromate salts
+obo:CHEMONTID_0003930 Organic bromide salts
+obo:CHEMONTID_0003931 Organic chloride salts
+obo:CHEMONTID_0004462 Organic chlorite salts
+obo:CHEMONTID_0004460 Organic iodate salts
+obo:CHEMONTID_0003932 Organic iodide salts
+obo:CHEMONTID_0004036 Organic metal salts
+obo:CHEMONTID_0003933 Organic perchlorate salts
+obo:CHEMONTID_0004463 Organic phosphite salts
+obo:CHEMONTID_0004459 Organic selenite salts
+obo:CHEMONTID_0003929 Organic sulfate salts
+obo:CHEMONTID_0004455 Organic sulfite salts
+obo:CHEMONTID_0004457 Organic thiosulfate salts
+obo:CHEMONTID_0004099 Organic alkali metal salts
+obo:CHEMONTID_0004489 Organic beryllium salts
+obo:CHEMONTID_0004493 Organic calcium salts
+obo:CHEMONTID_0004037 Organic metal bromide salts
+obo:CHEMONTID_0004491 Organic metal halides
+obo:CHEMONTID_0003998 Organic metalloid salts
+obo:CHEMONTID_0004040 Organic post-transition metal salts
+obo:CHEMONTID_0003997 Organic transition metal salts
+obo:CHEMONTID_0004488 Organic lithium salts
+obo:CHEMONTID_0003927 Organic potassium salts
+obo:CHEMONTID_0003928 Organic sodium salts
+obo:CHEMONTID_0004078 Organic antimony salts
+obo:CHEMONTID_0004041 Organic aluminium salts
+obo:CHEMONTID_0004051 Organic lead salts
+obo:CHEMONTID_0004038 Organic tin salts
+obo:CHEMONTID_0004067 Triorganotin halide salts
+obo:CHEMONTID_0004068 Triorganotin metal salts
+obo:CHEMONTID_0004075 Organic cadmium salts
+obo:CHEMONTID_0004369 Organic chromium salts
+obo:CHEMONTID_0003995 Organic cobalt salts
+obo:CHEMONTID_0004018 Organic copper salts
+obo:CHEMONTID_0004063 Organic silver salts
+obo:CHEMONTID_0004064 Transition metal cyanide salts
+obo:CHEMONTID_0004604 Diazonium sulfates
+obo:CHEMONTID_0002865 Acyl halides
+obo:CHEMONTID_0002867 Alkyl halides
+obo:CHEMONTID_0002866 Aryl halides
+obo:CHEMONTID_0003876 Carbothioic halides
+obo:CHEMONTID_0004565 Haloacetylenes and derivatives
+obo:CHEMONTID_0003903 Haloalkenes
+obo:CHEMONTID_0002528 Halohydrins
+obo:CHEMONTID_0002870 Imidoyl halides
+obo:CHEMONTID_0002869 Organic sulfuryl halides
+obo:CHEMONTID_0001514 Organoastatides
+obo:CHEMONTID_0001515 Organobromides
+obo:CHEMONTID_0001516 Organochlorides
+obo:CHEMONTID_0001517 Organofluorides
+obo:CHEMONTID_0001518 Organoiodides
+obo:CHEMONTID_0000506 Sulfonyl halides
+obo:CHEMONTID_0002868 Vinyl halides
+obo:CHEMONTID_0001519 Acyl astatides
+obo:CHEMONTID_0001017 Acyl bromides
+obo:CHEMONTID_0001022 Acyl chlorides
+obo:CHEMONTID_0001023 Acyl fluorides
+obo:CHEMONTID_0001024 Acyl iodides
+obo:CHEMONTID_0001025 Alkyl bromides
+obo:CHEMONTID_0001026 Alkyl chlorides
+obo:CHEMONTID_0001027 Alkyl fluorides
+obo:CHEMONTID_0001028 Alkyl iodides
+obo:CHEMONTID_0004485 Cyclohexyl halides
+obo:CHEMONTID_0004157 Halomethanes
+obo:CHEMONTID_0004521 Chlorofluorocarbons
+obo:CHEMONTID_0004522 Hydrofluorocarbons
+obo:CHEMONTID_0003967 Fluorotelomer alcohols
+obo:CHEMONTID_0004050 Perfluoroalkanesulfonyl fluorides
+obo:CHEMONTID_0003962 Perfluoroalkyl carboxylic acid and derivatives
+obo:CHEMONTID_0003963 Perfluoroalkyl phosphonic acid and derivatives
+obo:CHEMONTID_0003961 Perfluoroalkyl sulfonic acid and derivatives
+obo:CHEMONTID_0003958 Perfluorooctanoic acid and derivatives
+obo:CHEMONTID_0003959 Perfluorooctane phosphonic acid and derivatives
+obo:CHEMONTID_0004047 Perfluoroalkane N,N-alkylsulfonamides
+obo:CHEMONTID_0004046 Perfluoroalkane N-alkylsulfonamides
+obo:CHEMONTID_0004049 Perfluoroalkane sulfonamidoacetals
+obo:CHEMONTID_0004048 Perfluoroalkane sulfonamidoethanols
+obo:CHEMONTID_0003966 Perfluoroalkyl sulfonamides
+obo:CHEMONTID_0003960 Perfluorooctane sulfonic acid and derivatives
+obo:CHEMONTID_0004160 Trihalomethanes
+obo:CHEMONTID_0001029 Aryl bromides
+obo:CHEMONTID_0001030 Aryl chlorides
+obo:CHEMONTID_0001031 Aryl fluorides
+obo:CHEMONTID_0001032 Aryl iodides
+obo:CHEMONTID_0003904 Bromoalkenes
+obo:CHEMONTID_0003905 Chloroalkenes
+obo:CHEMONTID_0003906 Fluoroalkenes
+obo:CHEMONTID_0003907 Iodoalkenes
+obo:CHEMONTID_0002607 Bromohydrins
+obo:CHEMONTID_0002608 Chlorohydrins
+obo:CHEMONTID_0002609 Fluorohydrins
+obo:CHEMONTID_0002610 Iodohydrins
+obo:CHEMONTID_0003887 Cyclic imidoyl halides
+obo:CHEMONTID_0001033 Imidoyl bromides
+obo:CHEMONTID_0001034 Imidoyl chlorides
+obo:CHEMONTID_0001035 Imidoyl fluorides
+obo:CHEMONTID_0001036 Imidoyl iodides
+obo:CHEMONTID_0001037 Organic sulfuryl bromides
+obo:CHEMONTID_0001038 Organic sulfuryl chlorides
+obo:CHEMONTID_0001039 Organic sulfuryl fluorides
+obo:CHEMONTID_0001040 Organic sulfuryl iodides
+obo:CHEMONTID_0003274 Idoso compounds
+obo:CHEMONTID_0003275 Idoxy compounds
+obo:CHEMONTID_0001041 Sulfonyl bromides
+obo:CHEMONTID_0001042 Sulfonyl chlorides
+obo:CHEMONTID_0001043 Sulfonyl fluorides
+obo:CHEMONTID_0001044 Sulfonyl iodides
+obo:CHEMONTID_0002864 Vinyl bromides
+obo:CHEMONTID_0002863 Vinyl chlorides
+obo:CHEMONTID_0002861 Vinyl fluorides
+obo:CHEMONTID_0002862 Vinyl iodides
+obo:CHEMONTID_0003888 Vinylogous halides
+obo:CHEMONTID_0004401 1,3-thiazolo[5,4-d]pyrimidines
+obo:CHEMONTID_0004236 6-Thiathiophenes
+obo:CHEMONTID_0004139 Azacyclic compounds
+obo:CHEMONTID_0003477 Azaphilones
+obo:CHEMONTID_0000130 Azaspirodecane derivatives
+obo:CHEMONTID_0000307 Azepanes
+obo:CHEMONTID_0000069 Azepines
+obo:CHEMONTID_0000102 Azetidines
+obo:CHEMONTID_0000103 Aziridines
+obo:CHEMONTID_0000104 Azirines
+obo:CHEMONTID_0003370 Azobenzenes
+obo:CHEMONTID_0000436 Azoles
+obo:CHEMONTID_0002491 Azolidines
+obo:CHEMONTID_0002490 Azolines
+obo:CHEMONTID_0000293 Benzazepines
+obo:CHEMONTID_0000294 Benzimidazoles
+obo:CHEMONTID_0002332 Benzisoxazoles
+obo:CHEMONTID_0004659 Benzo-1,2,3-triazines
+obo:CHEMONTID_0002351 Benzocycloheptapyridines
+obo:CHEMONTID_0000295 Benzodiazepines
+obo:CHEMONTID_0002699 Benzodioxanes
+obo:CHEMONTID_0002100 Benzodioxins
+obo:CHEMONTID_0000296 Benzodioxoles
+obo:CHEMONTID_0002804 Benzodithiins
+obo:CHEMONTID_0000301 Benzofurans
+obo:CHEMONTID_0000123 Benzopyrans
+obo:CHEMONTID_0001629 Benzopyrazoles
+obo:CHEMONTID_0002323 Benzothiadiazoles
+obo:CHEMONTID_0000317 Benzothiazepines
+obo:CHEMONTID_0000309 Benzothiazines
+obo:CHEMONTID_0000311 Benzothiazoles
+obo:CHEMONTID_0000231 Benzothiepins
+obo:CHEMONTID_0000312 Benzothiophenes
+obo:CHEMONTID_0003412 Benzothiopyrans
+obo:CHEMONTID_0000315 Benzotriazoles
+obo:CHEMONTID_0001930 Benzoxadiazoles
+obo:CHEMONTID_0002059 Benzoxathiins
+obo:CHEMONTID_0001875 Benzoxathioles
+obo:CHEMONTID_0000319 Benzoxazepines
+obo:CHEMONTID_0001396 Benzoxazines
+obo:CHEMONTID_0000302 Benzoxazoles
+obo:CHEMONTID_0000006 Benzoxazolines
+obo:CHEMONTID_0001910 Benzoxepines
+obo:CHEMONTID_0002021 Bi- and oligothiophenes
+obo:CHEMONTID_0000244 Biotin and derivatives
+obo:CHEMONTID_0003878 Carbodithiolactones
+obo:CHEMONTID_0004189 Coumarans
+obo:CHEMONTID_0002936 Cycloheptafurans
+obo:CHEMONTID_0002937 Cycloheptapyrans
+obo:CHEMONTID_0002338 Cycloheptathiophenes
+obo:CHEMONTID_0003985 Diarsolanes
+obo:CHEMONTID_0004788 Diazanaphthalenes
+obo:CHEMONTID_0002061 Diazaphospholanes
+obo:CHEMONTID_0002063 Diazaphospholes
+obo:CHEMONTID_0002062 Diazaphospholines
+obo:CHEMONTID_0000191 Diazaspirononane derivatives
+obo:CHEMONTID_0002920 Diazepanes
+obo:CHEMONTID_0000071 Diazepines
+obo:CHEMONTID_0002546 Diazetidines
+obo:CHEMONTID_0002389 Diazinanes
+obo:CHEMONTID_0001346 Diazines
+obo:CHEMONTID_0002691 Diazirines
+obo:CHEMONTID_0001008 Dibenzazecins
+obo:CHEMONTID_0001983 Dihydrofurans
+obo:CHEMONTID_0002958 Dihydroisoquinolines
+obo:CHEMONTID_0002091 Dihydrothiophenes
+obo:CHEMONTID_0002225 Dioxaborolanes
+obo:CHEMONTID_0002226 Dioxaboroles
+obo:CHEMONTID_0000368 Dioxanes
+obo:CHEMONTID_0000822 Dioxaphospholanes
+obo:CHEMONTID_0002486 Dioxathiolanes
+obo:CHEMONTID_0002943 Dioxepanes
+obo:CHEMONTID_0002939 Dioxepines
+obo:CHEMONTID_0000412 Dioxetanes
+obo:CHEMONTID_0001384 Dioxins
+obo:CHEMONTID_0002109 Dioxiranes
+obo:CHEMONTID_0000105 Dioxolanes
+obo:CHEMONTID_0000193 Dioxoles
+obo:CHEMONTID_0001985 Dioxolopyrans
+obo:CHEMONTID_0003691 Diselenins
+obo:CHEMONTID_0001863 Dithianes
+obo:CHEMONTID_0000378 Dithietanes
+obo:CHEMONTID_0002055 Dithiins
+obo:CHEMONTID_0000484 Dithiolanes
+obo:CHEMONTID_0002090 Dithioles
+obo:CHEMONTID_0000159 Epoxides
+obo:CHEMONTID_0002530 Epoxypiperidines
+obo:CHEMONTID_0000076 Furans
+obo:CHEMONTID_0004416 Furo[2,3-d]pyrimidines
+obo:CHEMONTID_0001816 Furofurans
+obo:CHEMONTID_0001818 Furopyrans
+obo:CHEMONTID_0004407 Furopyridines
+obo:CHEMONTID_0001918 Furopyrroles
+obo:CHEMONTID_0004144 Heteroaromatic compounds
+obo:CHEMONTID_0004378 Imidazo[1,2-a][1,2,4]triazines
+obo:CHEMONTID_0004376 Imidazo[1,2-a]pyrazin-8-ones
+obo:CHEMONTID_0004396 Imidazo[1,2-a]pyridines
+obo:CHEMONTID_0004377 Imidazo[1,2-a]pyrimidines
+obo:CHEMONTID_0004379 Imidazo[1,2-d][1,2,4]triazines
+obo:CHEMONTID_0004388 Imidazo[1,5-a]pyrazines
+obo:CHEMONTID_0004380 Imidazo[2,1-c][1,2,4]triazines
+obo:CHEMONTID_0004381 Imidazo[4,3-c][1,2,4]triazines
+obo:CHEMONTID_0001979 Imidazodiazepines
+obo:CHEMONTID_0000796 Imidazodithiazoles
+obo:CHEMONTID_0002627 Imidazopiperidines
+obo:CHEMONTID_0003589 Imidazopyrazines
+obo:CHEMONTID_0000328 Imidazopyridines
+obo:CHEMONTID_0001797 Imidazopyrimidines
+obo:CHEMONTID_0002001 Imidazotetrazines
+obo:CHEMONTID_0000756 Imidazothiazoles
+obo:CHEMONTID_0003886 Imidolactams
+obo:CHEMONTID_0004345 Indeno[1,2-c]pyrazoles
+obo:CHEMONTID_0000211 Indoles and derivatives
+obo:CHEMONTID_0000251 Indolizidines
+obo:CHEMONTID_0003408 Isobenzofurans
+obo:CHEMONTID_0004191 Isocoumarans
+obo:CHEMONTID_0001819 Isoindoles and derivatives
+obo:CHEMONTID_0002566 Isoquinolines and derivatives
+obo:CHEMONTID_0002835 Isothiochromanes
+obo:CHEMONTID_0002498 Isothiochromenes
+obo:CHEMONTID_0002331 Isoxazolopyrazines
+obo:CHEMONTID_0002330 Isoxazolopyridines
+obo:CHEMONTID_0000160 Lactams
+obo:CHEMONTID_0002854 Lactims
+obo:CHEMONTID_0000050 Lactones
+obo:CHEMONTID_0002052 Metalloheterocyclic compounds
+obo:CHEMONTID_0001634 Naphthofurans
+obo:CHEMONTID_0001640 Naphthopyrans
+obo:CHEMONTID_0002114 Naphthothiazoles
+obo:CHEMONTID_0003222 Organoboroxines
+obo:CHEMONTID_0004140 Oxacyclic compounds
+obo:CHEMONTID_0004736 Oxadiazines
+obo:CHEMONTID_0002012 Oxanes
+obo:CHEMONTID_0000782 Oxaphospholanes
+obo:CHEMONTID_0001889 Oxathianes
+obo:CHEMONTID_0002649 Oxathiaphospholanes
+obo:CHEMONTID_0002578 Oxathiazolidines
+obo:CHEMONTID_0001886 Oxathietanes
+obo:CHEMONTID_0002058 Oxathiins
+obo:CHEMONTID_0000106 Oxathiolanes
+obo:CHEMONTID_0002261 Oxathioles
+obo:CHEMONTID_0002466 Oxazaphosphinanes
+obo:CHEMONTID_0000066 Oxazepines
+obo:CHEMONTID_0000107 Oxazinanes
+obo:CHEMONTID_0000082 Oxazines
+obo:CHEMONTID_0003092 Oxaziridines
+obo:CHEMONTID_0002197 Oxazolopyrazines
+obo:CHEMONTID_0002118 Oxazolopyridines
+obo:CHEMONTID_0001729 Oxepanes
+obo:CHEMONTID_0000070 Oxetanes
+obo:CHEMONTID_0000073 Oxetenes
+obo:CHEMONTID_0004170 Oxirenes
+obo:CHEMONTID_0001796 Oxocins
+obo:CHEMONTID_0001967 Oxolanes
+obo:CHEMONTID_0001626 Phenanthrolines
+obo:CHEMONTID_0004166 Phenoselenazines
+obo:CHEMONTID_0004141 Phosphacyclic compounds
+obo:CHEMONTID_0004507 Phosphiranes
+obo:CHEMONTID_0002000 Piperazinoazepines
+obo:CHEMONTID_0002377 Piperazinopiperidines
+obo:CHEMONTID_0000195 Piperidines
+obo:CHEMONTID_0001730 Piperidinylpyridines
+obo:CHEMONTID_0000109 Pteridines and derivatives
+obo:CHEMONTID_0003697 Pyrano[3,4-c]pyridazines
+obo:CHEMONTID_0002011 Pyranodioxins
+obo:CHEMONTID_0002111 Pyranopyridines
+obo:CHEMONTID_0002129 Pyranopyrimidines
+obo:CHEMONTID_0000086 Pyrans
+obo:CHEMONTID_0004382 Pyrazolo[1',5':1,6]pyrimido[4,5-d]pyridazines
+obo:CHEMONTID_0004372 Pyrazolo[1,5-a][1,3,5]triazines
+obo:CHEMONTID_0004371 Pyrazolo[1,5-b]pyridazines
+obo:CHEMONTID_0004373 Pyrazolo[1,5-d][1,2,4]triazines
+obo:CHEMONTID_0004370 Pyrazolo[3,4-b]pyrazines
+obo:CHEMONTID_0004375 Pyrazolo[4,3-e]pyrrolo[1,2-a]pyrazines
+obo:CHEMONTID_0002127 Pyrazolopyrazoles
+obo:CHEMONTID_0000304 Pyrazolopyridines
+obo:CHEMONTID_0000305 Pyrazolopyrimidines
+obo:CHEMONTID_0002005 Pyrazolotriazines
+obo:CHEMONTID_0000089 Pyridines and derivatives
+obo:CHEMONTID_0003690 Pyrido[3,4-c]pyridazines
+obo:CHEMONTID_0002782 Pyridodiazepines
+obo:CHEMONTID_0004405 Pyridopyrazines
+obo:CHEMONTID_0001859 Pyridopyrimidines
+obo:CHEMONTID_0001132 Pyrimidodiazepines
+obo:CHEMONTID_0000090 Pyrroles
+obo:CHEMONTID_0000218 Pyrrolidines
+obo:CHEMONTID_0000091 Pyrrolines
+obo:CHEMONTID_0000220 Pyrrolizidines
+obo:CHEMONTID_0000219 Pyrrolizines
+obo:CHEMONTID_0003770 Pyrrolo[3,4-d]pyridazines
+obo:CHEMONTID_0001990 Pyrroloazepines
+obo:CHEMONTID_0000343 Pyrrolopyrazines
+obo:CHEMONTID_0002128 Pyrrolopyrazoles
+obo:CHEMONTID_0000213 Pyrrolopyridines
+obo:CHEMONTID_0001799 Pyrrolopyrimidines
+obo:CHEMONTID_0001834 Pyrrolothiazoles
+obo:CHEMONTID_0001798 Pyrrolotriazines
+obo:CHEMONTID_0003787 Quinolidines
+obo:CHEMONTID_0001253 Quinolines and derivatives
+obo:CHEMONTID_0000221 Quinolizidines
+obo:CHEMONTID_0000222 Quinolizines
+obo:CHEMONTID_0000252 Quinuclidines
+obo:CHEMONTID_0003696 Selenanthrenes
+obo:CHEMONTID_0002428 Selenazoles
+obo:CHEMONTID_0004169 Selenophenes
+obo:CHEMONTID_0000509 Sultams
+obo:CHEMONTID_0001387 Sultims
+obo:CHEMONTID_0002648 Tetrahydrofurans
+obo:CHEMONTID_0002955 Tetrahydroisoquinolines
+obo:CHEMONTID_0001455 Tetrapyrroles and derivatives
+obo:CHEMONTID_0002050 Tetrathianes
+obo:CHEMONTID_0000092 Tetrazines
+obo:CHEMONTID_0003094 Thiadiazinanes
+obo:CHEMONTID_0000224 Thiadiazines
+obo:CHEMONTID_0001894 Thianes
+obo:CHEMONTID_0002561 Thiatriazoles
+obo:CHEMONTID_0000068 Thiazepines
+obo:CHEMONTID_0001881 Thiazetidines
+obo:CHEMONTID_0001884 Thiazinanes
+obo:CHEMONTID_0000094 Thiazines
+obo:CHEMONTID_0000493 Thiaziridines
+obo:CHEMONTID_0002313 Thienodiazepines
+obo:CHEMONTID_0000243 Thienoimidazoles
+obo:CHEMONTID_0001446 Thienoimidazolidines
+obo:CHEMONTID_0001965 Thienopyrans
+obo:CHEMONTID_0003352 Thienopyridazines
+obo:CHEMONTID_0000344 Thienopyridines
+obo:CHEMONTID_0002020 Thienopyrimidines
+obo:CHEMONTID_0001833 Thienopyrroles
+obo:CHEMONTID_0001928 Thienothiazines
+obo:CHEMONTID_0001929 Thienothiazoles
+obo:CHEMONTID_0004193 Thienothiophenes
+obo:CHEMONTID_0000003 Thiepanes
+obo:CHEMONTID_0000096 Thiepins
+obo:CHEMONTID_0000359 Thietanes
+obo:CHEMONTID_0000360 Thietes
+obo:CHEMONTID_0000377 Thiiranes
+obo:CHEMONTID_0002675 Thiirenes
+obo:CHEMONTID_0002834 Thiochromanes
+obo:CHEMONTID_0002499 Thiochromenes
+obo:CHEMONTID_0000166 Thiolactams
+obo:CHEMONTID_0001214 Thiolactones
+obo:CHEMONTID_0000233 Thiolanes
+obo:CHEMONTID_0000097 Thiophenes
+obo:CHEMONTID_0002401 Thiophthalic anhydrides
+obo:CHEMONTID_0001895 Thiopyrans
+obo:CHEMONTID_0002693 Triazinanes
+obo:CHEMONTID_0000098 Triazines
+obo:CHEMONTID_0002692 Triazirines
+obo:CHEMONTID_0002322 Triazolodiazepines
+obo:CHEMONTID_0000313 Triazolopyrazines
+obo:CHEMONTID_0002117 Triazolopyridazines
+obo:CHEMONTID_0000314 Triazolopyridines
+obo:CHEMONTID_0001443 Triazolopyrimidines
+obo:CHEMONTID_0002124 Triazolothiazoles
+obo:CHEMONTID_0001853 Trioxanes
+obo:CHEMONTID_0001854 Trioxolanes
+obo:CHEMONTID_0001862 Trithianes
+obo:CHEMONTID_0000482 Trithiolanes
+obo:CHEMONTID_0004402 7-oxo-1,3-thiazolo[5,4-d]pyrimidines
+obo:CHEMONTID_0004198 Dithiazinanes
+obo:CHEMONTID_0004199 1,3,5-dithiazinanes
+obo:CHEMONTID_0001876 Azetidinecarboxylic acids or derivatives
+obo:CHEMONTID_0002200 Phenylazetidines
+obo:CHEMONTID_0002422 Azetidinecarboxylic acids
+obo:CHEMONTID_0001877 Aziridinecarboxylic acids or derivatives
+obo:CHEMONTID_0002853 Aziridinones
+obo:CHEMONTID_0001156 Phenylaziridines
+obo:CHEMONTID_0004079 Vinylaziridines
+obo:CHEMONTID_0002423 Aziridinecarboxylic acids
+obo:CHEMONTID_0004080 N-vinylaziridines
+obo:CHEMONTID_0000329 Phenylazirines
+obo:CHEMONTID_0000148 Dithiazoles
+obo:CHEMONTID_0000078 Imidazoles
+obo:CHEMONTID_0000081 Isoxazoles
+obo:CHEMONTID_0001822 Oxadiazoles
+obo:CHEMONTID_0001931 Oxatriazoles
+obo:CHEMONTID_0000083 Oxazoles
+obo:CHEMONTID_0000087 Pyrazoles
+obo:CHEMONTID_0000111 Tetrazoles
+obo:CHEMONTID_0000093 Thiadiazoles
+obo:CHEMONTID_0000095 Thiazoles
+obo:CHEMONTID_0000099 Triazoles
+obo:CHEMONTID_0001128 Dithiazolethiones
+obo:CHEMONTID_0001130 1,2,4-dithiazole-3-thiones
+obo:CHEMONTID_0001054 Phenyldithiazoles
+obo:CHEMONTID_0001203 Phenyldithiazolethiones
+obo:CHEMONTID_0002310 Substituted imidazoles
+obo:CHEMONTID_0001225 Aminoimidazoles
+obo:CHEMONTID_0002529 Carbonylimidazoles
+obo:CHEMONTID_0001226 Imidazole carboxylic acids and derivatives
+obo:CHEMONTID_0001227 Imidazolyl carboxylic acids and derivatives
+obo:CHEMONTID_0002311 N-substituted imidazoles
+obo:CHEMONTID_0000242 Nitroimidazoles
+obo:CHEMONTID_0002327 Phenylimidazoles
+obo:CHEMONTID_0004374 Substituted imidazole-4-acetic acid and analogues
+obo:CHEMONTID_0002632 Tetrasubstituted imidazoles
+obo:CHEMONTID_0002628 Trisubstituted imidazoles
+obo:CHEMONTID_0001255 Imidazole carboxamides
+obo:CHEMONTID_0002405 Imidazole carboxylic acids
+obo:CHEMONTID_0004786 N-acylimidazoles
+obo:CHEMONTID_0002633 1,2,4,5-tetrasubstituted imidazoles
+obo:CHEMONTID_0002629 1,2,4-trisubstituted imidazoles
+obo:CHEMONTID_0002630 1,2,5-trisubstituted imidazoles
+obo:CHEMONTID_0002631 2,4,5-trisubstituted imidazoles
+obo:CHEMONTID_0004724 Cyclopropylisoxazoles
+obo:CHEMONTID_0004725 3-cyclopropylisoxazoles
+obo:CHEMONTID_0004726 4-cyclopropylisoxazoles
+obo:CHEMONTID_0004727 5-cyclopropylisoxazoles
+obo:CHEMONTID_0003351 1,2,3-oxadiazoles
+obo:CHEMONTID_0002924 1,2,4-oxadiazoles
+obo:CHEMONTID_0002925 1,3,4-oxadiazoles
+obo:CHEMONTID_0002056 Furazans
+obo:CHEMONTID_0004354 Phenyloxadiazoles
+obo:CHEMONTID_0002057 Furoxans
+obo:CHEMONTID_0002641 2,4,5-trisubstituted oxazoles
+obo:CHEMONTID_0002638 2,4-disubstituted oxazoles
+obo:CHEMONTID_0002639 2,5-disubstituted oxazoles
+obo:CHEMONTID_0002640 4,5-disubstituted oxazoles
+obo:CHEMONTID_0004342 Phenyl-1,3-oxazoles
+obo:CHEMONTID_0002019 Phenylpyrazoles
+obo:CHEMONTID_0002350 Pyrazole carboxylic acids and derivatives
+obo:CHEMONTID_0004206 Pyrazole-4-carboxamides
+obo:CHEMONTID_0004207 Pyrazole-5-carboxamides
+obo:CHEMONTID_0000306 Phenyltetrazoles and derivatives
+obo:CHEMONTID_0000044 Biphenyltetrazoles and derivatives
+obo:CHEMONTID_0001217 Diphenyltetrazoles and derivatives
+obo:CHEMONTID_0004509 1,2,3-thiadiazolopyridines
+obo:CHEMONTID_0004770 1,3,4-thiadiazol-3-yl-organothiophosphates
+obo:CHEMONTID_0002562 Aminothiadiazoles
+obo:CHEMONTID_0002326 Thiadiazole sulfonamides
+obo:CHEMONTID_0004001 2-amino-1,3,4-thiadiazoles
+obo:CHEMONTID_0004668 1,3,4-thiadiazol-2-ylureas
+obo:CHEMONTID_0004002 2-amino-5-substituted-1,3,4-thiadiazoles
+obo:CHEMONTID_0002637 2,4,5-trisubstituted thiazoles
+obo:CHEMONTID_0002634 2,4-disubstituted thiazoles
+obo:CHEMONTID_0002635 2,5-disubstituted thiazoles
+obo:CHEMONTID_0002636 4,5-disubstituted thiazoles
+obo:CHEMONTID_0002329 Aminothiazoles
+obo:CHEMONTID_0000225 Nitrothiazoles
+obo:CHEMONTID_0001242 Phenylthiazoles
+obo:CHEMONTID_0002007 Thiazolecarboxylic acids and derivatives
+obo:CHEMONTID_0004003 2-amino-1,3-thiazoles
+obo:CHEMONTID_0002008 Thiazolecarboxamides
+obo:CHEMONTID_0002418 Thiazolecarboxylic acids
+obo:CHEMONTID_0004685 1,3-thiazole carboxanilides
+obo:CHEMONTID_0004202 1-sulfamoyl-1,2,3-triazoles
+obo:CHEMONTID_0002183 Phenyltriazoles
+obo:CHEMONTID_0001119 Sulfonyl-1,2,3-triazoles
+obo:CHEMONTID_0001120 Sulfonyl-1,2,4-triazoles
+obo:CHEMONTID_0002324 Triazole carboxylic acids and derivatives
+obo:CHEMONTID_0000234 Triazolones
+obo:CHEMONTID_0003315 Phenyl-1,2,3-triazoles
+obo:CHEMONTID_0003314 Phenyl-1,2,4-triazoles
+obo:CHEMONTID_0001121 N-sulfonyl-1,2,3-triazoles
+obo:CHEMONTID_0002093 N-sulfonyl-1,2,4-triazoles
+obo:CHEMONTID_0002325 Triazole carboxamides
+obo:CHEMONTID_0002420 Triazole carboxylic acids
+obo:CHEMONTID_0004683 Aryl 1,2,4-triazolones
+obo:CHEMONTID_0000250 Imidazolidines
+obo:CHEMONTID_0002083 Isoxazolidines
+obo:CHEMONTID_0001933 Oxadiazolidines
+obo:CHEMONTID_0001932 Oxatriazolidines
+obo:CHEMONTID_0000108 Oxazolidines
+obo:CHEMONTID_0000217 Pyrazolidines
+obo:CHEMONTID_0001842 Tetrazolidines
+obo:CHEMONTID_0002015 Thiadiazolidines
+obo:CHEMONTID_0000226 Thiazolidines
+obo:CHEMONTID_0000235 Triazolidines
+obo:CHEMONTID_0001149 Imidazolidinones
+obo:CHEMONTID_0002547 Phenylimidazolidines
+obo:CHEMONTID_0001150 Imidazolidinediones
+obo:CHEMONTID_0002273 Hydantoins
+obo:CHEMONTID_0003210 5-monosubstituted hydantoins
+obo:CHEMONTID_0002274 Allantoins
+obo:CHEMONTID_0002282 Phenylhydantoins
+obo:CHEMONTID_0002084 Isoxazolidinones
+obo:CHEMONTID_0002575 Phenylisoxazolidines
+obo:CHEMONTID_0002328 Isoxazolidinediones
+obo:CHEMONTID_0000196 Oxazolidinones
+obo:CHEMONTID_0002574 Phenyloxazolidines
+obo:CHEMONTID_0000197 Oxazolidinediones
+obo:CHEMONTID_0002836 Pyrazolidinones
+obo:CHEMONTID_0001923 Thiazolidinethiones
+obo:CHEMONTID_0000227 Thiazolidinones
+obo:CHEMONTID_0000228 Thiazolidinediones
+obo:CHEMONTID_0001883 Gamma sultams
+obo:CHEMONTID_0001327 Triazolidinones
+obo:CHEMONTID_0003202 Urazoles
+obo:CHEMONTID_0000079 Imidazolines
+obo:CHEMONTID_0002211 Isoxazolines
+obo:CHEMONTID_0000084 Oxazolines
+obo:CHEMONTID_0000088 Pyrazolines
+obo:CHEMONTID_0001080 Tetrazolines
+obo:CHEMONTID_0002016 Thiadiazolines
+obo:CHEMONTID_0000229 Thiazolines
+obo:CHEMONTID_0004461 Triazolines
+obo:CHEMONTID_0002337 Imidazolethiones
+obo:CHEMONTID_0001402 Imidazolinones
+obo:CHEMONTID_0002232 Isoxazolinones
+obo:CHEMONTID_0004303 4-Hydrocarbylideneazlactones
+obo:CHEMONTID_0002859 Azlactones
+obo:CHEMONTID_0000205 Pyrazolones
+obo:CHEMONTID_0001843 Phenyltetrazolines and derivatives
+obo:CHEMONTID_0000320 Dibenzazepines
+obo:CHEMONTID_0004711 2-benzimidazolylcarbamic acid esters
+obo:CHEMONTID_0004710 2-benzimidazolylcarbamic acids
+obo:CHEMONTID_0000330 Phenylbenzimidazoles
+obo:CHEMONTID_0004194 Pyrrolo[1,2-a]benzimidazoles
+obo:CHEMONTID_0001891 Sulfinylbenzimidazoles
+obo:CHEMONTID_0000043 Biphenylbenzimidazoles
+obo:CHEMONTID_0002333 Benzisoxazolones
+obo:CHEMONTID_0004660 Benzotriazine organothiophosphates
+obo:CHEMONTID_0004097 1,4-benzodiazepines
+obo:CHEMONTID_0000072 Dibenzodiazepines
+obo:CHEMONTID_0004229 Pyrrolo[1,2-c][1,3]benzodiazepines
+obo:CHEMONTID_0004226 1,2,4-triazolo[4,3-a][1,4]benzodiazepines
+obo:CHEMONTID_0004798 1,3-oxazolobenzo-1,4-diazepines
+obo:CHEMONTID_0004235 Azetidino[1,2-d][1,4]benzodiazepines
+obo:CHEMONTID_0004098 Imidazo[1,5-a][1,4]benzodiazepines
+obo:CHEMONTID_0004230 Pyrrolo[2,1-c][1,4]benzodiazepines
+obo:CHEMONTID_0004231 C2-aryl pyrrolo[2,1-c][1,4]benzodiazepines
+obo:CHEMONTID_0002700 Benzo-1,2-dioxanes
+obo:CHEMONTID_0002701 Benzo-1,3-dioxanes
+obo:CHEMONTID_0002702 Benzo-1,4-dioxanes
+obo:CHEMONTID_0002703 Benzo-2,3-dioxanes
+obo:CHEMONTID_0002704 Phenylbenzodioxanes
+obo:CHEMONTID_0002705 Phenylbenzo-1,3-dioxanes
+obo:CHEMONTID_0002707 Phenylbenzo-1,4-dioxanes
+obo:CHEMONTID_0002706 Phenylbenzo-2,3-dioxanes
+obo:CHEMONTID_0001383 Benzo-m-dioxins
+obo:CHEMONTID_0001382 Benzo-o-dioxins
+obo:CHEMONTID_0001379 Benzo-p-dioxins
+obo:CHEMONTID_0002107 Benzodioxinopyrroles
+obo:CHEMONTID_0001381 Dibenzo-p-dioxins
+obo:CHEMONTID_0000420 Chlorinated dibenzo-p-dioxins
+obo:CHEMONTID_0002805 1,2-benzodithiins
+obo:CHEMONTID_0002806 1,3-benzodithiins
+obo:CHEMONTID_0002807 1,4-benzodithiins
+obo:CHEMONTID_0002808 2,3-benzodithiins
+obo:CHEMONTID_0002803 Thianthrenes
+obo:CHEMONTID_0004764 7-benzofuranyl methylcarbamates
+obo:CHEMONTID_0002740 Benzodifurans
+obo:CHEMONTID_0001578 Benzofuranones
+obo:CHEMONTID_0004672 Benzofuranyl 5-alkylsulfonates
+obo:CHEMONTID_0000015 Dibenzofurans
+obo:CHEMONTID_0003109 Flavaglines
+obo:CHEMONTID_0002584 Phenylbenzofurans
+obo:CHEMONTID_0001592 Pterofurans
+obo:CHEMONTID_0002741 Angular benzodifurans
+obo:CHEMONTID_0002742 Linear benzodifurans
+obo:CHEMONTID_0001109 Phthalic anhydrides
+obo:CHEMONTID_0004520 Brominated dibenzofurans
+obo:CHEMONTID_0001378 Chlorinated dibenzofurans
+obo:CHEMONTID_0004519 Polybrominated dibenzofurans
+obo:CHEMONTID_0003029 Polychlorinated dibenzofurans
+obo:CHEMONTID_0002613 2-phenylbenzofurans
+obo:CHEMONTID_0003410 1-benzopyrans
+obo:CHEMONTID_0003411 2-benzopyrans
+obo:CHEMONTID_0003522 2,2-dimethyl-1-benzopyrans
+obo:CHEMONTID_0002339 Chromenopyridines
+obo:CHEMONTID_0000144 Chromones
+obo:CHEMONTID_0002817 Dibenzopyrans
+obo:CHEMONTID_0003543 Pyranochromenes
+obo:CHEMONTID_0004763 Precocenes
+obo:CHEMONTID_0004774 Chromeno[2,3-b]pyridines
+obo:CHEMONTID_0004772 2-methoxychromones
+obo:CHEMONTID_0004773 3-methoxychromones
+obo:CHEMONTID_0001736 Benzochromones
+obo:CHEMONTID_0004775 Chromeno[2,3-b]pyridine-5-ones
+obo:CHEMONTID_0001735 Furanochromones
+obo:CHEMONTID_0003529 Furo[2,3-b]chromones
+obo:CHEMONTID_0000200 Xanthenes
+obo:CHEMONTID_0003483 Benzoxanthenes
+obo:CHEMONTID_0000204 Xanthones
+obo:CHEMONTID_0003517 2-prenylated xanthones
+obo:CHEMONTID_0003518 4-prenylated xanthones
+obo:CHEMONTID_0003519 8-prenylated xanthones
+obo:CHEMONTID_0003521 Pyranoxanthones
+obo:CHEMONTID_0003493 Pyripyropenes
+obo:CHEMONTID_0000080 Indazoles
+obo:CHEMONTID_0002110 Furoindazoles
+obo:CHEMONTID_0004552 Indazole-3-carboxamides
+obo:CHEMONTID_0001856 Pyridazinoindazoles
+obo:CHEMONTID_0000055 Dibenzothiazepines
+obo:CHEMONTID_0000310 Phenothiazines
+obo:CHEMONTID_0004332 Imidazo[2,1-b]benzothiazoles
+obo:CHEMONTID_0000232 Dibenzothiepins
+obo:CHEMONTID_0004293 1-benzothiophenes
+obo:CHEMONTID_0004294 2-benzothiophenes
+obo:CHEMONTID_0002818 Dibenzothiophenes
+obo:CHEMONTID_0004692 1-benzothiophene-2-carboxanilides
+obo:CHEMONTID_0004636 Dibenzothiophene-5,5-dioxides
+obo:CHEMONTID_0004635 Dibenzothiophene-5-oxides
+obo:CHEMONTID_0003413 1-benzothiopyrans
+obo:CHEMONTID_0003414 2-benzothiopyrans
+obo:CHEMONTID_0003682 Thioflavones
+obo:CHEMONTID_0000199 Thioxanthenes
+obo:CHEMONTID_0000203 Thioxanthones
+obo:CHEMONTID_0004201 Triazolobenzothiazoles
+obo:CHEMONTID_0002060 Phenoxathiins
+obo:CHEMONTID_0001874 Sulfonphthalides
+obo:CHEMONTID_0000150 Dibenzoxazepines
+obo:CHEMONTID_0001437 Benzoxazinones
+obo:CHEMONTID_0001855 Phenoxazines
+obo:CHEMONTID_0002558 N-substituted phenoxazines
+obo:CHEMONTID_0001973 Benzoxazolones
+obo:CHEMONTID_0001988 Dibenzoxepines
+obo:CHEMONTID_0002573 Thienobenzoxepines
+obo:CHEMONTID_0004190 1-phenylcoumarans
+obo:CHEMONTID_0004789 Benzodiazines
+obo:CHEMONTID_0001857 Naphthyridines
+obo:CHEMONTID_0000206 Cinnolines
+obo:CHEMONTID_0000207 Phthalazines
+obo:CHEMONTID_0000485 Quinazolines
+obo:CHEMONTID_0000486 Quinoxalines
+obo:CHEMONTID_0004827 1,2,4-triazolo[3,4-a]phthalazines
+obo:CHEMONTID_0000209 Phthalazinones
+obo:CHEMONTID_0004384 2,4-Diaminoquinazolines
+obo:CHEMONTID_0002087 Indoloquinazolines
+obo:CHEMONTID_0004167 Perimidines
+obo:CHEMONTID_0002314 Quinazolinamines
+obo:CHEMONTID_0004333 Quinolo[1,2-a]quinazolines
+obo:CHEMONTID_0001639 Tetrodotoxins
+obo:CHEMONTID_0002379 Triazoloquinazolines
+obo:CHEMONTID_0004365 Indolo[2,3-b]quinoxalines
+obo:CHEMONTID_0004421 Isoindolo[2,1-a]quinoxalines
+obo:CHEMONTID_0000416 Phenazines and derivatives
+obo:CHEMONTID_0004334 Pyrido[2,3-b]quinoxalines
+obo:CHEMONTID_0004335 Pyrido[2,3-g]quinoxalines
+obo:CHEMONTID_0002378 Pyrroloquinoxalines
+obo:CHEMONTID_0001858 Naphthyridine carboxylic acids and derivatives
+obo:CHEMONTID_0002921 1,2-diazepanes
+obo:CHEMONTID_0002922 1,3-diazepanes
+obo:CHEMONTID_0002923 1,4-diazepanes
+obo:CHEMONTID_0001335 1,2-diazepines
+obo:CHEMONTID_0001337 1,3-diazepines
+obo:CHEMONTID_0001336 1,4-diazepines
+obo:CHEMONTID_0000189 Piperazines
+obo:CHEMONTID_0001731 Dioxopiperazines
+obo:CHEMONTID_0003357 N-alkylpiperazines
+obo:CHEMONTID_0003359 N-arylpiperazines
+obo:CHEMONTID_0002516 N-piperazineacetamides
+obo:CHEMONTID_0001984 Phenylpiperazines
+obo:CHEMONTID_0002315 Piperazine carboxylic acids and derivatives
+obo:CHEMONTID_0002184 Piperazinesulfonamides
+obo:CHEMONTID_0002447 Piperidinylpiperazines
+obo:CHEMONTID_0001976 Pyridinylpiperazines
+obo:CHEMONTID_0003684 2,5-dioxopiperazines
+obo:CHEMONTID_0001732 Thiodioxopiperazines
+obo:CHEMONTID_0001790 Epipolythiodioxopiperazines
+obo:CHEMONTID_0001791 Gliotoxins
+obo:CHEMONTID_0003358 N-methylpiperazines
+obo:CHEMONTID_0003663 Dimethoxybenzyl-N-methylpiperazines
+obo:CHEMONTID_0004395 Phenylpiperazinyl-cyclohexylsulfonamides
+obo:CHEMONTID_0004394 Phenylpiperazinyl-cyclohexylureas
+obo:CHEMONTID_0002316 Piperazine carboxamides
+obo:CHEMONTID_0002410 Piperazine carboxylic acids
+obo:CHEMONTID_0004397 5-piperazinylimidazo[1,2-a]pyridines
+obo:CHEMONTID_0004398 6-piperazinylimidazo[1,2-a]pyridines
+obo:CHEMONTID_0004399 7-piperazinylimidazo[1,2-a]pyridines
+obo:CHEMONTID_0004400 8-piperazinylimidazo[1,2-a]pyridines
+obo:CHEMONTID_0000067 Pyrazines
+obo:CHEMONTID_0003361 Pyrazinium compounds
+obo:CHEMONTID_0000074 Pyridazines and derivatives
+obo:CHEMONTID_0000075 Pyrimidines and pyrimidine derivatives
+obo:CHEMONTID_0001694 Aminopyrazines
+obo:CHEMONTID_0002563 Methoxypyrazines
+obo:CHEMONTID_0002265 Pyrazine carboxylic acids and derivatives
+obo:CHEMONTID_0002413 Pyrazine carboxylic acids
+obo:CHEMONTID_0002085 Pyrazinecarboxamides
+obo:CHEMONTID_0003362 1-aminopyrazinium compounds
+obo:CHEMONTID_0003363 2-aminopyrazinium compounds
+obo:CHEMONTID_0001924 Aminopyridazines
+obo:CHEMONTID_0004147 Phenylpyridazines
+obo:CHEMONTID_0000208 Pyridazinones
+obo:CHEMONTID_0004386 5-Benzylpyrimidine-2,4-diamines
+obo:CHEMONTID_0001262 Aminopyrimidines and derivatives
+obo:CHEMONTID_0004216 Anilinopyrimidines
+obo:CHEMONTID_0001978 Bipyrimidines and oligopyrimidines
+obo:CHEMONTID_0001893 Halopyrimidines
+obo:CHEMONTID_0002202 Hydropyrimidines
+obo:CHEMONTID_0004161 Hydroxypyrimidines
+obo:CHEMONTID_0001927 Nitropyrimidines
+obo:CHEMONTID_0004486 O-alkylpyrimidines
+obo:CHEMONTID_0002308 Phenylpyrimidines
+obo:CHEMONTID_0000342 Pyridinylpyrimidines
+obo:CHEMONTID_0001319 Pyrimidinecarboxylic acids and derivatives
+obo:CHEMONTID_0001921 Pyrimidinethiones
+obo:CHEMONTID_0001977 Pyrimidinylpiperazines
+obo:CHEMONTID_0000291 Pyrimidones
+obo:CHEMONTID_0001285 Thiamines
+obo:CHEMONTID_0004173 Thiopyrimidines
+obo:CHEMONTID_0004531 2-halopyrimidines
+obo:CHEMONTID_0002222 Hydropyrimidine carboxylic acids and derivatives
+obo:CHEMONTID_0001321 Pyrimidinecarboxamides
+obo:CHEMONTID_0002415 Pyrimidinecarboxylic acids
+obo:CHEMONTID_0000292 Barbituric acid derivatives
+obo:CHEMONTID_0001122 Thiobarbituric acid derivatives
+obo:CHEMONTID_0001287 Thiamine phosphates
+obo:CHEMONTID_0004171 2-Thiopyrimidines
+obo:CHEMONTID_0004172 4-Thiopyrimidines
+obo:CHEMONTID_0001982 Furanones
+obo:CHEMONTID_0002223 Butenolides
+obo:CHEMONTID_0001312 1,2-dioxanes
+obo:CHEMONTID_0001314 1,3-dioxanes
+obo:CHEMONTID_0001313 1,4-dioxanes
+obo:CHEMONTID_0002944 1,2-dioxepanes
+obo:CHEMONTID_0002945 1,3-dioxepanes
+obo:CHEMONTID_0002946 1,4-dioxepanes
+obo:CHEMONTID_0002940 1,2-dioxepines
+obo:CHEMONTID_0002941 1,3-dioxepines
+obo:CHEMONTID_0002942 1,4-dioxepines
+obo:CHEMONTID_0001385 Ortho dioxins
+obo:CHEMONTID_0001386 Para dioxins
+obo:CHEMONTID_0001315 1,2-dioxolanes
+obo:CHEMONTID_0001316 1,3-dioxolanes
+obo:CHEMONTID_0000248 1,2-dioxoles
+obo:CHEMONTID_0000272 1,3-dioxoles
+obo:CHEMONTID_0003692 1,2-diselenins
+obo:CHEMONTID_0003693 1,3-diselenins
+obo:CHEMONTID_0003694 1,4-diselenins
+obo:CHEMONTID_0003372 1,2-dithiolanes
+obo:CHEMONTID_0003373 1,3-dithiolanes
+obo:CHEMONTID_0003378 Dithiolanecarboxylic acids
+obo:CHEMONTID_0001154 Lipoamides
+obo:CHEMONTID_0001116 Lipoic acids and derivatives
+obo:CHEMONTID_0003379 1,2-dithiolanecarboxylic acids
+obo:CHEMONTID_0003380 1,3-dithiolanecarboxylic acids
+obo:CHEMONTID_0003374 1,2-dithiolane-3-carboxylic acids
+obo:CHEMONTID_0003375 1,2-dithiolane-4-carboxylic acids
+obo:CHEMONTID_0003376 1,3-dithiolane-2-carboxylic acids
+obo:CHEMONTID_0003377 1,3-dithiolane-4-carboxylic acids
+obo:CHEMONTID_0003624 1,2-dithioles
+obo:CHEMONTID_0003625 1,3-dithioles
+obo:CHEMONTID_0003623 1,2-dithiole-3-ones
+obo:CHEMONTID_0002905 1,2-dithiole-3-thiones
+obo:CHEMONTID_0003676 Enol ester epoxides
+obo:CHEMONTID_0001864 Oxirane carboxylic acids and derivatives
+obo:CHEMONTID_0002409 Oxirane carboxylic acids
+obo:CHEMONTID_0003218 3-aroylfurans
+obo:CHEMONTID_0003491 Diphenylfurans
+obo:CHEMONTID_0004758 Furoic acid and derivatives
+obo:CHEMONTID_0000194 Nitrofurans
+obo:CHEMONTID_0001126 2,3-diphenylfurans
+obo:CHEMONTID_0003488 2,4-diphenylfurans
+obo:CHEMONTID_0003489 2,5-diphenylfurans
+obo:CHEMONTID_0003490 3,4-diphenylfurans
+obo:CHEMONTID_0004759 Furan-3-carboxylic acid and derivatives
+obo:CHEMONTID_0004205 Furancarboxamides
+obo:CHEMONTID_0004805 Furoic acid esters
+obo:CHEMONTID_0001448 Furoic acids
+obo:CHEMONTID_0004761 Furan-3-carboxylic acid amides
+obo:CHEMONTID_0004762 Furan-3-carboxylic acid esters
+obo:CHEMONTID_0004760 Furan-3-carboxylic acids
+obo:CHEMONTID_0001987 Isosorbides
+obo:CHEMONTID_0004408 Furo[2,3-c]pyridines
+obo:CHEMONTID_0004409 Furo[3,2-c]pyridines
+obo:CHEMONTID_0000836 Imidazodithiazolethiones
+obo:CHEMONTID_0003590 Imidazo-[4,5-c]pyridines
+obo:CHEMONTID_0000177 Imidazopyridinones
+obo:CHEMONTID_0000245 Purines and purine derivatives
+obo:CHEMONTID_0002987 6-aminopurines
+obo:CHEMONTID_0003453 6-thiopurines
+obo:CHEMONTID_0001999 Dithioxanthines
+obo:CHEMONTID_0001998 Purinethiones
+obo:CHEMONTID_0000597 Purinones
+obo:CHEMONTID_0000249 Thioxanthines
+obo:CHEMONTID_0000247 Xanthines
+obo:CHEMONTID_0003454 6-alkylaminopurines
+obo:CHEMONTID_0004542 Thiopurine S-methylethers
+obo:CHEMONTID_0001505 6-oxopurines
+obo:CHEMONTID_0000246 Hypoxanthines
+obo:CHEMONTID_0003771 Imidazo[5,1-d]-1,2,3,5-tetrazines
+obo:CHEMONTID_0001753 Benzoylindoles
+obo:CHEMONTID_0000210 Carbazoles
+obo:CHEMONTID_0004162 Hydroxyindoles
+obo:CHEMONTID_0002013 Indolecarboxylic acids and derivatives
+obo:CHEMONTID_0000390 Indolequinones
+obo:CHEMONTID_0002497 Indoles
+obo:CHEMONTID_0001146 Indolines
+obo:CHEMONTID_0001290 Indolyl carboxylic acids and derivatives
+obo:CHEMONTID_0004197 N-alkylindoles
+obo:CHEMONTID_0002247 Naphthoylindoles
+obo:CHEMONTID_0002243 Phenylacetylindoles
+obo:CHEMONTID_0001213 Pyridoindoles
+obo:CHEMONTID_0001733 Pyrroloindoles
+obo:CHEMONTID_0000183 Tryptamines and derivatives
+obo:CHEMONTID_0004720 N-acylcarbazoles
+obo:CHEMONTID_0001865 Pyrrolocarbazoles
+obo:CHEMONTID_0001866 Indolocarbazoles
+obo:CHEMONTID_0004392 Pyrrolo[2,3-a]carbazoles
+obo:CHEMONTID_0002014 Indolecarboxamides and derivatives
+obo:CHEMONTID_0002406 Indolecarboxylic acids
+obo:CHEMONTID_0004096 Mitomycins, mitosane and mitosene derivatives
+obo:CHEMONTID_0000391 Mitomycins
+obo:CHEMONTID_0003214 2-phenylindoles
+obo:CHEMONTID_0004196 3-alkylindoles
+obo:CHEMONTID_0004529 3-methylindoles
+obo:CHEMONTID_0004810 Indole-3-carbinol and derivatives
+obo:CHEMONTID_0003476 2,3-Cyclopentanoindolines
+obo:CHEMONTID_0001252 Indole-3-acetic acid derivatives
+obo:CHEMONTID_0001913 Alpha carbolines
+obo:CHEMONTID_0001914 Beta carbolines
+obo:CHEMONTID_0001915 Delta carbolines
+obo:CHEMONTID_0001916 Gamma carbolines
+obo:CHEMONTID_0001374 Pyridoindolones
+obo:CHEMONTID_0001637 Serotonins
+obo:CHEMONTID_0004271 N-acylserotonins
+obo:CHEMONTID_0004273 Long-chain N-acylserotonins
+obo:CHEMONTID_0001332 Indolizidinones
+obo:CHEMONTID_0003409 Isobenzofuranones
+obo:CHEMONTID_0001873 Phthalides
+obo:CHEMONTID_0000127 Isoindoles
+obo:CHEMONTID_0002496 Isoindolines
+obo:CHEMONTID_0001912 Pyridoisoindoles
+obo:CHEMONTID_0004658 Isoindole organothiophosphates
+obo:CHEMONTID_0001820 Isoindolones
+obo:CHEMONTID_0004749 Phthalimides
+obo:CHEMONTID_0002932 1,3-isoquinolinediones
+obo:CHEMONTID_0002933 1,4-isoquinolinediones
+obo:CHEMONTID_0004095 1-phenethylisoquinolines
+obo:CHEMONTID_0000054 Benzylisoquinolines
+obo:CHEMONTID_0002567 Isoquinoline quinones
+obo:CHEMONTID_0002054 Isoquinolones and derivatives
+obo:CHEMONTID_0002195 Naphthylisoquinolines
+obo:CHEMONTID_0004691 Dioxoisoquinoline-4-carboxanilides
+obo:CHEMONTID_0000162 Beta lactams
+obo:CHEMONTID_0000163 Caprolactams
+obo:CHEMONTID_0000164 Delta lactams
+obo:CHEMONTID_0000165 Gamma lactams
+obo:CHEMONTID_0002318 Carbacephems
+obo:CHEMONTID_0003066 Carbapenams
+obo:CHEMONTID_0000167 Carbapenems
+obo:CHEMONTID_0001456 Cephams
+obo:CHEMONTID_0000168 Cephems
+obo:CHEMONTID_0000169 Clavams
+obo:CHEMONTID_0000170 Monobactams
+obo:CHEMONTID_0000171 Oxacephems
+obo:CHEMONTID_0000172 Penams
+obo:CHEMONTID_0001457 Penems
+obo:CHEMONTID_0002362 Thienamycins
+obo:CHEMONTID_0000173 Cephalosporins
+obo:CHEMONTID_0004412 3'-quaternary ammonium cephalosporins
+obo:CHEMONTID_0004410 Cephalosporin 3'-carbamates
+obo:CHEMONTID_0004411 Cephalosporin 3'-esters
+obo:CHEMONTID_0001458 Cephamycins
+obo:CHEMONTID_0000174 Penicillins
+obo:CHEMONTID_0001243 Beta propiolactones
+obo:CHEMONTID_0001241 Caprolactones
+obo:CHEMONTID_0001244 Delta valerolactones
+obo:CHEMONTID_0001245 Gamma butyrolactones
+obo:CHEMONTID_0000065 Arsoles
+obo:CHEMONTID_0000345 Azaborinanes
+obo:CHEMONTID_0002112 Azaborines
+obo:CHEMONTID_0002113 Azaborinines
+obo:CHEMONTID_0002102 Azarsinanes
+obo:CHEMONTID_0002103 Benzarsazines and derivatives
+obo:CHEMONTID_0000300 Benzarsoles
+obo:CHEMONTID_0002910 Borinanes
+obo:CHEMONTID_0001717 Oxaborine derivatives
+obo:CHEMONTID_0002227 Oxaborole derivatives
+obo:CHEMONTID_0000085 Phosphinines
+obo:CHEMONTID_0000742 Phospholanes
+obo:CHEMONTID_0000861 Phospholes
+obo:CHEMONTID_0002104 Phenarsazines and derivatives
+obo:CHEMONTID_0003536 Dinaphthofurans
+obo:CHEMONTID_0004792 Furanonaphthodioxoles
+obo:CHEMONTID_0003537 Dinaphtho[2,1-b;2',3'-d]furans
+obo:CHEMONTID_0001641 Naphthopyranones
+obo:CHEMONTID_0001646 Naphthopyranone glycosides
+obo:CHEMONTID_0004737 1,2,3-oxadiazines
+obo:CHEMONTID_0004738 1,2,4-oxadiazines
+obo:CHEMONTID_0004739 1,2,5-oxadiazines
+obo:CHEMONTID_0004740 1,3,4-oxadiazines
+obo:CHEMONTID_0004741 1,3,5-oxadiazines
+obo:CHEMONTID_0002236 Delta sultones
+obo:CHEMONTID_0001887 Beta sultones
+obo:CHEMONTID_0004217 1,4-oxathiin carboxamides
+obo:CHEMONTID_0001888 Gamma sultones
+obo:CHEMONTID_0002858 Isofamides
+obo:CHEMONTID_0001338 1,2-oxazepines
+obo:CHEMONTID_0001340 1,3-oxazepines
+obo:CHEMONTID_0001339 1,4-oxazepines
+obo:CHEMONTID_0002576 1,2-oxazinanes
+obo:CHEMONTID_0002790 1,3-oxazinanes
+obo:CHEMONTID_0000392 Morpholines
+obo:CHEMONTID_0004811 2,5-disubstituted morpholines
+obo:CHEMONTID_0002108 Benzomorpholines
+obo:CHEMONTID_0002307 Morpholine carboxylic acids and derivatives
+obo:CHEMONTID_0000370 Phenylmorpholines
+obo:CHEMONTID_0002407 Morpholine carboxylic acids
+obo:CHEMONTID_0001343 1,2-oxazines
+obo:CHEMONTID_0001341 1,3-oxazines
+obo:CHEMONTID_0001342 1,4-oxazines
+obo:CHEMONTID_0003093 N-sulfonyloxaziridines
+obo:CHEMONTID_0002357 Aminopiperidines
+obo:CHEMONTID_0003087 Benzylpiperidines
+obo:CHEMONTID_0000372 Fentanyls
+obo:CHEMONTID_0000335 N-acylpiperidines
+obo:CHEMONTID_0002442 Nitrosopiperidines
+obo:CHEMONTID_0000303 Phenylpiperidines
+obo:CHEMONTID_0001974 Piperidinecarboxylic acids and derivatives
+obo:CHEMONTID_0002953 Piperidinesulfonamides
+obo:CHEMONTID_0001581 Piperidinones
+obo:CHEMONTID_0003088 2-benzylpiperidines
+obo:CHEMONTID_0003089 3-benzylpiperidines
+obo:CHEMONTID_0003090 4-benzylpiperidines
+obo:CHEMONTID_0002622 N-benzylpiperidines
+obo:CHEMONTID_0002621 N-benzoylpiperidines
+obo:CHEMONTID_0002312 Piperidinecarboxamides
+obo:CHEMONTID_0002411 Piperidinecarboxylic acids
+obo:CHEMONTID_0001582 Piperidinediones
+obo:CHEMONTID_0004270 5,6,7,8-tetrahydropteridines
+obo:CHEMONTID_0004269 6,7-dihydropteridines
+obo:CHEMONTID_0000384 Alloxazines and isoalloxazines
+obo:CHEMONTID_0000110 Pterins and derivatives
+obo:CHEMONTID_0001249 Flavins
+obo:CHEMONTID_0001651 Biopterins and derivatives
+obo:CHEMONTID_0003041 Dihydropteroic acids and derivatives
+obo:CHEMONTID_0002694 Molybdopterins
+obo:CHEMONTID_0002283 Pterin carboxylates
+obo:CHEMONTID_0001228 Pteroic acids and derivatives
+obo:CHEMONTID_0002263 Pyranopterins and derivatives
+obo:CHEMONTID_0003042 Tetrahydropteroic acids and derivatives
+obo:CHEMONTID_0003047 7,8-dihydropteroic acids and derivatives
+obo:CHEMONTID_0002619 Dihydrofolic acids and derivatives
+obo:CHEMONTID_0003046 7,8-dihydropteroic acids
+obo:CHEMONTID_0003044 7,8-dihydrofolic acids and derivatives
+obo:CHEMONTID_0003043 7,8-dihydrofolic acids
+obo:CHEMONTID_0000255 Folic acids and derivatives
+obo:CHEMONTID_0003040 Pteroic acids
+obo:CHEMONTID_0003039 Folic acids
+obo:CHEMONTID_0002618 Tetrahydrofolic acids and derivatives
+obo:CHEMONTID_0003045 Tetrahydropteroic acids
+obo:CHEMONTID_0002954 Tetrahydrofolic acids
+obo:CHEMONTID_0001991 Pyran carboxylic acids and derivatives
+obo:CHEMONTID_0000481 Pyranones and derivatives
+obo:CHEMONTID_0002412 Pyran carboxylic acids
+obo:CHEMONTID_0001211 Dihydropyranones
+obo:CHEMONTID_0004383 Pyrazolo[1',5':1,6]pyrimido[4,5-d]pyridazin-4-ones
+obo:CHEMONTID_0004390 Pyrazolo[1,5-a]pyrimidines
+obo:CHEMONTID_0004387 Pyrazolo[3,4-d]pyrimidines
+obo:CHEMONTID_0004406 3-arylsulfonyl-pyrazolo[1,5-a]pyrimidines
+obo:CHEMONTID_0004708 2-pyridylmethylamines
+obo:CHEMONTID_0003972 3-pyridinecarbonitriles
+obo:CHEMONTID_0000283 Aminopyridines and derivatives
+obo:CHEMONTID_0000326 Bipyridines and oligopyridines
+obo:CHEMONTID_0003970 Halopyridines
+obo:CHEMONTID_0002224 Hydropyridines
+obo:CHEMONTID_0004151 Hydroxypyridines
+obo:CHEMONTID_0004152 Methylpyridines
+obo:CHEMONTID_0000184 Pheniramines
+obo:CHEMONTID_0002317 Phenylpyridines
+obo:CHEMONTID_0002006 Pyrazolylpyridines
+obo:CHEMONTID_0002212 Pyridine carboxaldehydes
+obo:CHEMONTID_0001322 Pyridinecarboxylic acids and derivatives
+obo:CHEMONTID_0001861 Pyridinesulfonamides
+obo:CHEMONTID_0001764 Pyridinium derivatives
+obo:CHEMONTID_0004825 Pyridinolates
+obo:CHEMONTID_0001966 Pyridoxamines
+obo:CHEMONTID_0001948 Pyridoxines
+obo:CHEMONTID_0003317 Pyridyltriazoles
+obo:CHEMONTID_0001975 Pyrrolidinylpyridines
+obo:CHEMONTID_0004709 6-substituted-2-pyridinylmethylamines
+obo:CHEMONTID_0004532 2-halopyridines
+obo:CHEMONTID_0003971 Polyhalopyridines
+obo:CHEMONTID_0003204 2,3-dihydro-4-pyridones
+obo:CHEMONTID_0000367 Dihydropyridines
+obo:CHEMONTID_0001160 Pyridinones
+obo:CHEMONTID_0001934 Tetrahydropyridines
+obo:CHEMONTID_0001562 Dihydropyridinecarboxylic acids and derivatives
+obo:CHEMONTID_0004533 1,2,3,6-Tetrahydropyridines
+obo:CHEMONTID_0004543 N-methylpyridinium compounds
+obo:CHEMONTID_0000028 Pyridoxals and derivatives
+obo:CHEMONTID_0001635 Pyridoxal 5'-phosphates
+obo:CHEMONTID_0001326 Pyridinecarboxamides
+obo:CHEMONTID_0002414 Pyridinecarboxylic acids
+obo:CHEMONTID_0002253 Nicotinamides
+obo:CHEMONTID_0002254 N-substituted nicotinamides
+obo:CHEMONTID_0004624 Pyridine-2-carboxylic acids
+obo:CHEMONTID_0004625 Pyridine-3-carboxylic acids
+obo:CHEMONTID_0004626 5-alkoxy-2-carboxypyrimidines
+obo:CHEMONTID_0004627 5-alkyl-2-carboxypyrimidines
+obo:CHEMONTID_0004259 Pyridoxamine 5'-phosphates
+obo:CHEMONTID_0002753 Pyridoxine-5'-phosphates
+obo:CHEMONTID_0003318 Pyridyl-1,2,3-triazoles
+obo:CHEMONTID_0003319 Pyridyl-1,2,4-triazoles
+obo:CHEMONTID_0004346 Dipyrido[1,4]diazepines
+obo:CHEMONTID_0001899 Cylindrospermopsins
+obo:CHEMONTID_0004417 Pyrido[2,3-d]pyrimidines
+obo:CHEMONTID_0004419 Pyrido[3,4-d]pyrimidines
+obo:CHEMONTID_0001860 Pyridopyrimidine carboxylic acids and derivatives
+obo:CHEMONTID_0004420 2-amino-pyrido[2,3-d]pyrimidines
+obo:CHEMONTID_0002554 Pyrrole carboxylic acids and derivatives
+obo:CHEMONTID_0002257 Substituted pyrroles
+obo:CHEMONTID_0002556 Pyrrole carboxamides
+obo:CHEMONTID_0002555 Pyrrole carboxylic acids
+obo:CHEMONTID_0002557 Pyrrole 2-carboxylic acids
+obo:CHEMONTID_0002028 Dipyrrins
+obo:CHEMONTID_0002258 N-substituted pyrroles
+obo:CHEMONTID_0002334 Phenylpyrroles
+obo:CHEMONTID_0002809 N-methylpyrroles
+obo:CHEMONTID_0002695 Diphenylpyrroles
+obo:CHEMONTID_0003023 N-acylpyrrolidines
+obo:CHEMONTID_0003449 N-alkylpyrrolidines
+obo:CHEMONTID_0002336 Phenylpyrrolidines
+obo:CHEMONTID_0001903 Pyrrolidine carboxylic acids and derivatives
+obo:CHEMONTID_0001158 Pyrrolidones
+obo:CHEMONTID_0002416 Pyrrolidine carboxylic acids
+obo:CHEMONTID_0002256 Pyrrolidinecarboxamides
+obo:CHEMONTID_0003203 Maleimides
+obo:CHEMONTID_0002089 Oxoprolines
+obo:CHEMONTID_0003031 Pyrrolidine-2-ones
+obo:CHEMONTID_0003032 Pyrrolidine-3-ones
+obo:CHEMONTID_0002335 Phenylpyrrolines
+obo:CHEMONTID_0002287 Pyrroline carboxylic acids and derivatives
+obo:CHEMONTID_0002417 Pyrroline carboxylic acids
+obo:CHEMONTID_0004255 Pyrroline 2-carboxylic acids
+obo:CHEMONTID_0001835 Pyrrolizidine oximes
+obo:CHEMONTID_0001323 Pyrrolizidinones
+obo:CHEMONTID_0000192 Cyclopyrrolones
+obo:CHEMONTID_0000216 Indolizines
+obo:CHEMONTID_0000241 Pyranoindolizines
+obo:CHEMONTID_0001769 Pyrroloindolizines
+obo:CHEMONTID_0004415 Pyrrolo[2,3-d]pyrimidines
+obo:CHEMONTID_0002284 Pyrrolopyrimidinecarboxylic acids and derivatives
+obo:CHEMONTID_0004418 Pyrrolo[2,1-f][1,2,4]triazines
+obo:CHEMONTID_0004083 1-benzylquinolines
+obo:CHEMONTID_0004366 2-Anilinoquinolines
+obo:CHEMONTID_0003910 2-aroylquinolines
+obo:CHEMONTID_0004367 3-Anilinoquinolines
+obo:CHEMONTID_0004368 4-Anilinoquinolines
+obo:CHEMONTID_0003912 4-aroylquinolines
+obo:CHEMONTID_0001464 4-hydroxy-2-alkylquinolines
+obo:CHEMONTID_0004538 4-quinolinemethanols
+obo:CHEMONTID_0003953 8-hydroxyquinolines
+obo:CHEMONTID_0000053 Aminoquinolines and derivatives
+obo:CHEMONTID_0001908 Benzoquinolines
+obo:CHEMONTID_0001780 Dihydrofuranoquinolines
+obo:CHEMONTID_0002374 Furanoquinolines
+obo:CHEMONTID_0004403 Haloquinolines
+obo:CHEMONTID_0001715 Hydroquinolines
+obo:CHEMONTID_0000057 Hydroxyquinolines
+obo:CHEMONTID_0004331 Imidazoquinolines
+obo:CHEMONTID_0000239 Indolizinoquinolines
+obo:CHEMONTID_0000061 Indoloquinolines
+obo:CHEMONTID_0001155 Nitroquinolines and derivatives
+obo:CHEMONTID_0002348 Phenylquinolines
+obo:CHEMONTID_0001734 Pyrroloquinolines
+obo:CHEMONTID_0004168 Quindolines
+obo:CHEMONTID_0002553 Quinoline carboxamides
+obo:CHEMONTID_0002552 Quinoline carboxylic acids
+obo:CHEMONTID_0002570 Quinoline quinones
+obo:CHEMONTID_0001513 Quinoline-3-sulfonamides
+obo:CHEMONTID_0000056 Quinolones and derivatives
+obo:CHEMONTID_0003911 5-amino-2-aroylquinolines
+obo:CHEMONTID_0004537 4-aminoquinolines
+obo:CHEMONTID_0000274 Acridines
+obo:CHEMONTID_0004423 Benzo[f]quinolin-3-ones
+obo:CHEMONTID_0000100 Phenanthridines and derivatives
+obo:CHEMONTID_0001811 Acridones
+obo:CHEMONTID_0003017 Benzacridines
+obo:CHEMONTID_0001763 Pyridoacridines
+obo:CHEMONTID_0001762 Pyrroloacridines
+obo:CHEMONTID_0001728 Quinacridines
+obo:CHEMONTID_0002827 Pyrido[2,3,4-kl]acridines
+obo:CHEMONTID_0001810 Pyridoacridones
+obo:CHEMONTID_0002826 Pyrido[2,3,4-kl]acridones
+obo:CHEMONTID_0002828 Pyrrolo[2,3,4-kl]acridines
+obo:CHEMONTID_0001809 Quinacridones
+obo:CHEMONTID_0004008 Chloroquinolines
+obo:CHEMONTID_0004393 6-Amino-4-phenyltetrahydroquinolines
+obo:CHEMONTID_0002779 4-nitroquinoline N-oxides
+obo:CHEMONTID_0002196 Naphthylquinolines
+obo:CHEMONTID_0004424 Pyrrolo[3,2-c]quinolines
+obo:CHEMONTID_0002829 Pyrrolo[4,3,2-de]quinolines
+obo:CHEMONTID_0000005 Pyrroloquinoline quinones
+obo:CHEMONTID_0002252 Quinoline-3-carboxamides
+obo:CHEMONTID_0001144 Fluoroquinolones
+obo:CHEMONTID_0001716 Hydroquinolones
+obo:CHEMONTID_0001714 Hydroxyquinolones
+obo:CHEMONTID_0001291 Pyranoquinolines
+obo:CHEMONTID_0001896 Thienoquinolines
+obo:CHEMONTID_0002240 Thiopyranoquinolines
+obo:CHEMONTID_0003786 1,4-disubstituted quinolizidines
+obo:CHEMONTID_0003785 4,6-disubstituted quinolizidines
+obo:CHEMONTID_0001325 Quinolizidinones
+obo:CHEMONTID_0004422 Benzo[c]quinolizin-3-ones
+obo:CHEMONTID_0002238 Quinolizine carboxylic acids and derivatives
+obo:CHEMONTID_0001805 Quinuclidones
+obo:CHEMONTID_0001882 Beta sultams
+obo:CHEMONTID_0002096 Beta sultims
+obo:CHEMONTID_0002098 Delta sultims
+obo:CHEMONTID_0002097 Gamma sultims
+obo:CHEMONTID_0002189 1-phenethyltetrahydroisoquinolines
+obo:CHEMONTID_0002956 1-phenyltetrahydroisoquinolines
+obo:CHEMONTID_0002957 4-phenyltetrahydroisoquinolines
+obo:CHEMONTID_0001593 Bilirubins
+obo:CHEMONTID_0000716 Chlorins
+obo:CHEMONTID_0000353 Corrinoids
+obo:CHEMONTID_0001182 Corroles
+obo:CHEMONTID_0001926 Metallotetrapyrroles
+obo:CHEMONTID_0004187 Phorbines
+obo:CHEMONTID_0004188 Phthalocyanines
+obo:CHEMONTID_0000212 Porphyrins
+obo:CHEMONTID_0000352 Cobalamin derivatives
+obo:CHEMONTID_0001221 Precorrins
+obo:CHEMONTID_0000452 Metalloporphyrins
+obo:CHEMONTID_0002234 Aminotetrazines
+obo:CHEMONTID_0000308 Benzothiadiazines
+obo:CHEMONTID_0004292 1,2,4-benzothiadiazine-1,1-dioxides
+obo:CHEMONTID_0001352 Meta thiazepines
+obo:CHEMONTID_0001353 Ortho thiazepines
+obo:CHEMONTID_0001354 Para thiazepines
+obo:CHEMONTID_0002579 Phenylthiazetidines
+obo:CHEMONTID_0001885 Delta sultams
+obo:CHEMONTID_0001919 Thiazinanethiones
+obo:CHEMONTID_0002288 Thiomorpholines
+obo:CHEMONTID_0002577 Phenylthiomorpholines
+obo:CHEMONTID_0002289 Thiomorpholine carboxylic acids and derivatives
+obo:CHEMONTID_0002408 Thiomorpholine carboxylic acids
+obo:CHEMONTID_0001348 1,2-thiazines
+obo:CHEMONTID_0001347 1,3-thiazines
+obo:CHEMONTID_0001349 1,4-thiazines
+obo:CHEMONTID_0003353 Thieno[3,4-c]pyridazines
+obo:CHEMONTID_0003354 Thieno[3,4-d]pyridazines
+obo:CHEMONTID_0003355 2-aminothieno[3,4-c]pyridazines
+obo:CHEMONTID_0003356 2-aminothieno[3,4-d]pyridazines
+obo:CHEMONTID_0004385 2,4-Diaminothieno[2,3-d]pyrimidines
+obo:CHEMONTID_0004134 Epithionitriles
+obo:CHEMONTID_0003683 Thioflavans
+obo:CHEMONTID_0003463 Thiolane-2-thiones
+obo:CHEMONTID_0003464 Thiolane-3-thiones
+obo:CHEMONTID_0003482 2,3,5-trisubstituted thiophenes
+obo:CHEMONTID_0003481 2,5-disubstituted thiophenes
+obo:CHEMONTID_0003216 3-aroylthiophenes
+obo:CHEMONTID_0001936 Aminothiophenes
+obo:CHEMONTID_0004336 Nitrothiophenes
+obo:CHEMONTID_0002017 Thiophene carboxylic acids and derivatives
+obo:CHEMONTID_0003215 Thiophene sulfoxides
+obo:CHEMONTID_0003217 2-amino-3-aroylthiophenes
+obo:CHEMONTID_0003340 2-amino-3-aroyl-4,5-alkylthiophenes
+obo:CHEMONTID_0003339 2-amino-3-benzoylthiophenes
+obo:CHEMONTID_0004004 2-aminothiophenes
+obo:CHEMONTID_0004005 3,4,5-trisubstituted-2-aminothiophenes
+obo:CHEMONTID_0004006 N-arylated-2-aminothiophenes
+obo:CHEMONTID_0004337 2-nitrothiophenes
+obo:CHEMONTID_0004338 3-nitrothiophenes
+obo:CHEMONTID_0004339 Nitrohalothiophenes
+obo:CHEMONTID_0004340 2-nitrohalothiophenes
+obo:CHEMONTID_0004341 3-nitrohalothiophenes
+obo:CHEMONTID_0002018 Thiophene carboxamides
+obo:CHEMONTID_0002419 Thiophene carboxylic acids
+obo:CHEMONTID_0002796 1,2,3-triazinanes
+obo:CHEMONTID_0002797 1,2,4-triazinanes
+obo:CHEMONTID_0002798 1,3,5-triazinanes
+obo:CHEMONTID_0004106 1,2,3-triazines
+obo:CHEMONTID_0004107 1,2,4-triazines
+obo:CHEMONTID_0004105 1,3,5-triazines
+obo:CHEMONTID_0001693 Aminotriazines
+obo:CHEMONTID_0001922 Triazinethiones
+obo:CHEMONTID_0001920 Triazinones
+obo:CHEMONTID_0004732 4-methoxy-1,2,3-triazines
+obo:CHEMONTID_0004638 Alkoxy-S-triazines
+obo:CHEMONTID_0004637 Alkyl-2-thio-S-triazines
+obo:CHEMONTID_0004639 Halo-S-triazines
+obo:CHEMONTID_0004735 Methylthio-s-triazines
+obo:CHEMONTID_0004731 2-methoxy-1,3,5-triazines
+obo:CHEMONTID_0004721 Chloro-s-triazines
+obo:CHEMONTID_0004734 1,3,5-triazine-2,4-diamines
+obo:CHEMONTID_0003080 N-aliphatic s-triazines
+obo:CHEMONTID_0004733 2-benzylamino-s-triazines
+obo:CHEMONTID_0001123 Triazolopyridinones
+obo:CHEMONTID_0004681 1,2,4-triazolopyrimidine-2-sulfonamides
+obo:CHEMONTID_0004682 1,2,4-triazolopyrimidine-2-sulfonanilides
+obo:CHEMONTID_0004442 Metal alkyl halides
+obo:CHEMONTID_0004436 Metal alkyls
+obo:CHEMONTID_0004441 Metal allyls
+obo:CHEMONTID_0004440 Metal aryls
+obo:CHEMONTID_0001372 Organo-alkali-metal compounds
+obo:CHEMONTID_0001523 Organo-post-transition metal compounds
+obo:CHEMONTID_0000277 Organoalkaline-earth metal compounds
+obo:CHEMONTID_0004614 Organometallic peroxides
+obo:CHEMONTID_0001370 Organometalloid compounds
+obo:CHEMONTID_0001371 Organotransition metal compounds
+obo:CHEMONTID_0004443 Transition metal alkyls
+obo:CHEMONTID_0000406 Organolithium compounds
+obo:CHEMONTID_0001529 Organoaluminium compounds
+obo:CHEMONTID_0004024 Organolead compounds
+obo:CHEMONTID_0004539 Organothalium compounds
+obo:CHEMONTID_0001524 Organotin compounds
+obo:CHEMONTID_0004568 Alkylaluminium and derivatives
+obo:CHEMONTID_0004569 Alkylaluminium halides
+obo:CHEMONTID_0004591 Trialkylaluminiums
+obo:CHEMONTID_0004027 Alkyl lead compounds
+obo:CHEMONTID_0004288 Organolead sulfides
+obo:CHEMONTID_0004289 Tetraorganolead compounds
+obo:CHEMONTID_0004065 Triorganolead compounds
+obo:CHEMONTID_0004598 Alkyl trialkyllead peroxides
+obo:CHEMONTID_0004071 Dialkyltins
+obo:CHEMONTID_0004070 Monoalkyltins
+obo:CHEMONTID_0004285 Organotin selenides
+obo:CHEMONTID_0004286 Organotin sulfides
+obo:CHEMONTID_0004287 Organotin tellurides
+obo:CHEMONTID_0002115 Stannines
+obo:CHEMONTID_0002116 Stannoles
+obo:CHEMONTID_0004348 Tetraorganotin compounds
+obo:CHEMONTID_0004066 Triorganotin compounds
+obo:CHEMONTID_0004085 Dialkyltin dicarboxylates
+obo:CHEMONTID_0004090 Dialkyltin salts
+obo:CHEMONTID_0004347 Tetraalkyltins
+obo:CHEMONTID_0004072 Trialkyltins
+obo:CHEMONTID_0000287 Organomagnesium compounds
+obo:CHEMONTID_0004597 Dialkylmagnesiums
+obo:CHEMONTID_0004594 Organomagnesium halides
+obo:CHEMONTID_0004595 Alkylmagnesium halides
+obo:CHEMONTID_0004596 Arylmagnesium halides
+obo:CHEMONTID_0000349 Organoantimony compounds
+obo:CHEMONTID_0000405 Organoarsenic compounds
+obo:CHEMONTID_0002795 Organoboron compounds
+obo:CHEMONTID_0002468 Organoselenium compounds
+obo:CHEMONTID_0003194 Organosilicon compounds
+obo:CHEMONTID_0002469 Organotellurium compounds
+obo:CHEMONTID_0004290 Primary stibines
+obo:CHEMONTID_0004291 Secondary stibines
+obo:CHEMONTID_0004249 Tetraorganostibonium salts
+obo:CHEMONTID_0004583 Trialkylantimony halides
+obo:CHEMONTID_0004069 Trialkylstibanes
+obo:CHEMONTID_0003987 Arsine imides
+obo:CHEMONTID_0003988 Arsine sulfides
+obo:CHEMONTID_0003984 Arsines
+obo:CHEMONTID_0004282 Dihaloarsines
+obo:CHEMONTID_0004281 Monohaloarsines
+obo:CHEMONTID_0004243 Organotetrahaloarsoranes
+obo:CHEMONTID_0004280 Oxygen-containing organoarsenic compounds
+obo:CHEMONTID_0004056 Pentavalent organic arsenic compounds
+obo:CHEMONTID_0004240 Sulfur-containing organoarsenic compounds
+obo:CHEMONTID_0004238 Tetraorganoarsonium salts
+obo:CHEMONTID_0004055 Trivalent organic arsenic compounds
+obo:CHEMONTID_0003986 Arsine oxides
+obo:CHEMONTID_0004641 Alkylarsine oxides
+obo:CHEMONTID_0004642 Trialkylarsine oxides
+obo:CHEMONTID_0004244 Diorganotrihaloarsoranes
+obo:CHEMONTID_0004239 Pentaorganoarsanes
+obo:CHEMONTID_0004284 Tetraorganoalkoxyarsoranes
+obo:CHEMONTID_0004283 Triorganodialkoxyarsoranes
+obo:CHEMONTID_0004245 Triorganodihaloarsoranes
+obo:CHEMONTID_0004241 Organoarsenic sulfides
+obo:CHEMONTID_0004242 Thiodiarsines
+obo:CHEMONTID_0004058 Methylated trivalent arsenic compounds
+obo:CHEMONTID_0004237 Tertiary arsines
+obo:CHEMONTID_0004185 Trialkylarsane oxides
+obo:CHEMONTID_0004059 Trialkylarsanes
+obo:CHEMONTID_0004570 Alkylboranes
+obo:CHEMONTID_0004571 Alkylhaloboranes
+obo:CHEMONTID_0004574 Dialkylboranes
+obo:CHEMONTID_0004573 Monoalkylboranes
+obo:CHEMONTID_0004575 Trialkylboranes
+obo:CHEMONTID_0002472 Diselenides
+obo:CHEMONTID_0002032 Isoselenocyanates
+obo:CHEMONTID_0002471 Selenenyl halides
+obo:CHEMONTID_0003119 Seleninyl compounds
+obo:CHEMONTID_0002476 Seleniranes
+obo:CHEMONTID_0003123 Selenocarbonyl compounds
+obo:CHEMONTID_0002470 Selenocyanates
+obo:CHEMONTID_0002430 Selenoesters
+obo:CHEMONTID_0002429 Selenoethers
+obo:CHEMONTID_0002040 Selenols
+obo:CHEMONTID_0003120 Selenonyl compounds
+obo:CHEMONTID_0002473 Selenoxides
+obo:CHEMONTID_0002041 Selones
+obo:CHEMONTID_0003162 Seleninohydrazides
+obo:CHEMONTID_0003163 Selenonohydrazides
+obo:CHEMONTID_0003265 Alkoxysilanes
+obo:CHEMONTID_0003196 Alkylarylsilanes
+obo:CHEMONTID_0003273 Alkylhalosilanes
+obo:CHEMONTID_0003195 Alkylsilanes
+obo:CHEMONTID_0003895 Ketene silyl acetals
+obo:CHEMONTID_0004698 N-silyl compounds
+obo:CHEMONTID_0004445 Organoheterosilanes
+obo:CHEMONTID_0003201 Silanols
+obo:CHEMONTID_0004446 Siloxanes
+obo:CHEMONTID_0003897 Silyl dihalides
+obo:CHEMONTID_0002053 Silyl enol ethers
+obo:CHEMONTID_0003200 Silyl ethers
+obo:CHEMONTID_0003896 Silyl monohalides
+obo:CHEMONTID_0003898 Silyl trihalides
+obo:CHEMONTID_0004481 Trimethylsilyl esters
+obo:CHEMONTID_0003140 Trialkoxysilanes
+obo:CHEMONTID_0003867 Trialkylsilanes
+obo:CHEMONTID_0004444 Organochlorosilanes
+obo:CHEMONTID_0004479 Trialkylheterosilanes
+obo:CHEMONTID_0004609 Tris(ketoximino)silanes
+obo:CHEMONTID_0004480 Trialkylchlorosilanes
+obo:CHEMONTID_0003271 Dialkylsilanediols
+obo:CHEMONTID_0003267 Dialkylsilanols
+obo:CHEMONTID_0003269 Monoalkylsilanediols
+obo:CHEMONTID_0003270 Monoalkylsilanetriols
+obo:CHEMONTID_0003266 Monoalkylsilanols
+obo:CHEMONTID_0003268 Trialkylsilanols
+obo:CHEMONTID_0003205 Disiloxanes
+obo:CHEMONTID_0002478 Ditellurides
+obo:CHEMONTID_0002426 Tellones
+obo:CHEMONTID_0002477 Telluraldehydes
+obo:CHEMONTID_0003122 Tellurinyl compounds
+obo:CHEMONTID_0003124 Tellurocarbonyl compounds
+obo:CHEMONTID_0002431 Telluroethers
+obo:CHEMONTID_0002425 Tellurols
+obo:CHEMONTID_0002479 Tellurones
+obo:CHEMONTID_0003121 Telluronyl compounds
+obo:CHEMONTID_0002482 Telluroxides
+obo:CHEMONTID_0003161 Tellurinohydrazides
+obo:CHEMONTID_0003160 Telluronohydrazides
+obo:CHEMONTID_0004073 Organochromium compounds
+obo:CHEMONTID_0004017 Organocopper compounds
+obo:CHEMONTID_0000473 Organogold compounds
+obo:CHEMONTID_0000407 Organomercurial compounds
+obo:CHEMONTID_0004492 Organonickel compounds
+obo:CHEMONTID_0004025 Organosilver compounds
+obo:CHEMONTID_0004592 Organozinc compounds
+obo:CHEMONTID_0004042 Alkyl mercury compounds
+obo:CHEMONTID_0004043 Aryl mercury compounds
+obo:CHEMONTID_0004593 Dialkylzincs
+obo:CHEMONTID_0004572 Alkylhalophosphines
+obo:CHEMONTID_0004483 Alkylphosphonofluoridic acids and esters
+obo:CHEMONTID_0002540 Dihydroxyphosphanes
+obo:CHEMONTID_0002489 Diphosphenes
+obo:CHEMONTID_0002488 Oligophosphenes
+obo:CHEMONTID_0001247 Organic fluorophosphonic acids and derivatives
+obo:CHEMONTID_0000401 Organic phosphines and derivatives
+obo:CHEMONTID_0003014 Organophosphinic acids and derivatives
+obo:CHEMONTID_0001438 Organothiophosphorus compounds
+obo:CHEMONTID_0003939 Phosphine imides
+obo:CHEMONTID_0002855 Phosphorus mustard compounds
+obo:CHEMONTID_0004327 Tetraalkylphosphonium compounds
+obo:CHEMONTID_0004328 Tetraalkylphosphonium halides
+obo:CHEMONTID_0004186 Trialkylphosphanes
+obo:CHEMONTID_0004484 Trialkylphosphites
+obo:CHEMONTID_0001309 Organophosphine oxides
+obo:CHEMONTID_0003015 Phosphinic acid esters
+obo:CHEMONTID_0001570 Organophosphorotrithioic acids and derivatives
+obo:CHEMONTID_0003938 Phosphine sulfides
+obo:CHEMONTID_0004664 Phosphoramidothioic acid O-esters
+obo:CHEMONTID_0004663 Phosphoramidothioic acid S-esters
+obo:CHEMONTID_0004665 Phosphoramidothioic-acid-O,S-diesters
+obo:CHEMONTID_0004195 Allyl sulfur compounds
+obo:CHEMONTID_0003139 Aminosulfonodithioyl compounds
+obo:CHEMONTID_0001094 Imidothioesters
+obo:CHEMONTID_0001234 Isothiocyanates
+obo:CHEMONTID_0001232 Isothioureas
+obo:CHEMONTID_0002800 Organic disulfides
+obo:CHEMONTID_0000508 Organic sulfonium compounds
+obo:CHEMONTID_0003135 Organic thioperoxides
+obo:CHEMONTID_0002799 Organic trisulfides
+obo:CHEMONTID_0003142 S-aminosulfonimidothioyl compounds
+obo:CHEMONTID_0003141 S-hydrazinosulfonimidoyl compounds
+obo:CHEMONTID_0000010 Sulfenes
+obo:CHEMONTID_0003260 Sulfenyl compounds
+obo:CHEMONTID_0002929 Sulfimides
+obo:CHEMONTID_0000009 Sulfines
+obo:CHEMONTID_0003130 Sulfinyl compounds
+obo:CHEMONTID_0003991 Sulfonediimides
+obo:CHEMONTID_0003154 Sulfonimidamides
+obo:CHEMONTID_0003155 Sulfonodiimidamides
+obo:CHEMONTID_0004357 Sulfonothioic O-acids
+obo:CHEMONTID_0001157 Sulfonyls
+obo:CHEMONTID_0000491 Sulfoxides
+obo:CHEMONTID_0001187 Thioacetals
+obo:CHEMONTID_0000510 Thioamides
+obo:CHEMONTID_0001198 Thiocarbonyl compounds
+obo:CHEMONTID_0001201 Thiocyanates
+obo:CHEMONTID_0004086 Thiodisulfinates
+obo:CHEMONTID_0002353 Thioenols
+obo:CHEMONTID_0001202 Thioethers
+obo:CHEMONTID_0001666 Thiohemiaminal derivatives
+obo:CHEMONTID_0002485 Thiols
+obo:CHEMONTID_0003159 Thioperoxols
+obo:CHEMONTID_0004163 Thioselenides
+obo:CHEMONTID_0003284 Thiosulfonic acids
+obo:CHEMONTID_0001209 Thioureas
+obo:CHEMONTID_0003885 Imidothiolactones
+obo:CHEMONTID_0002537 Isothiocyanate acids
+obo:CHEMONTID_0004089 Dialkyldisulfides
+obo:CHEMONTID_0004730 Formamidine disulfides
+obo:CHEMONTID_0003261 Sulfenyl halides
+obo:CHEMONTID_0003143 Aminosulfinyl compounds
+obo:CHEMONTID_0001265 N-sulfinylhydrazines
+obo:CHEMONTID_0003262 Sulfinyl halides
+obo:CHEMONTID_0001905 Sulfinylamines
+obo:CHEMONTID_0003137 Aminosulfonyl compounds
+obo:CHEMONTID_0003209 Carbo-azosulfones
+obo:CHEMONTID_0003138 Hydrazinosulfonyl compounds
+obo:CHEMONTID_0003591 Sulfinyl sulfones
+obo:CHEMONTID_0000505 Sulfones
+obo:CHEMONTID_0004356 Sulfono(thioperoxoic) SO-acids
+obo:CHEMONTID_0004359 Sulfonoperoxoic acids
+obo:CHEMONTID_0004360 Sulfonoselenoic Se-acids
+obo:CHEMONTID_0004358 Sulfonothioic S-acids
+obo:CHEMONTID_0003199 Sulfonyl azides
+obo:CHEMONTID_0004515 Sulfonyl isocyanates
+obo:CHEMONTID_0004516 Sulfonyl isothiocyanates
+obo:CHEMONTID_0004783 Episulfones
+obo:CHEMONTID_0002132 Dithioacetals
+obo:CHEMONTID_0002131 Monothioacetals
+obo:CHEMONTID_0002133 Dithioketals
+obo:CHEMONTID_0002130 Monothioketals
+obo:CHEMONTID_0003077 Thioamide-S,S-dioxides
+obo:CHEMONTID_0003076 Thioamide-S-oxides
+obo:CHEMONTID_0003436 Dithiocarboxylic acids and derivatives
+obo:CHEMONTID_0001672 Organic thiocarbonic acid derivatives
+obo:CHEMONTID_0001188 Thioaldehydes
+obo:CHEMONTID_0001368 Thiocarbamic acid derivatives
+obo:CHEMONTID_0001832 Thiocarbonyl s-imides
+obo:CHEMONTID_0000121 Thioketones
+obo:CHEMONTID_0003438 Dithiocarboxylic acid amides
+obo:CHEMONTID_0003439 Dithiocarboxylic acid esters
+obo:CHEMONTID_0003437 Dithiocarboxylic acids
+obo:CHEMONTID_0001193 Organic thiocarbonic acids
+obo:CHEMONTID_0001197 Thiocarbonic acid diesters
+obo:CHEMONTID_0001195 Thiocarbonic acid ester halides
+obo:CHEMONTID_0001196 Thiocarbonic acid monoesters
+obo:CHEMONTID_0002251 Thioaldehyde s-oxides
+obo:CHEMONTID_0004428 Thiocarbamate salts
+obo:CHEMONTID_0001190 Thiocarbamic acid esters
+obo:CHEMONTID_0001191 Thiocarbamic acid halides
+obo:CHEMONTID_0004425 O-thiocarbamates
+obo:CHEMONTID_0004426 S-thiocarbamates
+obo:CHEMONTID_0004427 S-Alkyl-thiocarbamates
+obo:CHEMONTID_0003432 Thiocarbamic acid bromides
+obo:CHEMONTID_0003435 Thiocarbamic acid chlorides
+obo:CHEMONTID_0003434 Thiocarbamic acid fluorides
+obo:CHEMONTID_0003433 Thiocarbamic acid iodides
+obo:CHEMONTID_0002025 Thioketone s-oxides
+obo:CHEMONTID_0004611 Metal thiocyanates
+obo:CHEMONTID_0004631 Aryl thioethers
+obo:CHEMONTID_0003862 Dialkylthioethers
+obo:CHEMONTID_0001279 Sulfur mustard compounds
+obo:CHEMONTID_0002352 Thioenol ethers
+obo:CHEMONTID_0003863 Alkylarylthioethers
+obo:CHEMONTID_0003864 Diarylthioethers
+obo:CHEMONTID_0004634 Phenyl sulfides
+obo:CHEMONTID_0004116 N,S-acetals
+obo:CHEMONTID_0001212 Alkylthiols
+obo:CHEMONTID_0002026 Dithiohemiacetals
+obo:CHEMONTID_0003157 OS-thioperoxols
+obo:CHEMONTID_0003158 SO-thioperoxols
+obo:CHEMONTID_0002900 1,2-diaryl-2-propen-1-ols
+obo:CHEMONTID_0003405 2-arylbenzofuran flavonoids
+obo:CHEMONTID_0002642 3,4-dihydrocoumarins
+obo:CHEMONTID_0002612 Alpha-methyldeoxybenzoin flavonoids
+obo:CHEMONTID_0003415 Angucyclines
+obo:CHEMONTID_0002106 Anthracyclines
+obo:CHEMONTID_0001631 Aurone flavonoids
+obo:CHEMONTID_0001304 Brevetoxins and derivatives
+obo:CHEMONTID_0001808 Ciguatera toxins
+obo:CHEMONTID_0000029 Cinnamaldehydes
+obo:CHEMONTID_0000476 Cinnamic acids and derivatives
+obo:CHEMONTID_0002754 Cinnamyl alcohols
+obo:CHEMONTID_0000145 Coumarins and derivatives
+obo:CHEMONTID_0001645 Depsides and depsidones
+obo:CHEMONTID_0002650 Diarylheptanoids
+obo:CHEMONTID_0000334 Flavonoids
+obo:CHEMONTID_0002507 Homoisoflavonoids
+obo:CHEMONTID_0001649 Isochromanequinones
+obo:CHEMONTID_0001890 Isocoumarins and derivatives
+obo:CHEMONTID_0002506 Isoflavonoids
+obo:CHEMONTID_0001761 Kavalactones
+obo:CHEMONTID_0003467 Linear 1,3-diarylpropanoids
+obo:CHEMONTID_0000064 Macrolactams
+obo:CHEMONTID_0001900 Macrolide lactams
+obo:CHEMONTID_0000147 Macrolides and analogues
+obo:CHEMONTID_0001614 Neoflavonoids
+obo:CHEMONTID_0001787 Ochratoxins and related substances
+obo:CHEMONTID_0001802 Okadaic acids and derivatives
+obo:CHEMONTID_0002551 Phenylpropanoic acids
+obo:CHEMONTID_0001800 Saxitoxins, gonyautoxins, and derivatives
+obo:CHEMONTID_0001817 Sterigmatocystins
+obo:CHEMONTID_0000253 Stilbenes
+obo:CHEMONTID_0000238 Tannins
+obo:CHEMONTID_0000181 Tetracyclines
+obo:CHEMONTID_0003516 4'-prenylated 2-arybenzofurans
+obo:CHEMONTID_0003511 4-prenylated 2-arybenzofurans
+obo:CHEMONTID_0003649 5-prenylated 2-arybenzofurans
+obo:CHEMONTID_0003515 7-prenylated 2-arybenzofurans
+obo:CHEMONTID_0003471 Auronols
+obo:CHEMONTID_0002810 Cinnamic acid amides
+obo:CHEMONTID_0003480 Cinnamic acid esters
+obo:CHEMONTID_0002504 Cinnamic acids
+obo:CHEMONTID_0001391 Hydroxycinnamic acids and derivatives
+obo:CHEMONTID_0004561 N-cinnamoylanthranilic acids
+obo:CHEMONTID_0003478 C-cinnamoyl glycosides
+obo:CHEMONTID_0003479 O-cinnamoyl glycosides
+obo:CHEMONTID_0000059 Coumaric acids and derivatives
+obo:CHEMONTID_0003002 Hydroxycinnamic acid esters
+obo:CHEMONTID_0002503 Hydroxycinnamic acids
+obo:CHEMONTID_0002505 Coumaric acids
+obo:CHEMONTID_0003004 Chlorogenic acids and derivatives
+obo:CHEMONTID_0000465 Coumaric acid esters
+obo:CHEMONTID_0003003 Hydroxycinnamic acid glycosides
+obo:CHEMONTID_0002682 Coumaroyl glycosides
+obo:CHEMONTID_0002683 M-coumaroyl glycosides
+obo:CHEMONTID_0002684 O-coumaroyl glycosides
+obo:CHEMONTID_0002685 P-coumaroyl glycosides
+obo:CHEMONTID_0004559 Avenanthramides
+obo:CHEMONTID_0004510 7-alkoxylcoumarins
+obo:CHEMONTID_0004821 C8-prenylated coumarins
+obo:CHEMONTID_0001743 Coumarin glycosides
+obo:CHEMONTID_0003190 Coumarino-alpha-pyrones
+obo:CHEMONTID_0003191 Coumarino-gamma-pyrones
+obo:CHEMONTID_0001536 Difurocoumarins
+obo:CHEMONTID_0000358 Furanocoumarins
+obo:CHEMONTID_0002908 Hydroxycoumarins
+obo:CHEMONTID_0003465 p-Dioxolo[2,3-g]coumarins
+obo:CHEMONTID_0003466 p-Dioxolo[2,3-h]coumarins
+obo:CHEMONTID_0003484 Pyranocoumarins
+obo:CHEMONTID_0002568 Angular furanocoumarins
+obo:CHEMONTID_0002569 Linear furanocoumarins
+obo:CHEMONTID_0000149 Aflatoxins
+obo:CHEMONTID_0001532 Difurocoumarocyclopentenones
+obo:CHEMONTID_0001533 Difurocoumarolactones
+obo:CHEMONTID_0000202 Psoralens
+obo:CHEMONTID_0002830 5-hydroxypsoralens
+obo:CHEMONTID_0002832 5-methoxypsoralens
+obo:CHEMONTID_0002831 8-hydroxypsoralens
+obo:CHEMONTID_0002833 8-methoxypsoralens
+obo:CHEMONTID_0002907 4-hydroxycoumarins
+obo:CHEMONTID_0002643 6,7-dihydroxycoumarins
+obo:CHEMONTID_0002644 7,8-dihydroxycoumarins
+obo:CHEMONTID_0002909 7-hydroxycoumarins
+obo:CHEMONTID_0003485 Angular pyranocoumarins
+obo:CHEMONTID_0003486 Linear pyranocoumarins
+obo:CHEMONTID_0002652 Cyclic diarylheptanoids
+obo:CHEMONTID_0002651 Linear diarylheptanoids
+obo:CHEMONTID_0003524 Meta,meta-bridged biphenyls
+obo:CHEMONTID_0003523 Meta,para-diphenylether diarylheptanoids
+obo:CHEMONTID_0000356 Curcuminoids
+obo:CHEMONTID_0000336 Anthocyanidins
+obo:CHEMONTID_0001586 Biflavonoids and polyflavonoids
+obo:CHEMONTID_0003637 Flav-3-enes
+obo:CHEMONTID_0000337 Flavans
+obo:CHEMONTID_0001615 Flavones
+obo:CHEMONTID_0004182 Flavonoid 3-phosphates
+obo:CHEMONTID_0001111 Flavonoid glycosides
+obo:CHEMONTID_0002614 Furanoflavonoids and dihydrofuranoflavonoids
+obo:CHEMONTID_0002991 Hydroxyflavonoids
+obo:CHEMONTID_0002585 O-methylated flavonoids
+obo:CHEMONTID_0003407 Peltogynoid flavonoids
+obo:CHEMONTID_0003520 Pyranoflavonoids
+obo:CHEMONTID_0003005 Sulfated flavonoids
+obo:CHEMONTID_0003638 3-prenylated flav-3-enes
+obo:CHEMONTID_0003645 2'-prenylated flavans
+obo:CHEMONTID_0003643 3'-prenylated flavans
+obo:CHEMONTID_0003639 3-prenylated flavans
+obo:CHEMONTID_0003644 4'-prenylated flavans
+obo:CHEMONTID_0003640 4-prenylated flavans
+obo:CHEMONTID_0003646 6-prenylated flavans
+obo:CHEMONTID_0003641 7-prenylated flavans
+obo:CHEMONTID_0003642 8-prenylated flavans
+obo:CHEMONTID_0003012 Flavan-3-ols
+obo:CHEMONTID_0003013 Flavan-4-ols
+obo:CHEMONTID_0001632 Flavanones
+obo:CHEMONTID_0001138 Leucoanthocyanidins
+obo:CHEMONTID_0003588 2'-prenylated flavanones
+obo:CHEMONTID_0003506 3'-prenylated flavanones
+obo:CHEMONTID_0003505 3-prenylated flavanones
+obo:CHEMONTID_0003648 4-prenylated flavanones
+obo:CHEMONTID_0003507 6-prenylated flavanones
+obo:CHEMONTID_0003647 7-prenylated flavanones
+obo:CHEMONTID_0003508 8-prenylated flavanones
+obo:CHEMONTID_0001584 Catechins
+obo:CHEMONTID_0001587 Catechin gallates
+obo:CHEMONTID_0001594 Epigallocatechins
+obo:CHEMONTID_0001362 Flavanonols
+obo:CHEMONTID_0003587 2'-prenylated flavones
+obo:CHEMONTID_0003502 3'-prenylated flavones
+obo:CHEMONTID_0003501 3-prenylated flavones
+obo:CHEMONTID_0003503 6-prenylated flavones
+obo:CHEMONTID_0003504 8-prenylated flavones
+obo:CHEMONTID_0001136 Flavonols
+obo:CHEMONTID_0001759 Furanoflavones
+obo:CHEMONTID_0001737 Flavonoid C-glycosides
+obo:CHEMONTID_0001583 Flavonoid O-glycosides
+obo:CHEMONTID_0003535 Flavonoid 8-C-glycosides
+obo:CHEMONTID_0001361 Anthocyanins
+obo:CHEMONTID_0001738 Aurone O-glycosides
+obo:CHEMONTID_0001739 Chalcone- and dihydrochalcone O-glycosides
+obo:CHEMONTID_0003678 Flavonoid 3-O-p-coumaroyl glycosides
+obo:CHEMONTID_0003681 Flavonoid 3p-O-p-coumaroyl glycosides
+obo:CHEMONTID_0003679 Flavonoid 5-O-p-coumaroyl glycosides
+obo:CHEMONTID_0003680 Flavonoid 7-O-p-coumaroyl glycosides
+obo:CHEMONTID_0002934 Flavonoid O-glucuronides
+obo:CHEMONTID_0003531 Flavonoid-3-O-glycosides
+obo:CHEMONTID_0003533 Flavonoid-7-O-glycosides
+obo:CHEMONTID_0003540 Flavonoid-8-O-glycosides
+obo:CHEMONTID_0001741 Rotenoid O-glycosides
+obo:CHEMONTID_0002996 Anthocyanidin-3-O-glycosides
+obo:CHEMONTID_0002997 Anthocyanidin-5-O-glycosides
+obo:CHEMONTID_0003555 Anthocyanidin-7-O-Glycosides
+obo:CHEMONTID_0003551 Anthocyanin-3'-O-glycosides
+obo:CHEMONTID_0003552 Anthocyanin-4'-O-glycosides
+obo:CHEMONTID_0002708 Anthocyanidin 3-O-p-coumaroyl glycosides
+obo:CHEMONTID_0002712 Anthocyanidin 3-O-2-p-coumaroyl glycosides
+obo:CHEMONTID_0002711 Anthocyanidin 3-O-6-p-coumaroyl glycosides
+obo:CHEMONTID_0002709 Anthocyanidin 3p-O-p-coumaroyl glycosides
+obo:CHEMONTID_0002714 Anthocyanidin 3p-O-2-p-coumaroyl glycosides
+obo:CHEMONTID_0002713 Anthocyanidin 3p-O-6-p-coumaroyl glycosides
+obo:CHEMONTID_0002710 Anthocyanidin 5-O-p-coumaroyl glycosides
+obo:CHEMONTID_0002716 Anthocyanidin 5-O-2-p-coumaroyl glycosides
+obo:CHEMONTID_0002715 Anthocyanidin 5-O-6-p-coumaroyl glycosides
+obo:CHEMONTID_0003556 Anthocyanidin 7-O-p-coumaroyl glycosides
+obo:CHEMONTID_0003553 Anthocyanidin 7-O-2-p-coumaroyl glycosides
+obo:CHEMONTID_0003554 Anthocyanidin 7-O-6-p-coumaroyl glycosides
+obo:CHEMONTID_0003532 Flavonoid-3-O-glucuronides
+obo:CHEMONTID_0003534 Flavonoid-7-O-glucuronides
+obo:CHEMONTID_0003541 Flavonoid-8-O-glucuronides
+obo:CHEMONTID_0002615 Angular furanoflavonoids and dihydrofuranoflavonoids
+obo:CHEMONTID_0002616 Linear furanoflavonoids and dihydrofuranoflavonoids
+obo:CHEMONTID_0002915 3'-hydroxyflavonoids
+obo:CHEMONTID_0002914 3-hydroxyflavonoids
+obo:CHEMONTID_0002989 4'-hydroxyflavonoids
+obo:CHEMONTID_0002988 4-hydroxyflavonoids
+obo:CHEMONTID_0002992 5-hydroxyflavonoids
+obo:CHEMONTID_0002990 6-hydroxyflavonoids
+obo:CHEMONTID_0002993 7-hydroxyflavonoids
+obo:CHEMONTID_0002994 8-hydroxyflavonoids
+obo:CHEMONTID_0003006 Monohydroxyflavonoids
+obo:CHEMONTID_0002594 2'-O-methylated flavonoids
+obo:CHEMONTID_0002587 2-O-methylated flavonoids
+obo:CHEMONTID_0002595 3'-O-methylated flavonoids
+obo:CHEMONTID_0002588 3-O-methylated flavonoids
+obo:CHEMONTID_0002596 4'-O-methylated flavonoids
+obo:CHEMONTID_0002589 4-O-methylated flavonoids
+obo:CHEMONTID_0002590 5-O-methylated flavonoids
+obo:CHEMONTID_0002591 6-O-methylated flavonoids
+obo:CHEMONTID_0002592 7-O-methylated flavonoids
+obo:CHEMONTID_0002593 8-O-methylated flavonoids
+obo:CHEMONTID_0004181 3-sulfated flavonoids
+obo:CHEMONTID_0002508 Homoisoflavans
+obo:CHEMONTID_0001633 Homoisoflavones
+obo:CHEMONTID_0002898 Homoisoflavanones
+obo:CHEMONTID_0002355 Benzoisochromanequinones
+obo:CHEMONTID_0003406 3-arylcoumarin flavonoids
+obo:CHEMONTID_0003470 Coumaronochromenes
+obo:CHEMONTID_0001742 Coumaronochromones
+obo:CHEMONTID_0000354 Coumestans
+obo:CHEMONTID_0002617 Furanoisoflavonoids
+obo:CHEMONTID_0004154 Hydroxyisoflavonoids
+obo:CHEMONTID_0002901 Isoflav-2-enes
+obo:CHEMONTID_0002819 Isoflav-3-enes
+obo:CHEMONTID_0002523 Isoflavanquinones
+obo:CHEMONTID_0001612 Isoflavans
+obo:CHEMONTID_0002896 Isoflavonoid C-glycosides
+obo:CHEMONTID_0000507 Isoflavonoid O-glycosides
+obo:CHEMONTID_0002586 O-methylated isoflavonoids
+obo:CHEMONTID_0003530 Pyranoisoflavonoids
+obo:CHEMONTID_0001607 Rotenoids
+obo:CHEMONTID_0001608 Pterocarpans
+obo:CHEMONTID_0000494 Isoflavones
+obo:CHEMONTID_0003580 2'-prenylated isoflavones
+obo:CHEMONTID_0003512 3'-prenylated isoflavones
+obo:CHEMONTID_0003513 6-prenylated isoflavones
+obo:CHEMONTID_0003514 8-prenylated isoflavones
+obo:CHEMONTID_0002821 Isoflavone epoxides
+obo:CHEMONTID_0002580 Isoflavonequinones
+obo:CHEMONTID_0002820 Isoflav-3-enones
+obo:CHEMONTID_0001828 Isoflavanols
+obo:CHEMONTID_0001827 Isoflavanones
+obo:CHEMONTID_0003579 2'-prenylated isoflavanones
+obo:CHEMONTID_0002686 2-hydroxyisoflavanones
+obo:CHEMONTID_0003525 3'-prenylated isoflavanones
+obo:CHEMONTID_0003526 6-prenylated isoflavanones
+obo:CHEMONTID_0003527 8-prenylated isoflavanones
+obo:CHEMONTID_0002604 2'-O-methylated isoflavonoids
+obo:CHEMONTID_0002597 2-O-methylated isoflavonoids
+obo:CHEMONTID_0002605 3'-O-methylated isoflavonoids
+obo:CHEMONTID_0002598 3-O-methylated isoflavonoids
+obo:CHEMONTID_0002606 4'-O-methylated isoflavonoids
+obo:CHEMONTID_0002599 4-O-methylated isoflavonoids
+obo:CHEMONTID_0002600 5-O-methylated isoflavonoids
+obo:CHEMONTID_0002601 6-O-methylated isoflavonoids
+obo:CHEMONTID_0002602 7-O-methylated isoflavonoids
+obo:CHEMONTID_0002603 8-O-methylated isoflavonoids
+obo:CHEMONTID_0002690 3'-O-methylisoflavones
+obo:CHEMONTID_0003651 3'-hydroxy,4'-methoxyisoflavonoids
+obo:CHEMONTID_0002687 4'-O-methylisoflavones
+obo:CHEMONTID_0002689 7-O-methylisoflavones
+obo:CHEMONTID_0003528 Rotenones
+obo:CHEMONTID_0001630 Chalcones and dihydrochalcones
+obo:CHEMONTID_0003496 Cinnamylphenols
+obo:CHEMONTID_0003473 2'-Hydroxy-dihydrochalcones
+obo:CHEMONTID_0003472 2'-Hydroxychalcones
+obo:CHEMONTID_0003510 3'-prenylated chalcones
+obo:CHEMONTID_0003509 3-prenylated chalcones
+obo:CHEMONTID_0003542 Furanochalcones
+obo:CHEMONTID_0003475 Retro-dihydrochalcones
+obo:CHEMONTID_0003474 Retrochalcones
+obo:CHEMONTID_0000161 Epothilones and analogues
+obo:CHEMONTID_0002902 Milbemycins
+obo:CHEMONTID_0001803 Pectenotoxins and derivatives
+obo:CHEMONTID_0001788 Zearalenones
+obo:CHEMONTID_0001758 Dalbergiones
+obo:CHEMONTID_0002583 Dalbergiquinols
+obo:CHEMONTID_0002581 Neoflavans
+obo:CHEMONTID_0002582 Neoflavenes
+obo:CHEMONTID_0001389 Neoflavones
+obo:CHEMONTID_0002897 Neoflavonoid 5-O-glycosides
+obo:CHEMONTID_0002935 Neoflavonoid 7-O-glycosides
+obo:CHEMONTID_0003650 Prenylated neoflavonoids
+obo:CHEMONTID_0003652 Pyranoneoflavonoids
+obo:CHEMONTID_0001331 Benzoins
+obo:CHEMONTID_0000142 Stilbene glycosides
+obo:CHEMONTID_0004785 Sulfonated stilbenes
+obo:CHEMONTID_0001712 Complex tannins
+obo:CHEMONTID_0001710 Hydrolyzable tannins
+obo:CHEMONTID_0001711 Phlorotannins
+obo:CHEMONTID_0000379 Proanthocyanidins
+obo:CHEMONTID_0004828 A-type proanthocyanidins
+obo:CHEMONTID_0004818 B-type proanthocyanidins
+obo:CHEMONTID_0004829 C-type proanthocyanidins
+obo:IAO_0000005 objective specification
+obo:MOP_0000712 oxidation state
+obo:RXNO_0000437 molecular transformation objective
+obo:RXNO_0000442 functional modification objective
+obo:RXNO_0000441 molecular rearrangement objective
+obo:RXNO_0000449 molecular ring breaking objective
+obo:RXNO_0000450 molecular ring contraction objective
+obo:RXNO_0000457 molecular ring expansion objective
+obo:RXNO_0000439 molecular ring formation objective
+obo:RXNO_0000458 molecular ring rearrangement objective
+obo:RXNO_0000438 molecular skeleton cleaving objective
+obo:RXNO_0000440 molecular skeleton joining objective
+obo:RXNO_0000456 addition objective
+obo:RXNO_0000484 deprotection objective
+obo:RXNO_0000489 functional group addition objective
+obo:RXNO_0000453 functional group modification objective
+obo:RXNO_0000486 molecular skeleton elimination objective
+obo:RXNO_0000468 molecular substitution objective
+obo:RXNO_0000485 protection objective
+obo:RXNO_0000490 functional oxidation objective
+obo:RXNO_0000455 functional reduction objective
+obo:RXNO_0000465 fused-ring-system formation objective
+obo:RXNO_0000454 end-of-chain chain shortening objective
+obo:RXNO_0000462 molecular extrusion objective
+obo:RXNO_0000463 molecular fragmentation objective
+obo:RXNO_0000488 joining with rearrangement objective
+obo:RXNO_0000448 molecular chain lengthening objective
+obo:RXNO_0000487 molecular skeleton insertion objective
+obo:RXNO_0000466 polymerisation objective
+dto:LINDO_00300144 cell line
+dto:LINDO_00300142 differentiated cell
+dto:LINDO_00300146 primary cell
+dto:LINDO_00300148 stem cell
+dto:LINDO_00300123 adrenal gland cells
+dto:LINDO_00300119 biliary tract cells
+dto:LINDO_00300114 blood cells
+dto:LINDO_00300117 bone cells
+dto:LINDO_00300118 brain cells
+dto:LINDO_00300102 breast cells
+dto:LINDO_00300143 cancer cell line
+dto:LINDO_00300103 cervix cells
+dto:LINDO_00300111 esophagus cells
+dto:LINDO_00300124 gall bladder cells
+dto:LINDO_00300145 head and neck cells
+dto:LINDO_00300115 intestine cells
+dto:LINDO_00300105 kidney cells
+dto:LINDO_00300122 liver cells
+dto:LINDO_00300101 lung cells
+dto:LINDO_00300106 lymphatic system cells
+dto:LINDO_00300130 miscellaneous cells
+dto:LINDO_00300121 muscle cells
+dto:LINDO_00300116 nervous system cells
+dto:LINDO_00300147 other immortalized cell line
+dto:LINDO_00300108 ovary cells
+dto:LINDO_00300104 pancreas cells
+dto:LINDO_00300120 pleura cells
+dto:LINDO_00300112 prostate cells
+dto:LINDO_00300125 skin cells
+dto:LINDO_00300110 stomach cells
+dto:LINDO_00300126 testes cells
+dto:LINDO_00300107 thyroid cells
+dto:LINDO_00300150 transformed cell line
+dto:LINDO_00300127 ureter cells
+dto:LINDO_00300128 urinary bladder cells
+dto:LINDO_00300129 urinary tract cells
+dto:LINDO_00300113 uterus cells
+dto:LINDO_00300109 vulva cells
+dto:LINDO_LCL_1676 SW 13
+dto:LINDO_LCL_1962 TGW
+dto:LINDO_LCL_1787 EGI-1
+dto:LINDO_LCL_1789 ETK-1
+dto:LINDO_LCL_1788 HuCCT1
+dto:LINDO_LCL_1343 TGBC1TKB
+dto:LINDO_LCL_1344 TGBC24TKB
+dto:LINDO_LCL_1042 697
+dto:LINDO_LCL_1026 A3
+dto:LINDO_LCL_1033 AGR-ON
+dto:LINDO_LCL_1043 ALL-PO
+dto:LINDO_LCL_2059 ALL-SIL
+dto:LINDO_LCL_2041 ARH-77
+dto:LINDO_LCL_1025 ATN-1
+dto:LINDO_LCL_1005 BALL-1
+dto:LINDO_LCL_1049 BDCM
+dto:LINDO_LCL_1044 BE-13
+dto:LINDO_LCL_1111 BV-173
+dto:LINDO_LCL_1011 C8166
+dto:LINDO_LCL_1012 CCRF-CEM
+dto:LINDO_LCL_1914 CCRF-HSB-2
+dto:LINDO_LCL_1006 CCRF-SB
+dto:LINDO_LCL_1034 CEM/C1
+dto:LINDO_LCL_1035 CEM/C2
+dto:LINDO_LCL_1050 CESS
+dto:LINDO_LCL_1081 Clone 15 HL-60
+dto:LINDO_LCL_1051 CMK
+dto:LINDO_LCL_1013 CTV-1
+dto:LINDO_LCL_1036 DND-41
+dto:LINDO_LCL_1085 EHEB
+dto:LINDO_LCL_2042 EJM
+dto:LINDO_LCL_1112 EM-2
+dto:LINDO_LCL_2055 Eos-HL-60
+dto:LINDO_LCL_1052 GDM-1
+dto:LINDO_LCL_1045 GR-ST
+dto:LINDO_LCL_2037 H33HJ-JA1
+dto:LINDO_LCL_1046 HAL-01
+dto:LINDO_LCL_1086 HC-1
+dto:LINDO_LCL_1053 HEL
+dto:LINDO_LCL_1076 HEL 92.1.7
+dto:LINDO_LCL_1054 HL-60
+dto:LINDO_LCL_1083 HL-60/MX2
+dto:LINDO_LCL_1082 HL60(S)
+dto:LINDO_LCL_2056 HL60RG
+dto:LINDO_LCL_1027 I 2.1
+dto:LINDO_LCL_1028 I 9.2
+dto:LINDO_LCL_2038 J.gamma1
+dto:LINDO_LCL_2039 J.gamma1.WT
+dto:LINDO_LCL_1014 J.RT3-T3.5
+dto:LINDO_LCL_1029 J45.01
+dto:LINDO_LCL_2052 JJN-3
+dto:LINDO_LCL_2060 JKT-beta-del
+dto:LINDO_LCL_1030 Jurkat, Clone E6-1
+dto:LINDO_LCL_1101 JURL-MK1
+dto:LINDO_LCL_1102 JURL-MK2
+dto:LINDO_LCL_1099 JVM-2
+dto:LINDO_LCL_1100 JVM-3
+dto:LINDO_LCL_1103 K-562
+dto:LINDO_LCL_1104 K562/ADM
+dto:LINDO_LCL_1087 KARPAS-231
+dto:LINDO_LCL_1015 KARPAS-45
+dto:LINDO_LCL_2053 KARPAS-620
+dto:LINDO_LCL_1055 Kasumi-1
+dto:LINDO_LCL_1105 KCL-22
+dto:LINDO_LCL_1016 KE-37
+dto:LINDO_LCL_1056 KG-1
+dto:LINDO_LCL_1057 KG-1a
+dto:LINDO_LCL_1058 KMOE-2
+dto:LINDO_LCL_2043 KMS-12-BM
+dto:LINDO_LCL_2044 KMS-12-PE
+dto:LINDO_LCL_1080 KO52
+dto:LINDO_LCL_1088 KOPN-8
+dto:LINDO_LCL_1106 KU812
+dto:LINDO_LCL_1107 KU812E
+dto:LINDO_LCL_1108 KU812F
+dto:LINDO_LCL_1004 KY821
+dto:LINDO_LCL_2040 KY821A3
+dto:LINDO_LCL_2045 L-363
+dto:LINDO_LCL_1109 LAMA-84
+dto:LINDO_LCL_1037 LC4-1
+dto:LINDO_LCL_1017 Loucy
+dto:LINDO_LCL_2046 LP-1
+dto:LINDO_LCL_1059 ME-1
+dto:LINDO_LCL_1089 MEC-1
+dto:LINDO_LCL_1090 MEC-2
+dto:LINDO_LCL_1110 MEG-01
+dto:LINDO_LCL_1009 MHH-CALL-2
+dto:LINDO_LCL_1060 ML-2
+dto:LINDO_LCL_1091 MLMA
+dto:LINDO_LCL_1010 MN-60
+dto:LINDO_LCL_1096 Mo-T
+dto:LINDO_LCL_1061 MOLM-13
+dto:LINDO_LCL_2047 MOLP-8
+dto:LINDO_LCL_2061 MOLT-14
+dto:LINDO_LCL_1018 MOLT-16
+dto:LINDO_LCL_1019 MOLT-4
+dto:LINDO_LCL_1031 MOLT-4F
+dto:LINDO_LCL_1062 MONO-MAC-1
+dto:LINDO_LCL_1063 MONO-MAC-6
+dto:LINDO_LCL_1092 MV-4-11
+dto:LINDO_LCL_1001 MY
+dto:LINDO_LCL_1002 MY-M12
+dto:LINDO_LCL_1003 MY-M13
+dto:LINDO_LCL_1093 NALM-19
+dto:LINDO_LCL_1007 NALM-6
+dto:LINDO_LCL_1084 NB-4
+dto:LINDO_LCL_1073 NKM-1
+dto:LINDO_LCL_1074 NOMO-1
+dto:LINDO_LCL_1064 NOMO-1/ADM
+dto:LINDO_LCL_1065 OCI-AML2
+dto:LINDO_LCL_1066 OCI-AML3
+dto:LINDO_LCL_1067 OCI-AML5
+dto:LINDO_LCL_1068 OCI-M1
+dto:LINDO_LCL_2048 OPM-2
+dto:LINDO_LCL_1032 P116.cl39
+dto:LINDO_LCL_1020 P12-ICHIKAWA
+dto:LINDO_LCL_1038 P30/OHK
+dto:LINDO_LCL_1069 P31/FUJ
+dto:LINDO_LCL_2062 PEER
+dto:LINDO_LCL_1021 PF-382
+dto:LINDO_LCL_1070 PL-21
+dto:LINDO_LCL_1075 QIMR-WIL
+dto:LINDO_LCL_1097 Ramos (RA 1)
+dto:LINDO_LCL_1039 Reh
+dto:LINDO_LCL_1094 ROS-50
+dto:LINDO_LCL_2049 RPMI 8226
+dto:LINDO_LCL_1022 RPMI-8402
+dto:LINDO_LCL_1113 RPMI-8866
+dto:LINDO_LCL_1040 RS4;11
+dto:LINDO_LCL_1071 SIG-M5
+dto:LINDO_LCL_2051 SK-MM-2
+dto:LINDO_LCL_1041 SUP-B15
+dto:LINDO_LCL_1023 SUP-T1
+dto:LINDO_LCL_1024 TALL-1
+dto:LINDO_LCL_1095 TANOUE
+dto:LINDO_LCL_1077 TF-1
+dto:LINDO_LCL_1078 TF-1.CN5a.1
+dto:LINDO_LCL_1079 TF-1a
+dto:LINDO_LCL_1072 THP-1
+dto:LINDO_LCL_1008 U-698-M
+dto:LINDO_LCL_2050 U266B1
+dto:LINDO_LCL_1417 143B
+dto:LINDO_LCL_1418 143B PML BK TK
+dto:LINDO_LCL_1419 CAL-72
+dto:LINDO_LCL_1457 CAL-78
+dto:LINDO_LCL_1439 ES1
+dto:LINDO_LCL_1440 ES3
+dto:LINDO_LCL_1441 ES4
+dto:LINDO_LCL_1442 ES5
+dto:LINDO_LCL_1443 ES6
+dto:LINDO_LCL_1444 ES7
+dto:LINDO_LCL_1445 ES8
+dto:LINDO_LCL_1446 EW-1
+dto:LINDO_LCL_1447 EW-11
+dto:LINDO_LCL_1448 EW-13
+dto:LINDO_LCL_1449 EW-16
+dto:LINDO_LCL_1450 EW-18
+dto:LINDO_LCL_1451 EW-24
+dto:LINDO_LCL_1452 EW-3
+dto:LINDO_LCL_1453 EW-7
+dto:LINDO_LCL_1420 G-292 Clone A141B1
+dto:LINDO_LCL_1458 H-EMC-SS
+dto:LINDO_LCL_1421 HOS
+dto:LINDO_LCL_1422 HuO-3N1
+dto:LINDO_LCL_1423 HuO9
+dto:LINDO_LCL_1424 HuO9N2
+dto:LINDO_LCL_1426 KHOS-240S
+dto:LINDO_LCL_1427 KHOS-312H
+dto:LINDO_LCL_1425 KHOS/NP
+dto:LINDO_LCL_1428 MG-63
+dto:LINDO_LCL_1432 NOS-1
+dto:LINDO_LCL_1429 NY
+dto:LINDO_LCL_1456 RH-1
+dto:LINDO_LCL_1430 Saos-2
+dto:LINDO_LCL_1433 SJSA-1
+dto:LINDO_LCL_1434 SK-ES-1
+dto:LINDO_LCL_1048 SK-PN-DW
+dto:LINDO_LCL_1438 TC-71
+dto:LINDO_LCL_1431 U-2 OS
+dto:LINDO_LCL_1393 1321N1
+dto:LINDO_LCL_1347 42-MG-BA
+dto:LINDO_LCL_1365 8-MG-BA
+dto:LINDO_LCL_1348 A172
+dto:LINDO_LCL_1366 AM-38
+dto:LINDO_LCL_1367 B2-17
+dto:LINDO_LCL_1368 Becker
+dto:LINDO_LCL_1369 CAS-1
+dto:LINDO_LCL_1394 CCF-STTG1
+dto:LINDO_LCL_1370 D-247MG
+dto:LINDO_LCL_1371 D-263MG
+dto:LINDO_LCL_1372 D-336MG
+dto:LINDO_LCL_1373 D-392MG
+dto:LINDO_LCL_1374 D-423MG
+dto:LINDO_LCL_1375 D-502MG
+dto:LINDO_LCL_1376 D-542MG
+dto:LINDO_LCL_1377 D-566MG
+dto:LINDO_LCL_1577 D283 Med
+dto:LINDO_LCL_1576 Daoy
+dto:LINDO_LCL_1349 DBTRG-05MG
+dto:LINDO_LCL_1350 DK-MG
+dto:LINDO_LCL_1351 GAMG
+dto:LINDO_LCL_1378 GB-1
+dto:LINDO_LCL_1379 GI-1
+dto:LINDO_LCL_1352 GMS-10
+dto:LINDO_LCL_1406 GOS-3
+dto:LINDO_LCL_1401 H4
+dto:LINDO_LCL_1402 Hs 683
+dto:LINDO_LCL_1380 KALS-1
+dto:LINDO_LCL_1801 KG-1-C
+dto:LINDO_LCL_1381 KINGS-1
+dto:LINDO_LCL_1382 KNS-42
+dto:LINDO_LCL_1383 KNS-81-FD
+dto:LINDO_LCL_1384 KS-1
+dto:LINDO_LCL_1353 LN-18
+dto:LINDO_LCL_1354 LN-229
+dto:LINDO_LCL_1395 LN-405
+dto:LINDO_LCL_1355 LNZTA3WT11
+dto:LINDO_LCL_1345 LNZTA3WT4
+dto:LINDO_LCL_1356 M059J
+dto:LINDO_LCL_1362 M059K
+dto:LINDO_LCL_1396 MOG-G-CCM
+dto:LINDO_LCL_1397 MOG-G-UVW
+dto:LINDO_LCL_1385 NMC-G1
+dto:LINDO_LCL_1386 no-10
+dto:LINDO_LCL_1387 no-11
+dto:LINDO_LCL_1578 ONS-76
+dto:LINDO_LCL_1407 PFSK-1
+dto:LINDO_LCL_1388 SF126
+dto:LINDO_LCL_1389 SF268
+dto:LINDO_LCL_1390 SF539
+dto:LINDO_LCL_1391 SK-MG-1
+dto:LINDO_LCL_1363 SNB-19
+dto:LINDO_LCL_1346 SNB75
+dto:LINDO_LCL_2079 SVG p12
+dto:LINDO_LCL_1398 SW 1088
+dto:LINDO_LCL_1399 SW 1783
+dto:LINDO_LCL_1357 T98G
+dto:LINDO_LCL_1358 U-118 MG
+dto:LINDO_LCL_1359 U-138 MG
+dto:LINDO_LCL_1400 U-251 MG
+dto:LINDO_LCL_1364 U-87 MG
+dto:LINDO_LCL_1360 U373 MG
+dto:LINDO_LCL_1392 YH-13
+dto:LINDO_LCL_1361 YKG-1
+dto:LINDO_LCL_2080 184A1
+dto:LINDO_LCL_2081 184B5
+dto:LINDO_LCL_2073 600MPE
+dto:LINDO_LCL_1462 AU565
+dto:LINDO_LCL_1476 BT-20
+dto:LINDO_LCL_1308 BT-474
+dto:LINDO_LCL_1309 BT-483
+dto:LINDO_LCL_1310 BT-549
+dto:LINDO_LCL_1463 CAL-120
+dto:LINDO_LCL_1464 CAL-148
+dto:LINDO_LCL_1472 CAL-51
+dto:LINDO_LCL_1465 CAL-85-1
+dto:LINDO_LCL_1466 CAMA-1
+dto:LINDO_LCL_1477 COLO-824
+dto:LINDO_LCL_1323 DU4475
+dto:LINDO_LCL_1311 EFM-19
+dto:LINDO_LCL_1478 EFM-192A
+dto:LINDO_LCL_1312 EFM-192B
+dto:LINDO_LCL_1479 EFM-192C
+dto:LINDO_LCL_1313 EVSA-T
+dto:LINDO_LCL_1329 HCC1143
+dto:LINDO_LCL_1324 HCC1187
+dto:LINDO_LCL_1330 HCC1395
+dto:LINDO_LCL_1314 HCC1419
+dto:LINDO_LCL_1467 HCC1428
+dto:LINDO_LCL_1325 HCC1500
+dto:LINDO_LCL_1480 HCC1569
+dto:LINDO_LCL_1326 HCC1599
+dto:LINDO_LCL_1960 HCC1806
+dto:LINDO_LCL_1331 HCC1937
+dto:LINDO_LCL_1332 HCC1954
+dto:LINDO_LCL_1333 HCC202
+dto:LINDO_LCL_1327 HCC2157
+dto:LINDO_LCL_2074 HCC2185
+dto:LINDO_LCL_1328 HCC2218
+dto:LINDO_LCL_2075 HCC3153
+dto:LINDO_LCL_1334 HCC38
+dto:LINDO_LCL_1335 HCC70
+dto:LINDO_LCL_1481 HDQ-P1
+dto:LINDO_LCL_2083 HME1
+dto:LINDO_LCL_1315 Hs 578T
+dto:LINDO_LCL_1482 JIMT-1
+dto:LINDO_LCL_1483 KPL-1
+dto:LINDO_LCL_2076 LY2
+dto:LINDO_LCL_1484 MB 157
+dto:LINDO_LCL_2082 MCF12A
+dto:LINDO_LCL_1460 MCF7
+dto:LINDO_LCL_1316 MDA-MB-134-VI
+dto:LINDO_LCL_1916 MDA-MB-157
+dto:LINDO_LCL_1317 MDA-MB-175-VII
+dto:LINDO_LCL_1461 MDA-MB-231
+dto:LINDO_LCL_1961 MDA-MB-330
+dto:LINDO_LCL_1468 MDA-MB-361
+dto:LINDO_LCL_1469 MDA-MB-415
+dto:LINDO_LCL_1307 MDA-MB-435S
+dto:LINDO_LCL_1470 MDA-MB-436
+dto:LINDO_LCL_1485 MDA-MB-453
+dto:LINDO_LCL_1471 MDA-MB-468
+dto:LINDO_LCL_1318 MFM-223
+dto:LINDO_LCL_1487 MRK-nu-1
+dto:LINDO_LCL_1473 MT-3
+dto:LINDO_LCL_2072 MX-1
+dto:LINDO_LCL_1489 OCUB-M
+dto:LINDO_LCL_1475 SK-BR-3
+dto:LINDO_LCL_2066 SUM1315MO2
+dto:LINDO_LCL_2067 SUM149PT
+dto:LINDO_LCL_2068 SUM159PT
+dto:LINDO_LCL_2069 SUM185PE
+dto:LINDO_LCL_2070 SUM225CWN
+dto:LINDO_LCL_2065 SUM229PE
+dto:LINDO_LCL_2071 SUM52PE
+dto:LINDO_LCL_1474 SW527
+dto:LINDO_LCL_1486 T47D
+dto:LINDO_LCL_2064 T47DKBLUC
+dto:LINDO_LCL_1319 UACC-812
+dto:LINDO_LCL_1320 UACC-893
+dto:LINDO_LCL_1488 YMB-1
+dto:LINDO_LCL_1321 ZR-75-1
+dto:LINDO_LCL_1322 ZR-75-30
+dto:LINDO_LCL_2077 ZR75B
+dto:LINDO_LCL_1545 BOKU
+dto:LINDO_LCL_1300 C-33 A
+dto:LINDO_LCL_1301 C-4 I
+dto:LINDO_LCL_1302 C-4 II
+dto:LINDO_LCL_1541 Ca Ski
+dto:LINDO_LCL_1303 DoTc2 4510
+dto:LINDO_LCL_1512 HeLa
+dto:LINDO_LCL_1513 Hs 588.T
+dto:LINDO_LCL_1304 HT-3
+dto:LINDO_LCL_1305 ME-180
+dto:LINDO_LCL_1306 MS751
+dto:LINDO_LCL_1546 OMC-1
+dto:LINDO_LCL_1542 SiHa
+dto:LINDO_LCL_1514 SISO
+dto:LINDO_LCL_1804 SKG-IIIa
+dto:LINDO_LCL_1543 SKG-IIIb
+dto:LINDO_LCL_1544 SW756
+dto:LINDO_LCL_1551 COLO-680N
+dto:LINDO_LCL_1151 EC-GI-10
+dto:LINDO_LCL_1563 HCE-4
+dto:LINDO_LCL_1547 KYSE-140
+dto:LINDO_LCL_1548 KYSE-150
+dto:LINDO_LCL_1549 KYSE-180
+dto:LINDO_LCL_1559 KYSE-220
+dto:LINDO_LCL_1552 KYSE-270
+dto:LINDO_LCL_1553 KYSE-30
+dto:LINDO_LCL_1554 KYSE-410
+dto:LINDO_LCL_1550 KYSE-450
+dto:LINDO_LCL_1560 KYSE-50
+dto:LINDO_LCL_1555 KYSE-510
+dto:LINDO_LCL_1556 KYSE-520
+dto:LINDO_LCL_1557 KYSE-70
+dto:LINDO_LCL_1796 OE19
+dto:LINDO_LCL_1558 OE21
+dto:LINDO_LCL_1797 OE33
+dto:LINDO_LCL_1561 T.T
+dto:LINDO_LCL_1562 T.Tn
+dto:LINDO_LCL_1564 TE-1
+dto:LINDO_LCL_1565 TE-10
+dto:LINDO_LCL_1566 TE-11
+dto:LINDO_LCL_1567 TE-12
+dto:LINDO_LCL_1568 TE-15
+dto:LINDO_LCL_1569 TE-5
+dto:LINDO_LCL_1570 TE-6
+dto:LINDO_LCL_1571 TE-8
+dto:LINDO_LCL_1572 TE-9
+dto:LINDO_LCL_1800 OCUG-1
+dto:LINDO_LCL_2034 A253
+dto:LINDO_LCL_1573 BB30-HNC
+dto:LINDO_LCL_1574 BB49-HNC
+dto:LINDO_LCL_1208 BHY
+dto:LINDO_LCL_1203 BICR 10
+dto:LINDO_LCL_1213 BICR 22
+dto:LINDO_LCL_1214 BICR 31
+dto:LINDO_LCL_1205 BICR 78
+dto:LINDO_LCL_2033 Ca9-22
+dto:LINDO_LCL_1215 CAL 27
+dto:LINDO_LCL_1216 CAL-33
+dto:LINDO_LCL_1226 Detroit 562
+dto:LINDO_LCL_1201 FaDu
+dto:LINDO_LCL_1047 HCE-T
+dto:LINDO_LCL_1209 HN
+dto:LINDO_LCL_1204 HO-1-N-1
+dto:LINDO_LCL_1202 HO-1-u-1
+dto:LINDO_LCL_1206 HSC-2
+dto:LINDO_LCL_1217 HSC-3
+dto:LINDO_LCL_1218 HSC-4
+dto:LINDO_LCL_1207 KON
+dto:LINDO_LCL_1227 KOSC-2 cl3-43
+dto:LINDO_LCL_1575 LB771-HNC
+dto:LINDO_LCL_1219 OSC-19
+dto:LINDO_LCL_1220 OSC-20
+dto:LINDO_LCL_1212 PE/CA-PJ15
+dto:LINDO_LCL_1881 RPMI 2650
+dto:LINDO_LCL_1221 SAS
+dto:LINDO_LCL_1210 SAT
+dto:LINDO_LCL_1222 SCC-15
+dto:LINDO_LCL_1223 SCC-25
+dto:LINDO_LCL_1224 SCC-4
+dto:LINDO_LCL_1225 SCC-9
+dto:LINDO_LCL_1211 SKN-3
+dto:LINDO_LCL_1156 C170
+dto:LINDO_LCL_1296 C2BBe1
+dto:LINDO_LCL_1170 Caco-2
+dto:LINDO_LCL_1288 CaR-1
+dto:LINDO_LCL_1171 CCK-81
+dto:LINDO_LCL_1167 CL-11
+dto:LINDO_LCL_1199 CL-40
+dto:LINDO_LCL_1196 CoCM-1
+dto:LINDO_LCL_1172 COLO 201
+dto:LINDO_LCL_1173 COLO 205
+dto:LINDO_LCL_1197 COLO 320DM
+dto:LINDO_LCL_1158 COLO 741
+dto:LINDO_LCL_1159 COLO-206F
+dto:LINDO_LCL_1174 COLO-320
+dto:LINDO_LCL_1189 COLO-320-HSR
+dto:LINDO_LCL_1160 COLO-678
+dto:LINDO_LCL_1190 CW-2
+dto:LINDO_LCL_1175 DLD-1
+dto:LINDO_LCL_1115 ECC4
+dto:LINDO_LCL_1188 Gp2D
+dto:LINDO_LCL_1176 GP5d
+dto:LINDO_LCL_1177 HCC-56
+dto:LINDO_LCL_1191 HCC2998
+dto:LINDO_LCL_1161 HCT 116
+dto:LINDO_LCL_1178 HCT-15
+dto:LINDO_LCL_1198 HCT-8
+dto:LINDO_LCL_1289 HRT-18
+dto:LINDO_LCL_1179 Hs 257.T
+dto:LINDO_LCL_1180 HT-29
+dto:LINDO_LCL_1162 HT115
+dto:LINDO_LCL_1163 HT55
+dto:LINDO_LCL_1150 HUTU-80
+dto:LINDO_LCL_1192 KM12
+dto:LINDO_LCL_1181 LoVo
+dto:LINDO_LCL_1336 LS-1034
+dto:LINDO_LCL_1193 LS-123
+dto:LINDO_LCL_1337 LS-411N
+dto:LINDO_LCL_1338 LS-513
+dto:LINDO_LCL_1182 LS174T
+dto:LINDO_LCL_1183 LS180
+dto:LINDO_LCL_1164 MDST8
+dto:LINDO_LCL_1287 NCI-H630
+dto:LINDO_LCL_1339 NCI-H716
+dto:LINDO_LCL_1340 NCI-H747
+dto:LINDO_LCL_1165 OUMS-23
+dto:LINDO_LCL_1290 RCM-1
+dto:LINDO_LCL_1168 RKO
+dto:LINDO_LCL_1184 SK-CO-1
+dto:LINDO_LCL_1194 SNU-C1
+dto:LINDO_LCL_1341 SNU-C2B
+dto:LINDO_LCL_1200 SW 1116
+dto:LINDO_LCL_1185 SW 1417
+dto:LINDO_LCL_1291 SW 1463
+dto:LINDO_LCL_1186 SW 48
+dto:LINDO_LCL_1187 SW-948
+dto:LINDO_LCL_1195 SW403
+dto:LINDO_LCL_1157 SW620
+dto:LINDO_LCL_1292 SW837
+dto:LINDO_LCL_1166 T84
+dto:LINDO_LCL_1169 WiDr
+dto:LINDO_LCL_2004 621-101
+dto:LINDO_LCL_1772 769-P
+dto:LINDO_LCL_1773 786-O
+dto:LINDO_LCL_1761 A498
+dto:LINDO_LCL_1762 A704
+dto:LINDO_LCL_1756 ACHN
+dto:LINDO_LCL_1763 BB65-RCC
+dto:LINDO_LCL_1921 BFTC-909
+dto:LINDO_LCL_1774 Caki-1
+dto:LINDO_LCL_1757 CAL-54
+dto:LINDO_LCL_1511 G-401
+dto:LINDO_LCL_1751 G-402
+dto:LINDO_LCL_1764 HA7-RCC
+dto:LINDO_LCL_1775 KMRC-1
+dto:LINDO_LCL_1755 KMRC-20
+dto:LINDO_LCL_1765 LB1047-RCC
+dto:LINDO_LCL_1766 LB2241-RCC
+dto:LINDO_LCL_1767 LB996-RCC
+dto:LINDO_LCL_1768 OS-RC-2
+dto:LINDO_LCL_1769 RCC10RGB
+dto:LINDO_LCL_1770 RXF393
+dto:LINDO_LCL_1802 SK-NEP-1
+dto:LINDO_LCL_1758 SW 156
+dto:LINDO_LCL_1771 TK10
+dto:LINDO_LCL_1759 VMRC-RCW
+dto:LINDO_LCL_1760 VMRC-RCZ
+dto:LINDO_LCL_1927 C3A
+dto:LINDO_LCL_2078 FOCUS
+dto:LINDO_LCL_1924 Hep 3B2.1-7
+dto:LINDO_LCL_1925 Hep G2
+dto:LINDO_LCL_1939 HLE
+dto:LINDO_LCL_1938 HLF
+dto:LINDO_LCL_1940 huH-1
+dto:LINDO_LCL_1926 Huh7
+dto:LINDO_LCL_1928 JHH-1
+dto:LINDO_LCL_1929 JHH-2
+dto:LINDO_LCL_1930 JHH-4
+dto:LINDO_LCL_1923 JHH-6
+dto:LINDO_LCL_1931 JHH-7
+dto:LINDO_LCL_1942 PLC/PRF/5
+dto:LINDO_LCL_1941 SK-HEP-1
+dto:LINDO_LCL_1932 SNU-182
+dto:LINDO_LCL_1933 SNU-387
+dto:LINDO_LCL_1934 SNU-398
+dto:LINDO_LCL_1935 SNU-423
+dto:LINDO_LCL_1936 SNU-449
+dto:LINDO_LCL_1937 SNU-475
+dto:LINDO_LCL_1600 A-427
+dto:LINDO_LCL_1601 A549
+dto:LINDO_LCL_1634 ABC-1
+dto:LINDO_LCL_1602 BEN
+dto:LINDO_LCL_1603 CAL-12T
+dto:LINDO_LCL_1580 Calu-1
+dto:LINDO_LCL_1631 Calu-3
+dto:LINDO_LCL_1626 Calu-6
+dto:LINDO_LCL_1579 ChaGo-K-1
+dto:LINDO_LCL_1867 COLO-668
+dto:LINDO_LCL_1635 COR-L 105
+dto:LINDO_LCL_1779 COR-L 23/CPR
+dto:LINDO_LCL_1780 COR-L23
+dto:LINDO_LCL_1825 COR-L279
+dto:LINDO_LCL_1826 COR-L51
+dto:LINDO_LCL_1827 COR-L88
+dto:LINDO_LCL_1828 COR-L95
+dto:LINDO_LCL_1829 CPC-N
+dto:LINDO_LCL_1830 DMS 114
+dto:LINDO_LCL_1831 DMS 153
+dto:LINDO_LCL_1807 DMS 273
+dto:LINDO_LCL_1808 DMS 53
+dto:LINDO_LCL_1832 DMS 79
+dto:LINDO_LCL_1636 DV-90
+dto:LINDO_LCL_1584 EBC-1
+dto:LINDO_LCL_2054 EKVX
+dto:LINDO_LCL_1581 EPLC-272H
+dto:LINDO_LCL_1875 H69V
+dto:LINDO_LCL_1585 HARA
+dto:LINDO_LCL_1604 HCC-15
+dto:LINDO_LCL_1833 HCC-33
+dto:LINDO_LCL_1605 HCC-366
+dto:LINDO_LCL_1606 HCC-44
+dto:LINDO_LCL_1607 HCC-78
+dto:LINDO_LCL_1608 HCC-827
+dto:LINDO_LCL_2084 HCC515
+dto:LINDO_LCL_1666 HOP-62
+dto:LINDO_LCL_1778 IA-LM
+dto:LINDO_LCL_1868 IST-SL1
+dto:LINDO_LCL_1869 IST-SL2
+dto:LINDO_LCL_1876 KHM-3S
+dto:LINDO_LCL_1870 LB647-SCLC
+dto:LINDO_LCL_1586 LC-1 sq
+dto:LINDO_LCL_1595 LC-1F
+dto:LINDO_LCL_1667 LC-2-ad
+dto:LINDO_LCL_1781 LCLC-103H
+dto:LINDO_LCL_1782 LCLC-97TM1
+dto:LINDO_LCL_1587 LK-2
+dto:LINDO_LCL_1588 LOU-NH91
+dto:LINDO_LCL_1871 LU-134-A
+dto:LINDO_LCL_1877 Lu-134-A-H
+dto:LINDO_LCL_1834 Lu-134-B
+dto:LINDO_LCL_1809 Lu-135
+dto:LINDO_LCL_1872 LU-139
+dto:LINDO_LCL_1873 LU-165
+dto:LINDO_LCL_1904 LU65
+dto:LINDO_LCL_1905 LU65A
+dto:LINDO_LCL_1906 LU65B
+dto:LINDO_LCL_1907 LU65C
+dto:LINDO_LCL_1908 LU99A
+dto:LINDO_LCL_1909 LU99B
+dto:LINDO_LCL_1910 LU99C
+dto:LINDO_LCL_1589 LUDLU-1
+dto:LINDO_LCL_1668 LXF-289
+dto:LINDO_LCL_1835 MS-1-L
+dto:LINDO_LCL_1810 NCI-H1048
+dto:LINDO_LCL_1836 NCI-H1092
+dto:LINDO_LCL_1628 NCI-H1155
+dto:LINDO_LCL_1609 NCI-H1299
+dto:LINDO_LCL_2058 NCI-H1304
+dto:LINDO_LCL_1669 NCI-H1355
+dto:LINDO_LCL_1624 NCI-H1385
+dto:LINDO_LCL_1660 NCI-H1395
+dto:LINDO_LCL_1912 NCI-H1404
+dto:LINDO_LCL_1837 NCI-H1417
+dto:LINDO_LCL_1610 NCI-H1435
+dto:LINDO_LCL_1838 NCI-H1436
+dto:LINDO_LCL_1637 NCI-H1437
+dto:LINDO_LCL_1839 NCI-H1522
+dto:LINDO_LCL_1661 NCI-H1563
+dto:LINDO_LCL_1611 NCI-H1568
+dto:LINDO_LCL_1596 NCI-H157
+dto:LINDO_LCL_1638 NCI-H1573
+dto:LINDO_LCL_1783 NCI-H1581
+dto:LINDO_LCL_1840 NCI-H1618
+dto:LINDO_LCL_1639 NCI-H1623
+dto:LINDO_LCL_1632 NCI-H1648
+dto:LINDO_LCL_1612 NCI-H1650
+dto:LINDO_LCL_1633 NCI-H1651
+dto:LINDO_LCL_1673 NCI-H1666
+dto:LINDO_LCL_1811 NCI-H1688
+dto:LINDO_LCL_1640 NCI-H1693
+dto:LINDO_LCL_1841 NCI-H1694
+dto:LINDO_LCL_1582 NCI-H1703
+dto:LINDO_LCL_1641 NCI-H1734
+dto:LINDO_LCL_1642 NCI-H1755
+dto:LINDO_LCL_1625 NCI-H1770
+dto:LINDO_LCL_1643 NCI-H1781
+dto:LINDO_LCL_1644 NCI-H1792
+dto:LINDO_LCL_1645 NCI-H1793
+dto:LINDO_LCL_1842 NCI-H1836
+dto:LINDO_LCL_1662 NCI-H1838
+dto:LINDO_LCL_1613 NCI-H1869
+dto:LINDO_LCL_1843 NCI-H187
+dto:LINDO_LCL_1812 NCI-H1876
+dto:LINDO_LCL_1844 NCI-H1882
+dto:LINDO_LCL_1598 NCI-H1915
+dto:LINDO_LCL_1614 NCI-H1944
+dto:LINDO_LCL_1813 NCI-H196
+dto:LINDO_LCL_1845 NCI-H1963
+dto:LINDO_LCL_1663 NCI-H1975
+dto:LINDO_LCL_1646 NCI-H1993
+dto:LINDO_LCL_1647 NCI-H2009
+dto:LINDO_LCL_1599 NCI-H2023
+dto:LINDO_LCL_1814 NCI-H2029
+dto:LINDO_LCL_1648 NCI-H2030
+dto:LINDO_LCL_1649 NCI-H2073
+dto:LINDO_LCL_1846 NCI-H2081
+dto:LINDO_LCL_1615 NCI-H2085
+dto:LINDO_LCL_1650 NCI-H2087
+dto:LINDO_LCL_1847 NCI-H209
+dto:LINDO_LCL_1848 NCI-H2106
+dto:LINDO_LCL_1849 NCI-H211
+dto:LINDO_LCL_1616 NCI-H2110
+dto:LINDO_LCL_1651 NCI-H2122
+dto:LINDO_LCL_1627 NCI-H2126
+dto:LINDO_LCL_1617 NCI-H2135
+dto:LINDO_LCL_1850 NCI-H2141
+dto:LINDO_LCL_1590 NCI-H2170
+dto:LINDO_LCL_1851 NCI-H2171
+dto:LINDO_LCL_1618 NCI-H2172
+dto:LINDO_LCL_1815 NCI-H2195
+dto:LINDO_LCL_1816 NCI-H2196
+dto:LINDO_LCL_1817 NCI-H2198
+dto:LINDO_LCL_1852 NCI-H220
+dto:LINDO_LCL_1853 NCI-H2227
+dto:LINDO_LCL_1652 NCI-H2228
+dto:LINDO_LCL_1597 NCI-H226
+dto:LINDO_LCL_1818 NCI-H2286
+dto:LINDO_LCL_1653 NCI-H2291
+dto:LINDO_LCL_1619 NCI-H23
+dto:LINDO_LCL_1654 NCI-H2342
+dto:LINDO_LCL_1620 NCI-H2347
+dto:LINDO_LCL_1655 NCI-H2405
+dto:LINDO_LCL_1621 NCI-H2444
+dto:LINDO_LCL_1230 NCI-H2452
+dto:LINDO_LCL_1675 NCI-H3122
+dto:LINDO_LCL_1798 NCI-H322
+dto:LINDO_LCL_1674 NCI-H322M
+dto:LINDO_LCL_1854 NCI-H345
+dto:LINDO_LCL_1671 NCI-H358
+dto:LINDO_LCL_1911 NCI-H441
+dto:LINDO_LCL_1855 NCI-H446
+dto:LINDO_LCL_1784 NCI-H460
+dto:LINDO_LCL_1856 NCI-H510A
+dto:LINDO_LCL_1591 NCI-H520
+dto:LINDO_LCL_1622 NCI-H522
+dto:LINDO_LCL_1857 NCI-H524
+dto:LINDO_LCL_1858 NCI-H526
+dto:LINDO_LCL_1786 NCI-H596
+dto:LINDO_LCL_1874 NCI-H64
+dto:LINDO_LCL_1629 NCI-H647
+dto:LINDO_LCL_1672 NCI-H650
+dto:LINDO_LCL_1785 NCI-H661
+dto:LINDO_LCL_1859 NCI-H69
+dto:LINDO_LCL_1860 NCI-H719
+dto:LINDO_LCL_1155 NCI-H720
+dto:LINDO_LCL_1153 NCI-H727
+dto:LINDO_LCL_1861 NCI-H748
+dto:LINDO_LCL_1670 NCI-H810
+dto:LINDO_LCL_1862 NCI-H82
+dto:LINDO_LCL_1623 NCI-H838
+dto:LINDO_LCL_1819 NCI-H841
+dto:LINDO_LCL_1863 NCI-H847
+dto:LINDO_LCL_1864 NCI-H889
+dto:LINDO_LCL_1656 PC-14
+dto:LINDO_LCL_1664 PC-3 [JPC-3]
+dto:LINDO_LCL_1630 PC-9
+dto:LINDO_LCL_1657 RERF-LC-Ad1
+dto:LINDO_LCL_1658 RERF-LC-KJ
+dto:LINDO_LCL_1820 RERF-LC-MA
+dto:LINDO_LCL_1665 RERF-LC-MS
+dto:LINDO_LCL_1592 RERF-LC-Sq1
+dto:LINDO_LCL_1865 SBC-1
+dto:LINDO_LCL_1866 SBC-2
+dto:LINDO_LCL_1879 SBC-3
+dto:LINDO_LCL_1821 SBC-5
+dto:LINDO_LCL_1822 SCLC-21H
+dto:LINDO_LCL_1823 SHP-77
+dto:LINDO_LCL_1659 SK-LU-1
+dto:LINDO_LCL_1583 SK-MES
+dto:LINDO_LCL_1878 STC 1
+dto:LINDO_LCL_1824 SW 1271
+dto:LINDO_LCL_1799 SW 1573
+dto:LINDO_LCL_1593 SW 900
+dto:LINDO_LCL_1154 UMC-11
+dto:LINDO_LCL_1594 VMRC-LCP
+dto:LINDO_LCL_2015 2B8
+dto:LINDO_LCL_1149 A3/KAW
+dto:LINDO_LCL_1539 AMO-1
+dto:LINDO_LCL_1956 BC-1
+dto:LINDO_LCL_1957 BC-2
+dto:LINDO_LCL_1948 BC-3
+dto:LINDO_LCL_2028 BL-41
+dto:LINDO_LCL_2016 BL-70
+dto:LINDO_LCL_2017 CA46
+dto:LINDO_LCL_1130 CI-1
+dto:LINDO_LCL_1118 CTB-1
+dto:LINDO_LCL_2018 Daudi
+dto:LINDO_LCL_1119 DB
+dto:LINDO_LCL_1116 DERL-2
+dto:LINDO_LCL_2019 DG-75
+dto:LINDO_LCL_1143 DOHH-2
+dto:LINDO_LCL_2032 EB-3
+dto:LINDO_LCL_2030 EB1
+dto:LINDO_LCL_2031 EB2
+dto:LINDO_LCL_1131 Farage
+dto:LINDO_LCL_2020 GA-10
+dto:LINDO_LCL_2035 GA-10 (Clone 20)
+dto:LINDO_LCL_1126 GRANTA-519
+dto:LINDO_LCL_1144 H9
+dto:LINDO_LCL_2008 HD-MY-Z
+dto:LINDO_LCL_2007 HDLM-2
+dto:LINDO_LCL_1141 HH
+dto:LINDO_LCL_2006 Hs 445
+dto:LINDO_LCL_2036 HS-Sultan
+dto:LINDO_LCL_1949 HT
+dto:LINDO_LCL_2005 HuT 78
+dto:LINDO_LCL_1958 IM-9
+dto:LINDO_LCL_2021 Jiyoye
+dto:LINDO_LCL_1947 JM1
+dto:LINDO_LCL_1959 JSC-1
+dto:LINDO_LCL_1117 KARPAS-299
+dto:LINDO_LCL_1120 KARPAS-422
+dto:LINDO_LCL_2009 KM-H2
+dto:LINDO_LCL_2010 L-1236
+dto:LINDO_LCL_2011 L-428
+dto:LINDO_LCL_2012 L-540
+dto:LINDO_LCL_1538 MC/CAR
+dto:LINDO_LCL_1946 MC116
+dto:LINDO_LCL_1140 MHH-PREB-1
+dto:LINDO_LCL_1142 MJ
+dto:LINDO_LCL_2022 NAMALWA
+dto:LINDO_LCL_2029 NAMALWA.PNT
+dto:LINDO_LCL_2057 NC-37
+dto:LINDO_LCL_1127 NK-92MI
+dto:LINDO_LCL_1132 NU-DUL-1
+dto:LINDO_LCL_1121 OCI-LY-19
+dto:LINDO_LCL_2023 P32/ISH
+dto:LINDO_LCL_2024 P3HR-1
+dto:LINDO_LCL_1122 Pfeiffer
+dto:LINDO_LCL_2025 Raji
+dto:LINDO_LCL_2027 Ramos-2G6-4C10
+dto:LINDO_LCL_1950 RC-K8
+dto:LINDO_LCL_1123 REC-1
+dto:LINDO_LCL_1133 RL
+dto:LINDO_LCL_2013 RPMI 6666
+dto:LINDO_LCL_1944 SC-1
+dto:LINDO_LCL_1128 SCC-3
+dto:LINDO_LCL_1951 Sci-1
+dto:LINDO_LCL_1952 SLVL
+dto:LINDO_LCL_1129 SR
+dto:LINDO_LCL_2026 ST486
+dto:LINDO_LCL_1918 SU-DHL-1
+dto:LINDO_LCL_1134 SU-DHL-10
+dto:LINDO_LCL_1135 SU-DHL-16
+dto:LINDO_LCL_1136 SU-DHL-4
+dto:LINDO_LCL_1137 SU-DHL-5
+dto:LINDO_LCL_1138 SU-DHL-6
+dto:LINDO_LCL_1139 SU-DHL-8
+dto:LINDO_LCL_2014 SUP-HD1
+dto:LINDO_LCL_1919 SUP-M2
+dto:LINDO_LCL_1953 TK
+dto:LINDO_LCL_1124 Toledo
+dto:LINDO_LCL_2063 TUR
+dto:LINDO_LCL_1125 U-937
+dto:LINDO_LCL_1915 VAL
+dto:LINDO_LCL_1954 WSU-DLCL2
+dto:LINDO_LCL_1955 WSU-NHL
+dto:LINDO_LCL_1913 YT
+dto:LINDO_LCL_1342 A388
+dto:LINDO_LCL_1293 BeWo
+dto:LINDO_LCL_1437 FLYA13
+dto:LINDO_LCL_1752 GCT
+dto:LINDO_LCL_1436 Hs 633T
+dto:LINDO_LCL_1435 HT 1080
+dto:LINDO_LCL_1491 JAR
+dto:LINDO_LCL_1492 JEG-3
+dto:LINDO_LCL_1753 MFH-ino
+dto:LINDO_LCL_1403 SCCH-196
+dto:LINDO_LCL_1490 SW684
+dto:LINDO_LCL_1459 SW872
+dto:LINDO_LCL_1880 SW982
+dto:LINDO_LCL_1945 VA-ES-BJ
+dto:LINDO_LCL_1409 A-204
+dto:LINDO_LCL_1410 A673
+dto:LINDO_LCL_1412 KYM-1
+dto:LINDO_LCL_1411 RD
+dto:LINDO_LCL_1414 RH-30
+dto:LINDO_LCL_1415 RH-41
+dto:LINDO_LCL_1408 SJCRH30
+dto:LINDO_LCL_1413 TE-441-T
+dto:LINDO_LCL_1982 ACN
+dto:LINDO_LCL_1963 BE(2)-C
+dto:LINDO_LCL_1972 BE(2)-M17
+dto:LINDO_LCL_1973 CHP-126
+dto:LINDO_LCL_1964 CHP-212
+dto:LINDO_LCL_1983 GI-ME-N
+dto:LINDO_LCL_1974 GOTO
+dto:LINDO_LCL_1965 IMR-32
+dto:LINDO_LCL_1984 IMR-5
+dto:LINDO_LCL_1966 KELLY
+dto:LINDO_LCL_1985 KP-N-YN
+dto:LINDO_LCL_1986 KP-N-YS
+dto:LINDO_LCL_1987 LAN-5
+dto:LINDO_LCL_1988 LAN-6
+dto:LINDO_LCL_1967 MC-IXC
+dto:LINDO_LCL_1454 MHH-ES-1
+dto:LINDO_LCL_1975 MHH-NB-11
+dto:LINDO_LCL_1976 NB(TU)1-10
+dto:LINDO_LCL_1977 NB-1
+dto:LINDO_LCL_1989 NB10
+dto:LINDO_LCL_1990 NB12
+dto:LINDO_LCL_1991 NB13
+dto:LINDO_LCL_1992 NB14
+dto:LINDO_LCL_1993 NB16
+dto:LINDO_LCL_1994 NB17
+dto:LINDO_LCL_1995 NB5
+dto:LINDO_LCL_1996 NB6
+dto:LINDO_LCL_1999 NB69
+dto:LINDO_LCL_1997 NB7
+dto:LINDO_LCL_1998 NBsusSR
+dto:LINDO_LCL_1978 NH-12
+dto:LINDO_LCL_1455 RD-ES
+dto:LINDO_LCL_1968 SCCH-26
+dto:LINDO_LCL_2000 SH-SY5Y
+dto:LINDO_LCL_1979 SIMA
+dto:LINDO_LCL_1969 SK-N-AS
+dto:LINDO_LCL_1980 SK-N-BE(2)
+dto:LINDO_LCL_1970 SK-N-DZ
+dto:LINDO_LCL_1981 SK-N-FI
+dto:LINDO_LCL_1971 SK-N-SH
+dto:LINDO_LCL_1114 TASK1
+dto:LINDO_LCL_1518 A2780
+dto:LINDO_LCL_1694 A2780ADR
+dto:LINDO_LCL_1696 A2780cis
+dto:LINDO_LCL_1519 Caov-3
+dto:LINDO_LCL_1520 Caov-4
+dto:LINDO_LCL_1531 COLO-704
+dto:LINDO_LCL_1515 EFO-21
+dto:LINDO_LCL_1521 EFO-27
+dto:LINDO_LCL_1806 ES-2
+dto:LINDO_LCL_1695 FU-OV-1
+dto:LINDO_LCL_1297 KGN
+dto:LINDO_LCL_1701 KURAMOCHI
+dto:LINDO_LCL_1493 MCAS
+dto:LINDO_LCL_1522 NIH:OVCAR-3
+dto:LINDO_LCL_1698 OAW28
+dto:LINDO_LCL_1699 OAW42
+dto:LINDO_LCL_1516 OC-314
+dto:LINDO_LCL_1523 OV-90
+dto:LINDO_LCL_1697 OVCAR-4
+dto:LINDO_LCL_1524 OVISE
+dto:LINDO_LCL_1525 OVKATE
+dto:LINDO_LCL_1526 OVMIU
+dto:LINDO_LCL_1527 OVSAYO
+dto:LINDO_LCL_1528 OVTOKO
+dto:LINDO_LCL_1416 PA-1
+dto:LINDO_LCL_1803 RKN
+dto:LINDO_LCL_1805 RMG-I
+dto:LINDO_LCL_1517 SK-OV-3
+dto:LINDO_LCL_1529 SW 626
+dto:LINDO_LCL_1920 TOV-112D
+dto:LINDO_LCL_1530 TOV-21G
+dto:LINDO_LCL_1700 TYK-nu
+dto:LINDO_LCL_1730 AsPC-1
+dto:LINDO_LCL_1731 BxPC-3
+dto:LINDO_LCL_1732 Capan-1
+dto:LINDO_LCL_1733 Capan-2
+dto:LINDO_LCL_1748 CFPAC-1
+dto:LINDO_LCL_1734 DAN-G
+dto:LINDO_LCL_1735 HPAC
+dto:LINDO_LCL_1736 HPAF-II
+dto:LINDO_LCL_1737 Hs 766T
+dto:LINDO_LCL_1790 HUP-T3
+dto:LINDO_LCL_1791 HUP-T4
+dto:LINDO_LCL_1793 KP-1N
+dto:LINDO_LCL_1794 KP-1NL
+dto:LINDO_LCL_1728 KP-2
+dto:LINDO_LCL_1723 KP-3
+dto:LINDO_LCL_1724 KP-3L
+dto:LINDO_LCL_1725 KP-4
+dto:LINDO_LCL_1738 MIA PaCa-2
+dto:LINDO_LCL_1795 MZ1-PC
+dto:LINDO_LCL_1744 PA-TU-8902
+dto:LINDO_LCL_1745 PA-TU-8988S
+dto:LINDO_LCL_1746 PA-TU-8988T
+dto:LINDO_LCL_1739 Panc 02.03
+dto:LINDO_LCL_1740 Panc 03.27
+dto:LINDO_LCL_1741 Panc 04.03
+dto:LINDO_LCL_1742 Panc 08.13
+dto:LINDO_LCL_1743 Panc 10.05
+dto:LINDO_LCL_1726 PANC-1
+dto:LINDO_LCL_1098 PL4
+dto:LINDO_LCL_1727 PL45
+dto:LINDO_LCL_1749 PSN1
+dto:LINDO_LCL_1754 QGP-1
+dto:LINDO_LCL_1747 SU.86.86
+dto:LINDO_LCL_1729 SUIT-2
+dto:LINDO_LCL_1750 SW 1990
+dto:LINDO_LCL_1792 YAPC
+dto:LINDO_LCL_1228 IST-MES1
+dto:LINDO_LCL_1229 MPP-89
+dto:LINDO_LCL_1776 MSTO-211H
+dto:LINDO_LCL_1145 22RV1
+dto:LINDO_LCL_1146 DU 145
+dto:LINDO_LCL_1298 LNCaP
+dto:LINDO_LCL_1299 PC-3
+dto:LINDO_LCL_1147 VCaP
+dto:LINDO_LCL_1236 1205Lu
+dto:LINDO_LCL_1235 A-375
+dto:LINDO_LCL_1267 A101D
+dto:LINDO_LCL_1237 A2058
+dto:LINDO_LCL_1284 A373-C6
+dto:LINDO_LCL_1231 A375.S2
+dto:LINDO_LCL_1268 A4-Fuk
+dto:LINDO_LCL_1404 A431
+dto:LINDO_LCL_1238 C32
+dto:LINDO_LCL_1239 COLO 792
+dto:LINDO_LCL_1240 COLO 853
+dto:LINDO_LCL_1241 COLO 857
+dto:LINDO_LCL_1242 COLO 858
+dto:LINDO_LCL_1232 COLO-679
+dto:LINDO_LCL_1243 COLO-783
+dto:LINDO_LCL_1233 COLO-800
+dto:LINDO_LCL_1244 COLO-818
+dto:LINDO_LCL_1269 COLO-829
+dto:LINDO_LCL_1245 COLO-849
+dto:LINDO_LCL_1270 CP50-MEL-B
+dto:LINDO_LCL_1271 CP66-MEL
+dto:LINDO_LCL_1405 DJM-1
+dto:LINDO_LCL_1246 G-361
+dto:LINDO_LCL_1272 GAK
+dto:LINDO_LCL_1285 HMVII
+dto:LINDO_LCL_1273 HT-144
+dto:LINDO_LCL_1247 IGR-1
+dto:LINDO_LCL_1248 IGR-37
+dto:LINDO_LCL_1249 IGR-39
+dto:LINDO_LCL_1250 IPC-298
+dto:LINDO_LCL_1234 IST-MEL1
+dto:LINDO_LCL_1274 LB2518-MEL
+dto:LINDO_LCL_1275 LB373-MEL-D
+dto:LINDO_LCL_1276 LOXIMVI
+dto:LINDO_LCL_1251 MEL-HO
+dto:LINDO_LCL_1252 MEL-JUSO
+dto:LINDO_LCL_1253 MEWO
+dto:LINDO_LCL_1277 MMAC-SF
+dto:LINDO_LCL_1278 MZ2-MEL
+dto:LINDO_LCL_1279 MZ7-mel
+dto:LINDO_LCL_1254 RPMI-7951
+dto:LINDO_LCL_1255 RVH-421
+dto:LINDO_LCL_1280 SH-4
+dto:LINDO_LCL_1265 SK-MEL-1
+dto:LINDO_LCL_1256 SK-MEL-2
+dto:LINDO_LCL_1281 SK-MEL-24
+dto:LINDO_LCL_1266 SK-MEL-3
+dto:LINDO_LCL_1257 SK-MEL-30
+dto:LINDO_LCL_1282 SK-MEL-5
+dto:LINDO_LCL_1283 UACC-257
+dto:LINDO_LCL_1258 VMRC-MELG
+dto:LINDO_LCL_1259 WM 266-4
+dto:LINDO_LCL_1260 WM-115
+dto:LINDO_LCL_1261 WM1552C
+dto:LINDO_LCL_1262 WM278
+dto:LINDO_LCL_1263 WM35
+dto:LINDO_LCL_1264 WM793B
+dto:LINDO_LCL_1532 23132/87
+dto:LINDO_LCL_1893 AGS
+dto:LINDO_LCL_1533 AZ-521
+dto:LINDO_LCL_1897 ECC10
+dto:LINDO_LCL_1898 ECC12
+dto:LINDO_LCL_1894 FU97
+dto:LINDO_LCL_1891 GCIY
+dto:LINDO_LCL_1895 GT3TKB
+dto:LINDO_LCL_1882 HGC-27
+dto:LINDO_LCL_1883 Hs 746T
+dto:LINDO_LCL_1884 IM-95
+dto:LINDO_LCL_1534 IM-95m
+dto:LINDO_LCL_2003 KATO III
+dto:LINDO_LCL_1917 MKN1
+dto:LINDO_LCL_1922 MKN28
+dto:LINDO_LCL_1535 MKN45
+dto:LINDO_LCL_1885 MKN7
+dto:LINDO_LCL_1536 MKN74
+dto:LINDO_LCL_1886 NCI-N87
+dto:LINDO_LCL_1899 NUGC-2
+dto:LINDO_LCL_1887 NUGC-3
+dto:LINDO_LCL_2001 NUGC-4
+dto:LINDO_LCL_2002 OCUM-1
+dto:LINDO_LCL_1537 RERF-GC-1B
+dto:LINDO_LCL_1896 RF-48
+dto:LINDO_LCL_1148 SCH
+dto:LINDO_LCL_1888 SNU-1
+dto:LINDO_LCL_1889 SNU-16
+dto:LINDO_LCL_1890 SNU-5
+dto:LINDO_LCL_1892 TGBC11TKB
+dto:LINDO_LCL_1903 NCC-IT-A3
+dto:LINDO_LCL_1900 NEC8
+dto:LINDO_LCL_1901 NTERA-S-cl-D1
+dto:LINDO_LCL_1902 Tera-1
+dto:LINDO_LCL_1685 8305C
+dto:LINDO_LCL_1686 8505C
+dto:LINDO_LCL_1682 ASH-3
+dto:LINDO_LCL_1687 B-CPAP
+dto:LINDO_LCL_1688 BHT-101
+dto:LINDO_LCL_1683 CAL-62
+dto:LINDO_LCL_1691 CGTH-W-1
+dto:LINDO_LCL_1677 FTC-133
+dto:LINDO_LCL_1678 FTC-238
+dto:LINDO_LCL_1689 HTC-C3
+dto:LINDO_LCL_1693 IHH-4
+dto:LINDO_LCL_1692 K5
+dto:LINDO_LCL_1684 KMH-2
+dto:LINDO_LCL_1679 ML-1
+dto:LINDO_LCL_1680 RO82-W-1
+dto:LINDO_LCL_1777 S-117
+dto:LINDO_LCL_1690 TT
+dto:LINDO_LCL_1681 TT2609-C02
+dto:LINDO_LCL_1943 639-V
+dto:LINDO_LCL_1703 1A6
+dto:LINDO_LCL_1702 5637
+dto:LINDO_LCL_1708 647-V
+dto:LINDO_LCL_1710 BFTC-905
+dto:LINDO_LCL_1711 CAL-29
+dto:LINDO_LCL_1704 EJ138
+dto:LINDO_LCL_1712 HT 1376
+dto:LINDO_LCL_1713 HT-1197
+dto:LINDO_LCL_1714 J82
+dto:LINDO_LCL_1715 KU-19-19
+dto:LINDO_LCL_1716 RT-112
+dto:LINDO_LCL_1705 RT112/84
+dto:LINDO_LCL_1717 RT4
+dto:LINDO_LCL_1540 SCaBER
+dto:LINDO_LCL_1718 SW 780
+dto:LINDO_LCL_1719 SW-1710
+dto:LINDO_LCL_1709 T24
+dto:LINDO_LCL_1720 TCCSUP
+dto:LINDO_LCL_1721 UM-UC-3
+dto:LINDO_LCL_1722 VM-CUB1
+dto:LINDO_LCL_1706 DSH1
+dto:LINDO_LCL_1707 LB831-BLC
+dto:LINDO_LCL_1499 AN3CA
+dto:LINDO_LCL_1504 COLO 684
+dto:LINDO_LCL_1494 EFE-184
+dto:LINDO_LCL_1495 EN
+dto:LINDO_LCL_1507 ESS-1
+dto:LINDO_LCL_1496 HEC-1
+dto:LINDO_LCL_1497 Ishikawa
+dto:LINDO_LCL_1498 Ishikawa (Heraklio) 02 ER-
+dto:LINDO_LCL_1505 KLE
+dto:LINDO_LCL_1509 MES-SA
+dto:LINDO_LCL_1510 MES-SA/Dx-5
+dto:LINDO_LCL_1500 MFE-280
+dto:LINDO_LCL_1501 MFE-296
+dto:LINDO_LCL_1502 MFE-319
+dto:LINDO_LCL_1506 RL95-2
+dto:LINDO_LCL_1286 SK-LMS-1
+dto:LINDO_LCL_1508 SK-UT-1
+dto:LINDO_LCL_1503 SNG-M
+dto:LINDO_LCL_1294 CAL-39
+dto:LINDO_LCL_1295 SW954
+dto:LINDO_LCL_1152 SW962
+dto:LINDO_00300149 embrionic stem cell
+dto:LINDO_00300151 induced pluripotent stem cell
+dto:LINDO_00300141 stem cell isolated from model organisms or humans
+dto:CHEBI_24432 Biological role
+dto:DTO_00000003 Endogenous ligand role
+obo:DOID_0050117 disease by infectious agent
+obo:DOID_7 disease of anatomical entity
+obo:DOID_14566 disease of cellular proliferation
+obo:DOID_150 disease of mental health
+obo:DOID_0014667 disease of metabolism
+obo:DOID_630 genetic disease
+obo:DOID_0080015 physical disorder
+obo:DOID_225 syndrome
+obo:DOID_104 bacterial infectious disease
+obo:DOID_1564 fungal infectious disease
+obo:DOID_1019 osteomyelitis
+obo:DOID_1398 parasitic infectious disease
+obo:DOID_934 viral infectious disease
+obo:DOID_9700 bacterial conjunctivitis
+obo:DOID_874 bacterial pneumonia
+obo:DOID_0050339 commensal bacterial infectious disease
+obo:DOID_0050340 opportunistic bacterial infectious disease
+obo:DOID_0050338 primary bacterial infectious disease
+obo:DOID_1586 rheumatic fever
+obo:DOID_8481 rheumatic myocarditis
+obo:DOID_9699 ophthalmia neonatorum
+obo:DOID_0050152 aspiration pneumonia
+obo:DOID_8478 actinomycosis
+obo:DOID_13800 inclusion conjunctivitis
+obo:DOID_11337 Lemierre's syndrome
+obo:DOID_1116 pertussis
+obo:DOID_9063 Ritter's disease
+obo:DOID_14115 toxic shock syndrome
+obo:DOID_11265 trachoma
+obo:DOID_2312 nocardiosis
+obo:DOID_7427 anthrax disease
+obo:DOID_11102 bartonellosis
+obo:DOID_11976 botulism
+obo:DOID_11077 brucellosis
+obo:DOID_0050456 Buruli ulcer disease
+obo:DOID_1498 cholera
+obo:DOID_11405 diphtheria
+obo:DOID_10242 ehrlichiosis
+obo:DOID_0050061 erysipeloid
+obo:DOID_13444 glanders
+obo:DOID_9113 granuloma inguinale
+obo:DOID_10458 legionellosis
+obo:DOID_2297 leptospirosis
+obo:DOID_11573 listeriosis
+obo:DOID_11729 Lyme disease
+obo:DOID_5052 melioidosis
+obo:DOID_2755 Mycobacterium avium complex disease
+obo:DOID_11262 ornithosis
+obo:DOID_3055 paratyphoid fever
+obo:DOID_11055 pasteurellosis
+obo:DOID_3482 plague
+obo:DOID_11100 Q fever
+obo:DOID_13034 relapsing fever
+obo:DOID_11336 rhinoscleroma
+obo:DOID_0060859 salmonellosis
+obo:DOID_0050485 sennetsu fever
+obo:DOID_12385 shigellosis
+obo:DOID_11104 spotted fever
+obo:DOID_96 staphyloenterotoxemia
+obo:DOID_4166 syphilis
+obo:DOID_11338 tetanus
+obo:DOID_399 tuberculosis
+obo:DOID_2123 tularemia
+obo:DOID_13258 typhoid fever
+obo:DOID_11256 typhus
+obo:DOID_7426 cutaneous anthrax
+obo:DOID_0050160 inhalation anthrax
+obo:DOID_0050398 Carrion's Disease
+obo:DOID_11258 cat-scratch disease
+obo:DOID_11101 trench fever
+obo:DOID_0050352 foodborne botulism
+obo:DOID_0050354 infant botulism
+obo:DOID_0050141 intestinal botulism
+obo:DOID_0050353 wound botulism
+obo:DOID_0050025 human granulocytic anaplasmosis
+obo:DOID_0050026 human monocytic ehrlichiosis
+obo:DOID_13819 lymphogranuloma venereum
+obo:DOID_10457 Legionnaires' disease
+obo:DOID_0050150 Pontiac fever
+obo:DOID_10773 bubonic plague
+obo:DOID_10398 pneumonic plague
+obo:DOID_3481 septicemic plague
+obo:DOID_13035 louse-borne relapsing fever
+obo:DOID_13036 tick-borne relapsing fever
+obo:DOID_0050035 African tick-bite fever
+obo:DOID_14095 boutonneuse fever
+obo:DOID_0050046 Far Eastern spotted fever
+obo:DOID_0050050 Japanese spotted fever
+obo:DOID_10784 Queensland tick typhus
+obo:DOID_0050052 Rocky Mountain spotted fever
+obo:DOID_9856 congenital syphilis
+obo:DOID_9531 latent syphilis
+obo:DOID_4156 primary syphilis
+obo:DOID_4157 secondary syphilis
+obo:DOID_8200 tertiary syphilis
+obo:DOID_9988 tertiary neurosyphilis
+obo:DOID_10027 tabes dorsalis
+obo:DOID_13521 tetanus neonatorum
+obo:DOID_0050598 extrapulmonary tuberculosis
+obo:DOID_401 multidrug-resistant tuberculosis
+obo:DOID_2957 pulmonary tuberculosis
+obo:DOID_0050599 abdominal tuberculosis
+obo:DOID_9861 miliary tuberculosis
+obo:DOID_4962 pericardial tuberculosis
+obo:DOID_106 pleural tuberculosis
+obo:DOID_2149 urogenital tuberculosis
+obo:DOID_404 gastrointestinal tuberculosis
+obo:DOID_13282 intestinal tuberculosis
+obo:DOID_1251 tuberculous epididymitis
+obo:DOID_0050166 tuberculous salpingitis
+obo:DOID_2122 pneumonic tularemia
+obo:DOID_11990 ulceroglandular tularemia
+obo:DOID_0050481 endemic typhus
+obo:DOID_0050480 epidemic typhus
+obo:DOID_13371 scrub typhus
+obo:DOID_0050134 cutaneous mycosis
+obo:DOID_0050135 subcutaneous mycosis
+obo:DOID_0050133 superficial mycosis
+obo:DOID_0050136 systemic mycosis
+obo:DOID_1563 dermatomycosis
+obo:DOID_8913 dermatophytosis
+obo:DOID_13078 eumycotic mycetoma
+obo:DOID_12179 tinea corporis
+obo:DOID_13369 tinea manuum
+obo:DOID_12403 tinea pedis
+obo:DOID_13074 tinea unguium
+obo:DOID_0050278 basidiobolomycosis
+obo:DOID_1562 chromoblastomycosis
+obo:DOID_0050279 conidiobolomycosis
+obo:DOID_9060 pityriasis versicolor
+obo:DOID_8912 tinea nigra
+obo:DOID_2473 opportunistic mycosis
+obo:DOID_0050292 primary systemic mycosis
+obo:DOID_13564 aspergillosis
+obo:DOID_1508 candidiasis
+obo:DOID_12053 cryptococcosis
+obo:DOID_0050289 fusariosis
+obo:DOID_4271 microsporidiosis
+obo:DOID_0050288 penicilliosis
+obo:DOID_11339 pneumocystosis
+obo:DOID_0050290 trichosporonosis
+obo:DOID_13166 allergic bronchopulmonary aspergillosis
+obo:DOID_0050153 pulmonary aspergilloma
+obo:DOID_13146 esophageal candidiasis
+obo:DOID_9577 neonatal candidiasis
+obo:DOID_14262 oral candidiasis
+obo:DOID_4270 encephalitozoonosis
+obo:DOID_12663 blastomycosis
+obo:DOID_13450 coccidioidomycosis
+obo:DOID_1731 histoplasmosis
+obo:DOID_14484 sporotrichosis
+obo:DOID_4110 parasitic ectoparasitic infectious disease
+obo:DOID_883 parasitic helminthiasis infectious disease
+obo:DOID_0050291 parasitic Ichthyosporea infectious disease
+obo:DOID_2789 parasitic protozoa infectious disease
+obo:DOID_5502 lice infestation
+obo:DOID_7894 mite infestation
+obo:DOID_11080 myiasis
+obo:DOID_4109 tick infestation
+obo:DOID_0050266 tungiasis
+obo:DOID_5501 Pediculus humanus capitis infestation
+obo:DOID_13760 Pthirus pubis infestation
+obo:DOID_8295 scabies
+obo:DOID_14374 norwegian scabies
+obo:DOID_11285 tick paralysis
+obo:DOID_0050256 angiostrongyliasis
+obo:DOID_7033 anisakiasis
+obo:DOID_456 ascariasis
+obo:DOID_3108 ascaridiasis
+obo:DOID_0050259 baylisascariasis
+obo:DOID_1219 dicrocoeliasis
+obo:DOID_10075 diphyllobothriasis
+obo:DOID_14418 dracunculiasis
+obo:DOID_1496 echinococcosis
+obo:DOID_7457 enterobiasis
+obo:DOID_888 fasciolopsiasis
+obo:DOID_1080 filariasis
+obo:DOID_11379 gnathomiasis
+obo:DOID_10074 hymenolepiasis
+obo:DOID_2790 necatoriasis
+obo:DOID_1395 schistosomiasis
+obo:DOID_0050596 taeniasis
+obo:DOID_9784 trichinosis
+obo:DOID_1255 trichostrongyloidiasis
+obo:DOID_1252 trichuriasis
+obo:DOID_12148 alveolar echinococcosis
+obo:DOID_1495 cystic echinococcosis
+obo:DOID_1082 dirofilariasis
+obo:DOID_11678 onchocerciasis
+obo:DOID_3332 haemonchiasis
+obo:DOID_3985 ostertagiasis
+obo:DOID_1254 trichostrongylosis
+obo:DOID_2409 rhinosporidiosis
+obo:DOID_9181 amebiasis
+obo:DOID_9643 babesiosis
+obo:DOID_2113 coccidiosis
+obo:DOID_10718 giardiasis
+obo:DOID_9065 leishmaniasis
+obo:DOID_12365 malaria
+obo:DOID_3733 theileriasis
+obo:DOID_1947 trichomoniasis
+obo:DOID_10113 trypanosomiasis
+obo:DOID_2112 cystoisosporiasis
+obo:DOID_9640 sarcocystosis
+obo:DOID_9965 toxoplasmosis
+obo:DOID_13336 congenital toxoplasmosis
+obo:DOID_9155 mucocutaneous leishmaniasis
+obo:DOID_14068 blackwater fever
+obo:DOID_14069 cerebral malaria
+obo:DOID_14325 mixed malaria
+obo:DOID_14067 Plasmodium falciparum malaria
+obo:DOID_12978 Plasmodium vivax malaria
+obo:DOID_12140 Chagas disease
+obo:DOID_10112 sleeping sickness
+obo:DOID_0050194 Argentine hemorrhagic fever
+obo:DOID_0050195 Bolivian hemorrhagic fever
+obo:DOID_5154 borna disease
+obo:DOID_8659 chickenpox
+obo:DOID_0050012 chikungunya
+obo:DOID_4885 Colorado tick fever
+obo:DOID_11165 common wart
+obo:DOID_0080599 Coronavirus infectious disease
+obo:DOID_8956 cowpox
+obo:DOID_12287 Crimean-Congo hemorrhagic fever
+obo:DOID_12205 dengue disease
+obo:DOID_10841 Eastern equine encephalitis
+obo:DOID_4325 Ebola hemorrhagic fever
+obo:DOID_0050495 exanthema subitum
+obo:DOID_5362 focal epithelial hyperplasia
+obo:DOID_10881 hand, foot and mouth disease
+obo:DOID_11266 Hantavirus hemorrhagic fever with renal syndrome
+obo:DOID_14472 hantavirus pulmonary syndrome
+obo:DOID_12549 hepatitis A
+obo:DOID_2043 hepatitis B
+obo:DOID_1883 hepatitis C
+obo:DOID_2047 hepatitis D
+obo:DOID_4411 hepatitis E
+obo:DOID_10883 herpangina
+obo:DOID_8566 herpes simplex
+obo:DOID_9210 herpes zoster oticus
+obo:DOID_526 human immunodeficiency virus infectious disease
+obo:DOID_8568 infectious mononucleosis
+obo:DOID_8469 influenza
+obo:DOID_10844 Japanese encephalitis
+obo:DOID_11320 Kyasanur forest disease
+obo:DOID_9537 Lassa fever
+obo:DOID_10250 louping ill
+obo:DOID_4327 Marburg hemorrhagic fever
+obo:DOID_8622 measles
+obo:DOID_8867 molluscum contagiosum
+obo:DOID_3292 monkeypox
+obo:DOID_10264 mumps
+obo:DOID_10842 Murray Valley encephalitis
+obo:DOID_2929 Newcastle disease
+obo:DOID_11360 Phlebotomus fever
+obo:DOID_643 progressive multifocal leukoencephalopathy
+obo:DOID_11260 rabies
+obo:DOID_1273 respiratory syncytial virus infectious disease
+obo:DOID_1328 Rift Valley fever
+obo:DOID_8781 rubella
+obo:DOID_2945 severe acute respiratory syndrome
+obo:DOID_8736 smallpox
+obo:DOID_10845 St. Louis encephalitis
+obo:DOID_8970 subacute sclerosing panencephalitis
+obo:DOID_0050175 tick-borne encephalitis
+obo:DOID_321 tropical spastic paraparesis
+obo:DOID_3298 vaccinia
+obo:DOID_9584 Venezuelan equine encephalitis
+obo:DOID_0050196 Venezuelan hemorrhagic fever
+obo:DOID_1884 viral hepatitis
+obo:DOID_10533 viral pneumonia
+obo:DOID_2365 West Nile encephalitis
+obo:DOID_2366 West Nile fever
+obo:DOID_10843 Western equine encephalitis
+obo:DOID_9682 yellow fever
+obo:DOID_12206 dengue hemorrhagic fever
+obo:DOID_0050125 dengue shock syndrome
+obo:DOID_0050200 Korean hemorrhagic fever
+obo:DOID_0050201 nephropathia epidemica
+obo:DOID_9123 eczema herpeticum
+obo:DOID_8704 genital herpes
+obo:DOID_635 acquired immunodeficiency syndrome
+obo:DOID_4492 avian influenza
+obo:DOID_0050211 swine influenza
+obo:DOID_9153 variola minor
+obo:DOID_1287 cardiovascular system disease
+obo:DOID_28 endocrine system disease
+obo:DOID_77 gastrointestinal system disease
+obo:DOID_74 hematopoietic system disease
+obo:DOID_2914 immune system disease
+obo:DOID_16 integumentary system disease
+obo:DOID_17 musculoskeletal system disease
+obo:DOID_863 nervous system disease
+obo:DOID_15 reproductive system disease
+obo:DOID_1579 respiratory system disease
+obo:DOID_0060118 thoracic disease
+obo:DOID_18 urinary system disease
+obo:DOID_0060091 cardiovascular organ benign neoplasm
+obo:DOID_10273 heart conduction disease
+obo:DOID_114 heart disease
+obo:DOID_0050829 pericardium disease
+obo:DOID_178 vascular disease
+obo:DOID_5238 benign perivascular tumor
+obo:DOID_60006 benign vascular tumor
+obo:DOID_60007 cerebrovascular benign neoplasm
+obo:DOID_2436 glomangioma
+obo:DOID_1475 lymphangioma
+obo:DOID_235 colonic benign neoplasm
+obo:DOID_3081 cystic lymphangioma
+obo:DOID_2626 choroid plexus papilloma
+obo:DOID_0060224 atrial fibrillation
+obo:DOID_0050820 atrioventricular block
+obo:DOID_0050451 Brugada syndrome
+obo:DOID_13209 right bundle branch block
+obo:DOID_0050824 sinoatrial node disease
+obo:DOID_384 Wolff-Parkinson-White syndrome
+obo:DOID_0050650 familial atrial fibrillation
+obo:DOID_990 congenital heart block
+obo:DOID_13884 sick sinus syndrome
+obo:DOID_0050700 cardiomyopathy
+obo:DOID_1682 congenital heart disease
+obo:DOID_6000 congestive heart failure
+obo:DOID_0050825 endocardium disease
+obo:DOID_9768 heart aneurysm
+obo:DOID_117 heart cancer
+obo:DOID_4079 heart valve disease
+obo:DOID_3978 extrinsic cardiomyopathy
+obo:DOID_0060036 intrinsic cardiomyopathy
+obo:DOID_12935 alcoholic cardiomyopathy
+obo:DOID_820 myocarditis
+obo:DOID_3951 acute myocarditis
+obo:DOID_10778 fiedler's myocarditis
+obo:DOID_9694 toxic myocarditis
+obo:DOID_0050431 arrhythmogenic right ventricular cardiomyopathy
+obo:DOID_12930 dilated cardiomyopathy
+obo:DOID_11984 hypertrophic cardiomyopathy
+obo:DOID_2843 long QT syndrome
+obo:DOID_397 restrictive cardiomyopathy
+obo:DOID_9997 peripartum cardiomyopathy
+obo:DOID_0050434 Andersen-Tawil syndrome
+obo:DOID_2842 Jervell-Lange Nielsen syndrome
+obo:DOID_12932 endomyocardial fibrosis
+obo:DOID_396 Loeffler endocarditis
+obo:DOID_9565 dextrocardia
+obo:DOID_1681 heart septal defect
+obo:DOID_9955 hypoplastic left heart syndrome
+obo:DOID_13832 patent ductus arteriosus
+obo:DOID_4297 scimitar syndrome
+obo:DOID_6419 tetralogy of Fallot
+obo:DOID_1882 atrial heart septal defect
+obo:DOID_0050651 atrioventricular septal defect
+obo:DOID_1657 ventricular septal defect
+obo:DOID_13620 patent foramen ovale
+obo:DOID_6406 double outlet right ventricle
+obo:DOID_8515 Cor pulmonale
+obo:DOID_9775 diastolic heart failure
+obo:DOID_9651 systolic heart failure
+obo:DOID_8514 acute pulmonary heart disease
+obo:DOID_12326 chronic pulmonary heart disease
+obo:DOID_8517 acute cor pulmonale
+obo:DOID_14557 primary pulmonary hypertension
+obo:DOID_12929 endocardial fibroelastosis
+obo:DOID_10314 endocarditis
+obo:DOID_0060000 infective endocarditis
+obo:DOID_0060068 marantic endocarditis
+obo:DOID_4562 subacute bacterial endocarditis
+obo:DOID_3362 coronary aneurysm
+obo:DOID_6547 heart lymphoma
+obo:DOID_5262 heart sarcoma
+obo:DOID_62 aortic valve disease
+obo:DOID_61 mitral valve disease
+obo:DOID_5749 pulmonary valve disease
+obo:DOID_0050826 tricuspid valve disease
+obo:DOID_57 aortic valve insufficiency
+obo:DOID_1712 aortic valve stenosis
+obo:DOID_5805 subvalvular aortic stenosis
+obo:DOID_1929 supravalvular aortic stenosis
+obo:DOID_5804 discrete subaortic stenosis
+obo:DOID_11502 mitral valve insufficiency
+obo:DOID_988 mitral valve prolapse
+obo:DOID_1754 mitral valve stenosis
+obo:DOID_14265 pulmonary valve insufficiency
+obo:DOID_6420 pulmonary valve stenosis
+obo:DOID_14289 Ebstein anomaly
+obo:DOID_4080 tricuspid valve insufficiency
+obo:DOID_5644 tricuspid valve prolapse
+obo:DOID_4078 tricuspid valve stenosis
+obo:DOID_118 pericardial effusion
+obo:DOID_1787 pericarditis
+obo:DOID_116 pericardium cancer
+obo:DOID_115 cardiac tamponade
+obo:DOID_11482 hemopericardium
+obo:DOID_11481 constrictive pericarditis
+obo:DOID_10507 Dressler's syndrome
+obo:DOID_6201 pericardial mesothelioma
+obo:DOID_2494 angiodysplasia
+obo:DOID_0050644 arterial calcification of infancy
+obo:DOID_0050828 artery disease
+obo:DOID_1271 capillary disease
+obo:DOID_1461 cholesterol embolism
+obo:DOID_1270 hereditary hemorrhagic telangiectasia
+obo:DOID_326 ischemia
+obo:DOID_341 peripheral vascular disease
+obo:DOID_2462 retinal vascular disease
+obo:DOID_3103 thoracic outlet syndrome
+obo:DOID_0060903 thrombosis
+obo:DOID_865 vasculitis
+obo:DOID_866 vein disease
+obo:DOID_520 aortic disease
+obo:DOID_2349 arteriosclerosis
+obo:DOID_13446 basilar artery occlusion
+obo:DOID_3407 carotid artery disease
+obo:DOID_3527 cerebral arterial disease
+obo:DOID_3393 coronary artery disease
+obo:DOID_10763 hypertension
+obo:DOID_9477 pulmonary embolism
+obo:DOID_2388 renal artery disease
+obo:DOID_13096 Sneddon syndrome
+obo:DOID_14006 splenic artery aneurysm
+obo:DOID_342 subclavian artery aneurysm
+obo:DOID_13095 vertebral artery insufficiency
+obo:DOID_3627 aortic aneurysm
+obo:DOID_519 aortitis
+obo:DOID_7693 abdominal aortic aneurysm
+obo:DOID_14004 thoracic aortic aneurysm
+obo:DOID_5162 arteriolosclerosis
+obo:DOID_5160 arteriosclerosis obliterans
+obo:DOID_2348 arteriosclerotic cardiovascular disease
+obo:DOID_3669 intermittent claudication
+obo:DOID_13097 intracranial arteriosclerosis
+obo:DOID_1936 atherosclerosis
+obo:DOID_10230 aortic atherosclerosis
+obo:DOID_12720 cerebral atherosclerosis
+obo:DOID_2347 generalized atherosclerosis
+obo:DOID_9348 carotid artery dissection
+obo:DOID_807 carotid artery occlusion
+obo:DOID_13001 carotid stenosis
+obo:DOID_10941 intracranial aneurysm
+obo:DOID_13099 Moyamoya disease
+obo:DOID_11840 coronary artery vasospasm
+obo:DOID_4248 coronary stenosis
+obo:DOID_11847 coronary thrombosis
+obo:DOID_8805 intermediate coronary syndrome
+obo:DOID_5844 myocardial infarction
+obo:DOID_4247 coronary restenosis
+obo:DOID_9408 acute myocardial infarction
+obo:DOID_5855 anteroseptal myocardial infarction
+obo:DOID_5848 apical myocardial infarction
+obo:DOID_5850 inferior myocardial infarction
+obo:DOID_9767 myocardial stunning
+obo:DOID_5847 posterior myocardial infarction
+obo:DOID_5843 posteroinferior myocardial infarction
+obo:DOID_5854 silent myocardial infarction
+obo:DOID_10651 acute anterolateral myocardial infarction
+obo:DOID_10825 essential hypertension
+obo:DOID_11516 hypertensive heart disease
+obo:DOID_10824 malignant hypertension
+obo:DOID_10591 pre-eclampsia
+obo:DOID_6432 pulmonary hypertension
+obo:DOID_11130 secondary hypertension
+obo:DOID_13731 malignant secondary hypertension
+obo:DOID_13730 malignant renovascular hypertension
+obo:DOID_13593 eclampsia
+obo:DOID_10590 mild pre-eclampsia
+obo:DOID_13129 severe pre-eclampsia
+obo:DOID_13042 persistent fetal circulation syndrome
+obo:DOID_5453 pulmonary venoocclusive disease
+obo:DOID_1073 renal hypertension
+obo:DOID_11664 nephrosclerosis
+obo:DOID_1591 renovascular hypertension
+obo:DOID_2725 capillary hemangioma
+obo:DOID_14400 capillary leak syndrome
+obo:DOID_2493 gastric antral vascular ectasia
+obo:DOID_2316 brain ischemia
+obo:DOID_682 compartment syndrome
+obo:DOID_224 transient cerebral ischemia
+obo:DOID_223 basilar artery insufficiency
+obo:DOID_13003 vertebrobasilar insufficiency
+obo:DOID_3933 anterior compartment syndrome
+obo:DOID_11713 diabetic angiopathy
+obo:DOID_13252 mesenteric vascular occlusion
+obo:DOID_9286 priapism
+obo:DOID_10300 Raynaud disease
+obo:DOID_1272 telangiectasis
+obo:DOID_12918 thromboangiitis obliterans
+obo:DOID_8947 diabetic retinopathy
+obo:DOID_0050535 exudative vitreoretinopathy
+obo:DOID_11295 retinal microaneurysm
+obo:DOID_7736 retinal telangiectasia
+obo:DOID_1729 retinal vascular occlusion
+obo:DOID_13208 background diabetic retinopathy
+obo:DOID_9191 diabetic macular edema
+obo:DOID_13207 proliferative diabetic retinopathy
+obo:DOID_8946 severe nonproliferative diabetic retinopathy
+obo:DOID_7765 Coats disease
+obo:DOID_2450 central retinal vein occlusion
+obo:DOID_8483 retinal artery occlusion
+obo:DOID_13094 branch retinal artery occlusion
+obo:DOID_13098 central retinal artery occlusion
+obo:DOID_13241 Behcet's disease
+obo:DOID_525 central nervous system vasculitis
+obo:DOID_3049 Churg-Strauss syndrome
+obo:DOID_2555 granulomatous angiitis
+obo:DOID_9810 polyarteritis nodosa
+obo:DOID_11563 retinal vasculitis
+obo:DOID_13375 temporal arteritis
+obo:DOID_112 esophageal varix
+obo:DOID_864 phlebitis
+obo:DOID_1727 retinal vein occlusion
+obo:DOID_799 varicose veins
+obo:DOID_10128 venous insufficiency
+obo:DOID_3875 thrombophlebitis
+obo:DOID_9742 pelvic varices
+obo:DOID_9746 hemorrhoid
+obo:DOID_12337 varicocele
+obo:DOID_9553 adrenal gland disease
+obo:DOID_0060005 autoimmune disease of endocrine system
+obo:DOID_2277 gonadal disease
+obo:DOID_26 pancreas disease
+obo:DOID_11201 parathyroid gland disease
+obo:DOID_53 pituitary gland disease
+obo:DOID_50 thyroid gland disease
+obo:DOID_3952 adrenal cortex disease
+obo:DOID_3953 adrenal gland cancer
+obo:DOID_9931 Waterhouse-Friderichsen syndrome
+obo:DOID_660 adrenal cortex cancer
+obo:DOID_10493 adrenal cortical hypofunction
+obo:DOID_3947 adrenal gland hyperfunction
+obo:DOID_4968 Nelson syndrome
+obo:DOID_13774 Addison's disease
+obo:DOID_12252 Cushing's syndrome
+obo:DOID_446 hyperaldosteronism
+obo:DOID_14080 glucocorticoid-remediable aldosteronism
+obo:DOID_3950 adrenal carcinoma
+obo:DOID_5718 adrenal neuroblastoma
+obo:DOID_14040 autoimmune polyendocrine syndrome
+obo:DOID_12361 Graves' disease
+obo:DOID_0050167 autoimmune polyendocrine syndrome type 1
+obo:DOID_0050168 autoimmune polyendocrine syndrome type 2
+obo:DOID_1923 disorder of sexual development
+obo:DOID_1924 hypogonadism
+obo:DOID_7455 hypogonadotropism
+obo:DOID_2519 testicular disease
+obo:DOID_4671 freemartinism
+obo:DOID_14447 gonadal dysgenesis
+obo:DOID_12698 gynecomastia
+obo:DOID_3763 hermaphroditism
+obo:DOID_11613 hyperandrogenism
+obo:DOID_3765 pseudohermaphroditism
+obo:DOID_14448 46 XY gonadal dysgenesis
+obo:DOID_14449 mixed gonadal dysgenesis
+obo:DOID_3491 Turner syndrome
+obo:DOID_0090070 hypogonadotropic hypogonadism
+obo:DOID_3614 Kallmann syndrome
+obo:DOID_4674 androgen insensitivity syndrome
+obo:DOID_11994 atrophy of testis
+obo:DOID_1024 leprosy
+obo:DOID_2518 orchitis
+obo:DOID_11996 spermatic cord torsion
+obo:DOID_5104 testicular infarct
+obo:DOID_10887 lepromatous leprosy
+obo:DOID_1025 tuberculoid leprosy
+obo:DOID_1428 endocrine pancreas disease
+obo:DOID_13316 exocrine pancreatic insufficiency
+obo:DOID_2018 hyperinsulinism
+obo:DOID_12388 neurohypophyseal diabetes insipidus
+obo:DOID_13768 opisthorchiasis
+obo:DOID_3918 pancreatic cystadenoma
+obo:DOID_10610 pancreatic steatorrhea
+obo:DOID_4989 pancreatitis
+obo:DOID_9993 hypoglycemia
+obo:DOID_1607 hypoglycemic coma
+obo:DOID_6977 pancreatic cholera
+obo:DOID_5403 microcystic adenoma
+obo:DOID_7235 pancreatic mucinous cystadenoma
+obo:DOID_3917 pancreatic serous cystadenoma
+obo:DOID_2913 acute pancreatitis
+obo:DOID_4988 alcoholic pancreatitis
+obo:DOID_13543 hyperparathyroidism
+obo:DOID_11199 hypoparathyroidism
+obo:DOID_11202 primary hyperparathyroidism
+obo:DOID_12466 secondary hyperparathyroidism
+obo:DOID_3642 empty sella syndrome
+obo:DOID_2444 hyperpituitarism
+obo:DOID_9406 hypopituitarism
+obo:DOID_3401 inappropriate ADH syndrome
+obo:DOID_3646 necrosis of pituitary
+obo:DOID_7378 pituitary hypoplasia
+obo:DOID_2449 acromegaly
+obo:DOID_3946 pituitary-dependent Cushing's disease
+obo:DOID_9410 panhypopituitarism
+obo:DOID_9476 Sheehan syndrome
+obo:DOID_1130 pituitary infarct
+obo:DOID_1129 pituitary apoplexy
+obo:DOID_2856 euthyroid sick syndrome
+obo:DOID_12176 goiter
+obo:DOID_7998 hyperthyroidism
+obo:DOID_2855 hyperthyroxinemia
+obo:DOID_1459 hypothyroidism
+obo:DOID_12837 thyroid crisis
+obo:DOID_1781 thyroid gland cancer
+obo:DOID_7166 thyroiditis
+obo:DOID_7997 thyrotoxicosis
+obo:DOID_12175 dyshormonogenic goiter
+obo:DOID_13198 endemic goiter
+obo:DOID_0050489 multinodular goiter
+obo:DOID_13197 nodular goiter
+obo:DOID_13195 nontoxic goiter
+obo:DOID_13200 substernal goiter
+obo:DOID_11277 Plummer's disease
+obo:DOID_10719 toxic diffuse goiter
+obo:DOID_0050655 Bamforth-Lazarus syndrome
+obo:DOID_11634 myxedema
+obo:DOID_11633 thyroid hormone resistance syndrome
+obo:DOID_10011 thyroid lymphoma
+obo:DOID_14353 acute thyroiditis
+obo:DOID_7188 autoimmune thyroiditis
+obo:DOID_7187 subacute lymphocytic thyroiditis
+obo:DOID_7165 subacute thyroiditis
+obo:DOID_14350 suppurative thyroiditis
+obo:DOID_12573 neonatal thyrotoxicosis
+obo:DOID_60000 appendix disease
+obo:DOID_0060031 autoimmune disease of gastrointestinal tract
+obo:DOID_13250 diarrhea
+obo:DOID_6050 esophageal disease
+obo:DOID_0060262 gallbladder disease
+obo:DOID_2326 gastroenteritis
+obo:DOID_8534 gastroesophageal reflux disease
+obo:DOID_3119 gastrointestinal system cancer
+obo:DOID_3118 hepatobiliary disease
+obo:DOID_5295 intestinal disease
+obo:DOID_403 mouth disease
+obo:DOID_750 peptic ulcer disease
+obo:DOID_8677 perinatal necrotizing enterocolitis
+obo:DOID_8283 peritonitis
+obo:DOID_76 stomach disease
+obo:DOID_2048 autoimmune hepatitis
+obo:DOID_10608 celiac disease
+obo:DOID_0050140 acute diarrhea
+obo:DOID_0050132 inflammatory diarrhea
+obo:DOID_0050130 osmotic diarrhea
+obo:DOID_0050129 secretory diarrhea
+obo:DOID_9164 achalasia
+obo:DOID_9206 Barrett's esophagus
+obo:DOID_9192 dyskinesia of esophagus
+obo:DOID_10485 esophageal atresia
+obo:DOID_11963 esophagitis
+obo:DOID_13186 megaesophagus
+obo:DOID_13922 eosinophilic esophagitis
+obo:DOID_6297 viral esophagitis
+obo:DOID_11151 cholecystolithiasis
+obo:DOID_11755 choledocholithiasis
+obo:DOID_10211 cholelithiasis
+obo:DOID_9714 occlusion of gallbladder
+obo:DOID_13622 campylobacteriosis
+obo:DOID_4031 eosinophilic gastroenteritis
+obo:DOID_4607 biliary tract cancer
+obo:DOID_5041 esophageal cancer
+obo:DOID_4944 gastroesophageal junction adenocarcinoma
+obo:DOID_9253 gastrointestinal stromal tumor
+obo:DOID_0080355 hepatobiliary system cancer
+obo:DOID_3571 liver cancer
+obo:DOID_8618 oral cavity cancer
+obo:DOID_1791 peritoneal carcinoma
+obo:DOID_0060119 pharynx cancer
+obo:DOID_4606 bile duct cancer
+obo:DOID_3121 gallbladder cancer
+obo:DOID_4897 bile duct carcinoma
+obo:DOID_4682 extrahepatic bile duct carcinoma
+obo:DOID_8135 gallbladder lymphoma
+obo:DOID_8167 gallbladder melanoma
+obo:DOID_687 hepatoblastoma
+obo:DOID_686 liver carcinoma
+obo:DOID_901 liver lymphoma
+obo:DOID_270 liver sarcoma
+obo:DOID_5789 mixed hepatoblastoma
+obo:DOID_684 hepatocellular carcinoma
+obo:DOID_5015 hepatocellular fibrolamellar carcinoma
+obo:DOID_9149 hard palate cancer
+obo:DOID_8578 soft palate cancer
+obo:DOID_8649 tongue cancer
+obo:DOID_4901 peritoneal serous adenocarcinoma
+obo:DOID_6228 peritoneal serous papillary adenocarcinoma
+obo:DOID_8533 hypopharynx cancer
+obo:DOID_9261 nasopharynx carcinoma
+obo:DOID_8557 oropharynx cancer
+obo:DOID_8858 tonsil cancer
+obo:DOID_9741 biliary tract disease
+obo:DOID_409 liver disease
+obo:DOID_4138 bile duct disease
+obo:DOID_12237 bile reflux
+obo:DOID_0050625 biliary tract benign neoplasm
+obo:DOID_9740 postcholecystectomy syndrome
+obo:DOID_9446 cholangitis
+obo:DOID_899 choledochal cyst
+obo:DOID_13580 cholestasis
+obo:DOID_4137 common bile duct disease
+obo:DOID_885 fascioliasis
+obo:DOID_14271 acute cholangitis
+obo:DOID_14270 ascending cholangitis
+obo:DOID_1949 cholecystitis
+obo:DOID_9439 chronic cholangitis
+obo:DOID_14272 pericholangitis
+obo:DOID_14268 sclerosing cholangitis
+obo:DOID_14269 suppurative cholangitis
+obo:DOID_2828 acalculous cholecystitis
+obo:DOID_9765 emphysematous cholecystitis
+obo:DOID_9766 xanthogranulomatous cholecystitis
+obo:DOID_13608 biliary atresia
+obo:DOID_13619 extrahepatic cholestasis
+obo:DOID_13603 obstructive jaundice
+obo:DOID_4140 biliary dyskinesia
+obo:DOID_5381 bile duct adenoma
+obo:DOID_5468 biliary papillomatosis
+obo:DOID_9245 Alagille syndrome
+obo:DOID_12474 capillariasis
+obo:DOID_13767 clonorchiasis
+obo:DOID_272 hepatic vascular disease
+obo:DOID_2237 hepatitis
+obo:DOID_900 hepatopulmonary syndrome
+obo:DOID_1852 intrahepatic cholestasis
+obo:DOID_5082 liver cirrhosis
+obo:DOID_918 liver inflammatory pseudotumor
+obo:DOID_10699 paragonimiasis
+obo:DOID_893 Wilson disease
+obo:DOID_11512 Budd-Chiari syndrome
+obo:DOID_13738 infarct of liver
+obo:DOID_914 peliosis hepatis
+obo:DOID_10762 portal hypertension
+obo:DOID_11695 portal vein thrombosis
+obo:DOID_12351 alcoholic hepatitis
+obo:DOID_2044 drug-induced hepatitis
+obo:DOID_14018 alcoholic liver cirrhosis
+obo:DOID_10606 blind loop syndrome
+obo:DOID_9779 bowel dysfunction
+obo:DOID_1518 cecal disease
+obo:DOID_8633 chronic intestinal vascular insufficiency
+obo:DOID_5353 colonic disease
+obo:DOID_1733 cryptosporidiosis
+obo:DOID_7475 diverticulitis
+obo:DOID_4072 duodenal disease
+obo:DOID_8643 duodenitis
+obo:DOID_0050424 familial adenomatous polyposis
+obo:DOID_0050589 inflammatory bowel disease
+obo:DOID_10486 intestinal atresia
+obo:DOID_10155 intestinal cancer
+obo:DOID_100 intestinal infectious disease
+obo:DOID_8437 intestinal obstruction
+obo:DOID_2074 intestinal perforation
+obo:DOID_0050597 intestinal schistosomiasis
+obo:DOID_9778 irritable bowel syndrome
+obo:DOID_884 metagonimiasis
+obo:DOID_14671 multiple intestinal atresia
+obo:DOID_13419 neurogenic bowel
+obo:DOID_3852 Peutz-Jeghers syndrome
+obo:DOID_13249 pneumatosis cystoides intestinalis
+obo:DOID_8439 postgastrectomy syndrome
+obo:DOID_10611 protein-losing enteropathy
+obo:DOID_1285 rectal disease
+obo:DOID_10605 short bowel syndrome
+obo:DOID_10602 steatorrhea
+obo:DOID_10955 strongyloidiasis
+obo:DOID_10607 tropical sprue
+obo:DOID_8476 Whipple disease
+obo:DOID_2089 constipation
+obo:DOID_8337 appendicitis
+obo:DOID_1521 cecum cancer
+obo:DOID_8826 colon carcinoma in situ
+obo:DOID_3877 functional colonic disease
+obo:DOID_11371 functional diarrhea
+obo:DOID_0080072 intestinal pseudo-obstruction
+obo:DOID_11372 megacolon
+obo:DOID_3876 colonic pseudo-obstruction
+obo:DOID_10487 Hirschsprung's disease
+obo:DOID_1770 toxic megacolon
+obo:DOID_4071 duodenogastric reflux
+obo:DOID_10021 duodenum cancer
+obo:DOID_10020 ampulla of Vater cancer
+obo:DOID_7479 duodenal somatostatinoma
+obo:DOID_4932 ampulla of Vater carcinoma
+obo:DOID_3502 ampulla of Vater adenocarcinoma
+obo:DOID_0060180 colitis
+obo:DOID_8778 Crohn's disease
+obo:DOID_8577 ulcerative colitis
+obo:DOID_11239 appendix cancer
+obo:DOID_5672 large intestine cancer
+obo:DOID_10154 small intestine cancer
+obo:DOID_4902 appendix carcinoma
+obo:DOID_3559 pseudomyxoma peritonei
+obo:DOID_3608 appendix adenocarcinoma
+obo:DOID_0050688 anal canal cancer
+obo:DOID_14110 anus cancer
+obo:DOID_9256 colorectal cancer
+obo:DOID_6126 anal canal carcinoma
+obo:DOID_7177 anal canal squamous cell carcinoma
+obo:DOID_4908 anal carcinoma
+obo:DOID_3447 anus adenocarcinoma
+obo:DOID_3446 anal Paget's disease
+obo:DOID_219 colon cancer
+obo:DOID_1993 rectum cancer
+obo:DOID_218 ascending colon cancer
+obo:DOID_1520 colon carcinoma
+obo:DOID_12190 descending colon cancer
+obo:DOID_12192 sigmoid colon cancer
+obo:DOID_261 transverse colon cancer
+obo:DOID_234 colon adenocarcinoma
+obo:DOID_2782 rectosigmoid junction cancer
+obo:DOID_2781 rectosigmoid cancer
+obo:DOID_1996 rectum adenocarcinoma
+obo:DOID_5272 small intestinal sarcoma
+obo:DOID_4907 small intestine carcinoma
+obo:DOID_13996 small intestine lymphoma
+obo:DOID_5271 small intestine leiomyosarcoma
+obo:DOID_4906 small intestine adenocarcinoma
+obo:DOID_12384 dysentery
+obo:DOID_3558 duodenal obstruction
+obo:DOID_8440 ileus
+obo:DOID_8445 intestinal volvulus
+obo:DOID_8446 intussusception
+obo:DOID_8442 paralytic ileus
+obo:DOID_3557 superior mesenteric artery syndrome
+obo:DOID_3878 intestinal pseudo-obstruction
+obo:DOID_8438 afferent loop syndrome
+obo:DOID_14495 dumping syndrome
+obo:DOID_3128 anus disease
+obo:DOID_1283 enterocele
+obo:DOID_3127 proctitis
+obo:DOID_9307 rectal prolapse
+obo:DOID_7551 gonorrhea
+obo:DOID_10488 imperforate anus
+obo:DOID_4331 burning mouth syndrome
+obo:DOID_9297 lip disease
+obo:DOID_5773 oral submucous fibrosis
+obo:DOID_10854 salivary gland disease
+obo:DOID_9637 stomatitis
+obo:DOID_10944 tongue disease
+obo:DOID_1091 tooth disease
+obo:DOID_1762 cheilitis
+obo:DOID_9296 cleft lip
+obo:DOID_8564 lip cancer
+obo:DOID_1761 Melkersson-Rosenthal syndrome
+obo:DOID_12904 mucocele of salivary gland
+obo:DOID_12901 necrotizing sialometaplasia
+obo:DOID_10302 parotid disease
+obo:DOID_8850 salivary gland cancer
+obo:DOID_10303 sialadenitis
+obo:DOID_12905 sialolithiasis
+obo:DOID_10301 parotitis
+obo:DOID_5309 epithelial-myoepithelial carcinoma
+obo:DOID_9036 parotid gland cancer
+obo:DOID_297 pleomorphic adenoma carcinoma
+obo:DOID_9663 aphthous stomatitis
+obo:DOID_11875 denture stomatitis
+obo:DOID_9673 ulcerative stomatitis
+obo:DOID_9672 noma
+obo:DOID_11514 fissured tongue
+obo:DOID_1456 glossitis
+obo:DOID_13500 hairy tongue
+obo:DOID_1453 atrophic glossitis
+obo:DOID_14111 median rhomboid glossitis
+obo:DOID_1455 geographic tongue
+obo:DOID_13714 anodontia
+obo:DOID_13711 dental fluorosis
+obo:DOID_5330 dental pulp disease
+obo:DOID_4154 dentinogenesis imperfecta
+obo:DOID_3389 Papillon-Lefevre disease
+obo:DOID_3388 periodontal disease
+obo:DOID_9893 periodontosis
+obo:DOID_214 teeth hard tissue disease
+obo:DOID_0050591 tooth agenesis
+obo:DOID_5608 dental pulp calcification
+obo:DOID_11623 dental pulp necrosis
+obo:DOID_11121 pulpitis
+obo:DOID_1483 gingival disease
+obo:DOID_824 periodontitis
+obo:DOID_3086 gingival overgrowth
+obo:DOID_1134 gingival recession
+obo:DOID_3087 gingivitis
+obo:DOID_5337 epulis
+obo:DOID_5338 gingival hypertrophy
+obo:DOID_1474 aggressive periodontitis
+obo:DOID_823 periapical periodontitis
+obo:DOID_11693 acute apical periodontitis
+obo:DOID_11269 chronic apical periodontitis
+obo:DOID_2562 suppurative periapical periodontitis
+obo:DOID_216 dental caries
+obo:DOID_693 dental enamel hypoplasia
+obo:DOID_701 dentin dysplasia
+obo:DOID_698 dentin sensitivity
+obo:DOID_12733 hypercementosis
+obo:DOID_12661 tooth ankylosis
+obo:DOID_2498 tooth erosion
+obo:DOID_13240 tooth resorption
+obo:DOID_10461 dentin caries
+obo:DOID_217 enamel caries
+obo:DOID_14089 root caries
+obo:DOID_2187 amelogenesis imperfecta
+obo:DOID_13629 dentine erosion
+obo:DOID_2497 enamel erosion
+obo:DOID_14550 root resorption
+obo:DOID_749 active peptic ulcer disease
+obo:DOID_1724 duodenal ulcer
+obo:DOID_8644 gastroduodenitis
+obo:DOID_13976 peptic esophagitis
+obo:DOID_752 peptic ulcer perforation
+obo:DOID_12234 cascade stomach
+obo:DOID_1159 functional gastric disease
+obo:DOID_3229 gastric dilatation
+obo:DOID_3122 gastric outlet obstruction
+obo:DOID_4029 gastritis
+obo:DOID_12642 hiatus hernia
+obo:DOID_12072 pylorospasm
+obo:DOID_10534 stomach cancer
+obo:DOID_2321 dyspepsia
+obo:DOID_11914 gastroparesis
+obo:DOID_12639 pyloric stenosis
+obo:DOID_12638 hypertrophic pyloric stenosis
+obo:DOID_8929 atrophic gastritis
+obo:DOID_8757 gastric mucosal hypertrophy
+obo:DOID_4035 lymphocytic gastritis
+obo:DOID_10548 cardia cancer
+obo:DOID_5280 gastric leiomyosarcoma
+obo:DOID_6271 gastric cardia adenocarcinoma
+obo:DOID_6270 gastric cardia carcinoma
+obo:DOID_2355 anemia
+obo:DOID_1247 blood coagulation disease
+obo:DOID_4176 blood group incompatibility
+obo:DOID_620 blood protein disease
+obo:DOID_4961 bone marrow disease
+obo:DOID_2531 hematologic cancer
+obo:DOID_2373 hereditary elliptocytosis
+obo:DOID_9500 leukocyte disease
+obo:DOID_12449 aplastic anemia
+obo:DOID_13121 deficiency anemia
+obo:DOID_11759 hypochromic anemia
+obo:DOID_2361 macrocytic anemia
+obo:DOID_11252 microcytic anemia
+obo:DOID_11244 neonatal anemia
+obo:DOID_720 normocytic anemia
+obo:DOID_12450 pancytopenia
+obo:DOID_2354 myelophthisic anemia
+obo:DOID_1340 pure red-cell aplasia
+obo:DOID_8955 sideroblastic anemia
+obo:DOID_0060066 pyridoxine-responsive sideroblastic anemia
+obo:DOID_0060064 sideroblastic anemia with spinocerebellar ataxia
+obo:DOID_0060063 X-linked sideroblastic anemia
+obo:DOID_13120 protein-deficiency anemia
+obo:DOID_13382 megaloblastic anemia
+obo:DOID_0050642 hypochromic microcytic anemia
+obo:DOID_11758 iron deficiency anemia
+obo:DOID_11243 anemia of prematurity
+obo:DOID_13576 twin-to-twin transfusion syndrome
+obo:DOID_583 hemolytic anemia
+obo:DOID_12554 hemolytic-uremic syndrome
+obo:DOID_10241 thalassemia
+obo:DOID_1099 alpha thalassemia
+obo:DOID_12241 beta thalassemia
+obo:DOID_2217 Bernard-Soulier syndrome
+obo:DOID_2218 blood platelet disease
+obo:DOID_2236 congenital afibrinogenemia
+obo:DOID_2216 factor V deficiency
+obo:DOID_2215 factor VII deficiency
+obo:DOID_2222 factor X deficiency
+obo:DOID_2229 factor XI deficiency
+obo:DOID_2231 factor XII deficiency
+obo:DOID_2211 factor XIII deficiency
+obo:DOID_12259 hemophilia B
+obo:DOID_2213 hemorrhagic disease
+obo:DOID_2214 inherited blood coagulation disease
+obo:DOID_2452 thrombophilia
+obo:DOID_2219 Glanzmann's thrombasthenia
+obo:DOID_2223 platelet storage pool deficiency
+obo:DOID_1588 thrombocytopenia
+obo:DOID_13133 HELLP syndrome
+obo:DOID_1587 thrombocytopenia due to platelet alloimmunization
+obo:DOID_3326 purpura
+obo:DOID_484 vascular hemostatic disease
+obo:DOID_3325 hyperglobulinemic purpura
+obo:DOID_483 cavernous hemangioma
+obo:DOID_12531 von Willebrand's disease
+obo:DOID_3755 antithrombin III deficiency
+obo:DOID_11247 disseminated intravascular coagulation
+obo:DOID_3756 protein C deficiency
+obo:DOID_10772 thrombotic thrombocytopenic purpura
+obo:DOID_4175 Rh isoimmunization
+obo:DOID_2583 agammaglobulinemia
+obo:DOID_2451 protein S deficiency
+obo:DOID_12451 sulfhemoglobinemia
+obo:DOID_0060027 B cell linker protein deficiency
+obo:DOID_625 transient hypogammaglobulinemia
+obo:DOID_624 transient hypogammaglobulinemia of infancy
+obo:DOID_8432 polycythemia
+obo:DOID_2834 acquired polycythemia
+obo:DOID_10780 primary polycythemia
+obo:DOID_4960 bone marrow cancer
+obo:DOID_3282 dendritic cell thymoma
+obo:DOID_5621 histiocytic and dendritic cell cancer
+obo:DOID_1240 leukemia
+obo:DOID_3664 mast cell neoplasm
+obo:DOID_8683 myeloid sarcoma
+obo:DOID_4972 myelodysplastic/myeloproliferative neoplasm
+obo:DOID_0070004 myeloma
+obo:DOID_0050458 juvenile myelomonocytic leukemia
+obo:DOID_3166 leukemoid reaction
+obo:DOID_4971 myelofibrosis
+obo:DOID_2226 myeloproliferative neoplasm
+obo:DOID_2228 thrombocytosis
+obo:DOID_2224 essential thrombocythemia
+obo:DOID_8997 polycythemia vera
+obo:DOID_6530 cortical thymoma
+obo:DOID_7926 epithelial malignant thymoma
+obo:DOID_6917 predominantly cortical thymoma
+obo:DOID_7849 dendritic cell sarcoma
+obo:DOID_7848 interdigitating dendritic cell sarcoma
+obo:DOID_6262 follicular dendritic cell sarcoma
+obo:DOID_6004 aleukemic leukemia
+obo:DOID_7757 childhood leukemia
+obo:DOID_1036 chronic leukemia
+obo:DOID_1037 lymphoblastic leukemia
+obo:DOID_8761 megakaryocytic leukemia
+obo:DOID_8692 myeloid leukemia
+obo:DOID_6003 aleukemic leukemia cutis
+obo:DOID_12603 acute leukemia
+obo:DOID_10747 lymphoid leukemia
+obo:DOID_1035 natural killer cell leukemia
+obo:DOID_9513 plasmacytic leukemia
+obo:DOID_9952 acute lymphocytic leukemia
+obo:DOID_5603 acute T cell leukemia
+obo:DOID_5604 adult acute lymphocytic leukemia
+obo:DOID_0080638 B-cell acute lymphoblastic leukemia
+obo:DOID_9954 null-cell leukemia
+obo:DOID_0080630 B-lymphoblastic leukemia/lymphoma
+obo:DOID_715 T-cell lymphoblastic leukemia/lymphoma
+obo:DOID_0050523 adult T-cell leukemia
+obo:DOID_9119 acute myeloid leukemia
+obo:DOID_8552 chronic myeloid leukemia
+obo:DOID_8527 monocytic leukemia
+obo:DOID_8747 subacute myeloid leukemia
+obo:DOID_8864 acute monocytic leukemia
+obo:DOID_8593 chronic monocytic leukemia
+obo:DOID_9254 mast-cell leukemia
+obo:DOID_999 hypereosinophilic syndrome
+obo:DOID_6612 leukocyte adhesion deficiency
+obo:DOID_615 leukopenia
+obo:DOID_12986 leukostasis
+obo:DOID_350 mastocytosis
+obo:DOID_9538 multiple myeloma
+obo:DOID_998 eosinophilia-myalgia syndrome
+obo:DOID_9498 pulmonary eosinophilia
+obo:DOID_12987 agranulocytosis
+obo:DOID_614 lymphopenia
+obo:DOID_1227 neutropenia
+obo:DOID_5339 cyclic hematopoiesis
+obo:DOID_11245 transient neonatal neutropenia
+obo:DOID_3109 idiopathic CD4-positive T-lymphocytopenia
+obo:DOID_3663 cutaneous mastocytosis
+obo:DOID_349 systemic mastocytosis
+obo:DOID_3665 diffuse cutaneous mastocytosis
+obo:DOID_12309 urticaria pigmentosa
+obo:DOID_4798 aggressive systemic mastocytosis
+obo:DOID_4660 indolent systemic mastocytosis
+obo:DOID_4797 SM-AHNMD
+obo:DOID_9541 osteosclerotic myeloma
+obo:DOID_9551 smoldering myeloma
+obo:DOID_0060056 hypersensitivity reaction disease
+obo:DOID_1205 hypersensitivity reaction type I disease
+obo:DOID_0060083 immune system cancer
+obo:DOID_75 lymphatic system disease
+obo:DOID_612 primary immunodeficiency disease
+obo:DOID_1557 hypersensitivity reaction type III disease
+obo:DOID_2916 hypersensitivity reaction type IV disease
+obo:DOID_1556 arthus reaction
+obo:DOID_9809 hypersensitivity vasculitis
+obo:DOID_11123 Henoch-Schoenlein purpura
+obo:DOID_6688 autoimmune lymphoproliferative syndrome
+obo:DOID_7465 chronic NK-cell lymphocytosis
+obo:DOID_2917 cryoglobulinemia
+obo:DOID_0060125 heavy chain disease
+obo:DOID_14039 POEMS syndrome
+obo:DOID_11335 sarcoidosis
+obo:DOID_4371 Schnitzler syndrome
+obo:DOID_0060126 alpha chain disease
+obo:DOID_0060127 gamma heavy chain disease
+obo:DOID_0060128 mu chain disease
+obo:DOID_13405 cardiac sarcoidosis
+obo:DOID_3042 allergic contact dermatitis
+obo:DOID_10612 allergic urticaria
+obo:DOID_841 extrinsic allergic alveolitis
+obo:DOID_0060502 gastrointestinal allergy
+obo:DOID_0060496 respiratory allergy
+obo:DOID_12522 bagassosis
+obo:DOID_13891 bird fancier's lung
+obo:DOID_14453 farmer's lung
+obo:DOID_2710 sick building syndrome
+obo:DOID_3044 food allergy
+obo:DOID_4377 egg allergy
+obo:DOID_0060503 fruit allergy
+obo:DOID_4379 nut allergic reaction
+obo:DOID_4378 peanut allergy
+obo:DOID_0060904 legume allergy
+obo:DOID_4481 allergic rhinitis
+obo:DOID_0050120 hemophagocytic lymphohistiocytosis
+obo:DOID_3405 histiocytosis
+obo:DOID_9942 lymph node disease
+obo:DOID_9317 lymphangitis
+obo:DOID_0060073 lymphatic system cancer
+obo:DOID_4977 lymphedema
+obo:DOID_4347 lymphocele
+obo:DOID_2529 splenic disease
+obo:DOID_533 thymus gland disease
+obo:DOID_2571 Langerhans-cell histiocytosis
+obo:DOID_8580 malignant histiocytosis
+obo:DOID_4330 non-langerhans-cell histiocytosis
+obo:DOID_4329 Erdheim-Chester disease
+obo:DOID_4424 juvenile xanthogranuloma
+obo:DOID_4889 lymph node tuberculosis
+obo:DOID_1602 lymphadenitis
+obo:DOID_4637 cervical adenitis
+obo:DOID_13378 Kawasaki disease
+obo:DOID_10782 mesenteric lymphadenitis
+obo:DOID_4639 suppurative lymphadenitis
+obo:DOID_10619 lymph node cancer
+obo:DOID_2689 lymphangiosarcoma
+obo:DOID_0060058 lymphoma
+obo:DOID_8675 lymphosarcoma
+obo:DOID_8538 reticulosarcoma
+obo:DOID_5825 adult lymphoma
+obo:DOID_5826 breast lymphoma
+obo:DOID_1040 chronic lymphocytic leukemia
+obo:DOID_6903 eye lymphoma
+obo:DOID_10540 gastric lymphoma
+obo:DOID_903 gastrointestinal lymphoma
+obo:DOID_5822 gray zone lymphoma
+obo:DOID_8567 Hodgkin's lymphoma
+obo:DOID_6760 lung lymphoma
+obo:DOID_0060060 non-Hodgkin lymphoma
+obo:DOID_5823 pediatric lymphoma
+obo:DOID_6354 CLL/SLL
+obo:DOID_285 hairy cell leukemia
+obo:DOID_1039 prolymphocytic leukemia
+obo:DOID_1703 Richter's syndrome
+obo:DOID_0050751 T-cell large granular lymphocyte leukemia
+obo:DOID_713 HCL-V
+obo:DOID_775 intraocular lymphoma
+obo:DOID_8628 Hodgkin's lymphoma, lymphocytic depletion
+obo:DOID_8654 Hodgkin's lymphoma, mixed cellularity
+obo:DOID_8838 Hodgkin's lymphoma, nodular sclerosis
+obo:DOID_0050744 anaplastic large cell lymphoma
+obo:DOID_707 B-cell lymphoma
+obo:DOID_0050743 mature T-cell and NK-cell lymphoma
+obo:DOID_5820 composite lymphoma
+obo:DOID_0050745 diffuse large B-cell lymphoma
+obo:DOID_0050747 lymphoplasmacytic lymphoma
+obo:DOID_0050746 mantle cell lymphoma
+obo:DOID_0050748 marginal zone B-cell lymphoma
+obo:DOID_706 mature B-cell neoplasm
+obo:DOID_0050750 splenic marginal zone lymphoma
+obo:DOID_8584 Burkitt lymphoma
+obo:DOID_6536 plasma cell neoplasm
+obo:DOID_7442 monoclonal gammopathy of uncertain significance
+obo:DOID_3721 plasmacytoma
+obo:DOID_3720 extramedullary plasmacytoma
+obo:DOID_0050749 peripheral T-cell lymphoma
+obo:DOID_0060061 cutaneous T cell lymphoma
+obo:DOID_8691 mycosis fungoides
+obo:DOID_8541 Sezary's disease
+obo:DOID_4976 elephantiasis
+obo:DOID_0050580 hereditary lymphedema
+obo:DOID_6376 hypersplenism
+obo:DOID_672 spleen cancer
+obo:DOID_2530 splenic abscess
+obo:DOID_2533 splenic infarction
+obo:DOID_11786 splenic sequestration
+obo:DOID_6307 ectopic thymus
+obo:DOID_7350 thymic dysplasia
+obo:DOID_417 autoimmune disease
+obo:DOID_2115 B cell deficiency
+obo:DOID_0111962 combined immunodeficiency
+obo:DOID_628 combined T cell and B cell immunodeficiency
+obo:DOID_626 complement deficiency
+obo:DOID_13777 epidermodysplasia verruciformis
+obo:DOID_3262 phagocyte bactericidal dysfunction
+obo:DOID_11200 T cell deficiency
+obo:DOID_986 alopecia areata
+obo:DOID_0060050 autoimmune disease of blood
+obo:DOID_0060051 autoimmune disease of cardiovascular system
+obo:DOID_0060029 autoimmune disease of exocrine system
+obo:DOID_0060049 autoimmune disease of urogenital tract
+obo:DOID_12177 common variable immunodeficiency
+obo:DOID_11042 Felty's syndrome
+obo:DOID_8857 lupus erythematosus
+obo:DOID_12029 sympathetic ophthalmia
+obo:DOID_12306 vitiligo
+obo:DOID_12297 Vogt-Koyanagi-Harada disease
+obo:DOID_718 autoimmune hemolytic anemia
+obo:DOID_8925 primary thrombocytopenia
+obo:DOID_8924 autoimmune thrombocytopenic purpura
+obo:DOID_8931 Evans' syndrome
+obo:DOID_2988 antiphospholipid syndrome
+obo:DOID_12894 Sjogren's syndrome
+obo:DOID_9808 Goodpasture syndrome
+obo:DOID_12236 primary biliary cirrhosis
+obo:DOID_2959 hyperimmunoglobulin syndrome
+obo:DOID_6025 selective immunoglobulin deficiency disease
+obo:DOID_3261 hyper IgE recurrent infection syndrome 1
+obo:DOID_0080545 hyper IgE syndrome
+obo:DOID_0080544 hyper IgM syndrome
+obo:DOID_6620 X-linked hyper IgM syndrome
+obo:DOID_11702 dysgammaglobulinemia
+obo:DOID_0060023 CD40 deficiency
+obo:DOID_0060022 CD40 ligand deficiency
+obo:DOID_0060028 Good syndrome
+obo:DOID_0060010 Omenn syndrome
+obo:DOID_627 severe combined immunodeficiency
+obo:DOID_5810 adenosine deaminase deficiency
+obo:DOID_0060006 artemis deficiency
+obo:DOID_0060016 CD3delta deficiency
+obo:DOID_0060017 CD3epsilon deficiency
+obo:DOID_0060014 CD45 deficiency
+obo:DOID_0060019 coronin-1A deficiency
+obo:DOID_0060009 MHC class I deficiency
+obo:DOID_5812 MHC class II deficiency
+obo:DOID_0060002 C1 inhibitor deficiency
+obo:DOID_8354 complement component 3 deficiency
+obo:DOID_8158 complement component 5 deficiency
+obo:DOID_0050419 complement factor I deficiency
+obo:DOID_611 leukocyte-adhesion deficiency syndrome
+obo:DOID_11198 DiGeorge syndrome
+obo:DOID_2012 Nezelof syndrome
+obo:DOID_613 T lymphocyte deficiency
+obo:DOID_421 hair disease
+obo:DOID_0060122 integumentary system cancer
+obo:DOID_4123 nail disease
+obo:DOID_3263 piebaldism
+obo:DOID_37 skin disease
+obo:DOID_4409 folliculitis
+obo:DOID_420 hypertrichosis
+obo:DOID_4535 hypotrichosis
+obo:DOID_1838 Menkes disease
+obo:DOID_4337 tinea capitis
+obo:DOID_987 alopecia
+obo:DOID_0050634 alopecia universalis
+obo:DOID_1943 telogen effluvium
+obo:DOID_0050468 yellow nail syndrome
+obo:DOID_12841 ancylostomiasis
+obo:DOID_1558 angioedema
+obo:DOID_0050693 Brooke-Spiegler syndrome
+obo:DOID_3488 cellulitis
+obo:DOID_11302 cercarial dermatitis
+obo:DOID_13778 chancroid
+obo:DOID_1856 cherubism
+obo:DOID_2058 chronic mucocutaneous candidiasis
+obo:DOID_8549 chronic ulcer of skin
+obo:DOID_8771 contagious pustular dermatitis
+obo:DOID_9111 cutaneous leishmaniasis
+obo:DOID_0050169 cutaneous lupus erythematosus
+obo:DOID_3144 cutis laxa
+obo:DOID_2723 dermatitis
+obo:DOID_2729 dyskeratosis congenita
+obo:DOID_4603 epidermolytic hyperkeratosis
+obo:DOID_0050185 erythema multiforme
+obo:DOID_0050486 exanthem
+obo:DOID_3134 facial dermatosis
+obo:DOID_3158 hand dermatosis
+obo:DOID_0050448 hereditary mucosal leukokeratosis
+obo:DOID_1697 ichthyosis
+obo:DOID_3156 incontinentia pigmenti achromians
+obo:DOID_161 keratosis
+obo:DOID_7365 Kimura disease
+obo:DOID_8574 lichen disease
+obo:DOID_811 lipodystrophy
+obo:DOID_3153 lipomatosis
+obo:DOID_13523 loiasis
+obo:DOID_4702 mongolian spot
+obo:DOID_3137 multiple symmetrical lipomatosis
+obo:DOID_1526 panniculitis
+obo:DOID_14049 phaeohyphomycosis
+obo:DOID_10123 pigmentation disease
+obo:DOID_0050639 primary cutaneous amyloidosis
+obo:DOID_2053 reactive cutaneous fibrous lesion
+obo:DOID_8881 rosacea
+obo:DOID_2732 Rothmund-Thomson syndrome
+obo:DOID_3136 scalp dermatosis
+obo:DOID_9098 sebaceous gland disease
+obo:DOID_2733 skin atrophy
+obo:DOID_4159 skin cancer
+obo:DOID_13402 skin sarcoidosis
+obo:DOID_0050426 Stevens-Johnson syndrome
+obo:DOID_1383 sweat gland disease
+obo:DOID_11917 tinea cruris
+obo:DOID_4336 tinea favosa
+obo:DOID_1555 urticaria
+obo:DOID_9540 vascular skin disease
+obo:DOID_2731 vesiculobullous skin disease
+obo:DOID_10371 yaws
+obo:DOID_14735 hereditary angioedema
+obo:DOID_4558 Ludwig's angina
+obo:DOID_8717 decubitus ulcer
+obo:DOID_4399 acneiform dermatitis
+obo:DOID_2722 acrodermatitis
+obo:DOID_3310 atopic dermatitis
+obo:DOID_2773 contact dermatitis
+obo:DOID_4400 dermatosis papulosa nigra
+obo:DOID_11330 erysipelas
+obo:DOID_3777 granuloma annulare
+obo:DOID_4397 granulomatous dermatitis
+obo:DOID_3309 neurodermatitis
+obo:DOID_9165 neurotic excoriation
+obo:DOID_3159 photosensitivity disease
+obo:DOID_3132 porphyria cutanea tarda
+obo:DOID_4398 pustulosis of palm and sole
+obo:DOID_4223 pyoderma
+obo:DOID_8741 seborrheic dermatitis
+obo:DOID_4406 spongiotic dermatitis
+obo:DOID_2772 irritant dermatitis
+obo:DOID_4404 occupational dermatitis
+obo:DOID_3818 photoallergic dermatitis
+obo:DOID_4407 phototoxic dermatitis
+obo:DOID_2176 carbuncle
+obo:DOID_12275 cutaneous diphtheria
+obo:DOID_8504 impetigo
+obo:DOID_8553 pyoderma gangrenosum
+obo:DOID_11907 ecthyma
+obo:DOID_8672 viral exanthem
+obo:DOID_8743 erythema infectiosum
+obo:DOID_0050606 acrokeratosis verruciformis
+obo:DOID_869 cholesteatoma
+obo:DOID_2734 keratosis follicularis
+obo:DOID_3390 palmoplantar keratosis
+obo:DOID_3805 porokeratosis
+obo:DOID_10964 cholesteatoma of middle ear
+obo:DOID_11433 middle ear cholesteatoma
+obo:DOID_0050428 nonepidermolytic palmoplantar keratoderma
+obo:DOID_8573 lichen nitidus
+obo:DOID_9201 lichen planus
+obo:DOID_0050585 congenital generalized lipodystrophy
+obo:DOID_0050440 familial partial lipodystrophy
+obo:DOID_3928 adiposis dolorosa
+obo:DOID_3923 diffuse lipomatosis
+obo:DOID_14116 multiple symmetric lipomatosis
+obo:DOID_3927 pelvic lipomatosis
+obo:DOID_1525 nodular nonsuppurative panniculitis
+obo:DOID_3138 acanthosis nigricans
+obo:DOID_12305 Bloch-Sulzberger syndrome
+obo:DOID_2383 neonatal jaundice
+obo:DOID_6873 skin tag
+obo:DOID_6543 acne
+obo:DOID_9905 follicular mucinosis
+obo:DOID_5042 malignant granular cell myoblastoma
+obo:DOID_4840 sebaceous carcinoma
+obo:DOID_3451 skin carcinoma
+obo:DOID_8923 skin melanoma
+obo:DOID_2687 skin sarcoma
+obo:DOID_5590 aggressive digital papillary adenocarcinoma
+obo:DOID_2513 basal cell carcinoma
+obo:DOID_4683 cutaneous mucoepidermoid carcinoma
+obo:DOID_3965 Merkel cell carcinoma
+obo:DOID_5376 skin pilomatrix carcinoma
+obo:DOID_3151 skin squamous cell carcinoma
+obo:DOID_4294 adenoid basal cell carcinoma
+obo:DOID_5063 basosquamous carcinoma
+obo:DOID_4299 infiltrative basal cell carcinoma
+obo:DOID_4279 infundibulocystic basal cell carcinoma
+obo:DOID_4280 nodular basal cell carcinoma
+obo:DOID_4300 superficial basal cell carcinoma
+obo:DOID_3149 keratoacanthoma
+obo:DOID_6367 acral lentiginous melanoma
+obo:DOID_10047 nodular malignant melanoma
+obo:DOID_5273 cutaneous leiomyosarcoma
+obo:DOID_11156 anhidrosis
+obo:DOID_9230 dyshidrosis
+obo:DOID_1381 Fox-Fordyce disease
+obo:DOID_2282 hidradenitis
+obo:DOID_11155 hypohidrosis
+obo:DOID_1382 miliaria
+obo:DOID_2095 sweat gland cancer
+obo:DOID_2280 hidradenitis suppurativa
+obo:DOID_11153 miliaria rubra
+obo:DOID_4934 apocrine sweat gland cancer
+obo:DOID_4921 eccrine sweat gland cancer
+obo:DOID_5667 sweat gland carcinoma
+obo:DOID_4933 apocrine adenocarcinoma
+obo:DOID_4920 eccrine adenocarcinoma
+obo:DOID_7566 eccrine porocarcinoma
+obo:DOID_7960 malignant spiradenoma
+obo:DOID_5569 malignant syringoma
+obo:DOID_0060220 physical urticaria
+obo:DOID_14443 cholinergic urticaria
+obo:DOID_743 dermatographia
+obo:DOID_2730 epidermolysis bullosa
+obo:DOID_14482 herpes gestationis
+obo:DOID_4959 epidermolysis bullosa dystrophica
+obo:DOID_4644 epidermolysis bullosa simplex
+obo:DOID_3209 junctional epidermolysis bullosa
+obo:DOID_0060032 autoimmune disease of musculoskeletal system
+obo:DOID_65 connective tissue disease
+obo:DOID_0080000 muscular disease
+obo:DOID_0060100 musculoskeletal system cancer
+obo:DOID_440 neuromuscular disease
+obo:DOID_7147 ankylosing spondylitis
+obo:DOID_11656 cicatricial pemphigoid
+obo:DOID_9182 pemphigus
+obo:DOID_6196 reactive arthritis
+obo:DOID_7148 rheumatoid arthritis
+obo:DOID_0050429 Hailey-Hailey disease
+obo:DOID_676 juvenile rheumatoid arthritis
+obo:DOID_0050645 arterial tortuosity syndrome
+obo:DOID_0060039 autoimmune disease of skin and connective tissue
+obo:DOID_0080001 bone disease
+obo:DOID_8502 bullous skin disease
+obo:DOID_1222 cartilage disease
+obo:DOID_854 collagen disease
+obo:DOID_204 enthesopathy
+obo:DOID_9598 fasciitis
+obo:DOID_14188 frozen shoulder
+obo:DOID_0050698 funisitis
+obo:DOID_9857 interstitial keratitis
+obo:DOID_3082 interstitial lung disease
+obo:DOID_819 mediastinitis
+obo:DOID_3141 mucinoses
+obo:DOID_14223 ochronosis
+obo:DOID_9957 periostitis
+obo:DOID_2738 pseudoxanthoma elasticum
+obo:DOID_1575 rheumatic disease
+obo:DOID_2703 synovitis
+obo:DOID_9074 systemic lupus erythematosus
+obo:DOID_4313 epidermolysis bullosa acquisita
+obo:DOID_8893 psoriasis
+obo:DOID_9088 parapsoriasis
+obo:DOID_8892 pityriasis rosea
+obo:DOID_9212 pityriasis rubra pilaris
+obo:DOID_381 arthropathy
+obo:DOID_0060094 bone benign neoplasm
+obo:DOID_184 bone cancer
+obo:DOID_0080006 bone development disease
+obo:DOID_3342 bone inflammation disease
+obo:DOID_0080005 bone remodeling disease
+obo:DOID_13357 chondromalacia patellae
+obo:DOID_3265 chronic granulomatous disease
+obo:DOID_0080008 ischemic bone disease
+obo:DOID_12662 paracoccidioidomycosis
+obo:DOID_0060564 spinal disease
+obo:DOID_9146 visceral leishmaniasis
+obo:DOID_227 ankylosis
+obo:DOID_6227 articular cartilage disease
+obo:DOID_2965 bursitis
+obo:DOID_14107 De Quervain disease
+obo:DOID_801 hemarthrosis
+obo:DOID_528 hydrarthrosis
+obo:DOID_13781 hypermobility syndrome
+obo:DOID_14284 patellofemoral pain syndrome
+obo:DOID_10393 secondary hypertrophic osteoarthropathy
+obo:DOID_14276 shoulder impingement syndrome
+obo:DOID_1123 spondyloarthropathy
+obo:DOID_2092 transient arthritis
+obo:DOID_9898 villonodular synovitis
+obo:DOID_2557 chondromalacia
+obo:DOID_2964 periarthritis
+obo:DOID_12223 specific bursitis often of occupational origin
+obo:DOID_12581 olecranon bursitis
+obo:DOID_6590 spondylitis
+obo:DOID_200 giant cell tumor
+obo:DOID_7017 lumbosacral lipoma
+obo:DOID_166 melanotic neuroectodermal tumor
+obo:DOID_180 ossifying fibroma
+obo:DOID_0060098 osteoblastoma
+obo:DOID_4305 bone giant cell tumor
+obo:DOID_2705 malignant giant cell tumor
+obo:DOID_314 tenosynovial giant cell tumor
+obo:DOID_1866 giant cell reparative granuloma
+obo:DOID_2776 adamantinoma
+obo:DOID_6759 bone lymphoma
+obo:DOID_0080639 bone sarcoma
+obo:DOID_1862 jaw cancer
+obo:DOID_3303 notochordal cancer
+obo:DOID_3347 osteosarcoma
+obo:DOID_3369 peripheral primitive neuroectodermal tumor
+obo:DOID_1863 skull cancer
+obo:DOID_2775 long bone adamantinoma
+obo:DOID_3371 chondrosarcoma
+obo:DOID_4549 extraosseous chondrosarcoma
+obo:DOID_4545 mesenchymal chondrosarcoma
+obo:DOID_5861 myxoid chondrosarcoma
+obo:DOID_4548 extraskeletal mesenchymal chondrosarcoma
+obo:DOID_6496 extraskeletal myxoid chondrosarcoma
+obo:DOID_2338 mandibular cancer
+obo:DOID_3302 chordoma
+obo:DOID_4152 chondroid chordoma
+obo:DOID_4151 skull base chordoma
+obo:DOID_4153 spinal chordoma
+obo:DOID_3376 bone osteosarcoma
+obo:DOID_3357 extraosseous osteosarcoma
+obo:DOID_3354 fibrosarcoma of bone
+obo:DOID_3356 localized osteosarcoma
+obo:DOID_3361 pediatric osteosarcoma
+obo:DOID_3378 conventional central osteosarcoma
+obo:DOID_3374 peripheral osteosarcoma
+obo:DOID_7603 fibrosarcomatous osteosarcoma
+obo:DOID_3377 small cell osteogenic sarcoma
+obo:DOID_6951 telangiectatic osteogenic sarcoma
+obo:DOID_3373 juxtacortical osteosarcoma
+obo:DOID_0050608 Askin's tumor
+obo:DOID_4232 extraosseous Ewing sarcoma
+obo:DOID_3842 skull base neoplasm
+obo:DOID_3643 sella turcica neoplasm
+obo:DOID_4437 skull base meningioma
+obo:DOID_7713 tuberculum sellae meningioma
+obo:DOID_4708 foramen magnum meningioma
+obo:DOID_7818 petroclival meningioma
+obo:DOID_0050592 asphyxiating thoracic dystrophy
+obo:DOID_11836 clubfoot
+obo:DOID_1934 dysostosis
+obo:DOID_2256 osteochondrodysplasia
+obo:DOID_14669 acrodysostosis
+obo:DOID_0050581 brachydactyly
+obo:DOID_0050568 spondylocostal dysostosis
+obo:DOID_11971 synostosis
+obo:DOID_12960 acrocephalosyndactylia
+obo:DOID_0050654 Baller-Gerold syndrome
+obo:DOID_14762 calcaneonavicular coalition
+obo:DOID_2340 craniosynostosis
+obo:DOID_11193 syndactyly
+obo:DOID_14761 Greig cephalopolysyndactyly syndrome
+obo:DOID_14705 Pfeiffer syndrome
+obo:DOID_14768 Saethre-Chotzen syndrome
+obo:DOID_2339 Crouzon syndrome
+obo:DOID_0080043 achondrogenesis
+obo:DOID_4480 achondroplasia
+obo:DOID_0050604 acrocapitofemoral dysplasia
+obo:DOID_0080049 acromesomelic dysplasia
+obo:DOID_0050648 atelosteogenesis
+obo:DOID_0050680 Boomerang dysplasia
+obo:DOID_0050690 brachyolmia
+obo:DOID_0050463 campomelic dysplasia
+obo:DOID_0080044 hypochondrogenesis
+obo:DOID_0080041 hypochondroplasia
+obo:DOID_0080045 Kniest dysplasia
+obo:DOID_0080019 metaphyseal dysplasia
+obo:DOID_12721 multiple epiphyseal dysplasia
+obo:DOID_12347 osteogenesis imperfecta
+obo:DOID_0080026 otospondylomegaepiphyseal dysplasia
+obo:DOID_0080047 pseudoachondroplasia
+obo:DOID_0050775 schneckenbecken dysplasia
+obo:DOID_0080027 spondyloepimetaphyseal dysplasia
+obo:DOID_13481 thanatophoric dysplasia
+obo:DOID_0080056 achondrogenesis type II
+obo:DOID_0080050 acromesomelic dysplasia, Maroteaux type
+obo:DOID_0080020 Jansen's metaphyseal chondrodysplasia
+obo:DOID_0080021 Schmid metaphyseal chondrodysplasia
+obo:DOID_0050640 anauxetic dysplasia
+obo:DOID_5684 spondyloepimetaphyseal dysplasia, Sponastrime type
+obo:DOID_0080028 spondyloepimetaphyseal dysplasia, Strudwick type
+obo:DOID_848 arthritis
+obo:DOID_4257 Caffey disease
+obo:DOID_14087 epicondylitis
+obo:DOID_7489 Osgood-Schlatter's disease
+obo:DOID_14256 adult-onset Still's disease
+obo:DOID_1156 chondrocalcinosis
+obo:DOID_13189 gout
+obo:DOID_8398 osteoarthritis
+obo:DOID_9008 psoriatic arthritis
+obo:DOID_813 septic arthritis
+obo:DOID_0080011 bone resorption disease
+obo:DOID_0080031 fibrous dysplasia
+obo:DOID_205 hyperostosis
+obo:DOID_10573 osteomalacia
+obo:DOID_4254 osteosclerosis
+obo:DOID_10609 rickets
+obo:DOID_3341 osteitis fibrosa
+obo:DOID_11476 osteoporosis
+obo:DOID_12559 idiopathic juvenile osteoporosis
+obo:DOID_203 exostosis
+obo:DOID_210 heel spur
+obo:DOID_206 hereditary multiple exostoses
+obo:DOID_0080032 craniodiaphyseal dysplasia
+obo:DOID_0080033 craniometaphyseal dysplasia
+obo:DOID_4253 melorheostosis
+obo:DOID_13533 osteopetrosis
+obo:DOID_11991 osteopoikilosis
+obo:DOID_0080018 dysbaric osteonecrosis
+obo:DOID_84 osteochondritis dissecans
+obo:DOID_8125 osteochondrosis
+obo:DOID_10159 osteonecrosis
+obo:DOID_14415 Legg-Calve-Perthes Disease
+obo:DOID_13300 Scheuermann's disease
+obo:DOID_0080010 bone structure disease
+obo:DOID_6652 diffuse idiopathic skeletal hyperostosis
+obo:DOID_10426 Klippel-Feil syndrome
+obo:DOID_5408 Paget's disease of bone
+obo:DOID_0080007 bone deterioration disease
+obo:DOID_6682 spondylolisthesis
+obo:DOID_2300 spondylolysis
+obo:DOID_2247 spondylosis
+obo:DOID_90 degenerative disc disease
+obo:DOID_6725 spinal stenosis
+obo:DOID_8506 bullous pemphigoid
+obo:DOID_8505 dermatitis herpetiformis
+obo:DOID_8508 subcorneal pustular dermatosis
+obo:DOID_10986 discitis
+obo:DOID_2556 relapsing polychondritis
+obo:DOID_14021 Tietze's syndrome
+obo:DOID_13359 Ehlers-Danlos syndrome
+obo:DOID_3492 mixed connective tissue disease
+obo:DOID_419 scleroderma
+obo:DOID_14775 type VI Ehlers-Danlos syndrome
+obo:DOID_8472 localized scleroderma
+obo:DOID_418 systemic scleroderma
+obo:DOID_1580 diffuse scleroderma
+obo:DOID_1577 limited scleroderma
+obo:DOID_1578 pulmonary systemic sclerosis
+obo:DOID_9602 necrotizing fasciitis
+obo:DOID_9600 plantar fasciitis
+obo:DOID_9599 proliferative fasciitis
+obo:DOID_7327 pseudosarcomatous fibromatosis
+obo:DOID_9603 intravascular fasciitis
+obo:DOID_10316 pneumoconiosis
+obo:DOID_3770 pulmonary fibrosis
+obo:DOID_13406 pulmonary sarcoidosis
+obo:DOID_10327 anthracosis
+obo:DOID_10320 asbestosis
+obo:DOID_10323 byssinosis
+obo:DOID_10328 siderosis
+obo:DOID_10325 silicosis
+obo:DOID_0050156 idiopathic pulmonary fibrosis
+obo:DOID_817 interstitial myocarditis
+obo:DOID_2702 pigmented villonodular synovitis
+obo:DOID_10079 cysticercosis
+obo:DOID_10481 diaphragm disease
+obo:DOID_10882 epidemic pleurodynia
+obo:DOID_9159 gas gangrene
+obo:DOID_461 muscle benign neoplasm
+obo:DOID_4045 muscle cancer
+obo:DOID_66 muscle tissue disease
+obo:DOID_9790 toxocariasis
+obo:DOID_10480 diaphragmatic eventration
+obo:DOID_5039 myoblastoma
+obo:DOID_2691 myoma
+obo:DOID_4044 skeletal muscle neoplasm
+obo:DOID_4310 smooth muscle tumor
+obo:DOID_4043 skeletal muscle cancer
+obo:DOID_4230 smooth muscle cancer
+obo:DOID_4239 alveolar soft part sarcoma
+obo:DOID_3247 rhabdomyosarcoma
+obo:DOID_4051 alveolar rhabdomyosarcoma
+obo:DOID_3246 embryonal rhabdomyosarcoma
+obo:DOID_3260 spindle cell rhabdomyosarcoma
+obo:DOID_1967 leiomyosarcoma
+obo:DOID_5264 epithelioid leiomyosarcoma
+obo:DOID_5268 myxoid leiomyosarcoma
+obo:DOID_0050646 distal arthrogryposis
+obo:DOID_8545 malignant hyperthermia
+obo:DOID_423 myopathy
+obo:DOID_14717 centronuclear myopathy
+obo:DOID_422 congenital structural myopathy
+obo:DOID_699 mitochondrial myopathy
+obo:DOID_767 muscular atrophy
+obo:DOID_9884 muscular dystrophy
+obo:DOID_431 myofascial pain syndrome
+obo:DOID_633 myositis
+obo:DOID_853 polymyalgia rheumatica
+obo:DOID_3529 central core myopathy
+obo:DOID_3191 nemaline myopathy
+obo:DOID_12558 chronic progressive external ophthalmoplegia
+obo:DOID_890 mitochondrial encephalomyopathy
+obo:DOID_12934 Kearns-Sayre syndrome
+obo:DOID_3687 MELAS syndrome
+obo:DOID_310 MERRF syndrome
+obo:DOID_9883 Becker muscular dystrophy
+obo:DOID_11720 distal myopathy
+obo:DOID_11726 Emery-Dreifuss muscular dystrophy
+obo:DOID_11727 facioscapulohumeral muscular dystrophy
+obo:DOID_11724 limb-girdle muscular dystrophy
+obo:DOID_450 myotonic disease
+obo:DOID_11722 myotonic dystrophy type 1
+obo:DOID_0050759 myotonic dystrophy type 2
+obo:DOID_10223 dermatomyositis
+obo:DOID_631 fibromyalgia
+obo:DOID_3429 inclusion body myositis
+obo:DOID_9788 myositis fibrosa
+obo:DOID_668 myositis ossificans
+obo:DOID_876 pyomyositis
+obo:DOID_971 tendinitis
+obo:DOID_14202 adult dermatomyositis
+obo:DOID_14203 childhood type dermatomyositis
+obo:DOID_14181 calcific tendinitis
+obo:DOID_10471 patellar tendinitis
+obo:DOID_970 tenosynovitis
+obo:DOID_201 connective tissue cancer
+obo:DOID_3355 fibrosarcoma
+obo:DOID_264 hemangiopericytoma
+obo:DOID_4231 histiocytoma
+obo:DOID_8632 Kaposi's sarcoma
+obo:DOID_3939 lipomatous cancer
+obo:DOID_2668 mesenchymoma
+obo:DOID_4136 myxosarcoma
+obo:DOID_5158 pleural cancer
+obo:DOID_2706 synovium cancer
+obo:DOID_3516 adult fibrosarcoma
+obo:DOID_3517 conventional fibrosarcoma
+obo:DOID_3507 dermatofibrosarcoma protuberans
+obo:DOID_3520 pediatric fibrosarcoma
+obo:DOID_4415 fibrous histiocytoma
+obo:DOID_1907 malignant fibrous histiocytoma
+obo:DOID_6192 inflammatory MFH
+obo:DOID_3352 malignant fibrous histiocytoma of bone
+obo:DOID_3382 liposarcoma
+obo:DOID_5690 atypical lipomatous tumor
+obo:DOID_5692 cellular myxoid liposarcoma
+obo:DOID_5703 mixed liposarcoma
+obo:DOID_5709 mixed-type liposarcoma
+obo:DOID_5363 myxoid liposarcoma
+obo:DOID_5702 pleomorphic liposarcoma
+obo:DOID_5705 spindle cell Liposarcoma
+obo:DOID_5758 malignant mesenchymoma
+obo:DOID_5485 synovial sarcoma
+obo:DOID_5492 biphasic synovial sarcoma
+obo:DOID_5495 monophasic synovial sarcoma
+obo:DOID_5487 spindle cell synovial sarcoma
+obo:DOID_481 central nervous system hereditary degenerative disease
+obo:DOID_913 atrophic muscular disease
+obo:DOID_0050692 Brody myopathy
+obo:DOID_10595 Charcot-Marie-Tooth disease
+obo:DOID_439 neuromuscular junction disease
+obo:DOID_13839 extrapyramidal and movement disease
+obo:DOID_0050538 Charcot-Marie-Tooth disease type 1
+obo:DOID_0050539 Charcot-Marie-Tooth disease type 2
+obo:DOID_0050214 Lambert-Eaton myasthenic syndrome
+obo:DOID_438 autoimmune disease of the nervous system
+obo:DOID_331 central nervous system disease
+obo:DOID_8536 herpes zoster
+obo:DOID_12697 locked-in syndrome
+obo:DOID_3093 nervous system cancer
+obo:DOID_14464 neuroleptic malignant syndrome
+obo:DOID_870 neuropathy
+obo:DOID_574 peripheral nervous system disease
+obo:DOID_0050155 sensory system disease
+obo:DOID_3602 toxic encephalopathy
+obo:DOID_0060004 autoimmune disease of central nervous system
+obo:DOID_437 myasthenia gravis
+obo:DOID_14043 neonatal myasthenia gravis
+obo:DOID_936 brain disease
+obo:DOID_0060090 central nervous system organ benign neoplasm
+obo:DOID_640 encephalomyelitis
+obo:DOID_11387 epidural abscess
+obo:DOID_10969 hemiplegia
+obo:DOID_3230 high pressure neurological syndrome
+obo:DOID_10095 intracranial abscess
+obo:DOID_9471 meningitis
+obo:DOID_10554 meningoencephalitis
+obo:DOID_322 myelitis
+obo:DOID_1289 neurodegenerative disease
+obo:DOID_8117 neuronitis
+obo:DOID_607 paraplegia
+obo:DOID_0050242 primary amebic meningoencephalitis
+obo:DOID_12835 quadriplegia
+obo:DOID_0050425 restless legs syndrome
+obo:DOID_319 spinal cord disease
+obo:DOID_11389 subdural empyema
+obo:DOID_4267 akinetic mutism
+obo:DOID_679 basal ganglia disease
+obo:DOID_0060101 benign glioma
+obo:DOID_1319 brain cancer
+obo:DOID_11457 brain compression
+obo:DOID_4724 brain edema
+obo:DOID_2479 central nervous system origin vertigo
+obo:DOID_2786 cerebellar disease
+obo:DOID_1443 cerebral degeneration
+obo:DOID_1969 cerebral palsy
+obo:DOID_3431 cerebritis
+obo:DOID_6713 cerebrovascular disease
+obo:DOID_9588 encephalitis
+obo:DOID_2034 encephalomalacia
+obo:DOID_1826 epilepsy
+obo:DOID_9255 frontotemporal dementia
+obo:DOID_13413 hepatic encephalopathy
+obo:DOID_1931 hypothalamic disease
+obo:DOID_9428 intracranial hypertension
+obo:DOID_4723 intracranial hypotension
+obo:DOID_2382 kernicterus
+obo:DOID_0050118 La Crosse encephalitis
+obo:DOID_12155 lymphocytic choriomeningitis
+obo:DOID_6364 migraine
+obo:DOID_480 movement disease
+obo:DOID_13722 neuroschistosomiasis
+obo:DOID_649 prion disease
+obo:DOID_12680 pseudobulbar palsy
+obo:DOID_2384 Wernicke encephalopathy
+obo:DOID_0050659 biotin-responsive basal ganglia disease
+obo:DOID_4844 benign ependymoma
+obo:DOID_5500 cellular ependymoma
+obo:DOID_5507 clear cell ependymoma
+obo:DOID_5075 myxopapillary ependymoma
+obo:DOID_5505 papillary ependymoma
+obo:DOID_4843 subependymal glioma
+obo:DOID_5504 tanycytic ependymoma
+obo:DOID_5077 subependymal giant cell astrocytoma
+obo:DOID_2129 atypical teratoid rhabdoid tumor
+obo:DOID_0060108 brain glioma
+obo:DOID_6128 gliomatosis cerebri
+obo:DOID_4706 infratentorial cancer
+obo:DOID_1659 supratentorial cancer
+obo:DOID_7497 brain ependymoma
+obo:DOID_3073 brain glioblastoma multiforme
+obo:DOID_4992 optic nerve glioma
+obo:DOID_4203 brain stem cancer
+obo:DOID_0050902 medulloblastoma
+obo:DOID_3200 cerebellopontine angle tumor
+obo:DOID_3864 adult medulloblastoma
+obo:DOID_3869 childhood medulloblastoma
+obo:DOID_3857 large cell medulloblastoma
+obo:DOID_3861 medullomyoblastoma
+obo:DOID_368 cerebrum cancer
+obo:DOID_3843 diencephalic neoplasm
+obo:DOID_4791 supratentorial primitive neuroectodermal tumor
+obo:DOID_5815 cerebral lymphoma
+obo:DOID_6112 cerebral meningioma
+obo:DOID_7398 cerebral primitive neuroectodermal tumor
+obo:DOID_3541 cerebral ventricle cancer
+obo:DOID_3644 hypothalamic neoplasm
+obo:DOID_14174 central neurocytoma
+obo:DOID_3540 choroid plexus cancer
+obo:DOID_5648 choroid plexus carcinoma
+obo:DOID_0050753 cerebellar ataxia
+obo:DOID_4205 cerebellum cancer
+obo:DOID_2785 Dandy-Walker syndrome
+obo:DOID_0050574 L-2-hydroxyglutaric aciduria
+obo:DOID_6458 cerebellar liponeurocytoma
+obo:DOID_0060104 cerebellar medulloblastoma
+obo:DOID_1442 Alpers syndrome
+obo:DOID_10742 cerebral lipidosis
+obo:DOID_10579 leukodystrophy
+obo:DOID_2367 neuroaxonal dystrophy
+obo:DOID_13945 CADASIL
+obo:DOID_0060786 hypomyelinating leukodystrophy
+obo:DOID_0050670 ataxic cerebral palsy
+obo:DOID_0050672 dyskinetic cerebral palsy
+obo:DOID_0050669 spastic cerebral palsy
+obo:DOID_10965 spastic diplegia
+obo:DOID_10967 spastic hemiplegia
+obo:DOID_10970 spastic quadriplegia
+obo:DOID_3454 brain infarction
+obo:DOID_11390 cerebral arteritis
+obo:DOID_10127 cerebral artery occlusion
+obo:DOID_13089 intracranial arterial disease
+obo:DOID_4372 intracranial embolism
+obo:DOID_4193 intracranial thrombosis
+obo:DOID_13100 intracranial vasospasm
+obo:DOID_5976 occlusion precerebral artery
+obo:DOID_11459 pseudotumor cerebri
+obo:DOID_3523 brain stem infarction
+obo:DOID_3526 cerebral infarction
+obo:DOID_3522 lateral medullary syndrome
+obo:DOID_3525 middle cerebral artery infarction
+obo:DOID_3410 carotid artery thrombosis
+obo:DOID_3572 intracranial sinus thrombosis
+obo:DOID_3575 cavernous sinus thrombosis
+obo:DOID_3574 lateral sinus thrombosis
+obo:DOID_3576 sagittal sinus thrombosis
+obo:DOID_11299 vertebral artery occlusion
+obo:DOID_5222 acute necrotizing encephalitis
+obo:DOID_646 viral encephalitis
+obo:DOID_13088 periventricular leukomalacia
+obo:DOID_0050701 electroclinical syndrome
+obo:DOID_2544 extratemporal epilepsy
+obo:DOID_2234 focal epilepsy
+obo:DOID_1827 idiopathic generalized epilepsy
+obo:DOID_11832 visual epilepsy
+obo:DOID_0070309 absence epilepsy
+obo:DOID_0050703 infancy electroclinical syndrome
+obo:DOID_0050702 neonatal period electroclinical syndrome
+obo:DOID_0050706 variable age at onset electroclinical syndrome
+obo:DOID_0050705 adolescence-adult electroclinical syndrome
+obo:DOID_0050704 childhood electroclinical syndrome
+obo:DOID_7725 epilepsy with generalized tonic-clonic seizures
+obo:DOID_0060172 juvenile absence epilepsy
+obo:DOID_4890 juvenile myoclonic epilepsy
+obo:DOID_3329 benign epilepsy with centrotemporal spikes
+obo:DOID_1825 childhood absence epilepsy
+obo:DOID_0050708 early onset absence epilepsy
+obo:DOID_2538 Landau-Kleffner syndrome
+obo:DOID_0050561 Lennox-Gastaut syndrome
+obo:DOID_0060169 benign familial infantile epilepsy
+obo:DOID_0060171 Dravet Syndrome
+obo:DOID_14777 benign familial neonatal epilepsy
+obo:DOID_14264 benign neonatal seizures
+obo:DOID_308 early myoclonic encephalopathy
+obo:DOID_0050709 Ohtahara syndrome
+obo:DOID_0080422 Dravet syndrome
+obo:DOID_891 progressive myoclonus epilepsy
+obo:DOID_3534 Lafora disease
+obo:DOID_3535 Unverricht-Lundborg syndrome
+obo:DOID_12382 complex partial epilepsy
+obo:DOID_0060170 generalized epilepsy with febrile seizures plus
+obo:DOID_12550 hepatic coma
+obo:DOID_10908 hydrocephalus
+obo:DOID_9427 hypertensive encephalopathy
+obo:DOID_1573 communicating hydrocephalus
+obo:DOID_14159 obstructive hydrocephalus
+obo:DOID_1572 normal pressure hydrocephalus
+obo:DOID_10024 migraine with aura
+obo:DOID_12783 migraine without aura
+obo:DOID_0060178 familial hemiplegic migraine
+obo:DOID_543 dystonia
+obo:DOID_4990 essential tremor
+obo:DOID_9854 lingual-facial-buccal dyskinesia
+obo:DOID_678 progressive supranuclear palsy
+obo:DOID_13366 Stiff-Person syndrome
+obo:DOID_0050836 focal dystonia
+obo:DOID_529 blepharospasm
+obo:DOID_0050845 cranio-facial dystonia
+obo:DOID_3982 Meige syndrome
+obo:DOID_3530 chronic wasting disease
+obo:DOID_11949 Creutzfeldt-Jakob disease
+obo:DOID_0050433 fatal familial insomnia
+obo:DOID_4249 Gerstmann-Straussler-Scheinker syndrome
+obo:DOID_648 kuru
+obo:DOID_5434 scrapie
+obo:DOID_5435 variant Creutzfeldt-Jakob disease
+obo:DOID_4587 benign meningioma
+obo:DOID_3840 craniopharyngioma
+obo:DOID_2679 dysembryoplastic neuroepithelial tumor

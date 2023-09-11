@@ -1,0 +1,144 @@
+{
+	"baseURL": "https://fnord.com/bae",
+	"message":
+	{
+		"message": "Comprehensive config",
+		"style": "warning",
+		"show": true
+	},
+	"database":
+	{
+		"host": null,
+		"port": 0,
+		"name": "bae"
+	},
+	"modules":
+	{
+		"pubchem": 
+		{
+			"assays": true,
+			"compounds": true,
+			"directory": "assays"
+		},
+		"vault": 
+		{
+			"vaultIDList": [1234],
+			"apiKey": "NOYB=",
+			"propertyMap":
+			{
+				"field": "http://www.bioassayontology.org/bao#BAX_0000015",
+				"units": "http://www.bioassayontology.org/bao#BAO_0002874",
+				"operator": "http://www.bioassayontology.org/bao#BAX_0000016",
+				"threshold": "http://www.bioassayontology.org/bao#BAO_0002916"
+			},
+			"unitsMap":
+			{
+				"M": "http://purl.obolibrary.org/obo/UO_0000062",
+				"mM": "http://purl.obolibrary.org/obo/UO_0000063",
+				"uM": "http://purl.obolibrary.org/obo/UO_0000064",
+				"nM": "http://purl.obolibrary.org/obo/UO_0000065",
+				"pM": "http://purl.obolibrary.org/obo/UO_0000066",
+				"logM": "http://www.bioassayontology.org/bao#BAO_0000101",
+				"perM": "http://www.bioassayontology.org/bao#BAO_0000102",
+				"%": "http://purl.obolibrary.org/obo/UO_0000187"
+			},
+			"operatorMap":
+			{
+				"=": "http://purl.obolibrary.org/obo/GENEPIO_0001004",
+                ">": "http://purl.obolibrary.org/obo/GENEPIO_0001006",
+                "<": "http://purl.obolibrary.org/obo/GENEPIO_0001002",
+                ">=": "http://purl.obolibrary.org/obo/GENEPIO_0001005",
+                "<=": "http://purl.obolibrary.org/obo/GENEPIO_0001003"
+			}
+		}
+		
+	},
+	"authentication":
+	{
+		"filename": "authentication.json"
+	},
+	"identifier":
+	{
+		"filename": "identifier.json"
+	},
+	"schema":
+	{
+		"filename": "vocab.dump.gz",
+		"updateURL": "file:///opt/bae/build/"
+	},
+	"templates":
+	{
+		"directory": "template",
+		"files": 
+		[
+			"schema.json"
+		],
+		"updateURLs": 
+		[
+			"file:///Users/aclark/cdd/bax/data/template/",
+			"file:///Users/aclark/cdd/custom/ucsf/",
+			"file:///Users/aclark/cdd/custom/azat/"
+		]
+	},
+	"ontologies":
+	{
+		"directory": "ontology"
+	},
+	"nlp":
+	{
+		"directory": "nlp"
+	},
+	"curation":
+	{
+		"directory": "curation"
+	},
+	"customWeb":
+	{
+		"directory": "custom"
+	},
+	"transliterate":
+	{
+		"directory": "transliterate",
+		"files": ["transliterate_cat.json"]
+	},
+	"forms":
+	{
+		"directory": "forms",
+		"files": ["forms_cat.json"]
+	},
+	"provisional": 
+	{
+		"baseURI": "http://www.bioassayexpress.com/bao_provisional#PROV_",
+		"abbreviations":
+		{
+			"az": "http://rdf.fnord.com/bae#"
+		},
+		"directory": "ontology"
+	},
+	"ontolobridge":
+	[
+		{
+			"name": "OntoloBridge Test",
+			"description": "Requests will go nowhere",
+			"baseURL": "http://dev3.ccs.miami.edu:8080/ontolobridge-test"
+		},
+		{
+			"name": "University of Miami",
+			"description": "BioAssay Ontology and Drug Target Ontology",
+			"baseURL": "http://dev3.ccs.miami.edu:8080/ontolobridge"
+		}
+	],
+	"axioms":
+	{
+		"directory": "axioms"
+	},
+	"pages":
+	{
+		"randomAssay": false,
+		"schemaReport": true,
+		"schemaTemplates": true,
+		"absenceReport": true,
+		"contentSummary": true,
+		"sourceReport": false
+	}	
+}

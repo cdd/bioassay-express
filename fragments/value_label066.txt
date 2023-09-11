@@ -1,0 +1,5000 @@
+obo:PR_D3ZVP7-1 zinc finger FYVE domain-containing protein 21 isoform 1 (rat)
+obo:PR_Q5DU37 zinc finger FYVE domain-containing protein 26 (mouse)
+obo:PR_D4A8G9 zinc finger FYVE domain-containing protein 26 (rat)
+obo:PR_Q5DU37-1 zinc finger FYVE domain-containing protein 26 isoform m1 (mouse)
+obo:PR_Q5DU37-2 zinc finger FYVE domain-containing protein 26 isoform m2 (mouse)
+obo:PR_Q5DU37-3 zinc finger FYVE domain-containing protein 26 isoform m3 (mouse)
+obo:PR_Q9FHW2 SWR1 complex subunit 6 (Arabidopsis thaliana)
+obo:PR_Q8R331 zinc finger HIT domain-containing protein 1 (mouse)
+obo:PR_Q9UHR6 zinc finger HIT domain-containing protein 2 (human)
+obo:PR_Q9QY66 zinc finger HIT domain-containing protein 2 (mouse)
+obo:PR_Q15649 zinc finger HIT domain-containing protein 3 (human)
+obo:PR_Q9CQK1 zinc finger HIT domain-containing protein 3 (mouse)
+obo:PR_Q15649-1 zinc finger HIT domain-containing protein 3 isoform h1 (human)
+obo:PR_Q15649-2 zinc finger HIT domain-containing protein 3 isoform h2 (human)
+obo:PR_Q9C0A1 zinc finger homeobox protein 2 (human)
+obo:PR_Q9C0A1-1 zinc finger homeobox protein 2 isoform h1 (human)
+obo:PR_Q9C0A1-2 zinc finger homeobox protein 2 isoform h2 (human)
+obo:PR_000035495 zinc finger homeobox protein 3 isoform 1
+obo:PR_000035497 zinc finger homeobox protein 3 isoform 2
+obo:PR_Q15911-1 zinc finger homeobox protein 3 isoform 1 (human)
+obo:PR_Q15911-2 zinc finger homeobox protein 3 isoform 2 (human)
+obo:PR_Q86UP3 zinc finger homeobox protein 4 (human)
+obo:PR_Q9JJN2 zinc finger homeobox protein 4 (mouse)
+obo:PR_Q86UP3-1 zinc finger homeobox protein 4 isoform h1 (human)
+obo:PR_Q86UP3-2 zinc finger homeobox protein 4 isoform h2 (human)
+obo:PR_Q86UP3-3 zinc finger homeobox protein 4 isoform h3 (human)
+obo:PR_Q86UP3-4 zinc finger homeobox protein 4 isoform h4 (human)
+obo:PR_Q86UP3-5 zinc finger homeobox protein 4 isoform h5 (human)
+obo:PR_Q9NZV7 zinc finger imprinted 2 (human)
+obo:PR_Q5H9K5 zinc finger matrin-type protein 1 (human)
+obo:PR_Q3V0C1 zinc finger matrin-type protein 1 (mouse)
+obo:PR_Q5H9K5-1 zinc finger matrin-type protein 1 isoform h1 (human)
+obo:PR_Q5H9K5-2 zinc finger matrin-type protein 1 isoform h2 (human)
+obo:PR_Q3V0C1-1 zinc finger matrin-type protein 1 isoform m1 (mouse)
+obo:PR_Q3V0C1-2 zinc finger matrin-type protein 1 isoform m2 (mouse)
+obo:PR_Q3V0C1-3 zinc finger matrin-type protein 1 isoform m3 (mouse)
+obo:PR_Q96NC0 zinc finger matrin-type protein 2 (human)
+obo:PR_Q9CPW7 zinc finger matrin-type protein 2 (mouse)
+obo:PR_000042621 zinc finger matrin-type protein 2 isoform 1
+obo:PR_Q96NC0-1 zinc finger matrin-type protein 2 isoform 1 (human)
+obo:PR_Q9CPW7-1 zinc finger matrin-type protein 2 isoform 1 (mouse)
+obo:PR_Q9HA38 zinc finger matrin-type protein 3 (human)
+obo:PR_Q9HA38-1 zinc finger matrin-type protein 3 isoform h1 (human)
+obo:PR_Q9HA38-2 zinc finger matrin-type protein 3 isoform h2 (human)
+obo:PR_Q9H898 zinc finger matrin-type protein 4 (human)
+obo:PR_000043321 zinc finger matrin-type protein 4 isoform 1
+obo:PR_Q9H898-2 zinc finger matrin-type protein 4 isoform h2 (human)
+obo:PR_Q9H898-1 zinc finger matrin-type protein 4 isoform 1 (human)
+obo:PR_Q8IPW7 CG31922 protein (fruit fly)
+obo:PR_Q9UDW3 zinc finger matrin-type protein 5 (human)
+obo:PR_000043852 zinc finger matrin-type protein 5 isoform 1
+obo:PR_Q9UDW3-1 zinc finger matrin-type protein 5 isoform 1 (human)
+obo:PR_Q9CQR5-1 zinc finger matrin-type protein 5 isoform 1 (mouse)
+obo:PR_Q9ULJ6 zinc finger MIZ domain-containing protein 1 (human)
+obo:PR_Q6P1E1 zinc finger MIZ domain-containing protein 1 (mouse)
+obo:PR_Q9ULJ6-1 zinc finger MIZ domain-containing protein 1 isoform h1 (human)
+obo:PR_Q9ULJ6-2 zinc finger MIZ domain-containing protein 1 isoform h2 (human)
+obo:PR_Q6P1E1-1 zinc finger MIZ domain-containing protein 1 isoform m1 (mouse)
+obo:PR_Q6P1E1-2 zinc finger MIZ domain-containing protein 1 isoform m2 (mouse)
+obo:PR_Q8CIE2 zinc finger MIZ domain-containing protein 2 (mouse)
+obo:PR_000041961 zinc finger MIZ domain-containing protein 2 isoform 1
+obo:PR_000041962 zinc finger MIZ domain-containing protein 2 isoform 2
+obo:PR_Q8CIE2-2 zinc finger MIZ domain-containing protein 2 isoform m2 (mouse)
+obo:PR_Q8CIE2-1 zinc finger MIZ domain-containing protein 2 isoform 1 (mouse)
+obo:PR_Q8CIE2-3 zinc finger MIZ domain-containing protein 2 isoform 3 (mouse)
+obo:PR_E1C164 uncharacterized protein, ZMYM2 translation product (chicken)
+obo:PR_Q9CU65 zinc finger MYM-type protein 2 (mouse)
+obo:PR_000021880 zinc finger MYM-type protein 4, initiator methionine removed form
+obo:PR_Q9UJ78 zinc finger MYM-type protein 5 (human)
+obo:PR_Q3U2E2 zinc finger MYM-type protein 5 (mouse)
+obo:PR_Q9UJ78-1 zinc finger MYM-type protein 5 isoform h1 (human)
+obo:PR_Q9UJ78-2 zinc finger MYM-type protein 5 isoform h2 (human)
+obo:PR_Q9UJ78-3 zinc finger MYM-type protein 5 isoform h3 (human)
+obo:PR_Q9UJ78-4 zinc finger MYM-type protein 5 isoform h4 (human)
+obo:PR_Q9UJ78-5 zinc finger MYM-type protein 5 isoform h5 (human)
+obo:PR_000038388 zinc finger MYND domain-containing protein 10 isoform 1
+obo:PR_Q99ML0-1 zinc finger MYND domain-containing protein 10 isoform 1 (mouse)
+obo:PR_Q15326 zinc finger MYND domain-containing protein 11 (human)
+obo:PR_000040620 zinc finger MYND domain-containing protein 11 isoform 1
+obo:PR_Q15326-2 zinc finger MYND domain-containing protein 11 isoform h2 (human)
+obo:PR_Q15326-3 zinc finger MYND domain-containing protein 11 isoform h3 (human)
+obo:PR_Q15326-4 zinc finger MYND domain-containing protein 11 isoform h4 (human)
+obo:PR_Q15326-5 zinc finger MYND domain-containing protein 11 isoform h5 (human)
+obo:PR_Q15326-6 zinc finger MYND domain-containing protein 11 isoform h6 (human)
+obo:PR_Q15326-1 zinc finger MYND domain-containing protein 11 isoform 1 (human)
+obo:PR_Q9H0C1 zinc finger MYND domain-containing protein 12 (human)
+obo:PR_Q55F56 uncharacterized protein, DDB_G0268252 translation product (Dictyostelium discoideum)
+obo:PR_Q96E35 zinc finger MYND domain-containing protein 19 (human)
+obo:PR_Q9CQG3 zinc finger MYND domain-containing protein 19 (mouse)
+obo:PR_000042498 zinc finger MYND domain-containing protein 19 isoform 1
+obo:PR_Q96E35-1 zinc finger MYND domain-containing protein 19 isoform 1 (human)
+obo:PR_Q9CQG3-2 zinc finger MYND domain-containing protein 19 isoform m2 (mouse)
+obo:PR_Q9CQG3-1 zinc finger MYND domain-containing protein 19 isoform 1 (mouse)
+obo:PR_Q6P2D0 zinc finger protein 1 homolog (human)
+obo:PR_Q6P2D0-1 zinc finger protein 1 homolog isoform h1 (human)
+obo:PR_Q6P2D0-2 zinc finger protein 1 homolog isoform h2 (human)
+obo:PR_P21506 zinc finger protein 10 (human)
+obo:PR_Q8IYN0 zinc finger protein 100 (human)
+obo:PR_Q8IZC7 zinc finger protein 101 (human)
+obo:PR_Q8IZC7-1 zinc finger protein 101 isoform h1 (human)
+obo:PR_Q8IZC7-2 zinc finger protein 101 isoform h2 (human)
+obo:PR_E1BRP5 uncharacterized protein, ZNF106 translation product (chicken)
+obo:PR_Q9H2Y7 zinc finger protein 106 (human)
+obo:PR_Q9H2Y7-1 zinc finger protein 106 isoform h1 (human)
+obo:PR_Q9H2Y7-2 zinc finger protein 106 isoform h2 (human)
+obo:PR_Q9UII5 zinc finger protein 107 (human)
+obo:PR_P10751 zinc finger protein 11 (mouse)
+obo:PR_Q9UJU3 zinc finger protein 112 (human)
+obo:PR_Q9UJU3-1 zinc finger protein 112 isoform h1 (human)
+obo:PR_Q9UJU3-2 zinc finger protein 112 isoform h2 (human)
+obo:PR_Q03924 zinc finger protein 117 (human)
+obo:PR_P17014 zinc finger protein 12 (human)
+obo:PR_Q7TSI0 zinc finger protein 12 (mouse)
+obo:PR_P17014-1 zinc finger protein 12 isoform h1 (human)
+obo:PR_P17014-2 zinc finger protein 12 isoform h2 (human)
+obo:PR_P17014-3 zinc finger protein 12 isoform h3 (human)
+obo:PR_P17014-4 zinc finger protein 12 isoform h4 (human)
+obo:PR_P17014-5 zinc finger protein 12 isoform h5 (human)
+obo:PR_Q7TSI0-1 zinc finger protein 12 isoform m1 (mouse)
+obo:PR_Q7TSI0-2 zinc finger protein 12 isoform m2 (mouse)
+obo:PR_Q8BZW4 zinc finger protein 120 (mouse)
+obo:PR_Q8BZW4-1 zinc finger protein 120 isoform m1 (mouse)
+obo:PR_Q8BZW4-2 zinc finger protein 120 isoform m2 (mouse)
+obo:PR_P58317 zinc finger protein 121 (human)
+obo:PR_P52739 zinc finger protein 131 (human)
+obo:PR_P52739-1 zinc finger protein 131 isoform h1 (human)
+obo:PR_P52739-2 zinc finger protein 131 isoform h2 (human)
+obo:PR_P52740 zinc finger protein 132 (human)
+obo:PR_P52740-1 zinc finger protein 132 isoform h1 (human)
+obo:PR_P52740-2 zinc finger protein 132 isoform h2 (human)
+obo:PR_P52736 zinc finger protein 133 (human)
+obo:PR_P52736-1 zinc finger protein 133 isoform h1 (human)
+obo:PR_P52736-2 zinc finger protein 133 isoform h2 (human)
+obo:PR_P52736-3 zinc finger protein 133 isoform h3 (human)
+obo:PR_P52736-4 zinc finger protein 133 isoform h4 (human)
+obo:PR_P52736-5 zinc finger protein 133 isoform h5 (human)
+obo:PR_P52741 zinc finger protein 134 (human)
+obo:PR_P52741-1 zinc finger protein 134 isoform h1 (human)
+obo:PR_P52741-2 zinc finger protein 134 isoform h2 (human)
+obo:PR_P52742 zinc finger protein 135 (human)
+obo:PR_P52742-1 zinc finger protein 135 isoform h1 (human)
+obo:PR_P52742-2 zinc finger protein 135 isoform h2 (human)
+obo:PR_P52742-3 zinc finger protein 135 isoform h3 (human)
+obo:PR_P52742-4 zinc finger protein 135 isoform h4 (human)
+obo:PR_P52737 zinc finger protein 136 (human)
+obo:PR_P17017 zinc finger protein 14 (human)
+obo:PR_O70230 zinc finger protein 143 (mouse)
+obo:PR_Q5XIU2 zinc finger protein 143 (rat)
+obo:PR_Q1LYE3 zinc finger protein 143 (zebrafish)
+obo:PR_000039707 zinc finger protein 143 isoform 1
+obo:PR_O70230-2 zinc finger protein 143 isoform m2 (mouse)
+obo:PR_O70230-3 zinc finger protein 143 isoform m3 (mouse)
+obo:PR_P52747-1 zinc finger protein 143 isoform 1 (human)
+obo:PR_O70230-1 zinc finger protein 143 isoform 1 (mouse)
+obo:PR_Q9UQR1 zinc finger protein 148 (human)
+obo:PR_Q61624 zinc finger protein 148 (mouse)
+obo:PR_Q62806 zinc finger protein 148 (rat)
+obo:PR_000044061 zinc finger protein 148 isoform 1
+obo:PR_Q9UQR1-2 zinc finger protein 148 isoform h2 (human)
+obo:PR_Q9UQR1-1 zinc finger protein 148 isoform 1 (human)
+obo:PR_Q61624-1 zinc finger protein 148 isoform 1 (mouse)
+obo:PR_Q62806-1 zinc finger protein 148 isoform 1 (rat)
+obo:PR_P51786 zinc finger protein 157 (human)
+obo:PR_Q14929 zinc finger protein 169 (human)
+obo:PR_000041472 zinc finger protein 18 isoform 1
+obo:PR_Q9UJW8 zinc finger protein 180 (human)
+obo:PR_Q9UJW8-1 zinc finger protein 180 isoform h1 (human)
+obo:PR_Q9UJW8-2 zinc finger protein 180 isoform h2 (human)
+obo:PR_Q9UJW8-3 zinc finger protein 180 isoform h3 (human)
+obo:PR_Q9UJW8-4 zinc finger protein 180 isoform h4 (human)
+obo:PR_Q2M3W8 zinc finger protein 181 (human)
+obo:PR_Q2M3W8-1 zinc finger protein 181 isoform h1 (human)
+obo:PR_Q2M3W8-2 zinc finger protein 181 isoform h2 (human)
+obo:PR_Q2M3W8-3 zinc finger protein 181 isoform h3 (human)
+obo:PR_Q99676 zinc finger protein 184 (human)
+obo:PR_O75820 zinc finger protein 189 (human)
+obo:PR_O75820-1 zinc finger protein 189 isoform h1 (human)
+obo:PR_O75820-2 zinc finger protein 189 isoform h2 (human)
+obo:PR_O75820-3 zinc finger protein 189 isoform h3 (human)
+obo:PR_O75820-4 zinc finger protein 189 isoform h4 (human)
+obo:PR_O14628 zinc finger protein 195 (human)
+obo:PR_O14628-1 zinc finger protein 195 isoform h1 (human)
+obo:PR_O14628-2 zinc finger protein 195 isoform h2 (human)
+obo:PR_O14628-3 zinc finger protein 195 isoform h3 (human)
+obo:PR_O14628-4 zinc finger protein 195 isoform h4 (human)
+obo:PR_O14628-5 zinc finger protein 195 isoform h5 (human)
+obo:PR_O14628-6 zinc finger protein 195 isoform h6 (human)
+obo:PR_O14628-7 zinc finger protein 195 isoform h7 (human)
+obo:PR_O14628-8 zinc finger protein 195 isoform h8 (human)
+obo:PR_O14709 zinc finger protein 197 (human)
+obo:PR_O14709-1 zinc finger protein 197 isoform h1 (human)
+obo:PR_O14709-2 zinc finger protein 197 isoform h2 (human)
+obo:PR_Q8BIQ3 zinc finger protein 2 (mouse)
+obo:PR_P17024 zinc finger protein 20 (human)
+obo:PR_P98182 zinc finger protein 200 (human)
+obo:PR_P98182-1 zinc finger protein 200 isoform h1 (human)
+obo:PR_P98182-2 zinc finger protein 200 isoform h2 (human)
+obo:PR_P98182-3 zinc finger protein 200 isoform h3 (human)
+obo:PR_O95125 zinc finger protein 202 (human)
+obo:PR_O95125-2 zinc finger protein 202 isoform Alpha (human)
+obo:PR_O95125-1 zinc finger protein 202 isoform Beta (human)
+obo:PR_O95201 zinc finger protein 205 (human)
+obo:PR_O43345 zinc finger protein 208 (human)
+obo:PR_O43345-1 zinc finger protein 208 isoform h1 (human)
+obo:PR_O43345-2 zinc finger protein 208 isoform h2 (human)
+obo:PR_Q13398 zinc finger protein 211 (human)
+obo:PR_Q13398-1 zinc finger protein 211 isoform h1 (human)
+obo:PR_Q13398-2 zinc finger protein 211 isoform h2 (human)
+obo:PR_Q13398-3 zinc finger protein 211 isoform h3 (human)
+obo:PR_Q13398-4 zinc finger protein 211 isoform h4 (human)
+obo:PR_Q13398-5 zinc finger protein 211 isoform h5 (human)
+obo:PR_Q13398-6 zinc finger protein 211 isoform h6 (human)
+obo:PR_Q13398-7 zinc finger protein 211 isoform h7 (human)
+obo:PR_Q13398-8 zinc finger protein 211 isoform h8 (human)
+obo:PR_Q9UDV6 zinc finger protein 212 (human)
+obo:PR_Q9UL58 zinc finger protein 215 (human)
+obo:PR_Q9UL58-1 zinc finger protein 215 isoform h1 (human)
+obo:PR_Q9UL58-2 zinc finger protein 215 isoform h2 (human)
+obo:PR_O75362 zinc finger protein 217 (human)
+obo:PR_Q9ERU3 zinc finger protein 22 (mouse)
+obo:PR_Q9ERU2 zinc finger protein 22 (rat)
+obo:PR_000043161 zinc finger protein 22 isoform 1
+obo:PR_Q9ERU3-1 zinc finger protein 22 isoform 1 (mouse)
+obo:PR_Q9ERU2-1 zinc finger protein 22 isoform 1 (rat)
+obo:PR_Q9UK13 zinc finger protein 221 (human)
+obo:PR_Q9UK12 zinc finger protein 222 (human)
+obo:PR_Q9UK12-1 zinc finger protein 222 isoform h1 (human)
+obo:PR_Q9UK12-2 zinc finger protein 222 isoform h2 (human)
+obo:PR_Q9UK11 zinc finger protein 223 (human)
+obo:PR_Q9NZL3 zinc finger protein 224 (human)
+obo:PR_Q9UK10 zinc finger protein 225 (human)
+obo:PR_Q86WZ6 zinc finger protein 227 (human)
+obo:PR_Q86WZ6-1 zinc finger protein 227 isoform h1 (human)
+obo:PR_Q86WZ6-2 zinc finger protein 227 isoform h2 (human)
+obo:PR_Q9UJW7 zinc finger protein 229 (human)
+obo:PR_Q9UJW7-1 zinc finger protein 229 isoform h1 (human)
+obo:PR_Q9UJW7-2 zinc finger protein 229 isoform h2 (human)
+obo:PR_Q9UNY5 zinc finger protein 232 (human)
+obo:PR_Q9UNY5-1 zinc finger protein 232 isoform Long (human)
+obo:PR_Q9UNY5-2 zinc finger protein 232 isoform Short (human)
+obo:PR_A6NK53 zinc finger protein 233 (human)
+obo:PR_Q14588 zinc finger protein 234 (human)
+obo:PR_Q9UL36 zinc finger protein 236 (human)
+obo:PR_Q9UL36-2 zinc finger protein 236 isoform A (human)
+obo:PR_Q9UL36-1 zinc finger protein 236 isoform B (human)
+obo:PR_Q16600 zinc finger protein 239 (human)
+obo:PR_P17028 zinc finger protein 24 (human)
+obo:PR_000038968 zinc finger protein 24 isoform 1
+obo:PR_P17028-1 zinc finger protein 24 isoform 1 (human)
+obo:PR_P17028-2 zinc finger protein 24 isoform h2 (human)
+obo:PR_P17030 zinc finger protein 25 (human)
+obo:PR_P17030-1 zinc finger protein 25 isoform h1 (human)
+obo:PR_P17030-2 zinc finger protein 25 isoform h2 (human)
+obo:PR_Q9Y2P7 zinc finger protein 256 (human)
+obo:PR_Q9Y2P7-1 zinc finger protein 256 isoform h1 (human)
+obo:PR_Q9Y2P7-2 zinc finger protein 256 isoform h2 (human)
+obo:PR_Q9Y2Q1 zinc finger protein 257 (human)
+obo:PR_Q9Y2Q1-1 zinc finger protein 257 isoform h1 (human)
+obo:PR_Q9Y2Q1-2 zinc finger protein 257 isoform h2 (human)
+obo:PR_Q9Y2Q1-3 zinc finger protein 257 isoform h3 (human)
+obo:PR_Q9Y2Q1-4 zinc finger protein 257 isoform h4 (human)
+obo:PR_P17031 zinc finger protein 26 (human)
+obo:PR_Q62981 zinc finger protein 260 (rat)
+obo:PR_000041103 zinc finger protein 260 isoform 1
+obo:PR_Q62981-1 zinc finger protein 260 isoform 1 (rat)
+obo:PR_O43296 zinc finger protein 264 (human)
+obo:PR_Q14587 zinc finger protein 268 (human)
+obo:PR_Q14587-1 zinc finger protein 268 isoform h1 (human)
+obo:PR_Q14587-2 zinc finger protein 268 isoform h2 (human)
+obo:PR_Q14587-3 zinc finger protein 268 isoform h3 (human)
+obo:PR_Q14587-4 zinc finger protein 268 isoform h4 (human)
+obo:PR_Q14587-6 zinc finger protein 268 isoform h5 (human)
+obo:PR_Q14587-7 zinc finger protein 268 isoform h6 (human)
+obo:PR_Q14587-8 zinc finger protein 268 isoform h7 (human)
+obo:PR_Q8CE64 zinc finger protein 276 (mouse)
+obo:PR_Q8CE64-1 zinc finger protein 276 isoform m1 (mouse)
+obo:PR_Q8CE64-2 zinc finger protein 276 isoform m2 (mouse)
+obo:PR_Q9NRM2 zinc finger protein 277 (human)
+obo:PR_P59817 zinc finger protein 280A (human)
+obo:PR_Q86YH2 zinc finger protein 280B (human)
+obo:PR_Q8ND82 zinc finger protein 280C (human)
+obo:PR_Q6P3Y5 zinc finger protein 280C (mouse)
+obo:PR_Q6P3Y5-1 zinc finger protein 280C isoform m1 (mouse)
+obo:PR_Q6P3Y5-2 zinc finger protein 280C isoform m2 (mouse)
+obo:PR_Q6P3Y5-3 zinc finger protein 280C isoform m3 (mouse)
+obo:PR_Q6N043 zinc finger protein 280D (human)
+obo:PR_Q68FE8 zinc finger protein 280D (mouse)
+obo:PR_Q6N043-1 zinc finger protein 280D isoform h1 (human)
+obo:PR_Q6N043-2 zinc finger protein 280D isoform h2 (human)
+obo:PR_Q6N043-3 zinc finger protein 280D isoform h3 (human)
+obo:PR_Q6N043-4 zinc finger protein 280D isoform h4 (human)
+obo:PR_Q6N043-5 zinc finger protein 280D isoform h5 (human)
+obo:PR_Q6N043-6 zinc finger protein 280D isoform h6 (human)
+obo:PR_Q68FE8-1 zinc finger protein 280D isoform m1 (mouse)
+obo:PR_Q68FE8-2 zinc finger protein 280D isoform m2 (mouse)
+obo:PR_Q68FE8-3 zinc finger protein 280D isoform m3 (mouse)
+obo:PR_Q9Y2X9 zinc finger protein 281 (human)
+obo:PR_Q99LI5 zinc finger protein 281 (mouse)
+obo:PR_Q9Y2X9-1 zinc finger protein 281 isoform h1 (human)
+obo:PR_Q9Y2X9-2 zinc finger protein 281 isoform h2 (human)
+obo:PR_Q9UDV7 zinc finger protein 282 (human)
+obo:PR_Q9UDV7-1 zinc finger protein 282 isoform h1 (human)
+obo:PR_Q9UDV7-2 zinc finger protein 282 isoform h2 (human)
+obo:PR_Q96NJ3 zinc finger protein 285 (human)
+obo:PR_Q96NJ3-1 zinc finger protein 285 isoform h1 (human)
+obo:PR_Q96NJ3-2 zinc finger protein 285 isoform h2 (human)
+obo:PR_Q9HBT8 zinc finger protein 286A (human)
+obo:PR_Q9HBT8-1 zinc finger protein 286A isoform h1 (human)
+obo:PR_Q9HBT8-2 zinc finger protein 286A isoform h2 (human)
+obo:PR_Q9Z2U2 zinc finger protein 292 (mouse)
+obo:PR_Q9Z2U2-1 zinc finger protein 292 isoform m1 (mouse)
+obo:PR_Q9Z2U2-2 zinc finger protein 292 isoform m2 (mouse)
+obo:PR_Q8WUU4 zinc finger protein 296 (human)
+obo:PR_P17036 zinc finger protein 3 (human)
+obo:PR_P17036-1 zinc finger protein 3 isoform h1 (human)
+obo:PR_P17036-2 zinc finger protein 3 isoform h2 (human)
+obo:PR_Q8BLB0 zinc finger protein 3 (mouse)
+obo:PR_Q96NJ6 zinc finger protein 3 homolog (human)
+obo:PR_P17039 zinc finger protein 30 (human)
+obo:PR_P17039-1 zinc finger protein 30 isoform h1 (human)
+obo:PR_P17039-2 zinc finger protein 30 isoform h2 (human)
+obo:PR_P17039-3 zinc finger protein 30 isoform h3 (human)
+obo:PR_Q60585 zinc finger protein 30 (mouse)
+obo:PR_Q96RE9 zinc finger protein 300 (human)
+obo:PR_Q96RE9-1 zinc finger protein 300 isoform h1 (human)
+obo:PR_Q96RE9-2 zinc finger protein 300 isoform h2 (human)
+obo:PR_Q96RE9-3 zinc finger protein 300 isoform h3 (human)
+obo:PR_Q96RE9-4 zinc finger protein 300 isoform h4 (human)
+obo:PR_Q9NR11 zinc finger protein 302 (human)
+obo:PR_Q9NR11-1 zinc finger protein 302 isoform h1 (human)
+obo:PR_Q9NR11-2 zinc finger protein 302 isoform h2 (human)
+obo:PR_Q9HCX3 zinc finger protein 304 (human)
+obo:PR_Q5JNZ3 zinc finger protein 311 (human)
+obo:PR_P17041 zinc finger protein 32 (human)
+obo:PR_Q80V23 zinc finger protein 32 (mouse)
+obo:PR_Q80V23-1 zinc finger protein 32 isoform m1 (mouse)
+obo:PR_Q80V23-2 zinc finger protein 32 isoform m2 (mouse)
+obo:PR_A2RRD8 zinc finger protein 320 (human)
+obo:PR_Q6U7Q0 zinc finger protein 322 (human)
+obo:PR_Q8BZ89 zinc finger protein 322 (mouse)
+obo:PR_Q6GQR8 zinc finger protein 329 (mouse)
+obo:PR_Q922H9 zinc finger protein 330 (mouse)
+obo:PR_Q9VAU9 zinc finger protein 330 homolog (fruit fly)
+obo:PR_Q922H9-1 zinc finger protein 330 isoform m1 (mouse)
+obo:PR_Q922H9-2 zinc finger protein 330 isoform m2 (mouse)
+obo:PR_Q9NQX6 zinc finger protein 331 (human)
+obo:PR_Q96JL9 zinc finger protein 333 (human)
+obo:PR_Q96JL9-1 zinc finger protein 333 isoform h1 (human)
+obo:PR_Q96JL9-2 zinc finger protein 333 isoform h2 (human)
+obo:PR_Q96JL9-3 zinc finger protein 333 isoform h3 (human)
+obo:PR_G3V893 zinc finger protein 335 (rat)
+obo:PR_Q9Y3M9 zinc finger protein 337 (human)
+obo:PR_Q9Y3M9-1 zinc finger protein 337 isoform h1 (human)
+obo:PR_Q9Y3M9-2 zinc finger protein 337 isoform h2 (human)
+obo:PR_Q06730 zinc finger protein 33A (human)
+obo:PR_Q06730-1 zinc finger protein 33A isoform h1 (human)
+obo:PR_Q06730-2 zinc finger protein 33A isoform h2 (human)
+obo:PR_Q06730-3 zinc finger protein 33A isoform h3 (human)
+obo:PR_Q06732 zinc finger protein 33B (human)
+obo:PR_Q8IZ26 zinc finger protein 34 (human)
+obo:PR_Q9BYN7 zinc finger protein 341 (human)
+obo:PR_Q9BYN7-1 zinc finger protein 341 isoform h1 (human)
+obo:PR_Q9BYN7-2 zinc finger protein 341 isoform h2 (human)
+obo:PR_Q9UL40 zinc finger protein 346 (human)
+obo:PR_Q9R0B7 zinc finger protein 346 (mouse)
+obo:PR_000043989 zinc finger protein 346 isoform 1
+obo:PR_Q9UL40-2 zinc finger protein 346 isoform h2 (human)
+obo:PR_Q9UL40-3 zinc finger protein 346 isoform h3 (human)
+obo:PR_Q9R0B7-1 zinc finger protein 346 isoform 1 (mouse)
+obo:PR_Q9UL40-1 zinc finger protein 346 isoform 1 (human)
+obo:PR_P13682 zinc finger protein 35 (human)
+obo:PR_Q96LW1 zinc finger protein 354B (human)
+obo:PR_Q9QXT9 zinc finger protein 354B (mouse)
+obo:PR_Q86Y25 zinc finger protein 354C (human)
+obo:PR_Q571J5 zinc finger protein 354C (mouse)
+obo:PR_Q9EPU7 zinc finger protein 354C (rat)
+obo:PR_Q9NW07 zinc finger protein 358 (human)
+obo:PR_Q5T0B9 zinc finger protein 362 (human)
+obo:PR_E7F2K0 uncharacterized protein, znf366 translation product (zebrafish)
+obo:PR_Q8N895 zinc finger protein 366 (human)
+obo:PR_Q7RTV3 zinc finger protein 367 (human)
+obo:PR_Q0VDT2 zinc finger protein 367 (mouse)
+obo:PR_Q567C6 zinc finger protein 367 (zebrafish)
+obo:PR_000040351 zinc finger protein 367 isoform 1
+obo:PR_Q7RTV3-1 zinc finger protein 367 isoform h1 (human)
+obo:PR_Q7RTV3-2 zinc finger protein 367 isoform h2 (human)
+obo:PR_Q0VDT2-1 zinc finger protein 367 isoform 1 (mouse)
+obo:PR_Q0VDT2-2 zinc finger protein 367 isoform m2 (mouse)
+obo:PR_P17141 zinc finger protein 37 (mouse)
+obo:PR_O88553 zinc finger protein 37 (rat)
+obo:PR_Q9Y6Q3 zinc finger protein 37 homolog (human)
+obo:PR_Q9Y6Q3-1 zinc finger protein 37 homolog isoform h1 (human)
+obo:PR_Q9Y6Q3-2 zinc finger protein 37 homolog isoform h2 (human)
+obo:PR_Q9Y6Q3-3 zinc finger protein 37 homolog isoform h3 (human)
+obo:PR_P17032 zinc finger protein 37A (human)
+obo:PR_Q96SR6 zinc finger protein 382 (human)
+obo:PR_Q96SR6-1 zinc finger protein 382 isoform h1 (human)
+obo:PR_Q96SR6-2 zinc finger protein 382 isoform h2 (human)
+obo:PR_Q96SR6-3 zinc finger protein 382 isoform h3 (human)
+obo:PR_Q8NA42 zinc finger protein 383 (human)
+obo:PR_Q96PM9 zinc finger protein 385A (human)
+obo:PR_Q8VD12 zinc finger protein 385A (mouse)
+obo:PR_000042654 zinc finger protein 385A isoform 1
+obo:PR_000042655 zinc finger protein 385A isoform 4
+obo:PR_Q96PM9-1 zinc finger protein 385A isoform 1 (human)
+obo:PR_Q96PM9-4 zinc finger protein 385A isoform 4 (human)
+obo:PR_Q96PM9-2 zinc finger protein 385A isoform h2 (human)
+obo:PR_Q96PM9-3 zinc finger protein 385A isoform h3 (human)
+obo:PR_Q8VD12-2 zinc finger protein 385A isoform 2 (mouse)
+obo:PR_Q8VD12-1 zinc finger protein 385A isoform 1 (mouse)
+obo:PR_Q569K4 zinc finger protein 385B (human)
+obo:PR_Q8BXJ8 zinc finger protein 385B (mouse)
+obo:PR_Q6PBT9 zinc finger protein 385B (zebrafish)
+obo:PR_Q569K4-1 zinc finger protein 385B isoform h1 (human)
+obo:PR_Q569K4-2 zinc finger protein 385B isoform h2 (human)
+obo:PR_Q569K4-3 zinc finger protein 385B isoform h3 (human)
+obo:PR_Q569K4-4 zinc finger protein 385B isoform h4 (human)
+obo:PR_Q569K4-5 zinc finger protein 385B isoform h5 (human)
+obo:PR_Q8BXJ8-1 zinc finger protein 385B isoform m1 (mouse)
+obo:PR_Q8BXJ8-2 zinc finger protein 385B isoform m2 (mouse)
+obo:PR_Q66K41 zinc finger protein 385C (human)
+obo:PR_Q66K41-1 zinc finger protein 385C isoform h1 (human)
+obo:PR_Q66K41-2 zinc finger protein 385C isoform h2 (human)
+obo:PR_Q96N95 zinc finger protein 396 (human)
+obo:PR_Q96N95-1 zinc finger protein 396 isoform h1 (human)
+obo:PR_Q96N95-2 zinc finger protein 396 isoform h2 (human)
+obo:PR_Q96N95-3 zinc finger protein 396 isoform h3 (human)
+obo:PR_Q8TD17 zinc finger protein 398 (human)
+obo:PR_Q8TD17-1 zinc finger protein 398 isoform h1 (human)
+obo:PR_Q8TD17-2 zinc finger protein 398 isoform h2 (human)
+obo:PR_P15822 zinc finger protein 40 (human)
+obo:PR_Q03172 zinc finger protein 40 (mouse)
+obo:PR_P15822-1 zinc finger protein 40 isoform h1 (human)
+obo:PR_P15822-2 zinc finger protein 40 isoform h2 (human)
+obo:PR_P15822-3 zinc finger protein 40 isoform h3 (human)
+obo:PR_Q494X3 zinc finger protein 404 (human)
+obo:PR_Q9C0G0 zinc finger protein 407 (human)
+obo:PR_Q9C0G0-1 zinc finger protein 407 isoform h1 (human)
+obo:PR_Q9C0G0-2 zinc finger protein 407 isoform h2 (human)
+obo:PR_Q9C0G0-3 zinc finger protein 407 isoform h3 (human)
+obo:PR_Q02526 zinc finger protein 41 (mouse)
+obo:PR_Q8N8Y5 zinc finger protein 41 homolog (human)
+obo:PR_000041895 zinc finger protein 41 homolog isoform 1
+obo:PR_Q02526-1 zinc finger protein 41 isoform 1 (mouse)
+obo:PR_Q8N8Y5-1 zinc finger protein 41 homolog isoform 1 (human)
+obo:PR_Q8BKX7 zinc finger protein 410 (mouse)
+obo:PR_000041517 zinc finger protein 410 isoform 1
+obo:PR_Q8BKX7-1 zinc finger protein 410 isoform 1 (mouse)
+obo:PR_Q8BKX7-2 zinc finger protein 410 isoform m2 (mouse)
+obo:PR_Q8BKX7-3 zinc finger protein 410 isoform m3 (mouse)
+obo:PR_Q9DCK4 zinc finger protein 414 (mouse)
+obo:PR_Q5PPH4 zinc finger protein 414 (rat)
+obo:PR_000043139 zinc finger protein 414 isoform 1
+obo:PR_Q9DCK4-2 zinc finger protein 414 isoform m2 (mouse)
+obo:PR_Q5PPH4-1 zinc finger protein 414 isoform 1 (rat)
+obo:PR_Q9DCK4-1 zinc finger protein 414 isoform 1 (mouse)
+obo:PR_Q09FC8 zinc finger protein 415 (human)
+obo:PR_Q09FC8-1 zinc finger protein 415 isoform h1 (human)
+obo:PR_Q09FC8-2 zinc finger protein 415 isoform h2 (human)
+obo:PR_Q09FC8-3 zinc finger protein 415 isoform h3 (human)
+obo:PR_Q09FC8-4 zinc finger protein 415 isoform h4 (human)
+obo:PR_Q09FC8-5 zinc finger protein 415 isoform h5 (human)
+obo:PR_Q09FC8-6 zinc finger protein 415 isoform h6 (human)
+obo:PR_Q8TAU3 zinc finger protein 417 (human)
+obo:PR_Q8TAU3-1 zinc finger protein 417 isoform h1 (human)
+obo:PR_Q8TAU3-2 zinc finger protein 417 isoform h2 (human)
+obo:PR_P22227 zinc finger protein 42 (mouse)
+obo:PR_Q96MM3 zinc finger protein 42 homolog (human)
+obo:PR_Q80TS5 zinc finger protein 423 (mouse)
+obo:PR_Q80TS5-1 zinc finger protein 423 isoform m1 (mouse)
+obo:PR_Q80TS5-2 zinc finger protein 423 isoform m2 (mouse)
+obo:PR_Q9BUY5 zinc finger protein 426 (human)
+obo:PR_Q96B54 zinc finger protein 428 (human)
+obo:PR_Q8C1M2 zinc finger protein 428 (mouse)
+obo:PR_Q86V71 zinc finger protein 429 (human)
+obo:PR_P17038 zinc finger protein 43 (human)
+obo:PR_P17038-1 zinc finger protein 43 isoform h1 (human)
+obo:PR_P17038-2 zinc finger protein 43 isoform h2 (human)
+obo:PR_Q9H8G1 zinc finger protein 430 (human)
+obo:PR_Q8TF32 zinc finger protein 431 (human)
+obo:PR_Q8N7K0 zinc finger protein 433 (human)
+obo:PR_Q8N7K0-1 zinc finger protein 433 isoform h1 (human)
+obo:PR_Q8N7K0-2 zinc finger protein 433 isoform h2 (human)
+obo:PR_Q8IYI8 zinc finger protein 440 (human)
+obo:PR_Q9H7R0 zinc finger protein 442 (human)
+obo:PR_Q9H7R0-1 zinc finger protein 442 isoform h1 (human)
+obo:PR_Q9H7R0-2 zinc finger protein 442 isoform h2 (human)
+obo:PR_Q9Y2A4 zinc finger protein 443 (human)
+obo:PR_Q8N0Y2 zinc finger protein 444 (human)
+obo:PR_Q8N0Y2-1 zinc finger protein 444 isoform h1 (human)
+obo:PR_Q8N0Y2-2 zinc finger protein 444 isoform h2 (human)
+obo:PR_P59923 zinc finger protein 445 (human)
+obo:PR_Q9NWS9 zinc finger protein 446 (human)
+obo:PR_Q9NWS9-1 zinc finger protein 446 isoform h1 (human)
+obo:PR_Q9NWS9-2 zinc finger protein 446 isoform h2 (human)
+obo:PR_Q6P9G9 zinc finger protein 449 (human)
+obo:PR_Q6P9G9-1 zinc finger protein 449 isoform h1 (human)
+obo:PR_Q6P9G9-2 zinc finger protein 449 isoform h2 (human)
+obo:PR_Q6P9G9-3 zinc finger protein 449 isoform h3 (human)
+obo:PR_Q02386 zinc finger protein 45 (human)
+obo:PR_Q7Z7K2 zinc finger protein 467 (human)
+obo:PR_000041763 zinc finger protein 467 isoform 1
+obo:PR_Q5VIY5 zinc finger protein 468 (human)
+obo:PR_Q5VIY5-1 zinc finger protein 468 isoform h1 (human)
+obo:PR_Q5VIY5-2 zinc finger protein 468 isoform h2 (human)
+obo:PR_Q8BI67 zinc finger protein 473 homolog (mouse)
+obo:PR_Q6V5K9 zinc finger protein 474 (mouse)
+obo:PR_Q96MX3 zinc finger protein 48 (human)
+obo:PR_Q3US17 zinc finger protein 48 (mouse)
+obo:PR_Q8WV37 zinc finger protein 480 (human)
+obo:PR_Q8WV37-1 zinc finger protein 480 isoform h1 (human)
+obo:PR_Q8WV37-2 zinc finger protein 480 isoform h2 (human)
+obo:PR_Q8WV37-3 zinc finger protein 480 isoform h3 (human)
+obo:PR_Q8TF39 zinc finger protein 483 (human)
+obo:PR_Q8TF39-1 zinc finger protein 483 isoform h1 (human)
+obo:PR_Q8TF39-2 zinc finger protein 483 isoform h2 (human)
+obo:PR_Q5JVG2 zinc finger protein 484 (human)
+obo:PR_Q5JVG2-1 zinc finger protein 484 isoform h1 (human)
+obo:PR_Q5JVG2-2 zinc finger protein 484 isoform h2 (human)
+obo:PR_Q5JVG2-3 zinc finger protein 484 isoform h3 (human)
+obo:PR_Q96H40 zinc finger protein 486 (human)
+obo:PR_B1APH4 zinc finger protein 487 (human)
+obo:PR_Q9ULM2 zinc finger protein 490 (human)
+obo:PR_Q9P255 zinc finger protein 492 (human)
+obo:PR_Q6ZR52 zinc finger protein 493 (human)
+obo:PR_Q6ZR52-1 zinc finger protein 493 isoform h1 (human)
+obo:PR_Q6ZR52-2 zinc finger protein 493 isoform h2 (human)
+obo:PR_Q6ZR52-3 zinc finger protein 493 isoform h3 (human)
+obo:PR_Q5SXI5 zinc finger protein 496 (mouse)
+obo:PR_000026310 zinc finger protein 496 isoform 1
+obo:PR_000026312 zinc finger protein 496 isoform 2
+obo:PR_000026315 zinc finger protein 496 isoform 3
+obo:PR_Q96IT1-1 zinc finger protein 496 isoform 1 (human)
+obo:PR_Q5SXI5-1 zinc finger protein 496 isoform 1 (mouse)
+obo:PR_Q5SXI5-2 zinc finger protein 496 isoform 2 (mouse)
+obo:PR_Q5SXI5-3 zinc finger protein 496 isoform 3 (mouse)
+obo:PR_Q6ZNH5 zinc finger protein 497 (human)
+obo:PR_O60304 zinc finger protein 500 (human)
+obo:PR_O60304-1 zinc finger protein 500 isoform h1 (human)
+obo:PR_O60304-2 zinc finger protein 500 isoform h2 (human)
+obo:PR_Q96CX3 zinc finger protein 501 (human)
+obo:PR_Q96CX3-1 zinc finger protein 501 isoform h1 (human)
+obo:PR_Q96CX3-2 zinc finger protein 501 isoform h2 (human)
+obo:PR_Q8TBZ5 zinc finger protein 502 (human)
+obo:PR_Q7TMA2 zinc finger protein 503 (mouse)
+obo:PR_Q7TMA2-1 zinc finger protein 503 isoform m1 (mouse)
+obo:PR_Q7TMA2-2 zinc finger protein 503 isoform m2 (mouse)
+obo:PR_Q5JVG8 zinc finger protein 506 (human)
+obo:PR_Q5JVG8-1 zinc finger protein 506 isoform h1 (human)
+obo:PR_Q5JVG8-2 zinc finger protein 506 isoform h2 (human)
+obo:PR_Q6ZPY5 zinc finger protein 507 (mouse)
+obo:PR_Q9Y2H8 zinc finger protein 510 (human)
+obo:PR_Q54NA1 uncharacterized protein, DDB_G0285413 translation product (Dictyostelium discoideum)
+obo:PR_Q96ME7 zinc finger protein 512 (human)
+obo:PR_Q96ME7-1 zinc finger protein 512 isoform h1 (human)
+obo:PR_Q96ME7-2 zinc finger protein 512 isoform h2 (human)
+obo:PR_Q96ME7-3 zinc finger protein 512 isoform h3 (human)
+obo:PR_Q8N8E2 zinc finger protein 513 (human)
+obo:PR_Q6PD29 zinc finger protein 513 (mouse)
+obo:PR_Q5FWU5 zinc finger protein 513 (rat)
+obo:PR_000041890 zinc finger protein 513 isoform 1
+obo:PR_Q8N8E2-2 zinc finger protein 513 isoform h2 (human)
+obo:PR_Q8N8E2-3 zinc finger protein 513 isoform h3 (human)
+obo:PR_Q6PD29-2 zinc finger protein 513 isoform m2 (mouse)
+obo:PR_Q5FWU5-1 zinc finger protein 513 isoform 1 (rat)
+obo:PR_Q8N8E2-1 zinc finger protein 513 isoform 1 (human)
+obo:PR_Q6PD29-1 zinc finger protein 513 isoform 1 (mouse)
+obo:PR_Q96K75 zinc finger protein 514 (human)
+obo:PR_Q92618 zinc finger protein 516 (human)
+obo:PR_Q7TSH3 zinc finger protein 516 (mouse)
+obo:PR_Q6ZMY9 zinc finger protein 517 (human)
+obo:PR_Q499R0 zinc finger protein 518A (rat)
+obo:PR_B2RRE4 zinc finger protein 518B (mouse)
+obo:PR_Q96K83 zinc finger protein 521 (human)
+obo:PR_Q6KAS7 zinc finger protein 521 (mouse)
+obo:PR_000042585 zinc finger protein 521 isoform 1
+obo:PR_Q6KAS7-2 zinc finger protein 521 isoform m2 (mouse)
+obo:PR_Q96K83-1 zinc finger protein 521 isoform 1 (human)
+obo:PR_Q6KAS7-1 zinc finger protein 521 isoform 1 (mouse)
+obo:PR_Q9D0B1 zinc finger protein 524 (mouse)
+obo:PR_Q3MIS6 zinc finger protein 528 (human)
+obo:PR_Q3MIS6-1 zinc finger protein 528 isoform h1 (human)
+obo:PR_Q3MIS6-2 zinc finger protein 528 isoform h2 (human)
+obo:PR_Q76KX8 zinc finger protein 534 (human)
+obo:PR_Q76KX8-1 zinc finger protein 534 isoform h1 (human)
+obo:PR_Q76KX8-2 zinc finger protein 534 isoform h2 (human)
+obo:PR_Q8K083 zinc finger protein 536 (mouse)
+obo:PR_Q8NDQ6 zinc finger protein 540 (human)
+obo:PR_Q8NDQ6-1 zinc finger protein 540 isoform h1 (human)
+obo:PR_Q8NDQ6-2 zinc finger protein 540 isoform h2 (human)
+obo:PR_Q8NDQ6-4 zinc finger protein 540 isoform h4 (human)
+obo:PR_Q9H0D2 zinc finger protein 541 (human)
+obo:PR_Q0GGX2 zinc finger protein 541 (mouse)
+obo:PR_Q9H0D2-2 zinc finger protein 541 isoform h2 (human)
+obo:PR_Q9H0D2-3 zinc finger protein 541 isoform h3 (human)
+obo:PR_Q0GGX2-1 zinc finger protein 541 isoform m1 (mouse)
+obo:PR_Q0GGX2-2 zinc finger protein 541 isoform m2 (mouse)
+obo:PR_Q08ER8 zinc finger protein 543 (human)
+obo:PR_Q8IVP9 zinc finger protein 547 (human)
+obo:PR_Q8IVP9-1 zinc finger protein 547 isoform h1 (human)
+obo:PR_Q8IVP9-2 zinc finger protein 547 isoform h2 (human)
+obo:PR_Q7Z398 zinc finger protein 550 (human)
+obo:PR_Q7Z398-1 zinc finger protein 550 isoform h1 (human)
+obo:PR_Q7Z398-2 zinc finger protein 550 isoform h2 (human)
+obo:PR_B2RUI1 zinc finger protein 551 (mouse)
+obo:PR_Q86TJ5 zinc finger protein 554 (human)
+obo:PR_Q8NEP9 zinc finger protein 555 (human)
+obo:PR_Q8NEP9-1 zinc finger protein 555 isoform h1 (human)
+obo:PR_Q8NEP9-2 zinc finger protein 555 isoform h2 (human)
+obo:PR_Q8NEP9-4 zinc finger protein 555 isoform h3 (human)
+obo:PR_Q96NG5 zinc finger protein 558 (human)
+obo:PR_Q96NG5-1 zinc finger protein 558 isoform h1 (human)
+obo:PR_Q96NG5-2 zinc finger protein 558 isoform h2 (human)
+obo:PR_Q9BR84 zinc finger protein 559 (human)
+obo:PR_Q9BR84-1 zinc finger protein 559 isoform h1 (human)
+obo:PR_Q9BR84-2 zinc finger protein 559 isoform h2 (human)
+obo:PR_Q8TA94 zinc finger protein 563 (human)
+obo:PR_Q8TA94-1 zinc finger protein 563 isoform h1 (human)
+obo:PR_Q8TA94-2 zinc finger protein 563 isoform h2 (human)
+obo:PR_Q3ZCX4 zinc finger protein 568 (human)
+obo:PR_Q3ZCX4-1 zinc finger protein 568 isoform h1 (human)
+obo:PR_Q3ZCX4-2 zinc finger protein 568 isoform h2 (human)
+obo:PR_Q3ZCX4-3 zinc finger protein 568 isoform h3 (human)
+obo:PR_Q9VK36 CG5204 protein (fruit fly)
+obo:PR_Q80W31 zinc finger protein 569 (mouse)
+obo:PR_Q9NU63 zinc finger protein 57 homolog (human)
+obo:PR_Q9NU63-1 zinc finger protein 57 homolog isoform h1 (human)
+obo:PR_Q9NU63-2 zinc finger protein 57 homolog isoform h2 (human)
+obo:PR_Q9NU63-3 zinc finger protein 57 homolog isoform h3 (human)
+obo:PR_Q96NI8 zinc finger protein 570 (human)
+obo:PR_Q96NI8-1 zinc finger protein 570 isoform h1 (human)
+obo:PR_Q96NI8-2 zinc finger protein 570 isoform h2 (human)
+obo:PR_Q7Z3V5 zinc finger protein 571 (human)
+obo:PR_Q99PJ7 zinc finger protein 689 (rat)
+obo:PR_Q86YE8 zinc finger protein 573 (human)
+obo:PR_Q86YE8-1 zinc finger protein 573 isoform h1 (human)
+obo:PR_Q86YE8-2 zinc finger protein 573 isoform h2 (human)
+obo:PR_Q86YE8-3 zinc finger protein 573 isoform h3 (human)
+obo:PR_Q86YE8-4 zinc finger protein 573 isoform h4 (human)
+obo:PR_Q8BY46 zinc finger protein 574 (mouse)
+obo:PR_Q504L7 zinc finger protein 574 (rat)
+obo:PR_Q3TXZ1 zinc finger protein 575 (mouse)
+obo:PR_Q9BSK1 zinc finger protein 577 (human)
+obo:PR_Q9BSK1-1 zinc finger protein 577 isoform h1 (human)
+obo:PR_Q9BSK1-2 zinc finger protein 577 isoform h2 (human)
+obo:PR_Q8NAF0 zinc finger protein 579 (human)
+obo:PR_Q80VM4 zinc finger protein 579 (mouse)
+obo:PR_P16372 zinc finger protein 58 (mouse)
+obo:PR_Q9DB38 zinc finger protein 580 (mouse)
+obo:PR_Q96NG8 zinc finger protein 582 (human)
+obo:PR_Q96ND8 zinc finger protein 583 (human)
+obo:PR_Q3V080 zinc finger protein 583 (mouse)
+obo:PR_Q6P3V2 zinc finger protein 585A (human)
+obo:PR_Q6P3V2-1 zinc finger protein 585A isoform h1 (human)
+obo:PR_Q6P3V2-2 zinc finger protein 585A isoform h2 (human)
+obo:PR_Q96SQ5 zinc finger protein 587 (human)
+obo:PR_Q96SQ5-1 zinc finger protein 587 isoform h1 (human)
+obo:PR_Q96SQ5-2 zinc finger protein 587 isoform h2 (human)
+obo:PR_P16373 zinc finger protein 59 (mouse)
+obo:PR_Q92610 zinc finger protein 592 (human)
+obo:PR_Q8BHZ4 zinc finger protein 592 (mouse)
+obo:PR_Q9VI93 zinc finger protein rotund (fruit fly)
+obo:PR_Q9VI93-3 zinc finger protein rotund isoform 3 (fruit fly)
+obo:PR_Q9VI93-1 zinc finger protein rotund isoform rn (fruit fly)
+obo:PR_Q9VI93-2 zinc finger protein rotund isoform roe (fruit fly)
+obo:PR_B2GV37 protein Zfp593 (rat)
+obo:PR_O00488 zinc finger protein 593 (human)
+obo:PR_Q9DB42 zinc finger protein 593 (mouse)
+obo:PR_Q553S1 zinc finger protein 593 homolog (Dictyostelium discoideum)
+obo:PR_Q9U239 zinc finger protein 593 homolog (worm)
+obo:PR_000037931 zinc finger protein 593 isoform 1
+obo:PR_O00488-1 zinc finger protein 593 isoform 1 (human)
+obo:PR_Q9DB42-1 zinc finger protein 593 isoform 1 (mouse)
+obo:PR_Q9BLC4 F12E12.5 (worm)
+obo:PR_Q96NL3 zinc finger protein 599 (human)
+obo:PR_Q96NL3-1 zinc finger protein 599 isoform h1 (human)
+obo:PR_Q96NL3-2 zinc finger protein 599 isoform h2 (human)
+obo:PR_P16374 zinc finger protein 60 (mouse)
+obo:PR_Q8WXB4 zinc finger protein 606 (human)
+obo:PR_Q96SK3 zinc finger protein 607 (human)
+obo:PR_Q96SK3-1 zinc finger protein 607 isoform h1 (human)
+obo:PR_Q96SK3-2 zinc finger protein 607 isoform h2 (human)
+obo:PR_Q96SK3-3 zinc finger protein 607 isoform h3 (human)
+obo:PR_Q56A10 zinc finger protein 608 (mouse)
+obo:PR_Q56A10-1 zinc finger protein 608 isoform m1 (mouse)
+obo:PR_Q56A10-2 zinc finger protein 608 isoform m2 (mouse)
+obo:PR_Q56A10-3 zinc finger protein 608 isoform m3 (mouse)
+obo:PR_O15014 zinc finger protein 609 (human)
+obo:PR_O15014-1 zinc finger protein 609 isoform h1 (human)
+obo:PR_O15014-2 zinc finger protein 609 isoform h2 (human)
+obo:PR_Q8N823 zinc finger protein 611 (human)
+obo:PR_Q8N823-1 zinc finger protein 611 isoform h1 (human)
+obo:PR_Q8N823-2 zinc finger protein 611 isoform h2 (human)
+obo:PR_Q6PF04 zinc finger protein 613 (human)
+obo:PR_Q6PF04-1 zinc finger protein 613 isoform h1 (human)
+obo:PR_Q6PF04-2 zinc finger protein 613 isoform h2 (human)
+obo:PR_Q8N883 zinc finger protein 614 (human)
+obo:PR_Q8N883-1 zinc finger protein 614 isoform h1 (human)
+obo:PR_Q8N883-2 zinc finger protein 614 isoform h2 (human)
+obo:PR_Q8N8J6 zinc finger protein 615 (human)
+obo:PR_Q8N8J6-1 zinc finger protein 615 isoform h1 (human)
+obo:PR_Q8N8J6-2 zinc finger protein 615 isoform h2 (human)
+obo:PR_Q8N8J6-3 zinc finger protein 615 isoform h3 (human)
+obo:PR_Q8NB50 zinc finger protein 62 homolog (human)
+obo:PR_Q8NB50-1 zinc finger protein 62 homolog isoform h1 (human)
+obo:PR_Q8NB50-2 zinc finger protein 62 homolog isoform h2 (human)
+obo:PR_Q8NB50-3 zinc finger protein 62 homolog isoform h3 (human)
+obo:PR_Q6ZSS3 zinc finger protein 621 (human)
+obo:PR_Q6ZSS3-1 zinc finger protein 621 isoform h1 (human)
+obo:PR_Q6ZSS3-2 zinc finger protein 621 isoform h2 (human)
+obo:PR_P38344 cytoplasmic 60S subunit biogenesis factor REI1 (yeast)
+obo:PR_Q8H1G5 cytoplasmic 60S subunit biogenesis factor REI1 homolog 1 (Arabidopsis thaliana)
+obo:PR_Q91VY9 zinc finger protein 622 (mouse)
+obo:PR_Q7TM96 zinc finger protein 622 (rat)
+obo:PR_Q8H1G5-1 cytoplasmic 60S subunit biogenesis factor REI1 homolog 1 isoform 1 (Arabidopsis thaliana)
+obo:PR_Q68DY1 zinc finger protein 626 (human)
+obo:PR_Q68DY1-1 zinc finger protein 626 isoform h1 (human)
+obo:PR_Q68DY1-2 zinc finger protein 626 isoform h2 (human)
+obo:PR_Q68DY1-3 zinc finger protein 626 isoform h3 (human)
+obo:PR_Q7L945 zinc finger protein 627 (human)
+obo:PR_Q5EBL2 zinc finger protein 628 (human)
+obo:PR_Q6A085 zinc finger protein 629 (mouse)
+obo:PR_Q61464 zinc finger protein 638 (mouse)
+obo:PR_Q61464-1 zinc finger protein 638 isoform m1 (mouse)
+obo:PR_Q61464-2 zinc finger protein 638 isoform m2 (mouse)
+obo:PR_Q61464-3 zinc finger protein 638 isoform m3 (mouse)
+obo:PR_Q61464-4 zinc finger protein 638 isoform m4 (mouse)
+obo:PR_Q61464-5 zinc finger protein 638 isoform m5 (mouse)
+obo:PR_Q61464-7 zinc finger protein 638 isoform m6 (mouse)
+obo:PR_Q99KZ6 zinc finger protein 639 (mouse)
+obo:PR_000043915 zinc finger protein 639 isoform 1
+obo:PR_Q99KZ6-1 zinc finger protein 639 isoform 1 (mouse)
+obo:PR_Q9NTW7 zinc finger protein 64 (human)
+obo:PR_Q99KE8 zinc finger protein 64 (mouse)
+obo:PR_Q9NTW7-5 zinc finger protein 64 isoform 1 (human)
+obo:PR_Q9NTW7-6 zinc finger protein 64 isoform 2 (human)
+obo:PR_Q9NTW7-1 zinc finger protein 64 isoform 3 (human)
+obo:PR_Q9NTW7-2 zinc finger protein 64 isoform 4 (human)
+obo:PR_Q9NTW7-3 zinc finger protein 64 isoform 5 (human)
+obo:PR_Q9NTW7-4 zinc finger protein 64 isoform 6 (human)
+obo:PR_Q99KE8-1 zinc finger protein 64 isoform m1 (mouse)
+obo:PR_Q99KE8-2 zinc finger protein 64 isoform m2 (mouse)
+obo:PR_Q99KE8-3 zinc finger protein 64 isoform m3 (mouse)
+obo:PR_O15015 zinc finger protein 646 (human)
+obo:PR_O15015-1 zinc finger protein 646 isoform h1 (human)
+obo:PR_O15015-2 zinc finger protein 646 isoform h2 (human)
+obo:PR_Q5T619 zinc finger protein 648 (human)
+obo:PR_Q5DU09 zinc finger protein 652 (mouse)
+obo:PR_A1L1J6 zinc finger protein 652 (rat)
+obo:PR_000040913 zinc finger protein 652 isoform 1
+obo:PR_Q5DU09-1 zinc finger protein 652 isoform 1 (mouse)
+obo:PR_Q5DU09-2 zinc finger protein 652 isoform m2 (mouse)
+obo:PR_A1L1J6-1 zinc finger protein 652 isoform 1 (rat)
+obo:PR_Q96CK0 zinc finger protein 653 (human)
+obo:PR_Q6YND2 zinc finger protein 653 (mouse)
+obo:PR_Q6YND2-1 zinc finger protein 653 isoform m1 (mouse)
+obo:PR_Q6YND2-2 zinc finger protein 653 isoform m2 (mouse)
+obo:PR_Q9DAU9 zinc finger protein 654 (mouse)
+obo:PR_Q5TYW1 zinc finger protein 658 (human)
+obo:PR_Q5TYW1-1 zinc finger protein 658 isoform h1 (human)
+obo:PR_Q5TYW1-2 zinc finger protein 658 isoform h2 (human)
+obo:PR_Q6AZW8 zinc finger protein 660 (human)
+obo:PR_Q19203 zinc finger protein unc-98 (worm)
+obo:PR_Q2V3L3 zinc finger transcription factor YY1 (Arabidopsis thaliana)
+obo:PR_Q2V3L3-1 zinc finger transcription factor YY1 isoform 1 (Arabidopsis thaliana)
+obo:PR_Q2V3L3-2 zinc finger transcription factor YY1 isoform 2 (Arabidopsis thaliana)
+obo:PR_Q96K58 zinc finger protein 668 (human)
+obo:PR_Q96K58-1 zinc finger protein 668 isoform h1 (human)
+obo:PR_Q96K58-2 zinc finger protein 668 isoform h2 (human)
+obo:PR_Q9BS34 zinc finger protein 670 (human)
+obo:PR_Q8TAW3 zinc finger protein 671 (human)
+obo:PR_Q99LH4 zinc finger protein 672 (mouse)
+obo:PR_000042784 zinc finger protein 672 isoform 1
+obo:PR_Q99LH4-1 zinc finger protein 672 isoform 1 (mouse)
+obo:PR_Q642B2-1 zinc finger protein 672 isoform 1 (rat)
+obo:PR_Q2M3X9 zinc finger protein 674 (human)
+obo:PR_Q2M3X9-1 zinc finger protein 674 isoform h1 (human)
+obo:PR_Q2M3X9-2 zinc finger protein 674 isoform h2 (human)
+obo:PR_Q8TD23 zinc finger protein 675 (human)
+obo:PR_Q8IYX0 zinc finger protein 679 (human)
+obo:PR_Q96N22 zinc finger protein 681 (human)
+obo:PR_Q96N22-1 zinc finger protein 681 isoform h1 (human)
+obo:PR_Q96N22-2 zinc finger protein 681 isoform h2 (human)
+obo:PR_Q5T5D7 zinc finger protein 684 (human)
+obo:PR_Q9D2D7 zinc finger protein 687 (mouse)
+obo:PR_Q9D2D7-1 zinc finger protein 687 isoform m1 (mouse)
+obo:PR_Q9D2D7-2 zinc finger protein 687 isoform m2 (mouse)
+obo:PR_Q9D2D7-3 zinc finger protein 687 isoform m3 (mouse)
+obo:PR_Q96CS4 zinc finger protein 689 (human)
+obo:PR_000041589 zinc finger protein 689 isoform 1
+obo:PR_Q99PJ7-1 zinc finger protein 689 isoform 1 (rat)
+obo:PR_Q9UC07 zinc finger protein 69 (human)
+obo:PR_Q9UC07-1 zinc finger protein 69 isoform h1 (human)
+obo:PR_Q9UC07-2 zinc finger protein 69 isoform h2 (human)
+obo:PR_Q49AA0 zinc finger protein 69 homolog (human)
+obo:PR_Q9UJL9 zinc finger protein 69 homolog B (human)
+obo:PR_Q9UJL9-1 zinc finger protein 69 homolog B isoform h1 (human)
+obo:PR_Q9UJL9-2 zinc finger protein 69 homolog B isoform h2 (human)
+obo:PR_Q5VV52 zinc finger protein 691 (human)
+obo:PR_Q3TDE8 zinc finger protein 691 (mouse)
+obo:PR_Q5VV52-2 zinc finger protein 691 isoform h1 (human)
+obo:PR_Q5VV52-3 zinc finger protein 691 isoform h2 (human)
+obo:PR_Q3U381 zinc finger protein 692 (mouse)
+obo:PR_Q5TEC3 zinc finger protein 697 (human)
+obo:PR_P17097 zinc finger protein 7 (human)
+obo:PR_P17097-1 zinc finger protein 7 isoform h1 (human)
+obo:PR_P17097-2 zinc finger protein 7 isoform h2 (human)
+obo:PR_P17097-3 zinc finger protein 7 isoform h3 (human)
+obo:PR_Q9H0M5 zinc finger protein 700 (human)
+obo:PR_Q9H7S9 zinc finger protein 703 (human)
+obo:PR_Q90ZE2 zinc finger protein 703 (zebrafish)
+obo:PR_Q90ZE2-1 zinc finger protein 703 isoform 1 (zebrafish)
+obo:PR_Q90ZE2-2 zinc finger protein 703 isoform 2 (zebrafish)
+obo:PR_Q6ZNC4 zinc finger protein 704 (human)
+obo:PR_Q1LY51 zinc finger protein 704 (zebrafish)
+obo:PR_P0CH99 zinc finger protein 705D (human)
+obo:PR_A8MUZ8 zinc finger protein 705G (human)
+obo:PR_D3ZJE5 protein Zfp706 (rat)
+obo:PR_Q5ZMM5 zinc finger protein 706 (chicken)
+obo:PR_Q9Y5V0 zinc finger protein 706 (human)
+obo:PR_Q9D115 zinc finger protein 706 (mouse)
+obo:PR_000044254 zinc finger protein 706 isoform 1
+obo:PR_Q5ZMM5-1 zinc finger protein 706 isoform 1 (chicken)
+obo:PR_Q9Y5V0-1 zinc finger protein 706 isoform 1 (human)
+obo:PR_Q9D115-1 zinc finger protein 706 isoform 1 (mouse)
+obo:PR_Q8N972 zinc finger protein 709 (human)
+obo:PR_Q9UTL5 transcription factor IIIA (Schizosaccharomyces pombe 972h-)
+obo:PR_Q9Y462 zinc finger protein 711 (human)
+obo:PR_A7Y7X5 zinc finger protein 711 (zebrafish)
+obo:PR_Q9Y462-1 zinc finger protein 711 isoform h1 (human)
+obo:PR_Q9Y462-2 zinc finger protein 711 isoform h2 (human)
+obo:PR_Q9Y462-3 zinc finger protein 711 isoform h3 (human)
+obo:PR_Q8N859 zinc finger protein 713 (human)
+obo:PR_Q96N38 zinc finger protein 714 (human)
+obo:PR_Q96N38-1 zinc finger protein 714 isoform h1 (human)
+obo:PR_Q96N38-2 zinc finger protein 714 isoform h2 (human)
+obo:PR_Q96N38-3 zinc finger protein 714 isoform h3 (human)
+obo:PR_A6NP11 zinc finger protein 716 (human)
+obo:PR_Q8TF20 zinc finger protein 721 (human)
+obo:PR_Q8TF20-1 zinc finger protein 721 isoform h1 (human)
+obo:PR_Q8TF20-2 zinc finger protein 721 isoform h2 (human)
+obo:PR_A6NNF4 zinc finger protein 726 (human)
+obo:PR_A6NNF4-1 zinc finger protein 726 isoform h1 (human)
+obo:PR_A6NNF4-2 zinc finger protein 726 isoform h2 (human)
+obo:PR_A6NNF4-3 zinc finger protein 726 isoform h3 (human)
+obo:PR_A6NN14 zinc finger protein 729 (human)
+obo:PR_B4DXR9 zinc finger protein 732 (human)
+obo:PR_O75373 zinc finger protein 737 (human)
+obo:PR_Q16587 zinc finger protein 74 (human)
+obo:PR_Q16587-2 zinc finger protein 74 isoform h1 (human)
+obo:PR_Q16587-1 zinc finger protein 74 isoform h2 (human)
+obo:PR_Q16587-3 zinc finger protein 74 isoform h3 (human)
+obo:PR_Q16587-4 zinc finger protein 74 isoform h4 (human)
+obo:PR_Q16587-5 zinc finger protein 74 isoform h5 (human)
+obo:PR_Q8BH05 zinc finger protein 750 (mouse)
+obo:PR_Q96N20 zinc finger protein 75A (human)
+obo:PR_P51815 zinc finger protein 75D (human)
+obo:PR_P51815-1 zinc finger protein 75D isoform h1 (human)
+obo:PR_P51815-2 zinc finger protein 75D isoform h2 (human)
+obo:PR_P36508 zinc finger protein 76 (human)
+obo:PR_P36508-2 zinc finger protein 76 isoform h1 (human)
+obo:PR_P36508-1 zinc finger protein 76 isoform h2 (human)
+obo:PR_Q5HY98 zinc finger protein 766 (human)
+obo:PR_Q9H5H4 zinc finger protein 768 (human)
+obo:PR_Q6IQ21 zinc finger protein 770 (human)
+obo:PR_Q8BIQ8 zinc finger protein 770 (mouse)
+obo:PR_Q7L3S4 zinc finger protein 771 (human)
+obo:PR_Q8BJ90 zinc finger protein 771 (mouse)
+obo:PR_000041343 zinc finger protein 771 isoform 1
+obo:PR_Q8BJ90-1 zinc finger protein 771 isoform 1 (mouse)
+obo:PR_Q7L3S4-1 zinc finger protein 771 isoform 1 (human)
+obo:PR_Q6PK81 zinc finger protein 773 (human)
+obo:PR_Q6PK81-1 zinc finger protein 773 isoform h1 (human)
+obo:PR_Q6PK81-2 zinc finger protein 773 isoform h2 (human)
+obo:PR_Q6NX45 zinc finger protein 774 (human)
+obo:PR_Q8BI73 zinc finger protein 775 (mouse)
+obo:PR_Q68DI1 zinc finger protein 776 (human)
+obo:PR_Q9ULD5 zinc finger protein 777 (human)
+obo:PR_Q9ULD5-1 zinc finger protein 777 isoform h1 (human)
+obo:PR_Q9ULD5-2 zinc finger protein 777 isoform h2 (human)
+obo:PR_Q9ULD5-3 zinc finger protein 777 isoform h3 (human)
+obo:PR_O75290 zinc finger protein 780A (human)
+obo:PR_O75290-1 zinc finger protein 780A isoform h1 (human)
+obo:PR_O75290-2 zinc finger protein 780A isoform h2 (human)
+obo:PR_O75290-3 zinc finger protein 780A isoform h3 (human)
+obo:PR_Q6ZMW2 zinc finger protein 782 (human)
+obo:PR_Q8NCA9 zinc finger protein 784 (human)
+obo:PR_Q8BI69 zinc finger protein 784 (mouse)
+obo:PR_Q20082 zinc finger protein zfp-2 (worm)
+obo:PR_Q8BIF9 zinc finger protein 787 (mouse)
+obo:PR_Q5FWF6 zinc finger protein 789 (human)
+obo:PR_Q5FWF6-1 zinc finger protein 789 isoform h1 (human)
+obo:PR_Q5FWF6-2 zinc finger protein 789 isoform h2 (human)
+obo:PR_Q5FWF6-3 zinc finger protein 789 isoform h3 (human)
+obo:PR_Q3KP31 zinc finger protein 791 (human)
+obo:PR_Q3KP31-1 zinc finger protein 791 isoform h1 (human)
+obo:PR_Q3KP31-2 zinc finger protein 791 isoform h2 (human)
+obo:PR_Q3KQV3 zinc finger protein 792 (human)
+obo:PR_Q6ZN11 zinc finger protein 793 (human)
+obo:PR_Q6ZN11-1 zinc finger protein 793 isoform h1 (human)
+obo:PR_Q6ZN11-2 zinc finger protein 793 isoform h2 (human)
+obo:PR_Q6ZN11-3 zinc finger protein 793 isoform h3 (human)
+obo:PR_Q2TB10 zinc finger protein 800 (human)
+obo:PR_Q0VEE6 zinc finger protein 800 (mouse)
+obo:PR_A2AKY4 zinc finger protein 804A (mouse)
+obo:PR_Q5CZA5 zinc finger protein 805 (human)
+obo:PR_Q5CZA5-1 zinc finger protein 805 isoform h1 (human)
+obo:PR_Q5CZA5-2 zinc finger protein 805 isoform h2 (human)
+obo:PR_Q8N4W9 zinc finger protein 808 (human)
+obo:PR_Q8N4W9-1 zinc finger protein 808 isoform h1 (human)
+obo:PR_Q8N4W9-2 zinc finger protein 808 isoform h2 (human)
+obo:PR_Q0VGE8 zinc finger protein 816 (human)
+obo:PR_O75541 zinc finger protein 821 (human)
+obo:PR_Q6PD05 zinc finger protein 821 (mouse)
+obo:PR_O75541-1 zinc finger protein 821 isoform h1 (human)
+obo:PR_O75541-2 zinc finger protein 821 isoform h2 (human)
+obo:PR_Q96JM3 chromosome alignment-maintaining phosphoprotein 1 (human)
+obo:PR_Q3KNS6 zinc finger protein 829 (human)
+obo:PR_Q3KNS6-1 zinc finger protein 829 isoform h1 (human)
+obo:PR_Q3KNS6-2 zinc finger protein 829 isoform h2 (human)
+obo:PR_Q3KNS6-3 zinc finger protein 829 isoform h3 (human)
+obo:PR_P51522 zinc finger protein 83 (human)
+obo:PR_P51522-1 zinc finger protein 83 isoform h1 (human)
+obo:PR_P51522-2 zinc finger protein 83 isoform h2 (human)
+obo:PR_Q9VBY5 CG11839 protein (fruit fly)
+obo:PR_000021882 zinc finger protein 830, initiator methionine removed form
+obo:PR_Q5JPB2 zinc finger protein 831 (human)
+obo:PR_Q6ZTB9 zinc finger protein 833 (human)
+obo:PR_Q96EG3 zinc finger protein 837 (human)
+obo:PR_Q6ZN19 zinc finger protein 841 (human)
+obo:PR_Q6ZN19-1 zinc finger protein 841 isoform h1 (human)
+obo:PR_Q6ZN19-2 zinc finger protein 841 isoform h2 (human)
+obo:PR_Q6ZN19-3 zinc finger protein 841 isoform h3 (human)
+obo:PR_Q8N446 zinc finger protein 843 (human)
+obo:PR_Q147U1 zinc finger protein 846 (human)
+obo:PR_Q147U1-1 zinc finger protein 846 isoform h1 (human)
+obo:PR_Q147U1-3 zinc finger protein 846 isoform h2 (human)
+obo:PR_Q03923 zinc finger protein 85 (human)
+obo:PR_Q03923-1 zinc finger protein 85 isoform h1 (human)
+obo:PR_Q03923-2 zinc finger protein 85 isoform h2 (human)
+obo:PR_Q03923-3 zinc finger protein 85 isoform h3 (human)
+obo:PR_Q3U3I9 zinc finger protein 865 (mouse)
+obo:PR_C9JN71 zinc finger protein 878 (human)
+obo:PR_B4DU55 zinc finger protein 879 (human)
+obo:PR_Q8BI99 zinc finger protein 879 (mouse)
+obo:PR_000037882 zinc finger protein 879 isoform 1
+obo:PR_B4DU55-1 zinc finger protein 879 isoform 1 (human)
+obo:PR_Q8BI99-1 zinc finger protein 879 isoform 1 (mouse)
+obo:PR_P0CG24 zinc finger protein 883 (human)
+obo:PR_Q5U307 protein Zfp458 (rat)
+obo:PR_Q61967 zinc finger protein 90 (mouse)
+obo:PR_F1LYK4 RCG42042, isoform CRA_c (rat)
+obo:PR_A6NK75 zinc finger protein 98 (human)
+obo:PR_A8MXY4 zinc finger protein 99 (human)
+obo:PR_Q7SXV2 zinc finger protein AEBP2 (zebrafish)
+obo:PR_000018919 zinc finger protein AEBP2, initiator methionine removed form
+obo:PR_Q7SXV2-1 zinc finger protein AEBP2 isoform 1 (zebrafish)
+obo:PR_Q7SXV2-2 zinc finger protein AEBP2 isoform 2 (zebrafish)
+obo:PR_Q01954 zinc finger protein basonuclin-1 (human)
+obo:PR_Q8BMQ3 zinc finger protein basonuclin-2 (mouse)
+obo:PR_Q8BMQ3-1 zinc finger protein basonuclin-2 isoform m1 (mouse)
+obo:PR_Q8BMQ3-2 zinc finger protein basonuclin-2 isoform m2 (mouse)
+obo:PR_Q92784 zinc finger protein DPF3 (human)
+obo:PR_P58269 zinc finger protein DPF3 (mouse)
+obo:PR_A9LMC0 zinc finger protein DPF3 (zebrafish)
+obo:PR_000042340 zinc finger protein DPF3 isoform 1
+obo:PR_000042341 zinc finger protein DPF3 isoform 2
+obo:PR_Q92784-1 zinc finger protein DPF3 isoform 1 (human)
+obo:PR_Q92784-2 zinc finger protein DPF3 isoform 2 (human)
+obo:PR_Q92784-3 zinc finger protein DPF3 isoform h3 (human)
+obo:PR_Q92784-4 zinc finger protein DPF3 isoform h4 (human)
+obo:PR_Q92784-5 zinc finger protein DPF3 isoform h5 (human)
+obo:PR_P58269-1 zinc finger protein DPF3 isoform 1 (mouse)
+obo:PR_P58269-2 zinc finger protein DPF3 isoform 2 (mouse)
+obo:PR_P58269-3 zinc finger protein DPF3 isoform m3 (mouse)
+obo:PR_P58269-4 zinc finger protein DPF3 isoform m4 (mouse)
+obo:PR_Q8BMD2 zinc finger protein DZIP1 (mouse)
+obo:PR_Q8BMD2-1 zinc finger protein DZIP1 isoform m1 (mouse)
+obo:PR_Q8BMD2-2 zinc finger protein DZIP1 isoform m2 (mouse)
+obo:PR_Q8BMD2-3 zinc finger protein DZIP1 isoform m3 (mouse)
+obo:PR_000049974 zinc finger protein DZIP1 isoform m1 unphosphorylated 1 (mouse)
+obo:PR_Q8IYY4 zinc finger protein DZIP1L (human)
+obo:PR_Q499E4 zinc finger protein DZIP1L (mouse)
+obo:PR_Q5XIA0 zinc finger protein DZIP1L (rat)
+obo:PR_Q32PN7 zinc finger protein DZIP1L (zebrafish)
+obo:PR_Q8IYY4-1 zinc finger protein DZIP1L isoform h1 (human)
+obo:PR_Q8IYY4-2 zinc finger protein DZIP1L isoform h2 (human)
+obo:PR_Q499E4-1 zinc finger protein DZIP1L isoform m1 (mouse)
+obo:PR_Q499E4-2 zinc finger protein DZIP1L isoform m2 (mouse)
+obo:PR_Q99684 zinc finger protein Gfi-1 (human)
+obo:PR_000041012 zinc finger protein Gfi-1b isoform 1
+obo:PR_Q5VTD9-1 zinc finger protein Gfi-1b isoform 1 (human)
+obo:PR_O70237-1 zinc finger protein Gfi-1b isoform 1 (mouse)
+obo:PR_P10075 zinc finger protein GLI4 (human)
+obo:PR_Q8NBF1 zinc finger protein GLIS1 (human)
+obo:PR_Q9BZE0 zinc finger protein GLIS2 (human)
+obo:PR_Q6XP49 zinc finger protein GLIS3 (mouse)
+obo:PR_Q6XP49-1 zinc finger protein GLIS3 isoform m1 (mouse)
+obo:PR_Q6XP49-2 zinc finger protein GLIS3 isoform m2 (mouse)
+obo:PR_Q92782 zinc finger protein neuro-d4 (human)
+obo:PR_Q9QX66 zinc finger protein neuro-d4 (mouse)
+obo:PR_P56163 zinc finger protein neuro-d4 (rat)
+obo:PR_Q92782-1 zinc finger protein neuro-d4 isoform h1 (human)
+obo:PR_Q92782-2 zinc finger protein neuro-d4 isoform h2 (human)
+obo:PR_Q92782-3 zinc finger protein neuro-d4 isoform h3 (human)
+obo:PR_Q9QX66-1 zinc finger protein neuro-d4 isoform m1 (mouse)
+obo:PR_Q9QX66-2 zinc finger protein neuro-d4 isoform m2 (mouse)
+obo:PR_Q9QX66-3 zinc finger protein neuro-d4 isoform m3 (mouse)
+obo:PR_P56163-1 zinc finger protein neuro-d4 isoform r1 (rat)
+obo:PR_P56163-2 zinc finger protein neuro-d4 isoform r2 (rat)
+obo:PR_P56163-3 zinc finger protein neuro-d4 isoform r3 (rat)
+obo:PR_P56163-4 zinc finger protein neuro-d4 isoform r4 (rat)
+obo:PR_Q8BQN6 zinc finger protein OZF (mouse)
+obo:PR_000040587 zinc finger protein OZF isoform 1
+obo:PR_Q15072-1 zinc finger protein OZF isoform 1 (human)
+obo:PR_Q8BQN6-1 zinc finger protein OZF isoform 1 (mouse)
+obo:PR_Q58NQ5 zinc finger protein PLAG1 (chicken)
+obo:PR_Q5U2T6 zinc finger protein PLAG1 (rat)
+obo:PR_000043787 zinc finger protein PLAG1 isoform 1
+obo:PR_Q9QYE0-1 zinc finger protein PLAG1 isoform 1 (mouse)
+obo:PR_Q5U2T6-1 zinc finger protein PLAG1 isoform 1 (rat)
+obo:PR_O14335 DNA-binding protein scr1 (Schizosaccharomyces pombe 972h-)
+obo:PR_Q9UPG8 zinc finger protein PLAGL2 (human)
+obo:PR_Q13129 zinc finger protein Rlf (human)
+obo:PR_P39413 adult enhancer factor 1 (fruit fly)
+obo:PR_Q02085 zinc finger protein SNAI1 (mouse)
+obo:PR_000038574 zinc finger protein SNAI1 isoform 1
+obo:PR_Q02085-1 zinc finger protein SNAI1 isoform 1 (mouse)
+obo:PR_P97469 zinc finger protein SNAI2 (mouse)
+obo:PR_P58268 zinc finger protein ubi-d4 (chicken)
+obo:PR_Q92785 zinc finger protein ubi-d4 (human)
+obo:PR_Q61103 zinc finger protein ubi-d4 (mouse)
+obo:PR_000042342 zinc finger protein ubi-d4 isoform 1
+obo:PR_000019701 zinc finger protein ubi-d4, initiator methionine removed form
+obo:PR_Q92785-2 zinc finger protein ubi-d4 isoform h2 (human)
+obo:PR_Q61103-1 zinc finger protein ubi-d4 isoform 1 (mouse)
+obo:PR_Q92785-1 zinc finger protein ubi-d4 isoform 1 (human)
+obo:PR_Q4KLI1 zinc finger protein with KRAB and SCAN domains 1 (rat)
+obo:PR_Q63HK3 zinc finger protein with KRAB and SCAN domains 2 (human)
+obo:PR_Q63HK3-1 zinc finger protein with KRAB and SCAN domains 2 isoform h1 (human)
+obo:PR_Q63HK3-2 zinc finger protein with KRAB and SCAN domains 2 isoform h2 (human)
+obo:PR_Q969J2 zinc finger protein with KRAB and SCAN domains 4 (human)
+obo:PR_Q9P0L1 zinc finger protein with KRAB and SCAN domains 7 (human)
+obo:PR_Q9P0L1-1 zinc finger protein with KRAB and SCAN domains 7 isoform h1 (human)
+obo:PR_Q9P0L1-2 zinc finger protein with KRAB and SCAN domains 7 isoform h2 (human)
+obo:PR_Q7TS63 zinc finger protein ZFAT (mouse)
+obo:PR_Q7TS63-1 zinc finger protein ZFAT isoform m1 (mouse)
+obo:PR_Q7TS63-2 zinc finger protein ZFAT isoform m2 (mouse)
+obo:PR_Q15915 zinc finger protein ZIC 1 (human)
+obo:PR_000040686 zinc finger protein ZIC 1 isoform 1
+obo:PR_Q15915-1 zinc finger protein ZIC 1 isoform 1 (human)
+obo:PR_P46684-1 zinc finger protein ZIC 1 isoform 1 (mouse)
+obo:PR_Q62520 zinc finger protein ZIC 2 (mouse)
+obo:PR_Q62521 zinc finger protein ZIC 3 (mouse)
+obo:PR_Q62521-1 zinc finger protein ZIC 3 isoform m1 (mouse)
+obo:PR_Q62521-2 zinc finger protein ZIC 3 isoform m2 (mouse)
+obo:PR_Q8N9L1 zinc finger protein ZIC 4 (human)
+obo:PR_Q8N9L1-1 zinc finger protein ZIC 4 isoform h1 (human)
+obo:PR_Q8N9L1-2 zinc finger protein ZIC 4 isoform h2 (human)
+obo:PR_Q8N9L1-3 zinc finger protein ZIC 4 isoform h3 (human)
+obo:PR_Q8N9L1-4 zinc finger protein ZIC 4 isoform h4 (human)
+obo:PR_Q8N9L1-5 zinc finger protein ZIC 4 isoform h5 (human)
+obo:PR_Q96T25 zinc finger protein ZIC 5 (human)
+obo:PR_Q7TQ40 zinc finger protein ZIC 5 (mouse)
+obo:PR_O13724 zinc finger protein zpr1 (Schizosaccharomyces pombe 972h-)
+obo:PR_P53303 zinc finger protein ZPR1 (yeast)
+obo:PR_000038330 zinc finger protein ZPR1 isoform 1
+obo:PR_O75312-1 zinc finger protein ZPR1 isoform 1 (human)
+obo:PR_Q62384-1 zinc finger protein ZPR1 isoform 1 (mouse)
+obo:PR_O95159 zinc finger protein-like 1 (human)
+obo:PR_Q9DB43 zinc finger protein-like 1 (mouse)
+obo:PR_Q551M4 zinc finger protein-like 1 homolog (Dictyostelium discoideum)
+obo:PR_Q9VD26 zinc finger protein-like 1 homolog (fruit fly)
+obo:PR_000038492 zinc finger protein-like 1 isoform 1
+obo:PR_O95159-1 zinc finger protein-like 1 isoform 1 (human)
+obo:PR_Q9DB43-1 zinc finger protein-like 1 isoform 1 (mouse)
+obo:PR_Q9AST1 transcription initiation factor TFIID subunit 15 (Arabidopsis thaliana)
+obo:PR_O95218 zinc finger Ran-binding domain-containing protein 2 (human)
+obo:PR_000043797 zinc finger Ran-binding domain-containing protein 2 isoform 1
+obo:PR_O95218-1 zinc finger Ran-binding domain-containing protein 2 isoform h1 (human)
+obo:PR_O95218-2 zinc finger Ran-binding domain-containing protein 2 isoform h2 (human)
+obo:PR_Q9R020-1 zinc finger Ran-binding domain-containing protein 2 isoform 1 (mouse)
+obo:PR_Q562A2 zinc finger RNA-binding protein (rat)
+obo:PR_000042589 zinc finger RNA-binding protein isoform 1
+obo:PR_Q96KR1-1 zinc finger RNA-binding protein isoform 1 (human)
+obo:PR_Q9UPR6 zinc finger RNA-binding protein 2 (human)
+obo:PR_Q9UPR6-1 zinc finger RNA-binding protein 2 isoform h1 (human)
+obo:PR_Q9UPR6-2 zinc finger RNA-binding protein 2 isoform h2 (human)
+obo:PR_Q9UPR6-3 zinc finger RNA-binding protein 2 isoform h3 (human)
+obo:PR_Q9CWV7 zinc finger SWIM domain-containing protein 1 (mouse)
+obo:PR_Q96MP5 zinc finger SWIM domain-containing protein 3 (human)
+obo:PR_Q9H7M6 zinc finger SWIM domain-containing protein 4 (human)
+obo:PR_Q9P217 zinc finger SWIM domain-containing protein 5 (human)
+obo:PR_Q9CWQ2 zinc finger SWIM domain-containing protein 7 (mouse)
+obo:PR_Q55FI7 zinc finger SWIM domain-containing protein 7 homolog (Dictyostelium discoideum)
+obo:PR_Q9UHF7 zinc finger transcription factor Trps1 (human)
+obo:PR_Q9UHF7-1 zinc finger transcription factor Trps1 isoform h1 (human)
+obo:PR_Q9UHF7-2 zinc finger transcription factor Trps1 isoform h2 (human)
+obo:PR_Q9UHF7-3 zinc finger transcription factor Trps1 isoform h3 (human)
+obo:PR_P17010 zinc finger X-chromosomal protein (human)
+obo:PR_P17010-1 zinc finger X-chromosomal protein isoform h1 (human)
+obo:PR_P17010-2 zinc finger X-chromosomal protein isoform h2 (human)
+obo:PR_P17010-3 zinc finger X-chromosomal protein isoform h3 (human)
+obo:PR_P98168 zinc finger X-linked protein ZXDA (human)
+obo:PR_P08048 zinc finger Y-chromosomal protein (human)
+obo:PR_P08048-1 zinc finger Y-chromosomal protein isoform h1 (human)
+obo:PR_P08048-2 zinc finger Y-chromosomal protein isoform h2 (human)
+obo:PR_P08048-3 zinc finger Y-chromosomal protein isoform h3 (human)
+obo:PR_P10925 zinc finger Y-chromosomal protein 1 (mouse)
+obo:PR_O43149 zinc finger ZZ-type and EF-hand domain-containing protein 1 (human)
+obo:PR_O43149-1 zinc finger ZZ-type and EF-hand domain-containing protein 1 isoform h1 (human)
+obo:PR_O43149-2 zinc finger ZZ-type and EF-hand domain-containing protein 1 isoform h2 (human)
+obo:PR_O43149-3 zinc finger ZZ-type and EF-hand domain-containing protein 1 isoform h3 (human)
+obo:PR_Q96AP4 zinc finger-containing ubiquitin peptidase 1 (human)
+obo:PR_Q5U2S3 zinc finger-containing ubiquitin peptidase 1 (rat)
+obo:PR_000040795 zinc finger-containing ubiquitin peptidase 1 isoform 1
+obo:PR_Q96AP4-1 zinc finger-containing ubiquitin peptidase 1 isoform h1 (human)
+obo:PR_Q96AP4-2 zinc finger-containing ubiquitin peptidase 1 isoform h2 (human)
+obo:PR_Q5U2S3-1 zinc finger-containing ubiquitin peptidase 1 isoform 1 (rat)
+obo:PR_Q3T9Z9-1 zinc finger-containing ubiquitin peptidase 1 isoform 1 (mouse)
+obo:PR_Q9UKY1 zinc fingers and homeoboxes protein 1 (human)
+obo:PR_P70121 zinc fingers and homeoboxes protein 1 (mouse)
+obo:PR_Q8R515 zinc fingers and homeoboxes protein 1 (rat)
+obo:PR_000043983 zinc fingers and homeoboxes protein 1 isoform 1
+obo:PR_Q9UKY1-1 zinc fingers and homeoboxes protein 1 isoform 1 (human)
+obo:PR_P70121-1 zinc fingers and homeoboxes protein 1 isoform 1 (mouse)
+obo:PR_Q8C0C0 zinc fingers and homeoboxes protein 2 (mouse)
+obo:PR_Q80VX4 zinc fingers and homeoboxes protein 2 (rat)
+obo:PR_Q8C0Q2 zinc fingers and homeoboxes protein 3 (mouse)
+obo:PR_Q80Z36 zinc fingers and homeoboxes protein 3 (rat)
+obo:PR_Q2YJH4 zinc import ATP-binding protein ZnuC (Brucella abortus 2308)
+obo:PR_Q576K0 zinc import ATP-binding protein ZnuC (Brucella abortus bv. 1 str. 9-941)
+obo:PR_Q8YDJ8 zinc import ATP-binding protein ZnuC (Brucella melitensis bv. 1 str. 16M)
+obo:PR_P0A9X1 zinc import ATP-binding protein ZnuC (Escherichia coli K-12)
+obo:PR_O44476 ribonuclease Z (worm)
+obo:PR_P36159 ribonuclease Z (yeast)
+obo:PR_Q80Y81 zinc phosphodiesterase ELAC protein 2 (mouse)
+obo:PR_Q8CGS5 zinc phosphodiesterase ELAC protein 2 (rat)
+obo:PR_O44476-1 ribonuclease Z isoform a (worm)
+obo:PR_O44476-2 ribonuclease Z isoform b (worm)
+obo:PR_Q80Y81-1 zinc phosphodiesterase ELAC protein 2 isoform m1 (mouse)
+obo:PR_Q80Y81-2 zinc phosphodiesterase ELAC protein 2 isoform m2 (mouse)
+obo:PR_000024833 zinc resistance-associated protein, signal peptide removed form
+obo:PR_Q9Y6M5 zinc transporter 1 (human)
+obo:PR_Q3UVU3 zinc transporter 10 (mouse)
+obo:PR_Q3UVU3-1 zinc transporter 10 isoform m1 (mouse)
+obo:PR_Q3UVU3-2 zinc transporter 10 isoform m2 (mouse)
+obo:PR_Q9BRI3 zinc transporter 2 (human)
+obo:PR_Q9BRI3-1 zinc transporter 2 isoform h1 (human)
+obo:PR_Q9BRI3-2 zinc transporter 2 isoform h2 (human)
+obo:PR_Q6QIX3 zinc transporter 3 (rat)
+obo:PR_000042739 zinc transporter 3 isoform 1
+obo:PR_Q6QIX3-1 zinc transporter 3 isoform 1 (rat)
+obo:PR_Q6QIX3-2 zinc transporter 3 isoform r2 (rat)
+obo:PR_Q8TAD4 zinc transporter 5 (human)
+obo:PR_Q8TAD4-1 zinc transporter 5 isoform h1 (human)
+obo:PR_Q8TAD4-2 zinc transporter 5 isoform h2 (human)
+obo:PR_Q8TAD4-3 zinc transporter 5 isoform h3 (human)
+obo:PR_Q8TAD4-4 zinc transporter 5 isoform h4 (human)
+obo:PR_Q6NXT4 zinc transporter 6 (human)
+obo:PR_Q8BJM5 zinc transporter 6 (mouse)
+obo:PR_000041582 zinc transporter 6 isoform 1
+obo:PR_Q6NXT4-1 zinc transporter 6 isoform h1 (human)
+obo:PR_Q6NXT4-2 zinc transporter 6 isoform h2 (human)
+obo:PR_Q6NXT4-3 zinc transporter 6 isoform h3 (human)
+obo:PR_Q6NXT4-4 zinc transporter 6 isoform h4 (human)
+obo:PR_Q8BJM5-1 zinc transporter 6 isoform 1 (mouse)
+obo:PR_Q5ZIH3-1 zinc transporter 6 isoform 1 (chicken)
+obo:PR_Q6ICY4 metal tolerance protein C2 (Arabidopsis thaliana)
+obo:PR_Q5MNV6 zinc transporter 7 (chicken)
+obo:PR_Q5BJM8 zinc transporter 7 (rat)
+obo:PR_A5PMX1 zinc transporter 7 (zebrafish)
+obo:PR_000043434 zinc transporter 7 isoform 1
+obo:PR_Q6ICY4-1 metal tolerance protein C2 isoform 1 (Arabidopsis thaliana)
+obo:PR_Q9JKN1-1 zinc transporter 7 isoform 1 (mouse)
+obo:PR_Q5BJM8-1 zinc transporter 7 isoform 1 (rat)
+obo:PR_Q8BGG0 zinc transporter 8 (mouse)
+obo:PR_P0CE46 zinc transporter 8 (rat)
+obo:PR_Q5IRJ6 zinc transporter 9 (mouse)
+obo:PR_Q5PQZ3 zinc transporter 9 (zebrafish)
+obo:PR_Q5IRJ6-1 zinc transporter 9 isoform m1 (mouse)
+obo:PR_Q5IRJ6-2 zinc transporter 9 isoform m2 (mouse)
+obo:PR_Q9M647 IAA-alanine resistance protein 1 (Arabidopsis thaliana)
+obo:PR_Q9V3A4 protein catecholamines up (fruit fly)
+obo:PR_Q31125 zinc transporter SLC39A7 (mouse)
+obo:PR_Q9XTQ7 zinc transporter zipt-7.2 (worm)
+obo:PR_Q9QZ03 zinc transporter ZIP1 (mouse)
+obo:PR_000043649 zinc transporter ZIP1 isoform 1
+obo:PR_Q9QZ03-1 zinc transporter ZIP1 isoform 1 (mouse)
+obo:PR_Q9NY26-1 zinc transporter ZIP1 isoform 1 (human)
+obo:PR_Q9ULF5 zinc transporter ZIP10 (human)
+obo:PR_Q6PEH9 zinc transporter ZIP10 (zebrafish)
+obo:PR_Q9ULF5-1 zinc transporter ZIP10 isoform h1 (human)
+obo:PR_Q9ULF5-2 zinc transporter ZIP10 isoform h2 (human)
+obo:PR_000049267 zinc transporter ZIP10, signal peptide removed form (human)
+obo:PR_Q6P6S2 zinc transporter ZIP11 (rat)
+obo:PR_E1BZE0 uncharacterized protein, SLC39A12 translation product (chicken)
+obo:PR_P40544 zinc transporter YKE4 (yeast)
+obo:PR_Q5ZI20 zinc transporter ZIP13 (chicken)
+obo:PR_Q96H72 zinc transporter ZIP13 (human)
+obo:PR_Q2M1K6 zinc transporter ZIP13 (rat)
+obo:PR_Q96H72-1 zinc transporter ZIP13 isoform h1 (human)
+obo:PR_Q96H72-2 zinc transporter ZIP13 isoform h2 (human)
+obo:PR_A0A0G2KQY6 zinc transporter ZIP14 (zebrafish)
+obo:PR_Q9SLG3 zinc transporter 3 (Arabidopsis thaliana)
+obo:PR_Q9NP94 zinc transporter ZIP2 (human)
+obo:PR_Q9NP94-1 zinc transporter ZIP2 isoform h1 (human)
+obo:PR_Q9NP94-2 zinc transporter ZIP2 isoform h2 (human)
+obo:PR_O64738 zinc transporter 6, chloroplastic (Arabidopsis thaliana)
+obo:PR_Q9BRY0 zinc transporter ZIP3 (human)
+obo:PR_Q99K24 zinc transporter ZIP3 (mouse)
+obo:PR_Q5U1X7 zinc transporter ZIP3 (rat)
+obo:PR_000042774 zinc transporter ZIP3 isoform 1
+obo:PR_Q9BRY0-1 zinc transporter ZIP3 isoform h1 (human)
+obo:PR_Q9BRY0-2 zinc transporter ZIP3 isoform h2 (human)
+obo:PR_Q5U1X7-1 zinc transporter ZIP3 isoform 1 (rat)
+obo:PR_Q99K24-1 zinc transporter ZIP3 isoform 1 (mouse)
+obo:PR_Q78IQ7 zinc transporter ZIP4 (mouse)
+obo:PR_A0JPN2 zinc transporter ZIP4 (rat)
+obo:PR_Q78IQ7-1 zinc transporter ZIP4 isoform 1 (mouse)
+obo:PR_Q78IQ7-2 zinc transporter ZIP4 isoform m2 (mouse)
+obo:PR_Q9D856 zinc transporter ZIP5 (mouse)
+obo:PR_Q9VSL7 zinc transporter foi (fruit fly)
+obo:PR_Q13433 zinc transporter ZIP6 (human)
+obo:PR_Q8C145 zinc transporter ZIP6 (mouse)
+obo:PR_Q4V887 zinc transporter ZIP6 (rat)
+obo:PR_000021502 zinc transporter ZIP6, signal peptide removed form
+obo:PR_Q13433-1 zinc transporter ZIP6 isoform h1 (human)
+obo:PR_Q13433-2 zinc transporter ZIP6 isoform h2 (human)
+obo:PR_000049271 zinc transporter ZIP6, signal peptide removed form (human)
+obo:PR_Q91W10 zinc transporter ZIP8 (mouse)
+obo:PR_Q5FVQ0 zinc transporter ZIP8 (rat)
+obo:PR_000042240 zinc transporter ZIP8 isoform 1
+obo:PR_Q91W10-2 zinc transporter ZIP8 isoform m2 (mouse)
+obo:PR_Q5FVQ0-1 zinc transporter ZIP8 isoform 1 (rat)
+obo:PR_Q91W10-1 zinc transporter ZIP8 isoform 1 (mouse)
+obo:PR_Q12067 metal homeostasis factor ATX2 (yeast)
+obo:PR_Q9NUM3 zinc transporter ZIP9 (human)
+obo:PR_Q9NUM3-1 zinc transporter ZIP9 isoform h1 (human)
+obo:PR_Q9NUM3-2 zinc transporter ZIP9 isoform h2 (human)
+obo:PR_Q9NUM3-3 zinc transporter ZIP9 isoform h3 (human)
+obo:PR_P13512 metal cation efflux system protein CzcD (Cupriavidus metallidurans CH34)
+obo:PR_Q9LXS1 metal tolerance protein A2 (Arabidopsis thaliana)
+obo:PR_Q9LXS1-1 metal tolerance protein A2 isoform 1 (Arabidopsis thaliana)
+obo:PR_P0A8H3 zinc transporter ZupT (Escherichia coli K-12)
+obo:PR_Q9K1H6 zinc transporter ZupT (Neisseria meningitidis MC58)
+obo:PR_P0AC51 zinc uptake regulation protein (Escherichia coli K-12)
+obo:PR_P25311 zinc-alpha-2-glycoprotein (human)
+obo:PR_Q63678 zinc-alpha-2-glycoprotein (rat)
+obo:PR_000019095 zinc-alpha-2-glycoprotein, signal peptide removed form
+obo:PR_000046451 zinc-alpha-2-glycoprotein, signal peptide removed form (human)
+obo:PR_P33030 zinc-binding GTPase YeiR (Escherichia coli K-12)
+obo:PR_E1C9B5 uncharacterized protein, Znf365 translation product (chicken)
+obo:PR_000036318 ZNF365 gene translation product (human)
+obo:PR_Q70YC5-1 protein ZNF365 isoform 1 (human)
+obo:PR_Q70YC5-2 protein ZNF365 isoform 2 (human)
+obo:PR_Q70YC5-3 protein ZNF365 isoform 3 (human)
+obo:PR_Q70YC5-4 protein ZNF365 isoform 5 (human)
+obo:PR_Q70YC5-5 protein ZNF365 isoform 6 (human)
+obo:PR_Q70YC5 protein ZNF365 isoforms 1/2/3/5/6 (human)
+obo:PR_Q70YC4-1 talanin (human)
+obo:PR_P60852 zona pellucida sperm-binding protein 1 (human)
+obo:PR_Q62005 zona pellucida sperm-binding protein 1 (mouse)
+obo:PR_O54766 zona pellucida sperm-binding protein 1 (rat)
+obo:PR_000021885 zona pellucida sperm-binding protein 1 proteolytic cleavage product
+obo:PR_000021884 zona pellucida sperm-binding protein 1, signal peptide removed form
+obo:PR_Q05996 zona pellucida sperm-binding protein 2 (human)
+obo:PR_O54767 zona pellucida sperm-binding protein 2 (rat)
+obo:PR_000021888 zona pellucida sperm-binding protein 2 proteolytic cleavage product
+obo:PR_000021887 zona pellucida sperm-binding protein 2, signal peptide removed form
+obo:PR_Q05996-1 zona pellucida sperm-binding protein 2 isoform h1 (human)
+obo:PR_Q05996-2 zona pellucida sperm-binding protein 2 isoform h2 (human)
+obo:PR_P21754 zona pellucida sperm-binding protein 3 (human)
+obo:PR_P97708 zona pellucida sperm-binding protein 3 (rat)
+obo:PR_000038817 zona pellucida sperm-binding protein 3 isoform 1
+obo:PR_000021891 zona pellucida sperm-binding protein 3 proteolytic cleavage product
+obo:PR_000021890 zona pellucida sperm-binding protein 3, signal peptide removed form
+obo:PR_P21754-3 zona pellucida sperm-binding protein 3 isoform h3 (human)
+obo:PR_P21754-1 zona pellucida sperm-binding protein 3 isoform hZP3A (human)
+obo:PR_P21754-2 zona pellucida sperm-binding protein 3 isoform hZP3B (human)
+obo:PR_P97708-1 zona pellucida sperm-binding protein 3 isoform 1 (rat)
+obo:PR_000027880 zona pellucida sperm-binding protein 3 receptor isoform 1
+obo:PR_000021896 zona pellucida sperm-binding protein 3 receptor, signal peptide removed form
+obo:PR_Q0VET1 zona pellucida sperm-binding protein 3 receptor isoform 1 (mouse)
+obo:PR_Q12836 zona pellucida sperm-binding protein 4 (human)
+obo:PR_000027877 zona pellucida-binding protein 1 isoform 1
+obo:PR_Q9BS86-1 zona pellucida-binding protein 1 isoform 1 (human)
+obo:PR_Q62522-1 zona pellucida-binding protein 1 isoform 1 (mouse)
+obo:PR_Q6PVW7 zona pellucida-binding protein 2 (chicken)
+obo:PR_000027873 zona pellucida-binding protein 2 isoform 1
+obo:PR_Q6X786-1 zona pellucida-binding protein 2 isoform 1 (mouse)
+obo:PR_000042080 zona pellucida-like domain-containing protein 1 isoform 1
+obo:PR_Q8BGZ8-1 zona pellucida-like domain-containing protein 1 isoform 1 (mouse)
+obo:PR_Q7T3T8 zygote arrest protein 1 (zebrafish)
+obo:PR_O60844 zymogen granule membrane protein 16 (human)
+obo:PR_Q8K0C5 zymogen granule membrane protein 16 (mouse)
+obo:PR_Q8CJD3 zymogen granule membrane protein 16 (rat)
+obo:PR_000038282 zymogen granule membrane protein 16 isoform 1
+obo:PR_000021879 zymogen granule membrane protein 16, signal peptide removed form
+obo:PR_O60844-1 zymogen granule membrane protein 16 isoform 1 (human)
+obo:PR_Q8CJD3-1 zymogen granule membrane protein 16 isoform 1 (rat)
+obo:PR_Q96DA0 zymogen granule protein 16 homolog B (human)
+obo:PR_Q15942 zyxin (human)
+obo:PR_000021894 zyxin, initiator methionine removed form
+obo:PR_Q15942-1 zyxin isoform h1 (human)
+obo:PR_Q15942-2 zyxin isoform h2 (human)
+obo:PR_Q6KAQ7 ZZ-type zinc finger-containing protein 3 (mouse)
+obo:PR_000028955 ZZ-type zinc finger-containing protein 3 isoform 1
+obo:PR_000041739 ZZ-type zinc finger-containing protein 3 isoform 3
+obo:PR_Q6KAQ7-1 ZZ-type zinc finger-containing protein 3 isoform 1 (mouse)
+obo:PR_Q6KAQ7-2 ZZ-type zinc finger-containing protein 3 isoform 2 (mouse)
+obo:PR_Q6KAQ7-3 ZZ-type zinc finger-containing protein 3 isoform m3 (mouse)
+obo:PR_Q8IYH5-3 ZZ-type zinc finger-containing protein 3 isoform 3 (human)
+dto:DTO_02400001 GPCR
+dto:DTO_01400327 Ion channel
+dto:DTO_03400101 Kinase
+dto:DTO_00200002 Nuclear hormone receptor
+dto:DTO_02402008 Adhesion class
+dto:DTO_02400002 Class A rhodopsin like
+dto:DTO_02400003 Class B secretin like
+dto:DTO_02400004 Class C metabotropic glutamate/pheromone
+dto:DTO_02400005 Class F frizzled-type
+dto:DTO_02400006 Other 7TM proteins
+dto:DTO_02200039 BAI1
+dto:DTO_02200040 BAI2
+dto:DTO_02200041 BAI3
+dto:DTO_02400032 Cadherin EGF LAG (CELSR) receptor
+dto:DTO_02200063 CD97
+dto:DTO_02200089 EMR1
+dto:DTO_02200090 EMR2
+dto:DTO_02200091 EMR3
+dto:DTO_02200092 EMR4P
+dto:DTO_02200129 GPR110
+dto:DTO_02200130 GPR111
+dto:DTO_02200131 GPR112
+dto:DTO_02200132 GPR113
+dto:DTO_02200133 GPR114
+dto:DTO_02200134 GPR115
+dto:DTO_02200135 GPR116
+dto:DTO_02200137 GPR123
+dto:DTO_02200138 GPR124
+dto:DTO_02200139 GPR125
+dto:DTO_02200140 GPR126
+dto:DTO_02200141 GPR128
+dto:DTO_02200143 GPR133
+dto:DTO_02200149 GPR144
+dto:DTO_02200202 GPR56
+dto:DTO_02200206 GPR64
+dto:DTO_02200216 GPR97
+dto:DTO_02200217 GPR98
+dto:DTO_02400039 Latrophilin receptor
+dto:DTO_02200064 CELSR1
+dto:DTO_02200065 CELSR2
+dto:DTO_02200066 CELSR3
+dto:DTO_02200088 ELTD1
+dto:DTO_02200244 LPHN1
+dto:DTO_02200245 LPHN2
+dto:DTO_02200246 LPHN3
+dto:DTO_02400017 5-hydroxytryptamine receptor
+dto:DTO_02400020 Acetylcholine receptor (muscarinic)
+dto:DTO_02400018 Adenosine receptor
+dto:DTO_02400022 Adrenoceptor
+dto:DTO_02400054 Adrenomedullin receptor
+dto:DTO_02400027 Anaphylatoxin receptor
+dto:DTO_02400023 Angiotensin receptor
+dto:DTO_02400024 Apelin receptor
+dto:DTO_02200815 AVPR1A
+dto:DTO_02200816 AVPR1B
+dto:DTO_02200817 AVPR2
+dto:DTO_02400055 Bile acid receptor
+dto:DTO_02400026 Bombesin receptor
+dto:DTO_02400025 Bradykinin receptor
+dto:DTO_02400035 Cannabinoid receptor
+dto:DTO_02400034 Chemerin receptor
+dto:DTO_02400031 Chemokine receptor
+dto:DTO_02400057 Chemokine receptor-like
+dto:DTO_02400030 Cholecystokinin receptor
+dto:DTO_02400037 Dopamine receptor
+dto:DTO_02400038 Endothelin receptor
+dto:DTO_02400056 Estrogen (G protein-coupled) receptor
+dto:DTO_02400041 Formyl peptide receptor
+dto:DTO_02400040 Free fatty acid receptor
+dto:DTO_02400058 Galanin like
+dto:DTO_02400046 Galanin receptor
+dto:DTO_02400048 Ghrelin receptor
+dto:DTO_02400042 Glycoprotein hormone receptor
+dto:DTO_02400050 Gonadotrophin-releasing hormone receptor
+dto:DTO_02200182 GPR1
+dto:DTO_02200136 GPR119
+dto:DTO_02200177 GPR12
+dto:DTO_02200142 GPR132
+dto:DTO_02200145 GPR139
+dto:DTO_02200146 GPR141
+dto:DTO_02200147 GPR142
+dto:DTO_02200150 GPR146
+dto:DTO_02200151 GPR148
+dto:DTO_02200152 GPR149
+dto:DTO_02200178 GPR15
+dto:DTO_02200153 GPR150
+dto:DTO_02200154 GPR151
+dto:DTO_02200161 GPR161
+dto:DTO_02200164 GPR173
+dto:DTO_02200165 GPR174
+dto:DTO_02200180 GPR18
+dto:DTO_02200169 GPR183
+dto:DTO_02200181 GPR19
+dto:DTO_02200187 GPR26
+dto:DTO_02200188 GPR27
+dto:DTO_02200196 GPR3
+dto:DTO_02200189 GPR31
+dto:DTO_02200190 GPR32
+dto:DTO_02200171 GPR32P1
+dto:DTO_02200192 GPR34
+dto:DTO_02200193 GPR35
+dto:DTO_02200194 GPR37
+dto:DTO_02200195 GPR39
+dto:DTO_02200197 GPR42
+dto:DTO_02200198 GPR45
+dto:DTO_02200269 GPR50
+dto:DTO_02200201 GPR55
+dto:DTO_02200207 GPR6
+dto:DTO_02200203 GPR61
+dto:DTO_02200204 GPR62
+dto:DTO_02200205 GPR63
+dto:DTO_02200752 GPR65
+dto:DTO_02200464 GPR68
+dto:DTO_02200208 GPR75
+dto:DTO_02200209 GPR78
+dto:DTO_02200211 GPR83
+dto:DTO_02200213 GPR85
+dto:DTO_02200215 GPR88
+dto:DTO_02200721 HCRTR1
+dto:DTO_02200722 HCRTR2
+dto:DTO_02400061 Histamine receptor
+dto:DTO_02400060 Hydroxycarboxylic acid receptor
+dto:DTO_02400062 Kisspeptin receptor
+dto:DTO_02400033 Leukotriene receptor
+dto:DTO_02200235 LGR4
+dto:DTO_02200236 LGR5
+dto:DTO_02200237 LGR6
+dto:DTO_02402007 Lysophospholipid (LPA) receptor
+dto:DTO_02400063 Mas proto-oncogene and Mas-related (MRGs) receptor
+dto:DTO_02400052 Melanin-concentrating hormone receptor
+dto:DTO_02400021 Melanocortin receptor
+dto:DTO_02400065 Melatonin receptor
+dto:DTO_02400064 Motilin receptor
+dto:DTO_02400067 Neuromedin U receptor
+dto:DTO_02400069 Neuropeptide FF/neuropeptide AF receptor
+dto:DTO_02400070 Neuropeptide S receptor
+dto:DTO_02400068 Neuropeptide W/neuropeptide B receptor
+dto:DTO_02400071 Neuropeptide Y receptor
+dto:DTO_02400072 Neurotensin receptor
+dto:DTO_02400013 Olfactory receptor
+dto:DTO_02200475 OPN1LW
+dto:DTO_02200474 OPN1MW; OPN1MW2
+dto:DTO_02200472 OPN1SW
+dto:DTO_02200465 OPN3
+dto:DTO_02200466 OPN4
+dto:DTO_02200467 OPN5
+dto:DTO_02200468 OPRD1
+dto:DTO_02200469 OPRK1
+dto:DTO_02200471 OPRL1
+dto:DTO_02200470 OPRM1
+dto:DTO_02200723 OXER1
+dto:DTO_02200724 OXGR1
+dto:DTO_02200725 OXTR
+dto:DTO_02200751 PRLHR
+dto:DTO_02200749 PROKR1
+dto:DTO_02200750 PROKR2
+dto:DTO_02400079 Proteinase-activated receptor
+dto:DTO_02200753 PTAFR
+dto:DTO_02200742 PTGDR
+dto:DTO_02200741 PTGDR2
+dto:DTO_02200743 PTGER1
+dto:DTO_02200744 PTGER2
+dto:DTO_02200745 PTGER3
+dto:DTO_02200746 PTGER4
+dto:DTO_02200747 PTGFR
+dto:DTO_02200748 PTGIR
+dto:DTO_02400053 Purinoceptor
+dto:DTO_02200756 QRFPR
+dto:DTO_02200758 RGR
+dto:DTO_02200473 RHO
+dto:DTO_02200476 RRH
+dto:DTO_02200761 RXFP1
+dto:DTO_02200762 RXFP2
+dto:DTO_02200759 RXFP3
+dto:DTO_02200760 RXFP4
+dto:DTO_02200763 S1PR1
+dto:DTO_02200764 S1PR2
+dto:DTO_02200765 S1PR3
+dto:DTO_02200766 S1PR4
+dto:DTO_02200767 S1PR5
+dto:DTO_02200770 SSTR1
+dto:DTO_02200771 SSTR2
+dto:DTO_02200772 SSTR3
+dto:DTO_02200773 SSTR4
+dto:DTO_02200774 SSTR5
+dto:DTO_02200775 SUCNR1
+dto:DTO_02200801 TAAR1
+dto:DTO_02200802 TAAR2
+dto:DTO_02200803 TAAR3
+dto:DTO_02200804 TAAR5
+dto:DTO_02200805 TAAR6
+dto:DTO_02200806 TAAR8
+dto:DTO_02200807 TAAR9
+dto:DTO_02400066 Tachykinin receptor
+dto:DTO_02400014 Taste 2 receptor
+dto:DTO_02200800 TBXA2R
+dto:DTO_02200809 TRHR
+dto:DTO_02200813 TSHR
+dto:DTO_02200814 UTS2R
+dto:DTO_02400016 Vomeronasal receptor
+dto:DTO_02200826 XCR1
+dto:DTO_02402001 5-HT1 receptor
+dto:DTO_02402002 5-HT2 receptor
+dto:DTO_02402003 5-HT4 receptor
+dto:DTO_02402004 5-HT5 receptor
+dto:DTO_02402005 5-HT6 receptor
+dto:DTO_02402006 5-HT7 receptor
+dto:DTO_02200001 HTR1A
+dto:DTO_02200002 HTR1B
+dto:DTO_02200003 HTR1D
+dto:DTO_02200004 HTR1E
+dto:DTO_02200005 HTR1F
+dto:DTO_02200006 HTR2A
+dto:DTO_02200007 HTR2B
+dto:DTO_02200008 HTR2C
+dto:DTO_02200009 HTR4
+dto:DTO_02200010 HTR5A
+dto:DTO_02200011 HTR6
+dto:DTO_02200012 HTR7
+dto:DTO_02200021 CHRM1
+dto:DTO_02200022 CHRM2
+dto:DTO_02200023 CHRM3
+dto:DTO_02200024 CHRM4
+dto:DTO_02200025 CHRM5
+dto:DTO_02200013 ADORA1
+dto:DTO_02200014 ADORA2A
+dto:DTO_02200015 ADORA2B
+dto:DTO_02200016 ADORA3
+dto:DTO_02400093 Alpha adrenoceptor
+dto:DTO_02400094 Beta adrenoceptor
+dto:DTO_02200027 ADRA1A
+dto:DTO_02200028 ADRA1B
+dto:DTO_02200029 ADRA1D
+dto:DTO_02200030 ADRA2A
+dto:DTO_02200031 ADRA2B
+dto:DTO_02200032 ADRA2C
+dto:DTO_02200033 ADRB1
+dto:DTO_02200034 ADRB2
+dto:DTO_02200035 ADRB3
+dto:DTO_02200168 GPR182
+dto:DTO_02200045 C3AR1
+dto:DTO_02200046 C5AR1
+dto:DTO_02200047 C5AR2
+dto:DTO_02200036 AGTR1
+dto:DTO_02200037 AGTR2
+dto:DTO_02200186 GPR25
+dto:DTO_02200210 GPR82
+dto:DTO_02200038 APLNR
+dto:DTO_02200170 GPBAR1
+dto:DTO_02200044 BRS3
+dto:DTO_02200226 GRPR
+dto:DTO_02200273 NMBR
+dto:DTO_02200042 BDKRB1
+dto:DTO_02200043 BDKRB2
+dto:DTO_02200070 CNR1
+dto:DTO_02200071 CNR2
+dto:DTO_02200069 CMKLR1
+dto:DTO_02200017 ACKR1
+dto:DTO_02200018 ACKR2
+dto:DTO_02200019 ACKR3
+dto:DTO_02200020 ACKR4
+dto:DTO_02400095 C-C chemokine receptor
+dto:DTO_02400097 C-X-C chemokine receptor
+dto:DTO_02400096 C-X3-C chemokine receptor
+dto:DTO_02200075 CXCR1
+dto:DTO_02200076 CXCR2
+dto:DTO_02200053 CCR1
+dto:DTO_02200052 CCR10
+dto:DTO_02200054 CCR2
+dto:DTO_02200055 CCR3
+dto:DTO_02200056 CCR4
+dto:DTO_02200057 CCR5
+dto:DTO_02200058 CCR6
+dto:DTO_02200059 CCR7
+dto:DTO_02200060 CCR8
+dto:DTO_02200061 CCR9
+dto:DTO_02200062 CCRL2
+dto:DTO_02200127 GPR101
+dto:DTO_02200077 CXCR3
+dto:DTO_02200078 CXCR4
+dto:DTO_02200079 CXCR5
+dto:DTO_02200080 CXCR6
+dto:DTO_02200074 CX3CR1
+dto:DTO_02200191 GPR33
+dto:DTO_02200051 CCKAR
+dto:DTO_02200118 CCKBR
+dto:DTO_02200081 DRD1
+dto:DTO_02200082 DRD2
+dto:DTO_02200083 DRD3
+dto:DTO_02200084 DRD4
+dto:DTO_02200085 DRD5
+dto:DTO_02200144 GPR135
+dto:DTO_02400098 Endothelin type A
+dto:DTO_02400099 Endothelin type B
+dto:DTO_02200093 GPR37L1
+dto:DTO_02200086 EDNRA
+dto:DTO_02200087 EDNRB
+dto:DTO_02200176 GPER1
+dto:DTO_02200098 FPR1
+dto:DTO_02200099 FPR2
+dto:DTO_02200100 FPR3
+dto:DTO_02200094 FFAR1
+dto:DTO_02200095 FFAR2
+dto:DTO_02200096 FFAR3
+dto:DTO_02200097 FFAR4
+dto:DTO_02200212 GPR84
+dto:DTO_02200115 GALR1
+dto:DTO_02200116 GALR2
+dto:DTO_02200117 GALR3
+dto:DTO_02200120 GHSR
+dto:DTO_02200101 FSHR
+dto:DTO_02200247 LHCGR
+dto:DTO_02200125 GNRHR
+dto:DTO_02200126 GNRHR2
+dto:DTO_02200230 HRH1
+dto:DTO_02200231 HRH2
+dto:DTO_02200232 HRH3
+dto:DTO_02200233 HRH4
+dto:DTO_02200227 HCAR1
+dto:DTO_02200228 HCAR2
+dto:DTO_02200229 HCAR3
+dto:DTO_02200234 KISS1R
+dto:DTO_02200067 CYSLTR1
+dto:DTO_02200068 CYSLTR2
+dto:DTO_02200179 GPR17
+dto:DTO_02200248 LTB4R
+dto:DTO_02200249 LTB4R2
+dto:DTO_02200238 LPAR1
+dto:DTO_02200239 LPAR2
+dto:DTO_02200240 LPAR3
+dto:DTO_02200241 LPAR4
+dto:DTO_02200242 LPAR5
+dto:DTO_02200243 LPAR6
+dto:DTO_02200251 MAS1
+dto:DTO_02200250 MAS1L
+dto:DTO_02200257 MRGPRD
+dto:DTO_02200258 MRGPRE
+dto:DTO_02200259 MRGPRF
+dto:DTO_02200260 MRGPRG
+dto:DTO_02200261 MRGPRX1
+dto:DTO_02200262 MRGPRX2
+dto:DTO_02200263 MRGPRX3
+dto:DTO_02200264 MRGPRX4
+dto:DTO_02200155 GPR152
+dto:DTO_02200156 GPR153
+dto:DTO_02200160 GPR160
+dto:DTO_02200162 GPR162
+dto:DTO_02200255 MCHR1
+dto:DTO_02200256 MCHR2
+dto:DTO_02200265 MC1R
+dto:DTO_02200026 MC2R
+dto:DTO_02200252 MC3R
+dto:DTO_02200253 MC4R
+dto:DTO_02200254 MC5R
+dto:DTO_02200267 MTNR1A
+dto:DTO_02200268 MTNR1B
+dto:DTO_02200266 MLNR
+dto:DTO_02200274 NMUR1
+dto:DTO_02200275 NMUR2
+dto:DTO_02200278 NPFFR1
+dto:DTO_02200279 NPFFR2
+dto:DTO_02200280 NPSR1
+dto:DTO_02200276 NPBWR1
+dto:DTO_02200277 NPBWR2
+dto:DTO_02200281 NPY1R
+dto:DTO_02200282 NPY2R
+dto:DTO_02200283 NPY4R
+dto:DTO_02200284 NPY5R
+dto:DTO_02402009 NPY6R
+dto:DTO_02200286 NTSR1
+dto:DTO_02200287 NTSR2
+dto:DTO_02200288 OR10A2
+dto:DTO_02200289 OR10A3
+dto:DTO_02200290 OR10A4
+dto:DTO_02200291 OR10A5
+dto:DTO_02200292 OR10A6
+dto:DTO_02200293 OR10A7
+dto:DTO_02200294 OR10AC1
+dto:DTO_02200295 OR10AD1
+dto:DTO_02200296 OR10AG1
+dto:DTO_02200297 OR10C1
+dto:DTO_02200298 OR10D3
+dto:DTO_02200299 OR10D4P
+dto:DTO_02200300 OR10G2
+dto:DTO_02200301 OR10G3
+dto:DTO_02200302 OR10G4
+dto:DTO_02200303 OR10G6
+dto:DTO_02200304 OR10G7
+dto:DTO_02200305 OR10G8
+dto:DTO_02200306 OR10G9
+dto:DTO_02200307 OR10H1
+dto:DTO_02200308 OR10H2
+dto:DTO_02200309 OR10H3
+dto:DTO_02200310 OR10H4
+dto:DTO_02200311 OR10H5
+dto:DTO_02200312 OR10J1
+dto:DTO_02200313 OR10J3
+dto:DTO_02200314 OR10J4
+dto:DTO_02200315 OR10J5
+dto:DTO_02200316 OR10J6P
+dto:DTO_02200317 OR10K1
+dto:DTO_02200318 OR10K2
+dto:DTO_02200319 OR10P1
+dto:DTO_02200320 OR10Q1
+dto:DTO_02200321 OR10R2
+dto:DTO_02200322 OR10S1
+dto:DTO_02200323 OR10T2
+dto:DTO_02200324 OR10V1
+dto:DTO_02200325 OR10W1
+dto:DTO_02200326 OR10X1
+dto:DTO_02200327 OR10Z1
+dto:DTO_02200328 OR11A1
+dto:DTO_02200329 OR11G2
+dto:DTO_02200330 OR11H1
+dto:DTO_02200335 OR11H12
+dto:DTO_02200331 OR11H2
+dto:DTO_02200332 OR11H4
+dto:DTO_02200333 OR11H6
+dto:DTO_02200334 OR11H7
+dto:DTO_02200336 OR11L1
+dto:DTO_02200337 OR12D2
+dto:DTO_02200338 OR12D3
+dto:DTO_02200339 OR13A1
+dto:DTO_02200340 OR13C2
+dto:DTO_02200341 OR13C3
+dto:DTO_02200342 OR13C4
+dto:DTO_02200343 OR13C5
+dto:DTO_02200827 OR13C6P
+dto:DTO_02200344 OR13C8
+dto:DTO_02200345 OR13C9
+dto:DTO_02200346 OR13D1
+dto:DTO_02200347 OR13F1
+dto:DTO_02200348 OR13G1
+dto:DTO_02200349 OR13H1
+dto:DTO_02200350 OR13J1
+dto:DTO_02200352 OR14A16
+dto:DTO_02200351 OR14A2
+dto:DTO_02200353 OR14C36
+dto:DTO_02200354 OR14I1
+dto:DTO_02200355 OR14J1
+dto:DTO_02200356 OR14K1
+dto:DTO_02200357 OR14L1P
+dto:DTO_02200477 OR1A1
+dto:DTO_02200478 OR1A2
+dto:DTO_02200479 OR1B1
+dto:DTO_02200480 OR1C1
+dto:DTO_02200481 OR1D2
+dto:DTO_02200482 OR1D4
+dto:DTO_02200483 OR1D5
+dto:DTO_02200484 OR1E1
+dto:DTO_02200485 OR1E2
+dto:DTO_02200486 OR1E3
+dto:DTO_02200487 OR1F1
+dto:DTO_02200489 OR1F12
+dto:DTO_02200488 OR1F2P
+dto:DTO_02200490 OR1G1
+dto:DTO_02200491 OR1I1
+dto:DTO_02200492 OR1J1
+dto:DTO_02200493 OR1J2
+dto:DTO_02200494 OR1J4
+dto:DTO_02200495 OR1K1
+dto:DTO_02200496 OR1L1
+dto:DTO_02200497 OR1L3
+dto:DTO_02200498 OR1L4
+dto:DTO_02200499 OR1L6
+dto:DTO_02200500 OR1L8
+dto:DTO_02200501 OR1M1
+dto:DTO_02200502 OR1N1
+dto:DTO_02200503 OR1N2
+dto:DTO_02200504 OR1P1
+dto:DTO_02200505 OR1Q1
+dto:DTO_02200506 OR1S1
+dto:DTO_02200507 OR1S2
+dto:DTO_02200358 OR2A12
+dto:DTO_02200359 OR2A14
+dto:DTO_02200508 OR2A1; OR2A42
+dto:DTO_02200509 OR2A2
+dto:DTO_02200360 OR2A25
+dto:DTO_02200510 OR2A4
+dto:DTO_02200511 OR2A5
+dto:DTO_02200512 OR2A7
+dto:DTO_02200361 OR2AE1
+dto:DTO_02200362 OR2AG1
+dto:DTO_02200363 OR2AG2
+dto:DTO_02200364 OR2AJ1
+dto:DTO_02200365 OR2AK2
+dto:DTO_02200366 OR2AP1
+dto:DTO_02200367 OR2AT4
+dto:DTO_02200517 OR2B11
+dto:DTO_02200513 OR2B2
+dto:DTO_02200514 OR2B3
+dto:DTO_02200515 OR2B6
+dto:DTO_02200516 OR2B8P
+dto:DTO_02200518 OR2C1
+dto:DTO_02200519 OR2C3
+dto:DTO_02200520 OR2D2
+dto:DTO_02200521 OR2D3
+dto:DTO_02200522 OR2F1
+dto:DTO_02200523 OR2F2
+dto:DTO_02200524 OR2G2
+dto:DTO_02200525 OR2G3
+dto:DTO_02200526 OR2G6
+dto:DTO_02200527 OR2H1
+dto:DTO_02200528 OR2H2
+dto:DTO_02200529 OR2I1P
+dto:DTO_02200530 OR2J1
+dto:DTO_02200531 OR2J2
+dto:DTO_02200532 OR2J3
+dto:DTO_02200533 OR2K2
+dto:DTO_02200538 OR2L13
+dto:DTO_02200534 OR2L2
+dto:DTO_02200535 OR2L3
+dto:DTO_02200536 OR2L5
+dto:DTO_02200537 OR2L8
+dto:DTO_02200539 OR2M2
+dto:DTO_02200540 OR2M3
+dto:DTO_02200541 OR2M4
+dto:DTO_02200542 OR2M5
+dto:DTO_02200543 OR2M7
+dto:DTO_02200544 OR2S2
+dto:DTO_02200545 OR2T1
+dto:DTO_02200368 OR2T10
+dto:DTO_02200369 OR2T11
+dto:DTO_02200370 OR2T12
+dto:DTO_02200546 OR2T2
+dto:DTO_02200371 OR2T27
+dto:DTO_02200372 OR2T29
+dto:DTO_02200547 OR2T3
+dto:DTO_02200373 OR2T33
+dto:DTO_02200374 OR2T34
+dto:DTO_02200375 OR2T35
+dto:DTO_02200548 OR2T4
+dto:DTO_02200549 OR2T5
+dto:DTO_02200550 OR2T6
+dto:DTO_02200551 OR2T7
+dto:DTO_02200552 OR2T8
+dto:DTO_02200553 OR2V1
+dto:DTO_02200554 OR2V2
+dto:DTO_02200555 OR2W1
+dto:DTO_02200556 OR2W3
+dto:DTO_02200557 OR2W5
+dto:DTO_02200558 OR2W6P
+dto:DTO_02200559 OR2Y1
+dto:DTO_02200560 OR2Z1
+dto:DTO_02200561 OR3A1
+dto:DTO_02200562 OR3A2
+dto:DTO_02200563 OR3A3
+dto:DTO_02200564 OR3A4P
+dto:DTO_02200376 OR4A15
+dto:DTO_02200377 OR4A16
+dto:DTO_02200378 OR4A47
+dto:DTO_02200565 OR4A4P
+dto:DTO_02200566 OR4A5
+dto:DTO_02200567 OR4A8P
+dto:DTO_02200568 OR4B1
+dto:DTO_02200572 OR4C11
+dto:DTO_02200573 OR4C12
+dto:DTO_02200574 OR4C13
+dto:DTO_02200575 OR4C15
+dto:DTO_02200576 OR4C16
+dto:DTO_02200569 OR4C3
+dto:DTO_02200379 OR4C45
+dto:DTO_02200380 OR4C46
+dto:DTO_02200570 OR4C5
+dto:DTO_02200571 OR4C6
+dto:DTO_02200577 OR4D1
+dto:DTO_02200582 OR4D10
+dto:DTO_02200583 OR4D11
+dto:DTO_02200578 OR4D2
+dto:DTO_02200579 OR4D5
+dto:DTO_02200580 OR4D6
+dto:DTO_02200581 OR4D9
+dto:DTO_02200584 OR4E1
+dto:DTO_02200585 OR4E2
+dto:DTO_02200381 OR4F15
+dto:DTO_02200382 OR4F17
+dto:DTO_02200383 OR4F21
+dto:DTO_02200586 OR4F3; OR4F16; OR4F29
+dto:DTO_02200587 OR4F4
+dto:DTO_02200588 OR4F5
+dto:DTO_02200589 OR4F6
+dto:DTO_02200590 OR4K1
+dto:DTO_02200594 OR4K13
+dto:DTO_02200595 OR4K14
+dto:DTO_02200596 OR4K15
+dto:DTO_02200597 OR4K17
+dto:DTO_02200591 OR4K2
+dto:DTO_02200592 OR4K3
+dto:DTO_02200593 OR4K5
+dto:DTO_02200598 OR4L1
+dto:DTO_02200599 OR4M1
+dto:DTO_02200600 OR4M2
+dto:DTO_02200601 OR4N2
+dto:DTO_02200602 OR4N4
+dto:DTO_02200603 OR4N5
+dto:DTO_02200604 OR4P4
+dto:DTO_02200605 OR4Q2
+dto:DTO_02200606 OR4Q3
+dto:DTO_02200607 OR4S1
+dto:DTO_02200608 OR4S2
+dto:DTO_02200609 OR4X1
+dto:DTO_02200610 OR4X2
+dto:DTO_02200384 OR51A2
+dto:DTO_02200385 OR51A4
+dto:DTO_02200386 OR51A7
+dto:DTO_02200387 OR51B2
+dto:DTO_02200388 OR51B4
+dto:DTO_02200389 OR51B5
+dto:DTO_02200390 OR51B6
+dto:DTO_02200391 OR51D1
+dto:DTO_02200392 OR51E1
+dto:DTO_02200393 OR51E2
+dto:DTO_02200394 OR51F1
+dto:DTO_02200395 OR51F2
+dto:DTO_02200396 OR51G1
+dto:DTO_02200397 OR51G2
+dto:DTO_02200398 OR51H1P
+dto:DTO_02200399 OR51I1
+dto:DTO_02200400 OR51I2
+dto:DTO_02200401 OR51J1
+dto:DTO_02200402 OR51L1
+dto:DTO_02200403 OR51M1
+dto:DTO_02200404 OR51Q1
+dto:DTO_02200405 OR51S1
+dto:DTO_02200406 OR51T1
+dto:DTO_02200407 OR51V1
+dto:DTO_02200408 OR52A1
+dto:DTO_02200409 OR52A4
+dto:DTO_02200410 OR52A5
+dto:DTO_02200411 OR52B2
+dto:DTO_02200412 OR52B4
+dto:DTO_02200413 OR52B6
+dto:DTO_02200414 OR52D1
+dto:DTO_02200415 OR52E1
+dto:DTO_02200416 OR52E2
+dto:DTO_02200417 OR52E4
+dto:DTO_02200418 OR52E5
+dto:DTO_02200419 OR52E6
+dto:DTO_02200420 OR52E8
+dto:DTO_02200421 OR52H1
+dto:DTO_02200422 OR52I1
+dto:DTO_02200423 OR52I2
+dto:DTO_02200424 OR52J3
+dto:DTO_02200425 OR52K1
+dto:DTO_02200426 OR52K2
+dto:DTO_02200427 OR52L1
+dto:DTO_02200428 OR52L2P
+dto:DTO_02200429 OR52M1
+dto:DTO_02200430 OR52N1
+dto:DTO_02200431 OR52N2
+dto:DTO_02200432 OR52N4
+dto:DTO_02200433 OR52N5
+dto:DTO_02200434 OR52P1P
+dto:DTO_02200435 OR52R1
+dto:DTO_02200436 OR52W1
+dto:DTO_02200437 OR52Z1
+dto:DTO_02200438 OR56A1
+dto:DTO_02200439 OR56A3
+dto:DTO_02200440 OR56A4
+dto:DTO_02200441 OR56A5
+dto:DTO_02200442 OR56B1
+dto:DTO_02200443 OR56B2P
+dto:DTO_02200444 OR56B4
+dto:DTO_02200611 OR5A1
+dto:DTO_02200612 OR5A2
+dto:DTO_02200445 OR5AC1
+dto:DTO_02200446 OR5AC2
+dto:DTO_02200447 OR5AK2
+dto:DTO_02200448 OR5AK3P
+dto:DTO_02200449 OR5AL1
+dto:DTO_02200450 OR5AN1
+dto:DTO_02200451 OR5AP2
+dto:DTO_02200452 OR5AR1
+dto:DTO_02200453 OR5AS1
+dto:DTO_02200454 OR5AU1
+dto:DTO_02200615 OR5B12
+dto:DTO_02200616 OR5B17
+dto:DTO_02200613 OR5B2
+dto:DTO_02200617 OR5B21
+dto:DTO_02200614 OR5B3
+dto:DTO_02200618 OR5C1
+dto:DTO_02200619 OR5D13
+dto:DTO_02200620 OR5D14
+dto:DTO_02200621 OR5D16
+dto:DTO_02200622 OR5D18
+dto:DTO_02200623 OR5F1
+dto:DTO_02200624 OR5G3
+dto:DTO_02200625 OR5H1
+dto:DTO_02200455 OR5H14
+dto:DTO_02200456 OR5H15
+dto:DTO_02200626 OR5H2
+dto:DTO_02200627 OR5H6
+dto:DTO_02200628 OR5I1
+dto:DTO_02200629 OR5J2
+dto:DTO_02200630 OR5K1
+dto:DTO_02200631 OR5K2
+dto:DTO_02200632 OR5K3
+dto:DTO_02200633 OR5K4
+dto:DTO_02200634 OR5L1
+dto:DTO_02200635 OR5L2
+dto:DTO_02200636 OR5M1
+dto:DTO_02200640 OR5M10
+dto:DTO_02200641 OR5M11
+dto:DTO_02200637 OR5M3
+dto:DTO_02200638 OR5M8
+dto:DTO_02200639 OR5M9
+dto:DTO_02200642 OR5P2
+dto:DTO_02200643 OR5P3
+dto:DTO_02200644 OR5R1
+dto:DTO_02200645 OR5T1
+dto:DTO_02200646 OR5T2
+dto:DTO_02200647 OR5T3
+dto:DTO_02200648 OR5V1
+dto:DTO_02200649 OR5W2
+dto:DTO_02200650 OR6A2
+dto:DTO_02200651 OR6B1
+dto:DTO_02200652 OR6B2
+dto:DTO_02200653 OR6B3
+dto:DTO_02200654 OR6C1
+dto:DTO_02200655 OR6C2
+dto:DTO_02200656 OR6C3
+dto:DTO_02200657 OR6C4
+dto:DTO_02200658 OR6C6
+dto:DTO_02200457 OR6C65
+dto:DTO_02200458 OR6C68
+dto:DTO_02200459 OR6C70
+dto:DTO_02200460 OR6C74
+dto:DTO_02200461 OR6C75
+dto:DTO_02200462 OR6C76
+dto:DTO_02200659 OR6F1
+dto:DTO_02200660 OR6J1
+dto:DTO_02200661 OR6K2
+dto:DTO_02200662 OR6K3
+dto:DTO_02200663 OR6K6
+dto:DTO_02200664 OR6M1
+dto:DTO_02200665 OR6N1
+dto:DTO_02200666 OR6N2
+dto:DTO_02200667 OR6P1
+dto:DTO_02200668 OR6Q1
+dto:DTO_02200669 OR6S1
+dto:DTO_02200670 OR6T1
+dto:DTO_02200671 OR6V1
+dto:DTO_02200672 OR6X1
+dto:DTO_02200673 OR6Y1
+dto:DTO_02200676 OR7A10
+dto:DTO_02200677 OR7A17
+dto:DTO_02200674 OR7A2P
+dto:DTO_02200675 OR7A5
+dto:DTO_02200678 OR7C1
+dto:DTO_02200679 OR7C2
+dto:DTO_02200680 OR7D2
+dto:DTO_02200681 OR7D4
+dto:DTO_02200463 OR7E24
+dto:DTO_02200682 OR7G1
+dto:DTO_02200683 OR7G2
+dto:DTO_02200684 OR7G3
+dto:DTO_02200685 OR8A1
+dto:DTO_02200690 OR8B12
+dto:DTO_02200686 OR8B2
+dto:DTO_02200687 OR8B3
+dto:DTO_02200688 OR8B4
+dto:DTO_02200689 OR8B8
+dto:DTO_02200691 OR8D1
+dto:DTO_02200692 OR8D2
+dto:DTO_02200693 OR8D4
+dto:DTO_02200694 OR8G1
+dto:DTO_02200695 OR8G2
+dto:DTO_02200696 OR8G5
+dto:DTO_02200697 OR8H1
+dto:DTO_02200698 OR8H2
+dto:DTO_02200699 OR8H3
+dto:DTO_02200700 OR8I2
+dto:DTO_02200701 OR8J1
+dto:DTO_02200702 OR8J2
+dto:DTO_02200703 OR8J3
+dto:DTO_02200704 OR8K1
+dto:DTO_02200705 OR8K3
+dto:DTO_02200706 OR8K5
+dto:DTO_02200707 OR8S1
+dto:DTO_02200708 OR8U1
+dto:DTO_02200709 OR8U8
+dto:DTO_02200710 OR8U9
+dto:DTO_02200711 OR9A1P
+dto:DTO_02200712 OR9A2
+dto:DTO_02200713 OR9A4
+dto:DTO_02200714 OR9G1
+dto:DTO_02200715 OR9G4
+dto:DTO_02200716 OR9G9
+dto:DTO_02200717 OR9I1
+dto:DTO_02200718 OR9K2
+dto:DTO_02200719 OR9Q1
+dto:DTO_02200720 OR9Q2
+dto:DTO_02200737 F2R
+dto:DTO_02200738 F2RL1
+dto:DTO_02200739 F2RL2
+dto:DTO_02200740 F2RL3
+dto:DTO_02200163 GPR171
+dto:DTO_02200166 GPR176
+dto:DTO_02200183 GPR20
+dto:DTO_02200184 GPR21
+dto:DTO_02200185 GPR22
+dto:DTO_02200199 GPR4
+dto:DTO_02200200 GPR52
+dto:DTO_02200214 GPR87
+dto:DTO_02400100 P2Y receptor
+dto:DTO_02200726 P2RY1
+dto:DTO_02200731 P2RY10
+dto:DTO_02200732 P2RY11
+dto:DTO_02200733 P2RY12
+dto:DTO_02200734 P2RY13
+dto:DTO_02200735 P2RY14
+dto:DTO_02200727 P2RY2
+dto:DTO_02200728 P2RY4
+dto:DTO_02200729 P2RY6
+dto:DTO_02200730 P2RY8
+dto:DTO_02200270 TACR1
+dto:DTO_02200271 TACR2
+dto:DTO_02200272 TACR3
+dto:DTO_02200793 TAS2R1
+dto:DTO_02200776 TAS2R10
+dto:DTO_02200777 TAS2R13
+dto:DTO_02200778 TAS2R14
+dto:DTO_02200779 TAS2R16
+dto:DTO_02200780 TAS2R19
+dto:DTO_02200781 TAS2R20
+dto:DTO_02200794 TAS2R3
+dto:DTO_02200782 TAS2R30
+dto:DTO_02200783 TAS2R31
+dto:DTO_02200784 TAS2R38
+dto:DTO_02200785 TAS2R39
+dto:DTO_02200795 TAS2R4
+dto:DTO_02200786 TAS2R40
+dto:DTO_02200787 TAS2R41
+dto:DTO_02200788 TAS2R42
+dto:DTO_02200789 TAS2R43
+dto:DTO_02200790 TAS2R46
+dto:DTO_02200796 TAS2R5
+dto:DTO_02200791 TAS2R50
+dto:DTO_02200792 TAS2R60
+dto:DTO_02200797 TAS2R7
+dto:DTO_02200798 TAS2R8
+dto:DTO_02200799 TAS2R9
+dto:DTO_02200820 VN1R1
+dto:DTO_02402010 VN1R17P
+dto:DTO_02200821 VN1R2
+dto:DTO_02200822 VN1R3
+dto:DTO_02200823 VN1R4
+dto:DTO_02200824 VN1R5
+dto:DTO_02200736 ADCYAP1R1
+dto:DTO_02400028 Calcitonin receptor
+dto:DTO_02400036 Corticotropin-releasing factor receptor
+dto:DTO_02400047 Glucagon receptor
+dto:DTO_02200158 GPR157
+dto:DTO_02400084 Parathyroid hormone receptor
+dto:DTO_02200818 VIPR1
+dto:DTO_02200819 VIPR2
+dto:DTO_02200048 CALCR
+dto:DTO_02200049 CALCRL
+dto:DTO_02200072 CRHR1
+dto:DTO_02200073 CRHR2
+dto:DTO_02200124 GCGR
+dto:DTO_02200119 GHRHR
+dto:DTO_02200121 GIPR
+dto:DTO_02200122 GLP1R
+dto:DTO_02200123 GLP2R
+dto:DTO_02200768 SCTR
+dto:DTO_02200754 PTH1R
+dto:DTO_02200755 PTH2R
+dto:DTO_02400029 Calcium-sensing receptor
+dto:DTO_02400045 GABA-B receptor
+dto:DTO_02200159 GPR158
+dto:DTO_02200167 GPR179
+dto:DTO_02200757 GPRC5A
+dto:DTO_02200172 GPRC5B
+dto:DTO_02200173 GPRC5C
+dto:DTO_02200174 GPRC5D
+dto:DTO_02400059 Metabotropic glutamate receptor
+dto:DTO_02400015 Taste 1 receptor
+dto:DTO_02200050 CASR
+dto:DTO_02200175 GPRC6A
+dto:DTO_02200113 GABBR1
+dto:DTO_02200114 GABBR2
+dto:DTO_02200157 GPR156
+dto:DTO_02200218 GRM1
+dto:DTO_02200219 GRM2
+dto:DTO_02200220 GRM3
+dto:DTO_02200221 GRM4
+dto:DTO_02200222 GRM5
+dto:DTO_02200223 GRM6
+dto:DTO_02200224 GRM7
+dto:DTO_02200225 GRM8
+dto:DTO_02200810 TAS1R1
+dto:DTO_02200811 TAS1R2
+dto:DTO_02200812 TAS1R3
+dto:DTO_02400043 Frizzled receptor
+dto:DTO_02200769 SMO
+dto:DTO_02200103 FZD1
+dto:DTO_02200102 FZD10
+dto:DTO_02200104 FZD2
+dto:DTO_02200105 FZD3
+dto:DTO_02200106 FZD4
+dto:DTO_02200107 FZD5
+dto:DTO_02200108 FZD6
+dto:DTO_02200109 FZD7
+dto:DTO_02200110 FZD8
+dto:DTO_02200111 FZD9
+dto:DTO_02400044 GPR137 family
+dto:DTO_02200148 GPR143
+dto:DTO_02400051 LU7TM family
+dto:DTO_02400090 UPF0359 family
+dto:DTO_02200112 GPR137
+dto:DTO_02200128 GPR107
+dto:DTO_02200808 TPRA1
+dto:DTO_01400338 ABCC family
+dto:DTO_01400330 Amiloride-sensitive sodium channel family
+dto:DTO_01400373 Anion channel tweety (tweety) family
+dto:DTO_01400331 Anion channel-forming bestrophin (bestrophin) family
+dto:DTO_01400364 Atp-gated p2x receptor cation channel (p2x receptor) family
+dto:DTO_01400333 Calcium channel alpha-1 subunit family
+dto:DTO_01400336 Calcium channel auxiliary subunit 1-8 (cca) family
+dto:DTO_01400332 Calcium channel auxiliary subunit 2 types 1-4 (cca-2) family
+dto:DTO_01400334 Calcium channel auxiliary subunit types 1-4 (cca-) family
+dto:DTO_01400335 Calcium homeostasis modulator calcium channel (calhm-c) family
+dto:DTO_01400344 Calcium release-activated calcium (crac) channel (crac-c) family
+dto:DTO_01400358 Calcium-activated potassium channel auxiliary subunit slowpoke- (slo) family
+dto:DTO_01400329 Calcium-dependent chloride channel (ca-clc) family
+dto:DTO_01400345 Cation channel sperm-associated family
+dto:DTO_01400363 Cation-nonselective channel family
+dto:DTO_01400341 Chloride channel family
+dto:DTO_01400343 Cyclic nucleotide-gated cation channel family
+dto:DTO_01400339 Epithelial chloride channel (e-clc) family
+dto:DTO_01400347 FAM26 family
+dto:DTO_01400348 Fxyd family
+dto:DTO_01400365 Gap junction-forming innexin (innexin) family
+dto:DTO_01400351 Glutamate-gated ion channel (GIC) Family of Neurotransmitter Receptors
+dto:DTO_01400350 Golgi pH regulator family
+dto:DTO_01400342 Intracellular chloride channel (clic) family
+dto:DTO_01400340 Intracellular chloride channel (icc) family
+dto:DTO_01400353 Inward rectifier-type potassium channel family
+dto:DTO_01200172 KCNIP1
+dto:DTO_01200173 KCNIP2
+dto:DTO_01200092 KCNIP3
+dto:DTO_01200245 LRRC26
+dto:DTO_01200246 LRRC38
+dto:DTO_01200247 LRRC52
+dto:DTO_01200248 LRRC55
+dto:DTO_01400361 MCU family
+dto:DTO_01400366 Mechanical nociceptor, piezo (piezo) family
+dto:DTO_01400362 Membrane protein mlc1 family
+dto:DTO_01400328 Neurotransmitter receptor, cys loop, ligand-gated ion channel (lic) family
+dto:DTO_01400346 Phagocyte (gp91(phox)) nadph oxidase family
+dto:DTO_01400349 Phospholemman (plm) family
+dto:DTO_01200282 PLLP
+dto:DTO_01400337 PMP-22/EMP/MP20 family
+dto:DTO_01400367 Polycystin cation channel (pcc) family
+dto:DTO_01400355 Potassium channel family
+dto:DTO_01400354 Ryanodine-inositol 1,4,5-triphosphate receptor calcium channel (rir-cac) family
+dto:DTO_01400368 SLC26A/SulP transporter family
+dto:DTO_01400370 Sodium channel auxiliary subunit 1-4 (sca-) family
+dto:DTO_01400369 Sodium channel family
+dto:DTO_01400357 The phagocyte (gp91(phox)) nadph oxidase family
+dto:DTO_01400371 Tmem38 family
+dto:DTO_01400360 Transient receptor potential calcium channel (TRP-CC) family
+dto:DTO_01400372 Transmembrane channel (TMC) family
+dto:DTO_01400359 Two pore domain potassium channel family
+dto:DTO_01400356 Voltage-gated potassium channel -subunit (kv) family
+dto:DTO_01400352 Voltage-gated proton channel (vpc) family
+dto:DTO_01400392 CFTR transporter subfamily
+dto:DTO_01200064 CFTR
+dto:DTO_01400376 Acid-sensing ion channel 1 (ASIC1) subfamily
+dto:DTO_01400377 Acid-sensing ion channel 2 (ASIC2) subfamily
+dto:DTO_01400378 Acid-sensing ion channel 3 (ASIC3) subfamily
+dto:DTO_01400379 Acid-sensing ion channel 4 (ASIC4) subfamily
+dto:DTO_01400380 Acid-sensing ion channel 5 (ASIC5) subfamily
+dto:DTO_01400477 SCNN1A subfamily
+dto:DTO_01400478 SCNN1B subfamily
+dto:DTO_01400479 SCNN1D subfamily
+dto:DTO_01400480 SCNN1G subfamily
+dto:DTO_01200025 ASIC1
+dto:DTO_01200026 ASIC2
+dto:DTO_01200027 ASIC3
+dto:DTO_01200028 ASIC4
+dto:DTO_01200029 ASIC5
+dto:DTO_01200303 SCNN1A
+dto:DTO_01200304 SCNN1B
+dto:DTO_01200305 SCNN1D
+dto:DTO_01200306 SCNN1G
+dto:DTO_01200339 TTYH1
+dto:DTO_01200340 TTYH2
+dto:DTO_01200341 TTYH3
+dto:DTO_01200030 BEST1
+dto:DTO_01200031 BEST2
+dto:DTO_01200032 BEST3
+dto:DTO_01200033 BEST4
+dto:DTO_01200264 P2RX1
+dto:DTO_01200265 P2RX2
+dto:DTO_01200266 P2RX3
+dto:DTO_01200267 P2RX4
+dto:DTO_01200268 P2RX5
+dto:DTO_01200269 P2RX6
+dto:DTO_01200270 P2RX7
+dto:DTO_01400381 CACNA1A subfamily
+dto:DTO_01400382 CACNA1B subfamily
+dto:DTO_01400383 CACNA1C subfamily
+dto:DTO_01400384 CACNA1D subfamily
+dto:DTO_01400385 CACNA1E subfamily
+dto:DTO_01400386 CACNA1F subfamily
+dto:DTO_01400387 CACNA1G subfamily
+dto:DTO_01400388 CACNA1H subfamily
+dto:DTO_01400389 CACNA1I subfamily
+dto:DTO_01400390 CACNA1S subfamily
+dto:DTO_01400481 Two pore calcium channel subfamily
+dto:DTO_01200038 CACNA1A
+dto:DTO_01200039 CACNA1B
+dto:DTO_01200040 CACNA1C
+dto:DTO_01200041 CACNA1D
+dto:DTO_01200042 CACNA1E
+dto:DTO_01200043 CACNA1F
+dto:DTO_01200044 CACNA1G
+dto:DTO_01200045 CACNA1H
+dto:DTO_01200046 CACNA1I
+dto:DTO_01200047 CACNA1S
+dto:DTO_01200317 TPCN1
+dto:DTO_01200318 TPCN2
+dto:DTO_01200055 CACNG1
+dto:DTO_01200056 CACNG2
+dto:DTO_01200057 CACNG3
+dto:DTO_01200058 CACNG4
+dto:DTO_01200059 CACNG5
+dto:DTO_01200060 CACNG6
+dto:DTO_01200061 CACNG7
+dto:DTO_01200062 CACNG8
+dto:DTO_01200034 CACNA2D1
+dto:DTO_01200035 CACNA2D2
+dto:DTO_01200036 CACNA2D3
+dto:DTO_01200037 CACNA2D4
+dto:DTO_01200048 CACNB1
+dto:DTO_01200049 CACNB2
+dto:DTO_01200050 CACNB3
+dto:DTO_01200051 CACNB4
+dto:DTO_01200052 CALHM1
+dto:DTO_01200053 CALHM2
+dto:DTO_01200054 CALHM3
+dto:DTO_01200098 FAM26D
+dto:DTO_01200091 ORAI1
+dto:DTO_01400438 KCNMB/KCNMB1 subfamily
+dto:DTO_01400439 KCNMB/KCNMB2 subfamily
+dto:DTO_01400440 KCNMB/KCNMB3 subfamily
+dto:DTO_01400441 KCNMB/KCNMB4 subfamily
+dto:DTO_01200176 KCNMB1
+dto:DTO_01200177 KCNMB2
+dto:DTO_01200178 KCNMB3
+dto:DTO_01200179 KCNMB4
+dto:DTO_01200022 ANO1
+dto:DTO_01200023 ANO2
+dto:DTO_01200024 ANO6
+dto:DTO_01200314 TMC6
+dto:DTO_01200316 TMC8
+dto:DTO_01200093 CATSPER1
+dto:DTO_01200094 CATSPER2
+dto:DTO_01200095 CATSPER3
+dto:DTO_01200096 CATSPER4
+dto:DTO_01200254 NALCN
+dto:DTO_01400395 ClC-1/CLCN1 subfamily
+dto:DTO_01400396 ClC-2/CLCN2 subfamily
+dto:DTO_01400397 ClC-3/CLCN3 subfamily
+dto:DTO_01400398 ClC-4/CLCN4 subfamily
+dto:DTO_01400399 ClC-5/CLCN5 subfamily
+dto:DTO_01400400 ClC-6/CLCN6 subfamily
+dto:DTO_01400401 ClC-7/CLCN7 subfamily
+dto:DTO_01400393 CLCNKA subfamily
+dto:DTO_01400394 CLCNKB subfamily
+dto:DTO_01200072 CLCN1
+dto:DTO_01200073 CLCN2
+dto:DTO_01200074 CLCN3
+dto:DTO_01200075 CLCN4
+dto:DTO_01200076 CLCN5
+dto:DTO_01200077 CLCN6
+dto:DTO_01200078 CLCN7
+dto:DTO_01200070 CLCNKA
+dto:DTO_01200071 CLCNKB
+dto:DTO_01400402 CNGA1 subfamily
+dto:DTO_01400403 CNGA2 subfamily
+dto:DTO_01400404 CNGA3 subfamily
+dto:DTO_01400405 CNGA4 subfamily
+dto:DTO_01400406 CNGB1 subfamily
+dto:DTO_01400407 CNGB3 subfamily
+dto:DTO_01200144 HCN1
+dto:DTO_01200145 HCN2
+dto:DTO_01200146 HCN3
+dto:DTO_01200147 HCN4
+dto:DTO_01200085 CNGA1
+dto:DTO_01200086 CNGA2
+dto:DTO_01200087 CNGA3
+dto:DTO_01200088 CNGA4
+dto:DTO_01200089 CNGB1
+dto:DTO_01200090 CNGB3
+dto:DTO_01200065 CLCA1
+dto:DTO_01200066 CLCA2
+dto:DTO_01200067 CLCA3P
+dto:DTO_01200068 CLCA4
+dto:DTO_01200099 FAM26E
+dto:DTO_01200100 FAM26F
+dto:DTO_01200283 FXYD1
+dto:DTO_01200101 FXYD3
+dto:DTO_01200102 FXYD4
+dto:DTO_01200106 FXYD6P3
+dto:DTO_01200105 FXYD7
+dto:DTO_01200271 PANX1
+dto:DTO_01200272 PANX2
+dto:DTO_01200273 PANX3
+dto:DTO_01400410 GRIA1 subfamily
+dto:DTO_01400411 GRIA2 subfamily
+dto:DTO_01400412 GRIA3 subfamily
+dto:DTO_01400413 GRIA4 subfamily
+dto:DTO_01400414 GRID1 subfamily
+dto:DTO_01400415 GRID2 subfamily
+dto:DTO_01400416 GRIK1 subfamily
+dto:DTO_01400417 GRIK2 subfamily
+dto:DTO_01400418 GRIK3 subfamily
+dto:DTO_01400419 GRIK4 subfamily
+dto:DTO_01400420 GRIK5 subfamily
+dto:DTO_01400459 NR1/GRIN1 subfamily
+dto:DTO_01400455 NR2A/GRIN2A subfamily
+dto:DTO_01400456 NR2B/GRIN2B subfamily
+dto:DTO_01400457 NR2C/GRIN2C subfamily
+dto:DTO_01400458 NR2D/GRIN2D subfamily
+dto:DTO_01400453 NR3A/GRIN3A subfamily
+dto:DTO_01400454 NR3B/GRIN3B subfamily
+dto:DTO_01200133 GRIA1
+dto:DTO_01200134 GRIA2
+dto:DTO_01200135 GRIA3
+dto:DTO_01200136 GRIA4
+dto:DTO_01200137 GRID1
+dto:DTO_01200138 GRID2
+dto:DTO_01200139 GRIK1
+dto:DTO_01200140 GRIK2
+dto:DTO_01200141 GRIK3
+dto:DTO_01200142 GRIK4
+dto:DTO_01200143 GRIK5
+dto:DTO_01200261 GRIN1
+dto:DTO_01200257 GRIN2A
+dto:DTO_01200258 GRIN2B
+dto:DTO_01200259 GRIN2C
+dto:DTO_01200260 GRIN2D
+dto:DTO_01200255 GRIN3A
+dto:DTO_01200256 GRIN3B
+dto:DTO_01200131 GPR89A
+dto:DTO_01200132 GPR89B
+dto:DTO_01200079 CLIC1
+dto:DTO_01200080 CLIC2
+dto:DTO_01200081 CLIC3
+dto:DTO_01200082 CLIC4
+dto:DTO_01200083 CLIC5
+dto:DTO_01200084 CLIC6
+dto:DTO_01200069 CLCC1
+dto:DTO_01400428 KCNJ1 subfamily
+dto:DTO_01400421 KCNJ10 subfamily
+dto:DTO_01400422 KCNJ11 subfamily
+dto:DTO_01400423 KCNJ12 subfamily
+dto:DTO_01400424 KCNJ13 subfamily
+dto:DTO_01400425 KCNJ14 subfamily
+dto:DTO_01400426 KCNJ15 subfamily
+dto:DTO_01400427 KCNJ16 subfamily
+dto:DTO_01400429 KCNJ2 subfamily
+dto:DTO_01400430 KCNJ3 subfamily
+dto:DTO_01400431 KCNJ4 subfamily
+dto:DTO_01400432 KCNJ5 subfamily
+dto:DTO_01400433 KCNJ6 subfamily
+dto:DTO_01400434 KCNJ8 subfamily
+dto:DTO_01400435 KCNJ9 subfamily
+dto:DTO_01200157 KCNJ1
+dto:DTO_01200149 KCNJ10
+dto:DTO_01200150 KCNJ11
+dto:DTO_01200151 KCNJ12
+dto:DTO_01200156 KCNJ18
+dto:DTO_01200152 KCNJ13
+dto:DTO_01200153 KCNJ14
+dto:DTO_01200154 KCNJ15
+dto:DTO_01200155 KCNJ16
+dto:DTO_01200158 KCNJ2
+dto:DTO_01200159 KCNJ3
+dto:DTO_01200160 KCNJ4
+dto:DTO_01200161 KCNJ5
+dto:DTO_01200162 KCNJ6
+dto:DTO_01200163 KCNJ8
+dto:DTO_01200164 KCNJ9
+dto:DTO_01200252 MCU
+dto:DTO_01200274 PIEZO1
+dto:DTO_01200275 PIEZO2
+dto:DTO_01200253 MLC1
+dto:DTO_01400374 5-hydroxytryptamine receptor subfamily
+dto:DTO_01400375 Acetylcholine receptor subfamily
+dto:DTO_01400408 Gamma-aminobutyric acid receptor subfamily
+dto:DTO_01400409 Glycine receptor subfamily
+dto:DTO_01200342 ZACN
+dto:DTO_01409932 5-HT3 receptor sub-subfamily
+dto:DTO_01200001 HTR3A
+dto:DTO_01200002 HTR3B
+dto:DTO_01200003 HTR3C
+dto:DTO_01200004 HTR3D
+dto:DTO_01200005 HTR3E
+dto:DTO_01400498 Alpha-1/CHRNA1 sub-subfamily
+dto:DTO_01400490 Alpha-10/CHRNA10 sub-subfamily
+dto:DTO_01400491 Alpha-2/CHRNA2 sub-subfamily
+dto:DTO_01400492 Alpha-3/CHRNA3 sub-subfamily
+dto:DTO_01400493 Alpha-4/CHRNA4 sub-subfamily
+dto:DTO_01400494 Alpha-5/CHRNA5 sub-subfamily
+dto:DTO_01400495 Alpha-6/CHRNA6 sub-subfamily
+dto:DTO_01400496 Alpha-7/CHRNA7 sub-subfamily
+dto:DTO_01400497 Alpha-9/CHRNA9 sub-subfamily
+dto:DTO_01400502 Beta-1/CHRNB1 sub-subfamily
+dto:DTO_01400499 Beta-2/CHRNB2 sub-subfamily
+dto:DTO_01400500 Beta-3/CHRNB3 sub-subfamily
+dto:DTO_01400501 Beta-4/CHRNB4 sub-subfamily
+dto:DTO_01400503 Delta/CHRND sub-subfamily
+dto:DTO_01400504 Epsilon/CHRNE sub-subfamily
+dto:DTO_01400505 Gamma/CHRNG sub-subfamily
+dto:DTO_01200014 CHRNA1
+dto:DTO_01200006 CHRNA10
+dto:DTO_01200007 CHRNA2
+dto:DTO_01200008 CHRNA3
+dto:DTO_01200009 CHRNA4
+dto:DTO_01200010 CHRNA5
+dto:DTO_01200011 CHRNA6
+dto:DTO_01200012 CHRNA7
+dto:DTO_01200013 CHRNA9
+dto:DTO_01200018 CHRNB1
+dto:DTO_01200015 CHRNB2
+dto:DTO_01200016 CHRNB3
+dto:DTO_01200017 CHRNB4
+dto:DTO_01200019 CHRND
+dto:DTO_01200020 CHRNE
+dto:DTO_01200021 CHRNG
+dto:DTO_01400506 GABRA1 sub-subfamily
+dto:DTO_01400507 GABRA2 sub-subfamily
+dto:DTO_01400508 GABRA3 sub-subfamily
+dto:DTO_01400509 GABRA4 sub-subfamily
+dto:DTO_01400510 GABRA5 sub-subfamily
+dto:DTO_01400511 GABRA6 sub-subfamily
+dto:DTO_01400512 GABRB1 sub-subfamily
+dto:DTO_01400513 GABRB2 sub-subfamily
+dto:DTO_01400514 GABRB3 sub-subfamily
+dto:DTO_01400515 GABRD sub-subfamily
+dto:DTO_01400516 GABRE sub-subfamily
+dto:DTO_01400517 GABRG1 sub-subfamily
+dto:DTO_01400518 GABRG2 sub-subfamily
+dto:DTO_01400519 GABRG3 sub-subfamily
+dto:DTO_01400520 GABRP sub-subfamily
+dto:DTO_01400524 GABRQ sub-subfamily
+dto:DTO_01400521 GABRR1 sub-subfamily
+dto:DTO_01400522 GABRR2 sub-subfamily
+dto:DTO_01400523 GABRR3 sub-subfamily
+dto:DTO_01200107 GABRA1
+dto:DTO_01200108 GABRA2
+dto:DTO_01200109 GABRA3
+dto:DTO_01200110 GABRA4
+dto:DTO_01200111 GABRA5
+dto:DTO_01200112 GABRA6
+dto:DTO_01200113 GABRB1
+dto:DTO_01200114 GABRB2
+dto:DTO_01200115 GABRB3
+dto:DTO_01200116 GABRD
+dto:DTO_01200117 GABRE
+dto:DTO_01200118 GABRG1
+dto:DTO_01200119 GABRG2
+dto:DTO_01200120 GABRG3
+dto:DTO_01200121 GABRP
+dto:DTO_01200125 GABRQ
+dto:DTO_01200122 GABRR1
+dto:DTO_01200123 GABRR2
+dto:DTO_01200124 GABRR3
+dto:DTO_01400525 GLRA1 sub-subfamily
+dto:DTO_01400526 GLRA2 sub-subfamily
+dto:DTO_01400527 GLRA3 sub-subfamily
+dto:DTO_01400528 GLRA4 sub-subfamily
+dto:DTO_01400529 GLRB sub-subfamily
+dto:DTO_01200126 GLRA1
+dto:DTO_01200127 GLRA2
+dto:DTO_01200128 GLRA3
+dto:DTO_01200129 GLRA4
+dto:DTO_01200130 GLRB
+dto:DTO_01200097 CYBB
+dto:DTO_01200262 NOX1
+dto:DTO_01200263 NOX5
+dto:DTO_01200103 FXYD5
+dto:DTO_01200104 FXYD6
+dto:DTO_01400391 CACNG subfamily
+dto:DTO_01200063 TMEM37
+dto:DTO_01200276 PKD1L2
+dto:DTO_01200277 PKD1L3
+dto:DTO_01200280 PKD2
+dto:DTO_01200278 PKD2L1
+dto:DTO_01200279 PKD2L2
+dto:DTO_01200281 PKDREJ
+dto:DTO_01400436 A (Shaker) subfamily
+dto:DTO_01400442 B (Shab) subfamily
+dto:DTO_01400443 C (Shaw) subfamily
+dto:DTO_01400437 Calcium-activated subfamily
+dto:DTO_01400444 D (Shal) subfamily
+dto:DTO_01400446 F subfamily
+dto:DTO_01400447 G subfamily
+dto:DTO_01400448 H (Eag) subfamily
+dto:DTO_01400445 KCNE subfamily
+dto:DTO_01400449 KQT subfamily
+dto:DTO_01400450 S subfamily
+dto:DTO_01400451 V subfamily
+dto:DTO_01400532 Kv1.1/KCNA1 sub-subfamily
+dto:DTO_01400533 Kv1.2/KCNA2 sub-subfamily
+dto:DTO_01400534 Kv1.3/KCNA3 sub-subfamily
+dto:DTO_01400535 Kv1.4/KCNA4 sub-subfamily
+dto:DTO_01400536 Kv1.5/KCNA5 sub-subfamily
+dto:DTO_01400537 Kv1.6/KCNA6 sub-subfamily
+dto:DTO_01400538 Kv1.7/KCNA7 sub-subfamily
+dto:DTO_01400530 Kv1.8/KCNA10 sub-subfamily
+dto:DTO_01200180 KCNA1
+dto:DTO_01200181 KCNA2
+dto:DTO_01200182 KCNA3
+dto:DTO_01200183 KCNA4
+dto:DTO_01200184 KCNA5
+dto:DTO_01200185 KCNA6
+dto:DTO_01200186 KCNA7
+dto:DTO_01200168 KCNA10
+dto:DTO_01400539 Kv2.1/KCNB1 sub-subfamily
+dto:DTO_01400540 Kv2.2/KCNB2 sub-subfamily
+dto:DTO_01200187 KCNB1
+dto:DTO_01200188 KCNB2
+dto:DTO_01400541 Kv3.1/KCNC1 sub-subfamily
+dto:DTO_01400542 Kv3.2/KCNC2 sub-subfamily
+dto:DTO_01400543 Kv3.3/KCNC3 sub-subfamily
+dto:DTO_01400544 Kv3.4/KCNC4 sub-subfamily
+dto:DTO_01200189 KCNC1
+dto:DTO_01200190 KCNC2
+dto:DTO_01200191 KCNC3
+dto:DTO_01200192 KCNC4
+dto:DTO_01400531 KCa1.1/KCNMA1 sub-subfamily
+dto:DTO_01400569 KCa4.1/KCNT1 sub-subfamily
+dto:DTO_01400570 KCa4.2/KCNT2 sub-subfamily
+dto:DTO_01400571 KCa5.1/KCNU1 sub-subfamily
+dto:DTO_01200228 KCNN1
+dto:DTO_01200229 KCNN2
+dto:DTO_01200230 KCNN3
+dto:DTO_01200231 KCNN4
+dto:DTO_01200175 KCNMA1
+dto:DTO_01200240 KCNT1
+dto:DTO_01200241 KCNT2
+dto:DTO_01200242 KCNU1
+dto:DTO_01400545 Kv4.1/KCND1 sub-subfamily
+dto:DTO_01400546 Kv4.2/KCND2 sub-subfamily
+dto:DTO_01400547 Kv4.3/KCND3 sub-subfamily
+dto:DTO_01200193 KCND1
+dto:DTO_01200194 KCND2
+dto:DTO_01200195 KCND3
+dto:DTO_01400548 Kv5.1/KCNF1 sub-subfamily
+dto:DTO_01200200 KCNF1
+dto:DTO_01400549 Kv6.1/KCNG1 sub-subfamily
+dto:DTO_01400550 Kv6.2/KCNG2 sub-subfamily
+dto:DTO_01400551 Kv6.3/KCNG3 sub-subfamily
+dto:DTO_01400552 Kv6.4/KCNG4 sub-subfamily
+dto:DTO_01200201 KCNG1
+dto:DTO_01200202 KCNG2
+dto:DTO_01200203 KCNG3
+dto:DTO_01200204 KCNG4
+dto:DTO_01400553 Kv10.1/KCNH1 sub-subfamily
+dto:DTO_01400557 Kv10.2/KCNH5 sub-subfamily
+dto:DTO_01400554 Kv11.1/KCNH2 sub-subfamily
+dto:DTO_01400558 Kv11.2/KCNH6 sub-subfamily
+dto:DTO_01400559 Kv11.3/KCNH7 sub-subfamily
+dto:DTO_01400560 Kv12.1/KCNH8 sub-subfamily
+dto:DTO_01400555 Kv12.2/KCNH3 sub-subfamily
+dto:DTO_01400556 Kv12.3/KCNH4 sub-subfamily
+dto:DTO_01200205 KCNH1
+dto:DTO_01200209 KCNH5
+dto:DTO_01200206 KCNH2
+dto:DTO_01200210 KCNH6
+dto:DTO_01200211 KCNH7
+dto:DTO_01200212 KCNH8
+dto:DTO_01200207 KCNH3
+dto:DTO_01200208 KCNH4
+dto:DTO_01200196 KCNE1
+dto:DTO_01200197 KCNE2
+dto:DTO_01200198 KCNE3
+dto:DTO_01200199 KCNE4
+dto:DTO_01400561 Kv7.1/KCNQ1 sub-subfamily
+dto:DTO_01400562 Kv7.2/KCNQ2 sub-subfamily
+dto:DTO_01400563 Kv7.3/KCNQ3 sub-subfamily
+dto:DTO_01400564 Kv7.4/KCNQ4 sub-subfamily
+dto:DTO_01400565 Kv7.5/KCNQ5 sub-subfamily
+dto:DTO_01200232 KCNQ1
+dto:DTO_01200233 KCNQ2
+dto:DTO_01200234 KCNQ3
+dto:DTO_01200235 KCNQ4
+dto:DTO_01200236 KCNQ5
+dto:DTO_01400566 Kv9.1/KCNS1 sub-subfamily
+dto:DTO_01400567 Kv9.2/KCNS2 sub-subfamily
+dto:DTO_01400568 Kv9.3/KCNS3 sub-subfamily
+dto:DTO_01200237 KCNS1
+dto:DTO_01200238 KCNS2
+dto:DTO_01200239 KCNS3
+dto:DTO_01400572 Kv8.1/KCNV1 sub-subfamily
+dto:DTO_01400573 Kv8.2/KCNV2 sub-subfamily
+dto:DTO_01200243 KCNV1
+dto:DTO_01200244 KCNV2
+dto:DTO_01200165 ITPR1
+dto:DTO_01200166 ITPR2
+dto:DTO_01200167 ITPR3
+dto:DTO_01400460 RYR1 subfamily
+dto:DTO_01400461 RYR2 subfamily
+dto:DTO_01400462 RYR3 subfamily
+dto:DTO_01200284 RYR1
+dto:DTO_01200285 RYR2
+dto:DTO_01200286 RYR3
+dto:DTO_01200287 SLC26A1
+dto:DTO_01200288 SLC26A6
+dto:DTO_01400464 SCN1B family
+dto:DTO_01400466 SCN2B family
+dto:DTO_01400468 SCN3B family
+dto:DTO_01400470 SCN4B family
+dto:DTO_01200290 SCN1B
+dto:DTO_01200292 SCN2B
+dto:DTO_01200294 SCN3B
+dto:DTO_01200296 SCN4B
+dto:DTO_01400463 Nav1.1/SCN1A subfamily
+dto:DTO_01400465 Nav1.2/SCN2A subfamily
+dto:DTO_01400467 Nav1.3/SCN3A subfamily
+dto:DTO_01400469 Nav1.4/SCN4A subfamily
+dto:DTO_01400471 Nav1.5/SCN5A subfamily
+dto:DTO_01400473 Nav1.6/SCN8A subfamily
+dto:DTO_01400474 Nav1.7/SCN9A subfamily
+dto:DTO_01400475 Nav1.8/SCN10A subfamily
+dto:DTO_01400476 Nav1.9/SCN11A subfamily
+dto:DTO_01400472 SCN7A subfamily
+dto:DTO_01200289 SCN1A
+dto:DTO_01200291 SCN2A
+dto:DTO_01200293 SCN3A
+dto:DTO_01200295 SCN4A
+dto:DTO_01200297 SCN5A
+dto:DTO_01200299 SCN8A
+dto:DTO_01200300 SCN9A
+dto:DTO_01200301 SCN10A
+dto:DTO_01200302 SCN11A
+dto:DTO_01200298 SCN7A
+dto:DTO_01200174 KCNIP4
+dto:DTO_01200307 TMEM38A
+dto:DTO_01200308 TMEM38B
+dto:DTO_01400483 LTrpC subfamily
+dto:DTO_01400452 Polycystin subfamily
+dto:DTO_01400482 STrpC subfamily
+dto:DTO_01200319 TRPA1
+dto:DTO_01400484 TrpV subfamily
+dto:DTO_01400583 TRPM1 sub-subfamily
+dto:DTO_01400584 TRPM2 sub-subfamily
+dto:DTO_01400585 TRPM3 sub-subfamily
+dto:DTO_01400586 TRPM4 sub-subfamily
+dto:DTO_01400587 TRPM5 sub-subfamily
+dto:DTO_01400588 TRPM7 sub-subfamily
+dto:DTO_01400589 TRPM8 sub-subfamily
+dto:DTO_01200326 TRPM1
+dto:DTO_01200327 TRPM2
+dto:DTO_01200328 TRPM3
+dto:DTO_01200329 TRPM4
+dto:DTO_01200330 TRPM5
+dto:DTO_01200331 TRPM7
+dto:DTO_01200332 TRPM8
+dto:DTO_01400574 MCOLN1 sub-subfamily
+dto:DTO_01400575 MCOLN2 sub-subfamily
+dto:DTO_01400576 MCOLN3 sub-subfamily
+dto:DTO_01200249 MCOLN1
+dto:DTO_01200250 MCOLN2
+dto:DTO_01200251 MCOLN3
+dto:DTO_01400577 TRPC1 sub-subfamily
+dto:DTO_01400578 TRPC3 sub-subfamily
+dto:DTO_01400579 TRPC4 sub-subfamily
+dto:DTO_01400580 TRPC5 sub-subfamily
+dto:DTO_01400581 TRPC6 sub-subfamily
+dto:DTO_01400582 TRPC7 sub-subfamily
+dto:DTO_01200320 TRPC1
+dto:DTO_01200321 TRPC3
+dto:DTO_01200322 TRPC4
+dto:DTO_01200323 TRPC5
+dto:DTO_01200324 TRPC6
+dto:DTO_01200325 TRPC7
+dto:DTO_01400590 TRPV1 sub-subfamily
+dto:DTO_01400591 TRPV2 sub-subfamily
+dto:DTO_01400592 TRPV3 sub-subfamily
+dto:DTO_01400593 TRPV4 sub-subfamily
+dto:DTO_01400594 TRPV5 sub-subfamily
+dto:DTO_01400595 TRPV6 sub-subfamily
+dto:DTO_01200333 TRPV1
+dto:DTO_01200334 TRPV2
+dto:DTO_01200335 TRPV3
+dto:DTO_01200336 TRPV4
+dto:DTO_01200337 TRPV5
+dto:DTO_01200338 TRPV6
+dto:DTO_01200309 TMC1
+dto:DTO_01200310 TMC2
+dto:DTO_01200311 TMC3
+dto:DTO_01200312 TMC4
+dto:DTO_01200313 TMC5
+dto:DTO_01200315 TMC7
+dto:DTO_01200213 KCNK1
+dto:DTO_01200221 KCNK10
+dto:DTO_01200222 KCNK12
+dto:DTO_01200223 KCNK13
+dto:DTO_01200224 KCNK15
+dto:DTO_01200225 KCNK16
+dto:DTO_01200226 KCNK17
+dto:DTO_01200227 KCNK18
+dto:DTO_01200214 KCNK2
+dto:DTO_01200215 KCNK3
+dto:DTO_01200216 KCNK4
+dto:DTO_01200217 KCNK5
+dto:DTO_01200218 KCNK6
+dto:DTO_01200219 KCNK7
+dto:DTO_01200220 KCNK9
+dto:DTO_01200169 KCNAB1
+dto:DTO_01200170 KCNAB2
+dto:DTO_01200171 KCNAB3
+dto:DTO_01200148 HVCN1
+dto:DTO_03400103 Non-protein kinase
+dto:DTO_03400102 Protein kinase
+dto:DTO_03491041 Unclassified protein
+dto:DTO_03400325 Carbohydrate kinase
+dto:DTO_03400323 Lipid kinase
+dto:DTO_03400322 Nucleoside kinase
+dto:DTO_03400326 Nucleotide kinase
+dto:DTO_03400324 Other small molecule kinase
+dto:DTO_03491032 Carbohydrate kinase PfkB family
+dto:DTO_03491017 Hexokinase family
+dto:DTO_03491047 PFKFB1
+dto:DTO_03491048 PFKFB2
+dto:DTO_03491049 PFKFB3
+dto:DTO_03491016 Phosphofructokinase type A (PFKA) family
+dto:DTO_03200227 KHK
+dto:DTO_03200178 GCK
+dto:DTO_03200177 HK1
+dto:DTO_03491002 ATP-dependent PFK group I subfamily
+dto:DTO_0349989 Eukaryotic two domain clade "E" sub-subfamily
+dto:DTO_03200199 PFKL
+dto:DTO_03200081 CERK
+dto:DTO_03491025 Diacylglycerol kinase family
+dto:DTO_03491019 Inositol phosphokinase (IPK) family
+dto:DTO_03491020 ITPK1 family
+dto:DTO_03491010 Phosphoinositide 3-kinase (PI3K) family
+dto:DTO_03491009 PI3/PI4 kinase family
+dto:DTO_03491031 PI3K p85 subunit family
+dto:DTO_03200157 PIKFYVE
+dto:DTO_03200409 PIP4K2A
+dto:DTO_03200410 PIP4K2B
+dto:DTO_03200411 PIP4K2C
+dto:DTO_03200414 PIP5K1A
+dto:DTO_03200415 PIP5K1B
+dto:DTO_03200482 SPHK1
+dto:DTO_03200483 SPHK2
+dto:DTO_03491012 Type I phosphatidylinositol-4-phosphate 5-kinase family
+dto:DTO_03200107 DGKA
+dto:DTO_03200108 DGKH
+dto:DTO_03200109 DGKQ
+dto:DTO_03200189 IPMK
+dto:DTO_03200187 ITPKA
+dto:DTO_03200188 ITPKB
+dto:DTO_03200195 ITPK1
+dto:DTO_03200378 PIK3C2A
+dto:DTO_03200413 PI4KB
+dto:DTO_03200379 PIK3C2B
+dto:DTO_03200380 PIK3C2G
+dto:DTO_03200421 PIK3C3
+dto:DTO_03200422 PIK3CA
+dto:DTO_03200423 PIK3CB
+dto:DTO_03200424 PIK3CD
+dto:DTO_03200425 PIK3CG
+dto:DTO_03491005 Type II PI4K subfamily
+dto:DTO_03491003 Type III PI4K subfamily
+dto:DTO_03200381 PI4K2A
+dto:DTO_03200412 PI4KA
+dto:DTO_03200382 PIK3R1
+dto:DTO_03200416 PIP5K1C
+dto:DTO_03200018 ADK
+dto:DTO_03491008 DCK/DGK family
+dto:DTO_03491015 Thymidine kinase family
+dto:DTO_03491024 Uridine kinase family
+dto:DTO_03200101 DCK
+dto:DTO_03200110 DGUOK
+dto:DTO_03200230 TK2
+dto:DTO_03200229 TK1
+dto:DTO_03200551 UCK1
+dto:DTO_03200552 UCK2
+dto:DTO_03491014 Adenylate kinase family
+dto:DTO_03491030 Guanylate kinase family
+dto:DTO_03491018 Thymidylate kinase family
+dto:DTO_03491001 AK1 subfamily
+dto:DTO_03491004 AK2 subfamily
+dto:DTO_03491006 AK3 subfamily
+dto:DTO_03200200 AK1
+dto:DTO_03200201 AK2
+dto:DTO_03200202 AK3
+dto:DTO_03200226 GUK1
+dto:DTO_03200263 DTYMK
+dto:DTO_03491027 ATP:guanido phosphotransferase family
+dto:DTO_03491029 Choline/ethanolamine kinase family
+dto:DTO_03491021 FGGY kinase family
+dto:DTO_03491026 GHMP kinase family
+dto:DTO_03491022 Phosphoenolpyruvate carboxykinase [GTP] family
+dto:DTO_03491013 Phosphoglycerate kinase family
+dto:DTO_03491044 PKLR
+dto:DTO_03200250 PKM
+dto:DTO_03491011 Pyridoxine kinase family
+dto:DTO_03491023 Thiamine pyrophosphokinase family
+dto:DTO_03491028 Type II pantothenate kinase family
+dto:DTO_03200223 CKM
+dto:DTO_03200084 CHKA
+dto:DTO_03200085 CHKB
+dto:DTO_03200159 GK2
+dto:DTO_03491007 Mevalonate kinase subfamily
+dto:DTO_03200228 MVK
+dto:DTO_03200393 PCK2
+dto:DTO_03200405 PGK1
+dto:DTO_03200401 PDXK
+dto:DTO_03200534 TPK1
+dto:DTO_03200391 PANK1
+dto:DTO_03491046 PANK2
+dto:DTO_03491045 PANK3
+dto:DTO_03400109 AGC group
+dto:DTO_03400108 Atypical group
+dto:DTO_03400105 CAMK group
+dto:DTO_03400112 CK1 group
+dto:DTO_03400111 CMGC group
+dto:DTO_03200364 IKBKG
+dto:DTO_03400104 Other group
+dto:DTO_03200400 PDPK2P
+dto:DTO_03491039 Phosphorylase b kinase regulatory chain family
+dto:DTO_03400110 RGC group
+dto:DTO_03400113 STE group
+dto:DTO_03400106 TK group
+dto:DTO_03400107 TKL group
+dto:DTO_03400121 AKT family
+dto:DTO_03400145 DMPK family
+dto:DTO_03400127 GRK family
+dto:DTO_03400160 MAST family
+dto:DTO_03400181 NDR family
+dto:DTO_03400203 PDK1 family
+dto:DTO_03400169 PKA family
+dto:DTO_03400175 PKC family
+dto:DTO_03400173 PKG family
+dto:DTO_03400210 PKN family
+dto:DTO_03400178 RSK family
+dto:DTO_03400179 RSKL family
+dto:DTO_03400223 RSKR family
+dto:DTO_03400224 SGK family
+dto:DTO_03400227 YANK family
+dto:DTO_03200019 AKT1
+dto:DTO_03200020 AKT2
+dto:DTO_03200021 AKT3
+dto:DTO_03200097 CIT
+dto:DTO_03400265 GEK subfamily
+dto:DTO_03400313 ROCK subfamily
+dto:DTO_03200341 CDC42BPA
+dto:DTO_03200342 CDC42BPB
+dto:DTO_03200343 CDC42BPG
+dto:DTO_03200111 DMPK
+dto:DTO_03200456 ROCK1
+dto:DTO_03200457 ROCK2
+dto:DTO_03400250 BARK subfamily
+dto:DTO_03400271 GRK subfamily
+dto:DTO_03200031 ADRBK1
+dto:DTO_03200032 ADRBK2
+dto:DTO_03200454 GRK1
+dto:DTO_03200160 GRK4
+dto:DTO_03200161 GRK5
+dto:DTO_03200162 GRK6
+dto:DTO_03200163 GRK7
+dto:DTO_03200306 MAST1
+dto:DTO_03200307 MAST2
+dto:DTO_03200308 MAST3
+dto:DTO_03200309 MAST4
+dto:DTO_03200169 MASTL
+dto:DTO_03200264 LATS1
+dto:DTO_03200265 LATS2
+dto:DTO_03200504 STK38
+dto:DTO_03200494 STK38L
+dto:DTO_03400307 PDK1 subfamily
+dto:DTO_03200399 PDPK1
+dto:DTO_03200204 PRKACA
+dto:DTO_03200205 PRKACB
+dto:DTO_03200206 PRKACG
+dto:DTO_03200438 PRKX
+dto:DTO_03200439 PRKY
+dto:DTO_03400276 PKC alpha subfamily
+dto:DTO_03400277 PKC delta subfamily
+dto:DTO_03400278 PKC eta subfamily
+dto:DTO_03400279 PKC iota subfamily
+dto:DTO_03200236 PRKCA
+dto:DTO_03200237 PRKCB
+dto:DTO_03200243 PRKCG
+dto:DTO_03200241 PRKCD
+dto:DTO_03200246 PRKCQ
+dto:DTO_03200242 PRKCE
+dto:DTO_03200245 PRKCH
+dto:DTO_03200244 PRKCI
+dto:DTO_03200247 PRKCZ
+dto:DTO_03200224 PRKG1
+dto:DTO_03200225 PRKG2
+dto:DTO_03200427 PKN1
+dto:DTO_03200428 PKN2
+dto:DTO_03200429 PKN3
+dto:DTO_03400281 MSK subfamily
+dto:DTO_03400282 P70 subfamily
+dto:DTO_03400280 RSK subfamily
+dto:DTO_03200254 RPS6KA4
+dto:DTO_03200255 RPS6KA5
+dto:DTO_03200257 RPS6KB1
+dto:DTO_03200258 RPS6KB2
+dto:DTO_03200251 RPS6KA1
+dto:DTO_03200252 RPS6KA2
+dto:DTO_03200253 RPS6KA3
+dto:DTO_03200256 RPS6KA6
+dto:DTO_03200259 RPS6KC1
+dto:DTO_03200462 RPS6KL1
+dto:DTO_03200470 SGK494
+dto:DTO_03200471 SGK1
+dto:DTO_03200472 SGK2
+dto:DTO_03200473 SGK3
+dto:DTO_03200491 STK32A
+dto:DTO_03200492 STK32B
+dto:DTO_03200493 STK32C
+dto:DTO_03400120 ABC1 family
+dto:DTO_03400123 Alpha family
+dto:DTO_03400156 FAST family
+dto:DTO_03400131 PDHK family
+dto:DTO_03400129 PIKK family
+dto:DTO_03400217 RIO family
+dto:DTO_03400231 TAF1 family
+dto:DTO_03400249 ABC1-A subfamily
+dto:DTO_03400247 ABC1-B subfamily
+dto:DTO_03400248 ABC1-C subfamily
+dto:DTO_03200015 ADCK3
+dto:DTO_03200016 ADCK4
+dto:DTO_03200013 ADCK1
+dto:DTO_03200017 ADCK5
+dto:DTO_03200014 ADCK2
+dto:DTO_03200023 ALPK1
+dto:DTO_03200024 ALPK2
+dto:DTO_03200025 ALPK3
+dto:DTO_03400321 ChaK subfamily
+dto:DTO_03400270 EEF2K subfamily
+dto:DTO_03200539 TRPM6
+dto:DTO_03200122 EEF2K
+dto:DTO_03200146 FASTK
+dto:DTO_03200040 BCKDK
+dto:DTO_03400306 PDHK subfamily
+dto:DTO_03200395 PDK1
+dto:DTO_03200397 PDK3
+dto:DTO_03200398 PDK4
+dto:DTO_03200396 PDK2
+dto:DTO_03200033 ATM
+dto:DTO_03400251 ATR subfamily
+dto:DTO_03400309 DNAPK subfamily
+dto:DTO_03491035 FRAP subfamily
+dto:DTO_03200479 SMG1
+dto:DTO_03200034 ATR
+dto:DTO_03200436 PRKDC
+dto:DTO_03200345 MTOR
+dto:DTO_03491037 RIO1 subfamily
+dto:DTO_03400311 RIO2 subfamily
+dto:DTO_03491036 RIO3 subfamily
+dto:DTO_03491043 RIOK1
+dto:DTO_03200448 RIOK2
+dto:DTO_03491042 RIOK3
+dto:DTO_03200513 TAF1
+dto:DTO_03400135 CAMK-UNIQUE family
+dto:DTO_03400171 CAMK1 family
+dto:DTO_03400172 CAMK2 family
+dto:DTO_03400116 CAMKL family
+dto:DTO_03400143 CASK family
+dto:DTO_03400146 DAPK family
+dto:DTO_03400147 DCAMKL family
+dto:DTO_03400188 MAPKAPK family
+dto:DTO_03400196 MLCK family
+dto:DTO_03400205 PHK family
+dto:DTO_03400207 PIM family
+dto:DTO_03400176 PKD family
+dto:DTO_03400177 PSK family
+dto:DTO_03400139 RAD53 family
+dto:DTO_03400229 SGK495 family
+dto:DTO_03400237 TRBL family
+dto:DTO_03400168 TRIO family
+dto:DTO_03400238 TSSK family
+dto:DTO_03200053 CAMKV
+dto:DTO_03200501 STK33
+dto:DTO_03200214 CAMK1
+dto:DTO_03200216 CAMK1D
+dto:DTO_03200217 CAMK1G
+dto:DTO_03200222 CAMK4
+dto:DTO_03200215 PNCK
+dto:DTO_03200218 CAMK2A
+dto:DTO_03200219 CAMK2B
+dto:DTO_03200220 CAMK2D
+dto:DTO_03200221 CAMK2G
+dto:DTO_03400245 AMPK subfamily
+dto:DTO_03400253 BRSK subfamily
+dto:DTO_03400264 CHK1 subfamily
+dto:DTO_03491034 HUNK subfamily
+dto:DTO_03400316 LKB subfamily
+dto:DTO_03400290 MARK subfamily
+dto:DTO_03400291 MELK subfamily
+dto:DTO_03400299 NIM1 subfamily
+dto:DTO_03400301 NuaK subfamily
+dto:DTO_03400305 PASK subfamily
+dto:DTO_03200002 PRKAB1
+dto:DTO_03200003 PRKAG1
+dto:DTO_03400314 QIK subfamily
+dto:DTO_03491038 SNRK subfamily
+dto:DTO_03200004 PRKAA1
+dto:DTO_03200005 PRKAA2
+dto:DTO_03200048 BRSK1
+dto:DTO_03200049 BRSK2
+dto:DTO_03200082 CHEK1
+dto:DTO_03200176 HUNK
+dto:DTO_03200496 STK11
+dto:DTO_03200302 MARK1
+dto:DTO_03200303 MARK2
+dto:DTO_03200304 MARK3
+dto:DTO_03200305 MARK4
+dto:DTO_03200311 MELK
+dto:DTO_03200365 NIM1K
+dto:DTO_03200374 NUAK1
+dto:DTO_03200375 NUAK2
+dto:DTO_03200392 PASK
+dto:DTO_03200475 SIK1
+dto:DTO_03200476 SIK2
+dto:DTO_03200477 SIK3
+dto:DTO_03200480 SNRK
+dto:DTO_03200095 CASK
+dto:DTO_03200098 DAPK1
+dto:DTO_03200099 DAPK2
+dto:DTO_03200100 DAPK3
+dto:DTO_03200489 STK17A
+dto:DTO_03200490 STK17B
+dto:DTO_03200102 DCLK1
+dto:DTO_03200103 DCLK2
+dto:DTO_03200104 DCLK3
+dto:DTO_03400289 MAPKAPK subfamily
+dto:DTO_03400296 MNK subfamily
+dto:DTO_03200299 MAPKAPK2
+dto:DTO_03200300 MAPKAPK3
+dto:DTO_03200301 MAPKAPK5
+dto:DTO_03200328 MKNK1
+dto:DTO_03200329 MKNK2
+dto:DTO_03200350 MYLK
+dto:DTO_03200347 MYLK2
+dto:DTO_03200348 MYLK3
+dto:DTO_03200349 MYLK4
+dto:DTO_03200527 TTN
+dto:DTO_03200406 PHKG1
+dto:DTO_03200407 PHKG2
+dto:DTO_03200417 PIM1
+dto:DTO_03200418 PIM2
+dto:DTO_03200419 PIM3
+dto:DTO_03200238 PRKD1
+dto:DTO_03200239 PRKD2
+dto:DTO_03200240 PRKD3
+dto:DTO_03200248 PSKH1
+dto:DTO_03200249 PSKH2
+dto:DTO_03200083 CHEK2
+dto:DTO_03200507 STK40
+dto:DTO_03200535 TRIB1
+dto:DTO_03200536 TRIB2
+dto:DTO_03200537 TRIB3
+dto:DTO_03200203 KALRN
+dto:DTO_03200376 OBSCN
+dto:DTO_03200481 SPEG
+dto:DTO_03200538 TRIO
+dto:DTO_03200540 TSSK1B
+dto:DTO_03200541 TSSK2
+dto:DTO_03200542 TSSK3
+dto:DTO_03200543 TSSK4
+dto:DTO_03200544 TSSK6
+dto:DTO_03400170 CK1 family
+dto:DTO_03400239 TTBK family
+dto:DTO_03400243 VRK family
+dto:DTO_03200208 CSNK1A1
+dto:DTO_03200207 CSNK1A1L
+dto:DTO_03200209 CSNK1D
+dto:DTO_03200210 CSNK1E
+dto:DTO_03200211 CSNK1G1
+dto:DTO_03200212 CSNK1G2
+dto:DTO_03200213 CSNK1G3
+dto:DTO_03200545 TTBK1
+dto:DTO_03200546 TTBK2
+dto:DTO_03200562 VRK1
+dto:DTO_03200563 VRK2
+dto:DTO_03200564 VRK3
+dto:DTO_03400136 CDK family
+dto:DTO_03400138 CDKL family
+dto:DTO_03400142 CK2 family
+dto:DTO_03400140 CLK family
+dto:DTO_03400150 DYRK family
+dto:DTO_03400159 GSK family
+dto:DTO_03400191 MAPK family
+dto:DTO_03400162 RCK family
+dto:DTO_03400226 SRPK family
+dto:DTO_03400259 CCRK subfamily
+dto:DTO_03400258 CDK1 subfamily
+dto:DTO_03491033 CDK10 subfamily
+dto:DTO_03200058 CDK12
+dto:DTO_03400260 CDK4 subfamily
+dto:DTO_03400261 CDK5 subfamily
+dto:DTO_03400262 CDK7 subfamily
+dto:DTO_03400257 CDK8 subfamily
+dto:DTO_03400263 CDK9 subfamily
+dto:DTO_03400255 CRK7 subfamily
+dto:DTO_03400254 PITSLRE subfamily
+dto:DTO_03400256 TAIRE subfamily
+dto:DTO_03200067 CDK20
+dto:DTO_03200066 CDK1
+dto:DTO_03200068 CDK2
+dto:DTO_03200069 CDK3
+dto:DTO_03200057 CDK10
+dto:DTO_03200070 CDK4
+dto:DTO_03200072 CDK6
+dto:DTO_03200071 CDK5
+dto:DTO_03200073 CDK7
+dto:DTO_03200065 CDK19
+dto:DTO_03200074 CDK8
+dto:DTO_03200075 CDK9
+dto:DTO_03200059 CDK13
+dto:DTO_03200054 CDK11A
+dto:DTO_03200055 CDK11B
+dto:DTO_03200060 CDK14
+dto:DTO_03200061 CDK15
+dto:DTO_03200062 CDK16
+dto:DTO_03200063 CDK17
+dto:DTO_03200064 CDK18
+dto:DTO_03200076 CDKL1
+dto:DTO_03200077 CDKL2
+dto:DTO_03200078 CDKL3
+dto:DTO_03200079 CDKL4
+dto:DTO_03200080 CDKL5
+dto:DTO_03200091 CSNK2A1
+dto:DTO_03200092 CSNK2A2
+dto:DTO_03200093 CSNK2A3
+dto:DTO_03200094 CSNK2B
+dto:DTO_03200086 CLK1
+dto:DTO_03200087 CLK2
+dto:DTO_03200088 CLK3
+dto:DTO_03200089 CLK4
+dto:DTO_03400266 Dyrk1 subfamily
+dto:DTO_03400267 Dyrk2 subfamily
+dto:DTO_03400273 HIPK subfamily
+dto:DTO_03200440 PRPF4B
+dto:DTO_03200113 DYRK1A
+dto:DTO_03200114 DYRK1B
+dto:DTO_03200115 DYRK2
+dto:DTO_03200116 DYRK3
+dto:DTO_03200117 DYRK4
+dto:DTO_03200172 HIPK1
+dto:DTO_03200173 HIPK2
+dto:DTO_03200174 HIPK3
+dto:DTO_03200175 HIPK4
+dto:DTO_03400272 GSK subfamily
+dto:DTO_03200164 GSK3A
+dto:DTO_03200165 GSK3B
+dto:DTO_03400292 ERK subfamily
+dto:DTO_03400295 Erk7 subfamily
+dto:DTO_03400293 JNK subfamily
+dto:DTO_03400300 NMO subfamily
+dto:DTO_03400294 P38 subfamily
+dto:DTO_03200315 MAPK1
+dto:DTO_03200316 MAPK3
+dto:DTO_03200317 MAPK4
+dto:DTO_03200318 MAPK6
+dto:DTO_03200319 MAPK7
+dto:DTO_03200327 MAPK15
+dto:DTO_03200322 MAPK10
+dto:DTO_03200320 MAPK8
+dto:DTO_03200321 MAPK9
+dto:DTO_03200366 NLK
+dto:DTO_03200323 MAPK11
+dto:DTO_03200324 MAPK12
+dto:DTO_03200325 MAPK13
+dto:DTO_03200326 MAPK14
+dto:DTO_03200179 ICK
+dto:DTO_03200298 MAK
+dto:DTO_03200332 MOK
+dto:DTO_03200486 SRPK1
+dto:DTO_03200487 SRPK2
+dto:DTO_03200488 SRPK3
+dto:DTO_03400130 AUR family
+dto:DTO_03400134 BUB family
+dto:DTO_03400213 BUD32 family
+dto:DTO_03400174 CAMKK family
+dto:DTO_03400137 CDC7 family
+dto:DTO_03400161 HASPIN family
+dto:DTO_03400164 IKK family
+dto:DTO_03400154 IRE family
+dto:DTO_03400241 KIS family
+dto:DTO_03400193 MOS family
+dto:DTO_03400115 NAK family
+dto:DTO_03400197 NEK family
+dto:DTO_03400222 NKF1 family
+dto:DTO_03400208 NKF2 family
+dto:DTO_03400204 NKF3 family
+dto:DTO_03400202 NKF4 family
+dto:DTO_03400233 NKF5 family
+dto:DTO_03400198 NRBP family
+dto:DTO_03400218 Other-UNIQUE family
+dto:DTO_03400201 PAN3 family
+dto:DTO_03400151 PEK family
+dto:DTO_03400211 PLK family
+dto:DTO_03400199 SCY1 family
+dto:DTO_03400225 SGK071 family
+dto:DTO_03400209 SGK493 family
+dto:DTO_03400149 SGK496 family
+dto:DTO_03400215 SLOB family
+dto:DTO_03400232 TBCK family
+dto:DTO_03400235 TLK family
+dto:DTO_03400236 TOPK family
+dto:DTO_03400240 TTK family
+dto:DTO_03400228 ULK family
+dto:DTO_03400206 VPS15 family
+dto:DTO_03400212 WEE family
+dto:DTO_03400244 WNK family
+dto:DTO_03200035 AURKA
+dto:DTO_03200036 AURKB
+dto:DTO_03200037 AURKC
+dto:DTO_03200052 BUB1
+dto:DTO_03200051 BUB1B
+dto:DTO_03200441 TP53RK
+dto:DTO_03400275 Meta subfamily
+dto:DTO_03200232 CAMKK1
+dto:DTO_03200233 CAMKK2
+dto:DTO_03200056 CDC7
+dto:DTO_03200170 GSG2
+dto:DTO_03200181 CHUK
+dto:DTO_03200182 IKBKB
+dto:DTO_03200183 IKBKE
+dto:DTO_03200518 TBK1
+dto:DTO_03200142 ERN1
+dto:DTO_03200143 ERN2
+dto:DTO_03200554 UHMK1
+dto:DTO_03200333 MOS
+dto:DTO_03200001 AAK1
+dto:DTO_03200042 BMP2K
+dto:DTO_03200158 GAK
+dto:DTO_03200497 STK16
+dto:DTO_03200355 NEK1
+dto:DTO_03200353 NEK10
+dto:DTO_03200354 NEK11
+dto:DTO_03200356 NEK2
+dto:DTO_03200357 NEK3
+dto:DTO_03200358 NEK4
+dto:DTO_03200359 NEK5
+dto:DTO_03200360 NEK6
+dto:DTO_03200361 NEK7
+dto:DTO_03200362 NEK8
+dto:DTO_03200363 NEK9
+dto:DTO_03200464 SBK1
+dto:DTO_03200465 SBK2
+dto:DTO_03200466 SBK3
+dto:DTO_03200420 PINK1
+dto:DTO_03200402 PEAK1
+dto:DTO_03200469 SGK223
+dto:DTO_03200394 PDIK1L
+dto:DTO_03200502 STK35
+dto:DTO_03200522 TEX14
+dto:DTO_03200368 NRBP1
+dto:DTO_03200367 NRBP2
+dto:DTO_03200468 POMK
+dto:DTO_03200455 RNASEL
+dto:DTO_03200500 STK31
+dto:DTO_03200390 PAN3
+dto:DTO_03200118 EIF2AK1
+dto:DTO_03200119 EIF2AK2
+dto:DTO_03400269 GCN2 subfamily
+dto:DTO_03400268 PEK subfamily
+dto:DTO_03200121 EIF2AK4
+dto:DTO_03200120 EIF2AK3
+dto:DTO_03200430 PLK1
+dto:DTO_03200431 PLK2
+dto:DTO_03400308 PLK2 subfamily
+dto:DTO_03200432 PLK3
+dto:DTO_03200433 PLK4
+dto:DTO_03200434 PLK5
+dto:DTO_03200370 SCYL1
+dto:DTO_03200467 SCYL2
+dto:DTO_03200383 SCYL3
+dto:DTO_03200474 STKLD1
+dto:DTO_03200426 PKDCC
+dto:DTO_03200112 DSTYK
+dto:DTO_03200444 PXK
+dto:DTO_03490993 TBCK
+dto:DTO_03200517 TBCK
+dto:DTO_03200528 TLK1
+dto:DTO_03200529 TLK2
+dto:DTO_03200533 PBK
+dto:DTO_03200547 TTK
+dto:DTO_03200503 STK36
+dto:DTO_03200555 ULK1
+dto:DTO_03200556 ULK2
+dto:DTO_03200557 ULK3
+dto:DTO_03200558 ULK4
+dto:DTO_03200408 PIK3R4
+dto:DTO_03200435 PKMYT1
+dto:DTO_03200565 WEE1
+dto:DTO_03200566 WEE2
+dto:DTO_03200567 WNK1
+dto:DTO_03200568 WNK2
+dto:DTO_03200569 WNK3
+dto:DTO_03200570 WNK4
+dto:DTO_03200234 PHKA1
+dto:DTO_03200235 PHKA2
+dto:DTO_03400125 RGC family
+dto:DTO_03200166 GUCY2C
+dto:DTO_03200167 GUCY2D
+dto:DTO_03200168 GUCY2F
+dto:DTO_03200028 NPR1
+dto:DTO_03200029 NPR2
+dto:DTO_03400185 STE-UNIQUE family
+dto:DTO_03400186 STE11 family
+dto:DTO_03400187 STE20 family
+dto:DTO_03400194 STE7 family
+dto:DTO_03200280 MAP3K14
+dto:DTO_03200290 MAP3K8
+dto:DTO_03200283 MAP3K1
+dto:DTO_03200281 MAP3K15
+dto:DTO_03200282 MAP3K19
+dto:DTO_03200284 MAP3K2
+dto:DTO_03200285 MAP3K3
+dto:DTO_03200286 MAP3K4
+dto:DTO_03200287 MAP3K5
+dto:DTO_03200288 MAP3K6
+dto:DTO_03400302 FRAY subfamily
+dto:DTO_03400287 KHS subfamily
+dto:DTO_03400288 MSN subfamily
+dto:DTO_03400317 MST subfamily>
+dto:DTO_03400298 NinaC subfamily
+dto:DTO_03200369 NRK
+dto:DTO_03400303 PAKA subfamily
+dto:DTO_03400304 PAKB subfamily
+dto:DTO_03400315 SLK subfamily
+dto:DTO_03200509 STRADA
+dto:DTO_03200510 STRADB
+dto:DTO_03400318 TAO subfamily
+dto:DTO_03400297 YSK subfamily
+dto:DTO_03200377 OXSR1
+dto:DTO_03200505 STK39
+dto:DTO_03200293 MAP4K1
+dto:DTO_03200294 MAP4K2
+dto:DTO_03200295 MAP4K3
+dto:DTO_03200297 MAP4K5
+dto:DTO_03200296 MAP4K4
+dto:DTO_03200314 MINK1
+dto:DTO_03200531 TNIK
+dto:DTO_03200506 STK3
+dto:DTO_03200508 STK4
+dto:DTO_03200351 MYO3A
+dto:DTO_03200352 MYO3B
+dto:DTO_03200384 PAK1
+dto:DTO_03200385 PAK2
+dto:DTO_03200386 PAK3
+dto:DTO_03200387 PAK4
+dto:DTO_03200388 PAK6
+dto:DTO_03200389 PAK7
+dto:DTO_03200478 SLK
+dto:DTO_03200495 STK10
+dto:DTO_03200514 TAOK1
+dto:DTO_03200515 TAOK2
+dto:DTO_03200516 TAOK3
+dto:DTO_03200344 MST4
+dto:DTO_03200498 STK24
+dto:DTO_03200499 STK25
+dto:DTO_03200334 MAP2K1
+dto:DTO_03200335 MAP2K2
+dto:DTO_03200336 MAP2K3
+dto:DTO_03200337 MAP2K4
+dto:DTO_03200338 MAP2K5
+dto:DTO_03200339 MAP2K6
+dto:DTO_03200340 MAP2K7
+dto:DTO_03400117 ABL family
+dto:DTO_03400118 ACK family
+dto:DTO_03400122 ALK family
+dto:DTO_03400189 AXL family
+dto:DTO_03400214 CCK4 family
+dto:DTO_03400144 CSK family
+dto:DTO_03400148 DDR family
+dto:DTO_03400152 EGFR family
+dto:DTO_03400153 EPH family
+dto:DTO_03491040 Ephrin family
+dto:DTO_03400155 FAK family
+dto:DTO_03400157 FER family
+dto:DTO_03400158 FGFR family
+dto:DTO_03400163 INSR family
+dto:DTO_03400167 JAKA family
+dto:DTO_03400183 LMR family
+dto:DTO_03400190 MET family
+dto:DTO_03400195 MUSK family
+dto:DTO_03400141 PDGFR family
+dto:DTO_03400216 RET family
+dto:DTO_03400219 ROR family
+dto:DTO_03400221 RYK family
+dto:DTO_03400220 SEV family
+dto:DTO_03400132 SRC family
+dto:DTO_03400180 SYK family
+dto:DTO_03400133 TEC family
+dto:DTO_03400234 TIE family
+dto:DTO_03400230 TK-UNIQUE family
+dto:DTO_03400200 TRK family
+dto:DTO_03400242 VEGFR family
+dto:DTO_03200006 ABL1
+dto:DTO_03200007 ABL2
+dto:DTO_03200532 TNK1
+dto:DTO_03200008 TNK2
+dto:DTO_03200022 ALK
+dto:DTO_03200274 LTK
+dto:DTO_03200553 AXL
+dto:DTO_03200312 MERTK
+dto:DTO_03200550 TYRO3
+dto:DTO_03200443 PTK7
+dto:DTO_03200096 CSK
+dto:DTO_03200310 MATK
+dto:DTO_03200105 DDR1
+dto:DTO_03200106 DDR2
+dto:DTO_03200124 EGFR
+dto:DTO_03200139 ERBB2
+dto:DTO_03200140 ERBB3
+dto:DTO_03200141 ERBB4
+dto:DTO_03200125 EPHA1
+dto:DTO_03200133 EPHA10
+dto:DTO_03200126 EPHA2
+dto:DTO_03200127 EPHA3
+dto:DTO_03200128 EPHA4
+dto:DTO_03200129 EPHA5
+dto:DTO_03200130 EPHA6
+dto:DTO_03200131 EPHA7
+dto:DTO_03200132 EPHA8
+dto:DTO_03200134 EPHB1
+dto:DTO_03200135 EPHB2
+dto:DTO_03200136 EPHB3
+dto:DTO_03200137 EPHB4
+dto:DTO_03200138 EPHB6
+dto:DTO_03200123 EFNA1
+dto:DTO_03200144 PTK2
+dto:DTO_03200145 PTK2B
+dto:DTO_03200147 FER
+dto:DTO_03200148 FES
+dto:DTO_03200149 FGFR1
+dto:DTO_03200150 FGFR2
+dto:DTO_03200151 FGFR3
+dto:DTO_03200152 FGFR4
+dto:DTO_03200180 IGF1R
+dto:DTO_03200186 INSR
+dto:DTO_03200185 INSRR
+dto:DTO_03200196 JAK1
+dto:DTO_03200197 JAK2
+dto:DTO_03200198 JAK3
+dto:DTO_03200549 TYK2
+dto:DTO_03200269 AATK
+dto:DTO_03200270 LMTK2
+dto:DTO_03200271 LMTK3
+dto:DTO_03200313 MET
+dto:DTO_03200458 MST1R
+dto:DTO_03200346 MUSK
+dto:DTO_03200090 CSF1R
+dto:DTO_03200154 FLT3
+dto:DTO_03200231 KIT
+dto:DTO_03200403 PDGFRA
+dto:DTO_03200404 PDGFRB
+dto:DTO_03200446 RET
+dto:DTO_03200459 ROR1
+dto:DTO_03200460 ROR2
+dto:DTO_03200463 RYK
+dto:DTO_03200461 ROS1
+dto:DTO_03200041 BLK
+dto:DTO_03200153 FGR
+dto:DTO_03200155 FRK
+dto:DTO_03200156 FYN
+dto:DTO_03200171 HCK
+dto:DTO_03200266 LCK
+dto:DTO_03200275 LYN
+dto:DTO_03200442 PTK6
+dto:DTO_03200484 SRC
+dto:DTO_03200485 SRMS
+dto:DTO_03200571 YES1
+dto:DTO_03200262 SYK
+dto:DTO_03200572 ZAP70
+dto:DTO_03200046 BMX
+dto:DTO_03200050 BTK
+dto:DTO_03200194 ITK
+dto:DTO_03200519 TEC
+dto:DTO_03200548 TXK
+dto:DTO_03200526 TEK
+dto:DTO_03200525 TIE1
+dto:DTO_03200511 STYK1
+dto:DTO_03200371 NTRK1
+dto:DTO_03200372 NTRK2
+dto:DTO_03200373 NTRK3
+dto:DTO_03200559 FLT1
+dto:DTO_03200561 FLT4
+dto:DTO_03200560 KDR
+dto:DTO_03400166 IRAK family
+dto:DTO_03400182 LISK family
+dto:DTO_03400184 LRRK family
+dto:DTO_03400165 MLK family
+dto:DTO_03400126 RAF family
+dto:DTO_03400124 RIPK family
+dto:DTO_03400119 STKR family
+dto:DTO_03400192 TKL-UNIQUE family
+dto:DTO_03200190 IRAK1
+dto:DTO_03200191 IRAK2
+dto:DTO_03200192 IRAK3
+dto:DTO_03200193 IRAK4
+dto:DTO_03400283 LIMK subfamily
+dto:DTO_03400319 TESK subfamily
+dto:DTO_03200521 TESK2
+dto:DTO_03200267 LIMK1
+dto:DTO_03200268 LIMK2
+dto:DTO_03200520 TESK1
+dto:DTO_03200272 LRRK1
+dto:DTO_03200273 LRRK2
+dto:DTO_03400320 HH498 subfamily
+dto:DTO_03400274 ILK subfamily
+dto:DTO_03400285 LZK subfamily
+dto:DTO_03200278 MAP3K12
+dto:DTO_03400284 MLK subfamily
+dto:DTO_03200292 MLK4
+dto:DTO_03400286 TAK1 subfamily
+dto:DTO_03200530 TNNI3K
+dto:DTO_03200184 ILK
+dto:DTO_03200279 MAP3K13
+dto:DTO_03200276 MAP3K10
+dto:DTO_03200277 MAP3K11
+dto:DTO_03200291 MAP3K9
+dto:DTO_03200331 ZAK
+dto:DTO_03200289 MAP3K7
+dto:DTO_03200030 ARAF
+dto:DTO_03200047 BRAF
+dto:DTO_03200260 KSR1
+dto:DTO_03200261 KSR2
+dto:DTO_03200445 RAF1
+dto:DTO_03200027 ANKK1
+dto:DTO_03200450 RIPK1
+dto:DTO_03200451 RIPK2
+dto:DTO_03200452 RIPK3
+dto:DTO_03200453 RIPK4
+dto:DTO_03400246 STKR Type 1 subfamily
+dto:DTO_03400252 STKR Type 2 subfamily
+dto:DTO_03200012 ACVR1
+dto:DTO_03200009 ACVR1B
+dto:DTO_03200010 ACVR1C
+dto:DTO_03200011 ACVRL1
+dto:DTO_03200044 BMPR1A
+dto:DTO_03200045 BMPR1B
+dto:DTO_03200523 TGFBR1
+dto:DTO_03200038 ACVR2A
+dto:DTO_03200039 ACVR2B
+dto:DTO_03200026 AMHR2
+dto:DTO_03200043 BMPR2
+dto:DTO_03200524 TGFBR2
+dto:DTO_03200330 MLKL
+dto:DTO_03200437 PRKRA
+dto:DTO_03200512 TAB1
+dto:DTO_00217474 3-ketosteroid receptors
+dto:DTO_00217471 Coup-tf-like receptors
+dto:DTO_00217459 Dax-like receptors
+dto:DTO_00217472 Estrogen receptors
+dto:DTO_00217473 Estrogen-related receptors
+dto:DTO_00217476 Fushi tarazu f1-like receptors
+dto:DTO_00217477 Germ cell nuclear factor receptors
+dto:DTO_00217467 Hepatocyte nuclear factor-4 receptors
+dto:DTO_00217465 Liver x receptor-like receptors
+dto:DTO_00217475 Nerve growth factor ib-like receptors
+dto:DTO_00217462 Peroxisome proliferator-activated receptors
+dto:DTO_00217461 Retinoic acid receptors
+dto:DTO_00217464 Retinoic acid-related orphans
+dto:DTO_00217468 Retinoid x receptors
+dto:DTO_00217463 Rev-erb receptors
+dto:DTO_00217470 Tailless-like receptors
+dto:DTO_00217469 Testicular receptors
+dto:DTO_00217460 Thyroid hormone receptors
+dto:DTO_00217466 Vitamin d receptor-like receptors
+dto:DTO_00217566 AR
+dto:DTO_00217567 NR3C1
+dto:DTO_00217568 NR3C2
+dto:DTO_00217569 PGR
+dto:DTO_00217558 NR2F1
+dto:DTO_00217559 NR2F2
+dto:DTO_00217560 NR2F6
+dto:DTO_00217528 NR0B1
+dto:DTO_00217529 NR0B2
+dto:DTO_00217561 ESR1
+dto:DTO_00217562 ESR2
+dto:DTO_00217563 ESRRA
+dto:DTO_00217564 ESRRB
+dto:DTO_00217565 ESRRG
+dto:DTO_00217573 NR5A1
+dto:DTO_00217574 NR5A2
+dto:DTO_00217575 NR6A1
+dto:DTO_00217549 HNF4A
+dto:DTO_00217550 HNF4G
+dto:DTO_00217545 NR1H2
+dto:DTO_00217544 NR1H3
+dto:DTO_00217543 NR1H4
+dto:DTO_00217570 NR4A1
+dto:DTO_00217571 NR4A2
+dto:DTO_00217572 NR4A3
+dto:DTO_00217535 PPARA
+dto:DTO_00217536 PPARD
+dto:DTO_00217537 PPARG
+dto:DTO_00217532 RARA
+dto:DTO_00217533 RARB
+dto:DTO_00217534 RARG
+dto:DTO_00217540 RORA
+dto:DTO_00217541 RORB
+dto:DTO_00217542 RORC
+dto:DTO_00217551 RXRA
+dto:DTO_00217552 RXRB
+dto:DTO_00217553 RXRG
+dto:DTO_00217538 NR1D1
+dto:DTO_00217539 NR1D2
+dto:DTO_00217556 NR2E1
+dto:DTO_00217557 NR2E3
+dto:DTO_00217554 NR2C1
+dto:DTO_00217555 NR2C2
+dto:DTO_00217530 THRA
+dto:DTO_00217531 THRB
+dto:DTO_00217547 NR1I2
+dto:DTO_00217548 NR1I3
+dto:DTO_00217546 VDR
+bao:BAO_0080020 cm/sec
+bao:BAO_0080021 nmol/sec
+bao:BAO_0003028 assay method
+bao:BAO_0002094 computational method
+bao:BAO_0003118 instrument
+bao:BAO_0003116 material entity
+bao:BAO_0000035 physical detection method
+bao:BAO_0003119 software
+bao:BAO_0002202 assay design method
+bao:BAO_0002429 assay supporting method
+bao:BAO_0000123 binding assessment method
+bao:BAO_0002047 cell cycle progression assessment method
+bao:BAO_0000499 cell movement measurement method
+bao:BAO_0040027 chromatin acessibility method
+bao:BAO_0000048 conformation determination method
+bao:BAO_0002017 cytokine quantitation method
+bao:BAO_0000124 enzyme activity measurement method
+bao:BAO_0040029 epigenetic modification detection method
+bao:BAO_0003024 gene expression detection method
+bao:BAO_0040021 in vivo assay method
+bao:BAO_0003032 kinase competitive binding method
+bao:BAO_0000377 membrane potential measurement method
+bao:BAO_0040011 molecular abundance method
+bao:BAO_0000126 molecular redistribution determination method
+bao:BAO_0000448 morphology assessment method
+bao:BAO_0002013 phosphoprotein detection method
+bao:BAO_0040031 size separation method
+bao:BAO_0000127 viability measurement method
+bao:BAO_0002755 fluorescent ligand binding method
+bao:BAO_0040033 ligand covalent binding method
+bao:BAO_0003033 mobility shift assessment method
+bao:BAO_0000406 protein fragment complementation method
+bao:BAO_0000402 radioligand binding method
+bao:BAO_0002892 second messenger competitive binding assessment method
+bao:BAO_0040024 thermal shift assessment method
+bao:BAO_0040032 NanoBRET
+bao:BAO_0040034 lysine ligand covalent binding method
+bao:BAO_0040035 methionine ligand covalent binding method
+bao:BAO_0040038 N-terminal ligand covalent binding method
+bao:BAO_0040036 serine ligand covalent binding method
+bao:BAO_0040039 threonine ligand covalent binding method
+bao:BAO_0040037 tyrosine ligand covalent binding method
+bao:BAO_0040040 unnatural amino acid ligand covalent binding method
+bao:BAO_0040041 cysteine ligand covalent binding method
+bao:BAO_0002741 M phase assessment method
+bao:BAO_0002740 S phase assessment method
+bao:BAO_0040030 transcription factor occupancy
+bao:BAO_0000469 nucleic acid conformation assessment
+bao:BAO_0000470 protein conformation assessment
+bao:BAO_0000044 cytokine-specific antibody bead-based method
+bao:BAO_0000142 coupled enzyme activity measurement method
+bao:BAO_0000139 direct enzyme activity measurement method
+bao:BAO_0002591 chaperone coupled enzyme activity measurement method
+bao:BAO_0002730 cofactor coupled enzyme activity measurement method
+bao:BAO_0002592 protease coupled enzyme activity measurement method
+bao:BAO_0002593 substrate coupled enzyme activity measurement method
+bao:BAO_0002791 ADP coupled enzyme activity measurement method
+bao:BAO_0002594 ATP coupled enzyme activity measurement method
+bao:BAO_0002595 luciferin coupled enzyme activity measurement method
+bao:BAO_0040016 Beta-galactosidase activity measurement method
+bao:BAO_0002734 luciferase enzyme activity measurement method
+bao:BAO_0003034 nucleic acid identification and quantitation method
+bao:BAO_0000125 reporter gene method
+bao:BAO_0002022 dna-coated bead based method
+bao:BAO_0002450 nucleic acid amplification method
+bao:BAO_0003026 nucleic acid array method
+bao:BAO_0002447 nucleic acid sequencing method
+bao:BAO_0002080 polymerase chain reaction
+bao:BAO_0003031 quantitative PCR
+bao:BAO_0002084 real-time PCR
+bao:BAO_0002089 reverse transcription PCR
+bao:BAO_0002090 quantitative reverse transcription PCR
+bao:BAO_0040026 dna-seq method
+bao:BAO_0003027 rna-seq method
+bao:BAO_0002430 serial analysis of gene expression
+bao:BAO_0000150 beta galactosidase induction
+bao:BAO_0000151 beta lactamase induction
+bao:BAO_0000494 chloramphenicol acetyltransferase induction
+bao:BAO_0000153 fluorescent protein induction
+bao:BAO_0000152 luciferase induction
+bao:BAO_0040022 in vivo efficacy method
+bao:BAO_0040023 in vivo PK/PD/Tox method
+bao:BAO_0003030 kinase active-site binding method
+bao:BAO_0000425 dye binding method
+bao:BAO_0000424 electrophysiological method
+bao:BAO_0040017 DNA or RNA abundance method
+bao:BAO_0040013 lipid abundance method
+bao:BAO_0040028 metabolite abundance method
+bao:BAO_0040014 protein abundance method
+bao:BAO_0040012 second messenger abundance
+bao:BAO_0040018 small molecule abundance method
+obo:ERO_0002176 isobaric labeling
+bae:BAE_0000012 SILAC
+bao:BAO_0000129 immunoassay
+bao:BAO_0002888 ion redistribution determination method
+bao:BAO_0000466 ex situ immunoassay
+bao:BAO_0002415 dot immunobinding assay
+bao:BAO_0000134 ELISA
+bao:BAO_0002401 enzyme-multiplied immunoassay technique
+bao:BAO_0002422 immunoblot
+bao:BAO_0002428 radioimmunoassay
+bao:BAO_0002411 two site enzyme immunoassay
+bao:BAO_0000137 antigen down assay
+bao:BAO_0002417 chemiluminescence-linked immunosorbent assay
+bao:BAO_0000132 competitive immunoassay
+bao:BAO_0002419 enzyme-linked immunosorbent spot assay
+bao:BAO_0002420 fluorescence-linked immunosorbent assay
+bao:BAO_0002421 sandwich ELISA
+bao:BAO_0002423 in-cell western assay
+bao:BAO_0002424 western blot
+bao:BAO_0040019 cellular morphology assessment method
+bao:BAO_0000128 in situ immunoassay
+bao:BAO_0040020 sub-cellular morphology assessment method
+bao:BAO_0000416 immunocytochemistry
+bao:BAO_0000415 immunohistochemistry
+bao:BAO_0003025 phosphoprotein-specific antibody-coated bead based method
+obo:ERO_0001500 liquid chromatography
+bao:BAO_0000164 ATP quantitation
+bao:BAO_0000165 caspase activity determination
+bao:BAO_0040015 cell density determination
+bao:BAO_0000572 cell number determination
+bao:BAO_0000159 chromatin condensation visualization
+bao:BAO_0000166 dehydrogenase activity determination
+bao:BAO_0000169 dna content estimation
+bao:BAO_0000158 esterase activity determination
+bao:BAO_0000167 membrane permeability assessment
+bao:BAO_0000423 mitochondrial membrane potential assessment
+bao:BAO_0000073 phospholipid redistribution estimation
+bao:BAO_0000170 protease activity determination
+bao:BAO_0002079 ATP quantitation using luciferase
+bao:BAO_0002754 assay data processing method
+bao:BAO_0002647 cell culture method
+bao:BAO_0002198 delivery method
+bao:BAO_0002431 gene expression modulation method
+bao:BAO_0002445 genotyping method
+bao:BAO_0002452 labeling method
+bao:BAO_0002197 modification method
+bao:BAO_0002014 preparation method
+bao:BAO_0002011 processing method
+bao:BAO_0002485 reconstitution method
+bao:BAO_0002500 separation method
+bao:BAO_0000468 signal quantitation method
+bao:BAO_0002026 structure analysis method
+bao:BAO_0002413 titration method
+bao:BAO_0002140 activity threshold specification
+bao:BAO_0000028 assay quality assessment method
+bao:BAO_0000433 curve fit method
+bao:BAO_0000419 endpoint correction
+bao:BAO_0002170 endpoint modifier
+bao:BAO_0000075 endpoint normalization method
+bao:BAO_0000043 endpoint qualifier
+bao:BAO_0040001 image analysis method
+bao:BAO_0002141 activity threshold signal direction
+obo:GENEPIO_0001001 threshold comparisons
+obo:GENEPIO_0001004 equal to (=)
+obo:GENEPIO_0001006 greater than (>)
+obo:GENEPIO_0001005 greater than or equal (≥)
+obo:GENEPIO_0001002 less than (<)
+obo:GENEPIO_0001003 less than or equal (≤)
+bao:BAO_0000531 coefficient of variation
+bao:BAO_0002143 robust z-prime factor
+bao:BAO_0000530 signal to noise
+bao:BAO_0000529 signal window
+bao:BAO_0000527 z factor
+bao:BAO_0000528 z-prime factor
+bae:BAE_0000063 endpoint correction absent
+bae:BAE_0000062 endpoint correction present
+bao:BAO_0002171 ln
+bao:BAO_0002172 log
+bao:BAO_0002173 mean
+bao:BAO_0002174 median
+bao:BAO_0002175 p
+bao:BAO_0002176 standard deviation
+bao:BAO_0002750 normalization based on control
+bao:BAO_0002751 normalization without control
+bao:BAO_0001104 percent activation normalization
+bao:BAO_0000431 percent control normalization
+bao:BAO_0000065 percent inhibition normalization
+bao:BAO_0002159 b-score normalization
+bao:BAO_0002161 mad-score normalization
+bao:BAO_0002160 z-score normalization
+bao:BAO_0040002 image correction
+bao:BAO_0040007 image segmentation
+bao:BAO_0040003 background correction
+bao:BAO_0040004 image resize
+bao:BAO_0040005 image sharpening
+bao:BAO_0040006 image smoothing
+bao:BAO_0040008 edge detection
+bao:BAO_0040009 image thresholding
+bao:BAO_0002649 co-culture
+bao:BAO_0002648 one cell type
+bao:BAO_0000573 perturbagen delivery method
+bao:BAO_0002155 silencing RNA delivery method
+bao:BAO_0000575 mixture of perturbagens
+bao:BAO_0000574 single perturbagen
+bao:BAO_0000245 transfection method
+bao:BAO_0000246 stable transfection
+bao:BAO_0000247 transient transfection
+bao:BAO_0002432 gene knock in
+bao:BAO_0002433 gene knockdown
+bao:BAO_0002441 gene knockout
+bao:BAO_0002442 gene overexpression
+bao:BAO_0002439 gene knockdown by antisense RNA
+bao:BAO_0002440 gene knockdown by morpholino treatment
+bao:BAO_0002434 gene knockdown by RNA interference
+bao:BAO_0002435 gene knockdown by dsRNA transfection
+bao:BAO_0002436 gene knockdown by lentiviral shRNA transduction
+bao:BAO_0002437 gene knockdown by shRNA transfection
+bao:BAO_0002438 gene knockdown by siRNA transfection
+bao:BAO_0002443 gene overexpression by stable transfection
+bao:BAO_0002444 gene overexpression by transient transfection
+bao:BAO_0002451 chromosome mapping
+bao:BAO_0002446 nucleic acid hybridization-based method
+bao:BAO_0002448 restriction enzyme-based method
+bao:BAO_0002449 single nucleotide polymorphism genotyping
+bao:BAO_0040025 chemiluminescent labeling method
+bao:BAO_0002453 colorimetric labeling method
+bao:BAO_0002469 fluorescent labeling method
+bao:BAO_0002425 immunolabeling method
+bao:BAO_0002478 isotope labeling method
+bao:BAO_0002479 photoaffinity labeling
+bao:BAO_0002480 vital dye staining
+bao:BAO_0002455 colorimetric cell staining method
+bao:BAO_0002462 colorimetric protein staining method
+bao:BAO_0002468 crystal violet staining
+bao:BAO_0002456 MTS reduction assay
+bao:BAO_0002457 MTT reduction assay
+bao:BAO_0002459 resazurin reduction assay
+bao:BAO_0002458 XTT reduction assay
+bao:BAO_0002467 bicinchoninic acid assay
+bao:BAO_0002463 Bradford protein assay
+bao:BAO_0002464 Coomassie dye protein staining
+bao:BAO_0002465 Lowry assay
+bao:BAO_0002466 Ponceau S protein staining
+bao:BAO_0002460 sulforhodamine B staining
+bao:BAO_0002470 fluorescent DNA hybridization probe method
+bao:BAO_0002472 fluorescent DNA intercalation method
+bao:BAO_0002477 fluorescent dye transfer
+bao:BAO_0002471 fluorescent DNA hydrolysis probe method
+bao:BAO_0002474 ethidium bromide DNA staining
+bao:BAO_0002475 fluorescent intercalator displacement
+bao:BAO_0002476 propidium iodide DNA staining
+bao:BAO_0002473 SYBR Green I DNA staining
+bao:BAO_0002426 immunofluorescent labeling
+bao:BAO_0002427 immunogold labeling
+bao:BAO_0002481 dye exclusion method
+bao:BAO_0002483 vital staining of cells
+bao:BAO_0002484 vital staining of organelles
+bao:BAO_0002482 propidium iodide exclusion
+bao:BAO_0002461 trypan blue cell staining
+bao:BAO_0000238 cell line modification method
+bao:BAO_0002632 protein modification method
+bao:BAO_0002635 RNA modification method
+bao:BAO_0000547 bacterial infection method
+bao:BAO_0000240 cell fusion method
+bao:BAO_0000241 genetic modification method
+bao:BAO_0000242 cybrid cell creation method
+bao:BAO_0000243 hybrid cell creation method
+bao:BAO_0000244 viral transduction method
+bao:BAO_0000546 pathogenic virus transduction method
+bao:BAO_0000545 recombinant virus transduction method
+bao:BAO_0002631 protein denaturation method
+bao:BAO_0002634 chemical denaturation
+bao:BAO_0002633 heat denaturation
+bao:BAO_0002165 silencing RNA modification method
+bao:BAO_0002601 antibody preparation method
+bao:BAO_0000356 protein preparation method
+bao:BAO_0002151 RNA interference construct preparation method
+bao:BAO_0003029 small molecule preparation method
+bao:BAO_0002603 affinity purification method
+bao:BAO_0002602 ammonium sulfate precipitation method
+bao:BAO_0002605 antigen-based affinity purification method
+bao:BAO_0002606 protein A-based affinity purification method
+bao:BAO_0002607 protein A/G-based affinity purification method
+bao:BAO_0002604 protein G-based affinity purification method
+bao:BAO_0002608 protein L-based affinity purification method
+bao:BAO_0000360 recombinant expression
+bao:BAO_0002076 extraction from natural source
+bao:BAO_0002077 synthesis by a chemical process
+bao:BAO_0002078 purification from natural source
+bao:BAO_0002033 cell processing method
+bao:BAO_0002036 tissue processing method
+bao:BAO_0002035 cell fixation method
+bao:BAO_0002037 tissue fixation method
+bao:BAO_0002486 complementation method
+bao:BAO_0002498 liposome reconstitution
+bao:BAO_0002499 parallel artificial membrane permeation assay
+bao:BAO_0002487 chemical complementation
+bao:BAO_0002488 genetic complementation
+bao:BAO_0002495 protein complementation
+bao:BAO_0002489 hybrid screening
+bao:BAO_0002490 one-hybrid assay
+bao:BAO_0002491 three-hybrid assay
+bao:BAO_0002492 two-hybrid assay
+bao:BAO_0002493 mammalian two-hybrid assay
+bao:BAO_0002494 yeast two-hybrid assay
+bao:BAO_0002496 enzyme complementation
+bao:BAO_0002497 enzyme fragment complementation
+bao:BAO_0002501 affinity selection
+bao:BAO_0002502 antibody-based separation method
+bao:BAO_0002509 cell separation method
+bao:BAO_0002503 immunocapture
+bao:BAO_0002504 immunochromatography
+bao:BAO_0002505 immunodepletion
+bao:BAO_0002507 immunomagnetic separation method
+bao:BAO_0002508 immunoprecipitation
+bao:BAO_0000464 densitometric scan
+bao:BAO_0002045 primary structure analysis method
+bao:BAO_0002409 secondary structure analysis method
+bao:BAO_0002410 structure activity relationship analysis
+bao:BAO_0002412 SAR by NMR
+bao:BAO_0002416 checkerboard titration
+bao:BAO_0002418 dilution method
+bao:BAO_0002414 Karl Fischer titration
+bao:BAO_0002454 volumetric titration
+bao:BAO_0002095 bioinformatics method
+bao:BAO_0002248 cheminformatics method
+bao:BAO_0002282 computer simulation method
+bao:BAO_0002305 quantitative structure activity relationship analysis
+bao:BAO_0002317 quantum chemistry computational method
+bao:BAO_0002335 statistical method
+bao:BAO_0002347 systems biology method
+bao:BAO_0002364 virtual screening
+bao:BAO_0002166 computational expression analysis
+bao:BAO_0002206 computational phylogenetic analysis
+bao:BAO_0002212 computational structure analysis
+bao:BAO_0002231 sequence alignment
+bao:BAO_0002203 computational analysis of gene expression
+bao:BAO_0002204 computational analysis of protein expression
+bao:BAO_0002207 Mesquite phylogenetic analysis
+bao:BAO_0002210 phylogenetic analysis using parsimony
+bao:BAO_0002211 phylogeny inference package
+bao:BAO_0002208 SplitsTree phylogenetic analysis
+bao:BAO_0002209 Treefinder phylogenetic analysis
+bao:BAO_0002213 2D structure prediction
+bao:BAO_0002216 3D structure prediction
+bao:BAO_0002214 PREDATOR structure prediction
+bao:BAO_0002215 PredictProtein structure prediction
+bao:BAO_0002217 computational structure solution
+bao:BAO_0002221 homology modeling
+bao:BAO_0002224 protein threading
+bao:BAO_0002226 protein-protein docking
+bao:BAO_0002228 structure alignment
+bao:BAO_0002220 computational electron microscopy structure solution
+bao:BAO_0002218 computational NMR structure solution
+bao:BAO_0002219 computational X-ray structure solution
+bao:BAO_0002222 MODELLER homology modeling
+bao:BAO_0002223 SwissModel homology modeling
+bao:BAO_0002225 RAPTOR protein threading
+bao:BAO_0002227 global range molecular matching
+bao:BAO_0002229 distance matrix alignment
+bao:BAO_0002230 matching molecular models obtained from theory
+bao:BAO_0002232 sequence alignment by method
+bao:BAO_0002244 sequence alignment by type
+bao:BAO_0002233 global sequence alignment
+bao:BAO_0002236 local sequence alignment
+bao:BAO_0002239 progressive system alignment
+bao:BAO_0002234 AVID sequence alignment
+bao:BAO_0002235 DIALIGN sequence alignment
+bao:BAO_0002238 basic local alignment search tool
+bao:BAO_0002237 FASTA local sequence alignment
+bao:BAO_0002240 Clustal sequence alignment
+bao:BAO_0002243 MAVID sequence alignment
+bao:BAO_0002241 ClustalW sequence alignment
+bao:BAO_0002242 ClustalX sequence alignment
+bao:BAO_0002245 multiple sequence alignment
+bao:BAO_0002246 pairwise sequence alignment
+bao:BAO_0002247 JAligner sequence alignment
+bao:BAO_0002249 conformational search
+bao:BAO_0002255 database filtering
+bao:BAO_0002257 library design
+bao:BAO_0002258 structure database search
+bao:BAO_0002269 structure generation
+bao:BAO_0002250 distance geometry conformational search
+bao:BAO_0002251 random conformational search
+bao:BAO_0002254 systematic conformational search
+bao:BAO_0002252 cartesian conformational search
+bao:BAO_0002253 dihedral conformational search
+bao:BAO_0002256 Lipinski rule of 5 filtering
+bao:BAO_0002259 exact match structure search
+bao:BAO_0002260 structure similarity search
+bao:BAO_0002268 substructure search
+bao:BAO_0002270 data based structure generation
+bao:BAO_0002272 de novo structure design
+bao:BAO_0002278 fragment based structure generation
+bao:BAO_0002280 rule based structure generation
+bao:BAO_0002271 CORINA structure generation
+bao:BAO_0002274 Groupbuild structure design
+bao:BAO_0002273 GROW structure design
+bao:BAO_0002275 LEGEND structure design
+bao:BAO_0002276 LUDI structure design
+bao:BAO_0002277 SPROUT structure design
+bao:BAO_0002279 Chem-X structure generation
+bao:BAO_0002281 CONCORD structure generation
+bao:BAO_0002283 computer simulation method by force field
+bao:BAO_0002293 global minimum search
+bao:BAO_0002296 local minimum search
+bao:BAO_0002301 molecular dynamics simulation
+bao:BAO_0002303 stochastic simulation
+bao:BAO_0002284 classical force field simulation
+bao:BAO_0002288 polarizable force field simulation
+bao:BAO_0002289 second generation force field simulation
+bao:BAO_0002285 AMBER force field simulation
+bao:BAO_0002286 CHARMM force field simulation
+bao:BAO_0002287 GROMOS force field simulation
+bao:BAO_0002399 AMBER polarizable
+bao:BAO_0002400 CHARMM polarizable
+bao:BAO_0002290 CFF force field simulation
+bao:BAO_0002291 MM4 force field simulation
+bao:BAO_0002292 MMFF force field simulation
+bao:BAO_0002294 genetic algorithm search
+bao:BAO_0002295 simulated annealing
+bao:BAO_0002297 energy minimization method
+bao:BAO_0002299 conjugate gradient method
+bao:BAO_0002298 Newton-Raphson method
+bao:BAO_0002300 steepest descent method
+bao:BAO_0002302 constraint molecular dynamics simulation
+bao:BAO_0002304 Monte Carlo simulation
+bao:BAO_0002306 linear QSAR
+bao:BAO_0002309 non-linear QSAR
+bao:BAO_0002312 three dimensional QSAR
+bao:BAO_0002316 two dimensional QSAR
+bao:BAO_0002307 partial least squares QSAR
+bao:BAO_0002308 regression QSAR
+bao:BAO_0002310 neural network QSAR
+bao:BAO_0002311 recursive partitioning QSAR
+bao:BAO_0002313 comparative molecular field analysis
+bao:BAO_0002314 comparative molecular similarity indices analysis
+bao:BAO_0002315 self organizing molecular field analysis
+bao:BAO_0002318 ab initio quantum chemistry computational method
+bao:BAO_0002326 semi-empirical quantum chemistry computational method
+bao:BAO_0002319 Hartree-Fock method
+bao:BAO_0002322 post Hartree-Fock method
+bao:BAO_0002320 restricted open-shell Hartree-Fock
+bao:BAO_0002321 unrestricted Hartree-Fock
+bao:BAO_0002323 configuration interaction method
+bao:BAO_0002324 coupled cluster method
+bao:BAO_0002325 quadratic configuration interaction method
+bao:BAO_0002327 pi-electron computational method
+bao:BAO_0002329 valence electron computational method
+bao:BAO_0002328 Pariser Parr Pople method
+bao:BAO_0002331 austin model 1
+bao:BAO_0002332 intermediate neglect of differential overlap
+bao:BAO_0002333 modified neglect of differential overlap
+bao:BAO_0002334 parameterized model number 3
+bao:BAO_0002330 Zerner's intermediate neglect of differential overlap
+bao:BAO_0002336 experimental design method
+bao:BAO_0002341 statistical classification method
+bao:BAO_0002337 completely randomized design
+bao:BAO_0002338 fractional factorial design
+bao:BAO_0002339 full factorial design
+bao:BAO_0002340 randomized block design
+bao:BAO_0002342 decision tree
+bao:BAO_0002343 hierarchial clustering
+bao:BAO_0002344 k means clustering
+bao:BAO_0002345 neural network model
+bao:BAO_0002346 principal component analysis
+bao:BAO_0002348 pathway analysis
+bao:BAO_0002363 target family knowledge analysis
+bao:BAO_0002349 pathway analysis by knowledge base
+bao:BAO_0002353 pathway analysis by method
+bao:BAO_0002350 automatic pathway analysis
+bao:BAO_0002351 natural language processing
+bao:BAO_0002352 Ariadne Pathway Studio
+bao:BAO_0002354 gene list enrichment analysis
+bao:BAO_0002359 integrated pathway analysis
+bao:BAO_0002361 network analysis
+bao:BAO_0002357 GeneTrail enrichment analysis
+bao:BAO_0002355 GOstat enrichment analysis
+bao:BAO_0002356 GSEA-P enrichment analysis
+bao:BAO_0002358 Onto-Express enrichment analysis
+bao:BAO_0002360 MetaDiscovery pathway analysis
+bao:BAO_0002362 Cytoscape network analysis
+bao:BAO_0002365 ligand based virtual screening
+bao:BAO_0002372 structure based virtual screening
+bao:BAO_0002366 ligand based pharmacophore model
+bao:BAO_0002371 scaffold hopping
+bao:BAO_0002367 Catalyst modeling
+bao:BAO_0002368 DISCOtech modeling
+bao:BAO_0002369 distance comparison modeling
+bao:BAO_0002370 genetic algorithm similary program
+bao:BAO_0002261 2D structure similarity search
+bao:BAO_0002264 3D structure similarity search
+bao:BAO_0002263 circular fingerprint search
+bao:BAO_0002262 MACCS key
+bao:BAO_0002265 shape fingerprint search
+bao:BAO_0002267 topomer search
+bao:BAO_0002266 rapid overlay of chemical structures
+bao:BAO_0002373 molecular docking
+bao:BAO_0002405 receptor based pharmacophore search
+bao:BAO_0002374 molecular docking by method
+bao:BAO_0002393 molecular docking by scoring function
+bao:BAO_0002379 descriptor matching method
+bao:BAO_0002383 genetic algorithm method
+bao:BAO_0002387 incremental construction method
+bao:BAO_0002375 Monte Carlo minimization method
+bao:BAO_0002377 Monte Carlo simulated annealing
+bao:BAO_0002391 tabu docking method
+bao:BAO_0002380 ADAM docking method
+bao:BAO_0002381 DOCK docking method
+bao:BAO_0002382 SLIDE docking method
+bao:BAO_0002384 AutoDock3 docking method
+bao:BAO_0002385 DARWIN docking method
+bao:BAO_0002386 GOLD docking method
+bao:BAO_0002388 DOCK4 docking method
+bao:BAO_0002389 FlexX docking method
+bao:BAO_0002390 Hummerhead docking method
+bao:BAO_0002376 internal coordinate mechanics method
+bao:BAO_0002378 AutoDock docking method
+bao:BAO_0002392 SFdock docking method
+bao:BAO_0002394 empirical scoring function
+bao:BAO_0002398 force field based scoring function
+bao:BAO_0002402 knowledge based scoring function
+bao:BAO_0002395 AutoDock3 scoring function
+bao:BAO_0002396 FLOG scoring function
+bao:BAO_0002397 GOLD scoring function
+bao:BAO_0002403 DrugScore scoring function
+bao:BAO_0002404 potentials of mean force scoring function
+bao:BAO_0002406 CoMFA pharmacophore search
+bao:BAO_0002407 GRID pharmacophore search
+bao:BAO_0002408 SPROUT pharmacophore search
+bao:BAO_0000697 detection instrument
+bao:BAO_0002110 fluorescence microscope filter
+bao:BAO_0150021 image acquisition device
+bao:BAO_0150029 light source
+bao:BAO_0150016 objective lens
+bao:BAO_0150101 PHERAstar FSX
+bao:BAO_0150100 Spectramax L
+bao:BAO_0000698 8453 UV-Visible Spectrophotometer
+bao:BAO_0150069 Agilent 1100 series LC-MSD SL
+bao:BAO_0002574 AlphaQuest reader
+bao:BAO_0002724 AMINCO-Bowman Series 2 Luminescence Spectrometer
+bao:BAO_0150053 Analyst AD (Molecular Devices)
+bao:BAO_0000699 Analyst HT
+bao:BAO_0000850 API 4000 LC/MS/MS System
+bao:BAO_0150068 Appled Biosystems Real-Time PCR System (ThermoFisher)
+bao:BAO_0002573 Applied biosystems 8200
+bao:BAO_0002935 automated cytometer
+bao:BAO_0002719 Avance III
+bao:BAO_0000857 AxioVert 200M Fluorescence Light Microscope
+bao:BAO_0150054 Axopatch 200B amplifier (Molecular Devices)
+bao:BAO_0150084 BD FACSAria flow cytometer (BD Biosciences)
+bao:BAO_0150055 Becton Dickinson (BD) LSRII FACS
+bao:BAO_0150085 Biacore 3000 SPR System (GE Healthcare)
+bao:BAO_0150057 BMG PHERAstar FSX plate reader (BMG Labtech, Cary NC)
+bao:BAO_0000878 CCD Luminometer
+bao:BAO_0002570 Cellomics ArrayScan
+bao:BAO_0150086 ChemiDoc XRS Imaging System (BioRad)
+bao:BAO_0150058 Countess automatic cell counter
+bao:BAO_0002722 CyAn Flow Cytometer
+bao:BAO_0000700 ELx808 Absorbance Microplate Reader
+bao:BAO_0000701 EnVision Multilabel Reader
+bao:BAO_0002572 Epic reader
+bao:BAO_0150087 FACScalibur flow cytometer (BD Biosciences)
+bao:BAO_0150059 FacSCAN flow cytometer
+bao:BAO_0000903 FDSS6000
+bao:BAO_0000904 FDSS7000
+bao:BAO_0000905 FlexStation II Microplate Reader
+bao:BAO_0150097 FlexStation III Microplate Reader
+bao:BAO_0000906 FLIPR TETRA
+bao:BAO_0000913 Fluorometer
+bao:BAO_0150074 Fluoroskan Ascent FL Microplate Fluorometer and Luminometer (ThermoFisher)
+bao:BAO_0150088 FLUOstar Omega microplate reader (BMG Labtech)
+bao:BAO_0000702 FLx800 Fluorescence Microplate Reader
+bao:BAO_0150066 GloMax luminometer (Promega)
+bao:BAO_0002733 HPLC System
+bao:BAO_0000703 HTFC Screening System
+bao:BAO_0000943 HyperCyt High Throughput Flow Cytometry System
+bao:BAO_0003093 ICR 8000 Ion Channel Reader
+bao:BAO_0002556 ICRM12000 atomic absorption spectrometer
+bao:BAO_0002571 IN Cell Analyzer
+bao:BAO_0150098 IN Cell Analyzer 2500
+bao:BAO_0150099 IN Cell Analyzer 6500
+bao:BAO_0000692 Infinite F200
+bao:BAO_0003098 Infinite F500
+bao:BAO_0003099 Infinite M1000
+bao:BAO_0000727 Infinite PF200
+bao:BAO_0150076 Infinte M200 plate reader (Tecan)
+bao:BAO_0150052 IonWorks automated electrophysiology system (Molecular Devices)
+bao:BAO_0002576 IonWorks Quattro
+bao:BAO_0003096 LabChip 3000
+bao:BAO_0002569 LabChip EZ Reader
+bao:BAO_0003100 LEADseeker Imaging system
+bao:BAO_0150063 LightCycler 480 Real-Time PCR detection instrument
+bao:BAO_0002575 LJL reader
+bao:BAO_0150067 LTQ-Orbitrap Velos (Thermo Scientific)
+bao:BAO_0150095 Luminex 200 Flow Cytometer
+bao:BAO_0150096 Luminex 200 Flow Cytometer
+bao:BAO_0150071 micro-Quant Plate Reader (BioTek)
+bao:BAO_0003094 MicroBeta TriLux
+bao:BAO_0150008 microscope
+bao:BAO_0150061 Molecular Devices SpectraMax Plate reader
+bao:BAO_0150060 Molecular Devices Vmax plate reader
+bao:BAO_0000728 Monolight 2010 Luminometer
+bao:BAO_0002723 MSD SECTOR instrument
+bao:BAO_0150077 Multiskan EX plate reader (Thermo Scientific)
+bao:BAO_0000971 Mx3005P qPCR System
+bao:BAO_0150064 Mx3005P RT-PCR instrument (Agilent Technologies)
+bao:BAO_0000981 Odyssey Infrared Imager
+bao:BAO_0000982 Opera QEHS
+bao:BAO_0000726 Packard Fusion Microplate Reader
+bao:BAO_0000705 PHERAstar Plus
+bao:BAO_0150089 Pico patch clamp amplifier (Tecella)
+bao:BAO_0150062 Qpatch automated patch clamp system (Biolin)
+bao:BAO_0002577 RapidFire Mass Spec
+bao:BAO_0003097 Safire
+bao:BAO_0002557 Sector imager 6000
+bao:BAO_0150079 SpectraFluor Plus Microplate Reader (Tecan)
+bao:BAO_0001019 SpectraMax 190 Microplate Reader
+bao:BAO_0150072 SpectraMax Gemini XS microplate fluorometer (Molecular Devices)
+bao:BAO_0000706 SpectraMax M5 Multi-Mode Microplate Reader
+bao:BAO_0003095 SpectraMax Plus384
+bao:BAO_0150090 Storm PhosphorImager (Molecular Dynamics/ GE)
+bao:BAO_0150056 Synergy 2 Multi-Mode Reader (BioTek)
+bao:BAO_0150065 Synergy HT Multi-Mode Reader (BioTek)
+bao:BAO_0002578 Tecan Ultra
+bao:BAO_0001036 TopCount NXT Microplate Scintillation Luminescence Counter
+bao:BAO_0150080 TSQ Quantum Triple Quadrupole LC-MS (Thermo Scientific)
+bao:BAO_0150073 Typhoon FLA 9000 laser scanner (GE Healthcare)
+bao:BAO_0150081 Typhoon Trio variable-mode imager (Amersham/ GE LifeSciences)
+bao:BAO_0150091 Varioskan LUX multimode microplate reader (ThermoFisher)
+bao:BAO_0150070 VE-2 whole-cell patch clamp amplifier (Alembic Instruments)
+bao:BAO_0150092 Velos-MS
+bao:BAO_0000707 VICTOR X2 Multilabel Plate Reader
+bao:BAO_0001045 VICTOR X3 Multilabel Plate Reader
+bao:BAO_0001046 ViewLux CCD Imager
+bao:BAO_0000691 ViewLux ultraHTS Microplate Imager
+bao:BAO_0000708 VP-ITC Isothermal Titration Calorimeter
+bao:BAO_0150078 Wallac 1420 (Victor2) Microplate reader (PerkinElmer)
+bao:BAO_0001048 Wallac MicroBeta Liquid Scintillation Counter
+bao:BAO_0150083 xCELLigence RTCA DP cellular impedance instrument (Acea Biosciences)
+bao:BAO_0150093 NGS Instrument
+bao:BAO_0150094 Odyssey Plate Reader
+bao:BAO_0002936 Hypercyt
+bao:BAO_0002937 imaging cytometer
+bao:BAO_0002938 3i Marianas
+bao:BAO_0002939 Acumen
+bao:BAO_0150005 ArrayScan 3.1 HCS Reader
+bao:BAO_0150006 ArrayScan 4.0 HCS Reader
+bao:BAO_0150004 ArrayScan II HCS Reader
+bao:BAO_0002940 ArrayScan VTI HCS Reader
+bao:BAO_0002941 BD Pathway 435
+bao:BAO_0002942 BD Pathway 855
+bao:BAO_0002943 BioFlux 1000
+bao:BAO_0002944 Celigo S Imaging Cell Cytometer
+bao:BAO_0002945 Cell Voyager 1000
+bao:BAO_0002946 Cell Voyager 6000
+bao:BAO_0002947 Cell Voyager 7000
+bao:BAO_0150003 CellInsight NXT HCS Platform
+bao:BAO_0150002 CellWoRx HCS Reader
+bao:BAO_0002948 FlowSight
+bao:BAO_0002949 iCyte Automated Imaging Cytometer
+bao:BAO_0002950 ImageStreamX Mark II Imaging Flow Cytometer
+bao:BAO_0002951 ImageXpress Micro
+bao:BAO_0002952 ImageXpress Ultra
+bao:BAO_0002953 ImageXpress Velos Laser Scanning Cytometer
+bao:BAO_0150075 iMIC platform/ Polychrome V imaging system, (TILL Photonics/ FEI Munic GmbH)
+bao:BAO_0150082 IN Cell Analyzer 1000
+bao:BAO_0002954 IN Cell Analyzer 2000
+bao:BAO_0150000 IN Cell Analyzer 2200
+bao:BAO_0150001 IN Cell Analyzer 3000
+bao:BAO_0002955 IN Cell Analyzer 6000
+bao:BAO_0150007 KineticScan HCS Reader
+bao:BAO_0002956 Opera
+bao:BAO_0002957 Operetta
+bao:BAO_0002958 Tali Image Cytometer
+bao:BAO_0150010 confocal microscope
+bao:BAO_0150009 optical microscope
+bao:BAO_0150011 laser scanning confocal microscope
+bao:BAO_0150012 spinning-disk confocal microscope
+bao:BAO_0150013 laser capture microdissection microscope
+bao:BAO_0150014 scanning force microscope
+bao:BAO_0150015 wide-field microscope
+bao:BAO_0002112 emission filter
+bao:BAO_0002111 excitation filter
+bao:BAO_0150022 area detector
+bao:BAO_0150026 spot detector
+bao:BAO_0150023 charge coupled device
+bao:BAO_0150024 complementary metal oxide semiconductor
+bao:BAO_0150025 electron multiplying charge coupled device
+bao:BAO_0150027 photodiode
+bao:BAO_0150028 photomultiplier tube
+bao:BAO_0150030 arc lamp
+bao:BAO_0150033 laser
+bao:BAO_0150049 light-emitting diode
+bao:BAO_0150050 tungsten halogen lamp
+bao:BAO_0150031 mercury-vapor lamp
+bao:BAO_0150032 xenon lamp
+bao:BAO_0150034 diode laser
+bao:BAO_0150035 dye laser
+bao:BAO_0150036 gas laser
+bao:BAO_0150045 solid state laser
+bao:BAO_0150037 ion laser
+bao:BAO_0150042 metal vapor laser
+bao:BAO_0150044 nitrogen laser
+bao:BAO_0150038 argon-ion laser
+bao:BAO_0150039 helium-neon laser
+bao:BAO_0150040 krypton-ion laser
+bao:BAO_0150041 mixed argon-krypton gas laser
+bao:BAO_0150043 helium-cadmium laser
+bao:BAO_0150046 chromium-doped lithium strontium aluminum fluoride laser
+bao:BAO_0150047 neodymium-yttrium aluminum garnet laser
+bao:BAO_0150048 titanium-doped sapphire laser
+bao:BAO_0150017 air interface objective lens
+bao:BAO_0150018 glycerin immersion lens
+bao:BAO_0150019 oil immersion lens
+bao:BAO_0150020 water immersion lens
+bao:BAO_0000596 assay medium
+bao:BAO_0002597 assay serum
+bao:BAO_0000025 bead
+bao:BAO_0000114 culture medium
+bao:BAO_0002596 culture serum
+bao:BAO_0003043 molecular entity
+bao:BAO_0002725 AlphaScreen Beads
+bao:BAO_0000820 1, 4 methyllumbelliferone
+bao:BAO_0000736 1-aminoanthracene
+bae:BAE_0000043 125I
+bao:BAO_0000761 3-isobutyl-1-methylanxthine
+bao:BAO_0000822 3-O-methyl-fluorescein
+bao:BAO_0000823 3-O-methylfluorescein phosphate
+bao:BAO_0001224 35S
+bao:BAO_0001223 3H
+bao:BAO_0000824 4 methylumbelliferyl-D-pyranoside
+bao:BAO_0000825 5-carboxamidotryptamine
+bao:BAO_0002581 5/6 TAMRA
+bao:BAO_0000826 6,8-difluoro-4-methylumbelliferyl phosphate
+bao:BAO_0000827 6,8-difluoro-7-hydroxy-4-methylcoumarin
+bao:BAO_0000846 7-amino-4-methylcoumarin
+bao:BAO_0000840 7-amino-4-trifluoromethylcoumarin
+bao:BAO_0000829 [3H]N-methylscopolamine
+bao:BAO_0000830 A23187
+bao:BAO_0000838 acetylcholine
+bao:BAO_0001234 ACP-tag
+bao:BAO_0000172 ACTOne Membrane Potential Dye
+bao:BAO_0100002 alamarBlue
+bae:BAE_0000044 Alexa Fluor
+bae:BAE_0000045 Alexa488
+bae:BAE_0000046 Alexa594
+bae:BAE_0000047 Alexa647
+bao:BAO_0000844 alkaline phosphatase-cAMP
+bae:BAE_0000048 AMC
+bao:BAO_0100005 ammonium acetate
+bao:BAO_0001217 Amplex red reagent
+bao:BAO_0000848 angiotensin II
+bao:BAO_0000853 arachidonic acid
+bao:BAO_0000854 arrestin-GFP
+bao:BAO_0001218 Atto 495
+bao:BAO_0003108 beetle luciferin
+bao:BAO_0000860 beta-hydroxybutyryl coenzyme A
+bao:BAO_0100006 beta-mercaptoethanol
+bae:BAE_0000060 biotin tag
+bao:BAO_0100007 BIS-TRIS
+bao:BAO_0000862 bisindolylmaleimide
+bao:BAO_0000867 Brij-35
+bao:BAO_0000868 BRL-54443
+bao:BAO_0000870 BTC AM Fluorescent Dye Indicator
+bao:BAO_0000874 calcium
+bae:BAE_0000049 calcium-3
+bao:BAO_0000876 carbachol
+bao:BAO_0000777 CDP-ME
+bao:BAO_0000880 CHAPS
+bao:BAO_0000882 coenzyme A
+bao:BAO_0000755 coenzyme Q
+bao:BAO_0000778 creatine phosphate
+bao:BAO_0000883 Cy5
+bao:BAO_0002641 cyclin B1-luciferin 4-monooxygenase
+bao:BAO_0000885 cysteine
+bao:BAO_0000890 DAMGO
+bao:BAO_0000781 deoxyluciferin
+bao:BAO_0100001 DiFMUP (Molecular Probes)
+bao:BAO_0000891 diminazene aceturate
+bao:BAO_0000892 diphosphomevalonate
+bao:BAO_0000118 DMSO
+bao:BAO_0000495 DNA aptamer
+bao:BAO_0000550 DNA construct
+bao:BAO_0002051 DNA vector
+bao:BAO_0000894 dopamine
+bao:BAO_0000639 doxorubicin
+bao:BAO_0000759 doxycycline
+bao:BAO_0000895 DTT
+bao:BAO_0000897 dynorphin A
+bae:BAE_0000050 edans
+bao:BAO_0001222 Ellman and apos's reagent
+bao:BAO_0000760 estrogen
+bao:BAO_0000900 estrogen-alexa 633
+bao:BAO_0000784 ethylene glycol ester of luciferin 6' methyl ether
+bao:BAO_0002538 ethylenediaminetetraacetic acid
+bao:BAO_0002537 ethyleneglycol-bis(β-aminoethyl)-N,N,N′,N′-tetraacetic acid
+bao:BAO_0000901 Eu3+-cAMP
+bae:BAE_0000051 Europium; APC
+bae:BAE_0000052 FAM/TAMRA
+bao:BAO_0000907 fluo-4 AM calcium indicator
+bao:BAO_0002672 fluo-8 calcium indicator
+bao:BAO_0001216 Fluorescein
+bao:BAO_0001215 Fluormone ES2 Green
+bao:BAO_0001213 Fluormone PL Far Red
+bao:BAO_0000914 fluorophosphonate-rhodamine
+bao:BAO_0000916 fluozin
+bao:BAO_0000915 fluozin-2
+bao:BAO_0100009 formamide
+bao:BAO_0000638 forskolin
+bao:BAO_0002651 FuGENE 6
+bao:BAO_0000795 furafylline
+bao:BAO_0000582 gene
+bao:BAO_0000926 glutamate
+bao:BAO_0000929 Go6976
+bao:BAO_0100013 GPCR arrestin complex
+bao:BAO_0100014 GPCR complex
+bao:BAO_0002547 GST tag
+bao:BAO_0000932 GW5074
+bao:BAO_0000933 GW8510
+bao:BAO_0002904 HBSS
+bao:BAO_0000693 HEPES
+bao:BAO_0000116 Hoechst
+bao:BAO_0000945 indo-1 calcium indicator
+bao:BAO_0002781 inositol 1,4,5-trisphosphate
+bao:BAO_0000886 inositol-1-phosphate
+bao:BAO_0000763 ionomycin
+bao:BAO_0000949 IPEGAL
+bao:BAO_0000950 isoproterenol
+bao:BAO_0000796 ketoconazole
+bao:BAO_0000952 L-AP4
+bao:BAO_0000956 lipofectamine 2000
+bao:BAO_0000799 lipofectin
+bao:BAO_0000786 luciferin 6-ME
+bao:BAO_0000788 luciferin-BE
+bao:BAO_0000960 luciferin-H
+bao:BAO_0000961 luciferin-H EGE
+bao:BAO_0000787 luciferin-PPXE
+bao:BAO_0000962 lysophosphatidylinositol
+bao:BAO_0000021 LysoTracker Red
+bao:BAO_0100010 magnesium chloride
+bao:BAO_0002580 malachite green
+bae:BAE_0000053 MCA
+bae:BAE_0000054 MDC
+bao:BAO_0002720 MES
+bao:BAO_0000666 metal salt
+bao:BAO_0000967 mevalonate
+bao:BAO_0000500 molecular beacon
+bao:BAO_0000695 MOPS
+bao:BAO_0000313 morpholino oligonucleotide
+bao:BAO_0000749 NADPH
+bao:BAO_0000972 NBD C6-HPC
+bao:BAO_0000765 NHK 477
+bao:BAO_0000978 NP-40
+bao:BAO_0000011 nucleic acid
+bao:BAO_0000980 O-methyl-fluorescein phosphate
+bao:BAO_0003055 octyl glucoside
+bao:BAO_0000986 para-nitrophenol
+bao:BAO_0000987 para-nitrophenylphosphate
+bao:BAO_0000497 peptide aptamer
+bao:BAO_0000789 peptide-aminoluciferin
+bao:BAO_0000174 peptoid
+bao:BAO_0000996 phorbol myristate acetate
+bao:BAO_0000696 phosphate buffer
+bao:BAO_0000012 phosphate buffered saline
+bao:BAO_0002784 phosphatidylinositol (3,4,5)-triphosphate
+bao:BAO_0000990 phosphoenolpyruvate
+bao:BAO_0000991 phosphoethanolamine
+bao:BAO_0000992 phosphomevalonate
+bao:BAO_0003053 PIPES
+bao:BAO_0000995 pluronic F-127
+bao:BAO_0100011 potassium chloride
+bao:BAO_0000997 potassium phosphoenolpyruvate
+bao:BAO_0000998 probenecid
+bao:BAO_0000999 profluorescent 1-AMA
+bao:BAO_0001000 prostaglandin
+bao:BAO_0001001 prostaglandin E2
+bao:BAO_0001003 pyrimidine-4,6-dicarboxylic acid
+bao:BAO_0001220 QuantaBlu
+bao:BAO_0000797 quinidine
+bao:BAO_0001005 rauwolscine
+bao:BAO_0001006 resorufin
+bao:BAO_0000769 retinoic acid
+bao:BAO_0001009 rhodamine
+bao:BAO_0001010 rhodamine-conjugated sulfonate ester
+bae:BAE_0000055 Ribogreen
+bao:BAO_0002149 RNA interference construct
+bao:BAO_0001012 Ro 20-1724
+bao:BAO_0001013 rolipram
+bao:BAO_0000754 S-adenosyl methionine
+bao:BAO_0000747 saponin
+bao:BAO_0001017 SNC80
+bao:BAO_0100012 sodium chloride
+bao:BAO_0001018 sodium orthovanadate
+bao:BAO_0001021 staurosporine
+bao:BAO_0001022 stibavirin
+bae:BAE_0000056 SYBR green
+bao:BAO_0001024 SYPRO orange dye
+bao:BAO_0000047 Syto 60
+bao:BAO_0001221 Sytox Orange
+bae:BAE_0000057 TAM/DABCYL
+bao:BAO_0000748 tetracycline
+bao:BAO_0001026 texas Red
+bao:BAO_0001027 TG003
+bao:BAO_0001028 thallium
+bao:BAO_0001030 thapsigargin
+bao:BAO_0001032 thioflavine S
+bae:BAE_0000058 ThioGlo
+bao:BAO_0003051 TO-PRO3
+bao:BAO_0000800 TransIT-CHO kit
+bao:BAO_0000801 TransIT-LT1
+bao:BAO_0003054 tricine
+bao:BAO_0000772 triiodothyronine
+bao:BAO_0000694 tris
+bao:BAO_0003056 tris(2-carboxyethyl)phosphine hydrochloride
+bao:BAO_0001037 triton X-100
+bao:BAO_0000773 tunicamycin
+bao:BAO_0001038 tween 20
+bao:BAO_0001044 vasopressin
+bao:BAO_0000811 wee1-like protein-luciferin 4-monooxygenase
+bao:BAO_0001050 WIN55212
+bao:BAO_0002579 XTT red
+bao:BAO_0001054 zaprinast
+bao:BAO_0002925 plasmid DNA construct
+bao:BAO_0003044 beta galactosidase gene
+bao:BAO_0003045 chloramphenicol acetyl transferase gene
+bao:BAO_0003046 green flourescent protein gene
+bao:BAO_0003047 luciferase gene
+bao:BAO_0000115 Hoechst 33342
+bao:BAO_0000957 lithium chloride
+bao:BAO_0000269 DNA
+bao:BAO_0000270 RNA
+bao:BAO_0000315 cDNA
+bao:BAO_0000316 genomic DNA
+bao:BAO_0000317 plasmid DNA
+bao:BAO_0000412 LNA
+bao:BAO_0000274 mRNA
+bao:BAO_0000226 PNA
+bao:BAO_0000498 riboswitch
+bao:BAO_0000496 RNA aptamer
+bao:BAO_0000275 rRNA
+bao:BAO_0000276 tRNA
+bao:BAO_0000046 fluorescence method
+bao:BAO_0000452 imaging method
+bao:BAO_0000427 label free method
+bao:BAO_0000045 luminescence method
+bao:BAO_0000055 mass spectrometry
+bao:BAO_0000657 radiometry method
+bao:BAO_0050003 simple measurement method
+bao:BAO_0000049 spectrophotometry method
+bao:BAO_0050002 visual observation method
+bao:BAO_0000005 flow cytometry
+bao:BAO_0000363 fluorescence intensity
+bao:BAO_0000003 fluorescence polarization
+bao:BAO_0000001 fluorescence resonance energy transfer
+bao:BAO_0000058 thermal shift
+bao:BAO_0000002 homogeneous time resolved fluorescence
+bao:BAO_0000004 time resolved fluorescence resonance energy transfer
+bao:BAO_0002526 microscopy
+bao:BAO_0002525 tomography
+bao:BAO_0000449 electron microscopy
+bao:BAO_0000451 optical microscopy
+bao:BAO_0000459 scanning probe microscopy
+bao:BAO_0000454 scanning electron microscopy
+bao:BAO_0000455 transmission electron microscopy
+bao:BAO_0000457 brightfield microscopy
+bao:BAO_0000453 confocal microscopy
+bao:BAO_0002510 dark field microscopy
+bao:BAO_0002511 differential interference contrast microscopy
+bao:BAO_0000450 fluorescence microscopy
+bao:BAO_0000458 phase contrast microscopy
+bao:BAO_0002512 scanning near-field optical microscopy
+bao:BAO_0002513 vibrational spectroscopic imaging
+bao:BAO_0000064 total internal reflection fluorescence microscopy
+bao:BAO_0002516 infrared imaging
+bao:BAO_0002515 Raman imaging
+bao:BAO_0002519 mid-infrared imaging
+bao:BAO_0002518 near-infrared imaging
+bao:BAO_0002523 atomic force microscopy
+bao:BAO_0002524 scanning tunneling microscopy
+bao:BAO_0000161 circular dichroism
+bao:BAO_0000163 electrical sensor
+bao:BAO_0000428 isothermal titration calorimetry
+bao:BAO_0000160 nuclear magnetic resonance
+bao:BAO_0000057 optical based
+bao:BAO_0000456 quartz crystal microbalance
+bao:BAO_0000404 x ray crystallography
+bao:BAO_0000471 carbon nanotube based sensor
+bao:BAO_0000061 impedance
+bao:BAO_0000382 microelectrode measurement
+bao:BAO_0000060 current clamp
+bao:BAO_0000062 patch clamp
+bao:BAO_0000063 voltage clamp
+bao:BAO_0000066 bio layer interferometry
+bao:BAO_0000067 fiber optic waveguide
+bao:BAO_0000068 optical waveguide grating
+bao:BAO_0000069 resonant waveguide grating
+bao:BAO_0000054 surface plasmon resonance
+bao:BAO_0000130 alphascreen
+bao:BAO_0000050 bioluminescence
+bao:BAO_0000051 chemiluminescence
+bao:BAO_0000461 bioluminescence resonance energy transfer
+bao:BAO_0000462 chemiluminescence resonance energy transfer
+bao:BAO_0002527 autoradiography
+bao:BAO_0002528 phosphorimaging
+bao:BAO_0000405 scintillation counting
+bao:BAO_0000401 filter assay
+bao:BAO_0000408 lysate based
+bao:BAO_0000017 scintillation proximity assay
+bao:BAO_0000070 absorbance
+bao:BAO_0002529 atomic absorption spectrophotometry
+bao:BAO_0000071 transmittance
+bao:BAO_0180004 image analysis software
+bao:BAO_0180018 sequencing data alignment software
+bao:BAO_0180022 sequencing data analysis software
+bao:BAO_0180001 Acapella
+bao:BAO_0180002 BD AttoVision
+bao:BAO_0180003 BioImageXD
+bao:BAO_0180006 Cellomics BioApplication
+bao:BAO_0180005 CellProfiler
+bao:BAO_0180007 DCILabs
+bao:BAO_0180008 Fiji
+bao:BAO_0180017 Harmony
+bao:BAO_0180010 Icy
+bao:BAO_0180011 ImageJ
+bao:BAO_0180009 IN Cell Investigator
+bao:BAO_0180012 MATLAB
+bao:BAO_0180015 MetaMorph
+bao:BAO_0180013 MetaXpress
+bao:BAO_0180014 SlideBook software
+bao:BAO_0180016 Volocity 3D Image Analysis Software
+bao:BAO_0180021 Bowtie
+bao:BAO_0180019 Cufflinks
+bao:BAO_0180020 TopHat
+bao:BAO_0180023 Cuffcompare
+bao:BAO_0180024 Cuffdiff
+obo:PATO_0001396 cellular quality
+bao:BAO_0120000 cellular quality
+obo:PATO_0002182 molecular quality
+bao:BAO_0120001 molecular quality
+obo:PATO_0000051 morphology
+obo:PATO_0001995 organismal quality
+bao:BAO_0120002 organismal quality
+obo:PATO_0001018 physical quality
+bao:BAO_0120003 physical quality
+obo:PATO_0000068 qualitative
+bao:BAO_0000099 antibiotic resistance
+bao:BAO_0002099 cell growth property
+bao:BAO_0002101 adherent
+bao:BAO_0002107 mixed
+bao:BAO_0002104 suspension
+bao:BAO_0003072 activated
+bao:BAO_0002609 antibody isotype
+bao:BAO_0003074 endogenous
+obo:PATO_0001509 functionality
+bao:BAO_0000037 labeled
+bao:BAO_0000138 molecular structure
+bao:BAO_0002618 purity
+obo:PATO_0000060 spatial pattern
+bao:BAO_0003073 synthetic
+bao:BAO_0000038 unlabeled
+bao:BAO_0002611 IgA
+bao:BAO_0002613 IgD
+bao:BAO_0002614 IgE
+bao:BAO_0002610 IgG
+bae:BAE_0000041 IgG1
+bae:BAE_0000042 IgG2
+bao:BAO_0002612 IgM
+obo:PATO_0002354 active
+obo:PATO_0002355 inactive
+bao:BAO_0000024 fluorescently labeled
+bao:BAO_0000036 radiolabeled
+bao:BAO_0000013 primary structure
+bao:BAO_0000014 secondary structure
+bao:BAO_0000020 tertiary structure
+bao:BAO_0000228 fused
+bao:BAO_0002646 isoform
+bao:BAO_0000643 mutated
+bao:BAO_0002157 native form
+bao:BAO_0002158 posttranscriptionally modified
+bao:BAO_0000672 posttranslationally modified
+bao:BAO_0002552 tagged
+bao:BAO_0000673 amino acid substituted
+bao:BAO_0000230 deleted
+bao:BAO_0000641 inserted
+bao:BAO_0000642 point mutated
+bao:BAO_0000644 truncated
+bao:BAO_0000088 methylated
+obo:PATO_0002263 dephosphorylated
+bao:BAO_0002560 glycosylated
+bao:BAO_0002007 phosphorylated
+obo:PATO_0002220 phosphorylated
+bao:BAO_0002038 conformation
+bao:BAO_0002630 native conformation
+bao:BAO_0002629 unfolded conformation
+bao:BAO_0002619 categorical purity
+bao:BAO_0003070 extract
+bao:BAO_0003071 extract fraction
+bao:BAO_0000570 partially purified
+bao:BAO_0003069 purified
+bao:BAO_0000465 unpurified
+obo:PATO_0001629 aggregated
+obo:PATO_0001566 distributed
+obo:PATO_0000627 localized
+obo:PATO_0001791 multi-localised
+obo:PATO_0000052 shape
+obo:PATO_0000117 size
+obo:PATO_0000141 structure
+obo:PATO_0000150 texture
+obo:PATO_0000402 branched
+obo:PATO_0000411 circular
+obo:PATO_0001154 elongated
+obo:PATO_0002364 shortened
+obo:PATO_0002065 star shaped
+obo:PATO_0001708 1-D extent
+obo:PATO_0001709 2-D extent
+obo:PATO_0001710 3-D extent
+obo:PATO_0001334 diameter
+obo:PATO_0000122 length
+obo:PATO_0000921 width
+obo:PATO_0000574 decreased length
+obo:PATO_0000573 increased length
+obo:PATO_0000599 decreased width
+obo:PATO_0000600 increased width
+obo:PATO_0001323 area
+obo:PATO_0000918 volume
+obo:PATO_0000638 apoptotic
+obo:PATO_0001485 condensed
+obo:PATO_0001959 defasciculated
+obo:PATO_0001861 fasciculated
+obo:PATO_0000982 permeable
+obo:PATO_0001928 blistered
+obo:PATO_0000047 biological sex
+bao:BAO_0002057 engineered
+bao:BAO_0002844 Gram staining
+bao:BAO_0000089 wild type
+obo:PATO_0000383 female
+obo:PATO_0000384 male
+bao:BAO_0002843 Gram negative
+bao:BAO_0002842 Gram positive
+bao:BAO_0002636 bandwidth
+obo:PATO_0000049 intensity
+obo:PATO_0001300 optical quality
+obo:PATO_0000165 time
+bao:BAO_0000565 wavelength
+obo:PATO_0001518 blurry
+obo:PATO_0001783 decreased intensity
+obo:PATO_0001782 increased intensity
+obo:PATO_0000325 obsolete bright
+obo:PATO_0000014 color
+obo:PATO_0001516 focus
+obo:PATO_0000011 age
+obo:UBERON_0000105 life cycle stage
+obo:UBERON_0000068 embryo stage
+obo:UBERON_0000109 gastrula stage
+obo:UBERON_0000113 post-juvenile adult stage
+http://www.ebi.ac.uk/efo/EFO_0002948 postnatal
+http://www.ebi.ac.uk/efo/EFO_0002562 embryonic day 11.5
+http://www.ebi.ac.uk/efo/EFO_0002563 embryonic day 12.5
+http://www.ebi.ac.uk/efo/EFO_0002564 embryonic day 13.5
+http://www.ebi.ac.uk/efo/EFO_0002565 embryonic day 14.5
+http://www.ebi.ac.uk/efo/EFO_0002566 embryonic day 15.5
+http://www.ebi.ac.uk/efo/EFO_0002567 embryonic day 16.5
+http://www.ebi.ac.uk/efo/EFO_0002568 embryonic day 17.5
+http://www.ebi.ac.uk/efo/EFO_0002569 embryonic day 18
+http://www.ebi.ac.uk/efo/EFO_0002570 embryonic day 18.5
+http://www.ebi.ac.uk/efo/EFO_0001323 obsolete_fetus
+http://www.ebi.ac.uk/efo/EFO_0001291 gastrula 50%-epiboly
+http://www.ebi.ac.uk/efo/EFO_0001292 gastrula 75%-epiboly
+http://www.ebi.ac.uk/efo/EFO_0002560 gastrula 80%-epiboly
+http://www.ebi.ac.uk/efo/EFO_0001293 gastrula 90%-epiboly
+http://www.ebi.ac.uk/efo/EFO_0001272 adult
+bao:BAO_0000568 absorbance wavelength
+bao:BAO_0000567 emission wavelength
+bao:BAO_0000566 excitation wavelength
+obo:PATO_0000462 absent
+obo:PATO_0000585 hypotrophic
+obo:PATO_0000467 present
+bao:BAO_0110001 application
+obo:CHEBI_33232 application
+bao:BAO_0110002 biological role
+obo:CHEBI_24432 biological role
+bao:BAO_0110000 chemical role
+obo:CHEBI_51086 chemical role
+bao:BAO_0002590 organization role
+bao:BAO_0002900 researcher role
+obo:CHEBI_33286 agrochemical
+obo:CHEBI_75835 anti-anaemic agent
+obo:CHEBI_65023 anti-asthmatic agent
+obo:CHEBI_67079 anti-inflammatory agent
+obo:CHEBI_77964 anticaking agent
+obo:CHEBI_77973 antifoaming agent
+bao:BAO_0000072 assay control
+obo:CHEBI_64857 cosmetic
+obo:CHEBI_75358 curing agent
+obo:CHEBI_37958 dye
+obo:CHEBI_78152 enzyme mimic
+obo:CHEBI_75324 excipient
+obo:CHEBI_79314 flame retardant
+obo:CHEBI_64047 food additive
+obo:CHEBI_48318 fragrance
+obo:CHEBI_33292 fuel
+obo:CHEBI_77968 humectant
+obo:CHEBI_47867 indicator
+obo:CHEBI_35209 label
+obo:CHEBI_64345 MALDI matrix material
+obo:CHEBI_74152 mordant
+obo:CHEBI_74886 neoglycolipid probe
+obo:CHEBI_25944 pesticide
+obo:CHEBI_52217 pharmaceutical
+obo:CHEBI_79056 plasticiser
+obo:CHEBI_136859 pro-agent
+obo:CHEBI_50406 probe
+obo:CHEBI_76414 propellant
+obo:CHEBI_51087 protecting group
+obo:CHEBI_50533 protein denaturant
+obo:CHEBI_73352 protein-sequencing agent
+bao:BAO_0080029 quantified entity
+obo:CHEBI_33893 reagent
+obo:CHEBI_78433 refrigerant
+obo:CHEBI_35204 tracer
+obo:CHEBI_82655 animal growth promotant
+obo:CHEBI_33287 fertilizer
+obo:CHEBI_132272 herbicide safener
+obo:CHEBI_73182 plant activator
+obo:CHEBI_136648 prosafener
+obo:CHEBI_77965 food anticaking agent
+obo:CHEBI_78058 food antifoaming agent
+bao:BAO_0000334 background control
+bao:BAO_0000156 high signal control
+bao:BAO_0000168 low signal control
+bao:BAO_0000079 negative control
+bao:BAO_0002841 off plate control
+bao:BAO_0002840 on plate control
+bao:BAO_0000080 positive control
+obo:CHEBI_85046 skin lightening agent
+obo:CHEBI_51121 fluorescent dye
+obo:CHEBI_77178 histological dye
+bao:BAO_0100003 Alexa555
+bao:BAO_0100004 Alexa568
+bao:BAO_0100008 DAPI
+obo:CHEBI_51217 fluorochrome
+obo:CHEBI_52271 squaraine dye
+obo:CHEBI_35617 flavouring agent
+obo:CHEBI_64577 flour treatment agent
+obo:CHEBI_78007 foaming agent
+obo:CHEBI_64049 food acidity regulator
+obo:CHEBI_78059 food additive carrier
+obo:CHEBI_78004 food bulking agent
+obo:CHEBI_78006 food colour retention agent
+obo:CHEBI_77182 food colouring
+obo:CHEBI_77960 food firming agent
+obo:CHEBI_78016 food gelling agent
+obo:CHEBI_77972 food glazing agent
+obo:CHEBI_77974 food packaging gas
+obo:CHEBI_65255 food preservative
+obo:CHEBI_78017 food propellant
+obo:CHEBI_77966 food stabiliser
+obo:CHEBI_77970 food thickening agent
+obo:CHEBI_77971 raising agent
+obo:CHEBI_50505 sweetening agent
+obo:CHEBI_65256 antimicrobial food preservative
+obo:CHEBI_35230 fossil fuel
+obo:CHEBI_35231 nuclear fuel
+obo:CHEBI_77969 food humectant
+obo:CHEBI_59163 biomarker
+obo:CHEBI_50408 visual indicator
+obo:CHEBI_50409 adsorption indicator

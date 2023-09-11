@@ -1,0 +1,1090 @@
+{
+    "schemaPrefix": "http://www.bioassayontology.org/pistoia#",
+    "root": 
+    {
+        "name": "Pistoia Alliance assay template",
+        "descr": "The Common Assay Template is designed to capture most of the high value data from in vitro assays, particularly those used for high throughput screening.",
+        "groupURI": "",
+        "assignments": [],
+        "subGroups": 
+        [
+            {
+                "name": "General Information",
+                "descr": "",
+                "groupURI": "http://rdf.pistoia.com/bae#PA_000041",
+                "assignments": 
+                [
+                    {
+                        "name": "assay title",
+                        "descr": "A short summary description of the assay.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002853",
+                        "suggestions": "string",
+                        "mandatory": true,
+                        "values": []
+                    }, 
+                    {
+                        "name": "external assay ID",
+                        "descr": "External assay ID of the assay.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0001095",
+                        "suggestions": "string",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "assay source",
+                        "descr": "The assay origin. This could be the repository database in which the assay was deposited (e.g.: PubChem), or the organizational affiliation of the assay developers (e.g.: commercial company or research institute) ",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002852",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0002934",
+                                "name": "PubChem Sources",
+                                "descr": "Sources providing data to the NCBI PubChem databases. https://pubchem.ncbi.nlm.nih.gov/source/.",
+                                "spec": "container"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000612",
+                                "name": "assay repository",
+                                "descr": "It is the repository (database) in which the assay was deposited, e.g., PubChem, ChEMBL, etc.",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "assay protocol / source document",
+                        "descr": "Any URLs to documents that describe the assay protocol. This could include external database links (e.g. PubChem), manufacturer protocols, or journal publications.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002846",
+                        "suggestions": "url",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000523",
+                                "name": "assay protocol",
+                                "descr": "This includes the methodology used to perform a particular bioassay and is found on the PubChem website associated with each assay ID (AID). It includes the assay components and the order in which they were added, the incubation times, detection method and the kit used, etc.",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "assay protocol version",
+                        "descr": "The current version of the assay. New versions should be created when there is a minor change in an incubation time for logistical reason, a change in the supplier of a component used in the assay, or a change in the plate layout used in an assay where this change is defined explicitly in the protocol document.",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000001",
+                        "suggestions": "number",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "assay deposition date",
+                        "descr": "The date that the assay was created in the format YYYY-MM-DD",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002825",
+                        "suggestions": "date",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "curated by (e-mail)",
+                        "descr": "The e-mail address for the person responsible for the assay annotation. Does not need to be the same as the test owner.",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000002",
+                        "suggestions": "string",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "curation date",
+                        "descr": "The date of assay annotation in the format YYYY-MM-DD",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002083",
+                        "suggestions": "date",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "reviewed by (e-mail)",
+                        "descr": "The email address for the Quality Control reviewer of the assay.  There may be more than one reviewer per assay.",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000003",
+                        "suggestions": "string",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "review date",
+                        "descr": "The date that the assay was reviewed d in the format YYYY-MM-DD",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000030",
+                        "suggestions": "date",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "curation status",
+                        "descr": "Used to indicate the level of human checking for this assay protocol, which is particularly important for content that has been imported from external sources.",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000004",
+                        "suggestions": "full",
+                        "mandatory": true,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://rdf.pistoia.com/bae#PA_000005",
+                                "name": "curation status",
+                                "descr": "",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "curation project",
+                        "descr": "The curation project with which the assay is associated.",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000023",
+                        "suggestions": "full",
+                        "mandatory": true,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://rdf.pistoia.com/bae#PA_000027",
+                                "name": "curation project",
+                                "descr": "",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "related assays",
+                        "descr": "Assays belonging to the same project.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0000539",
+                        "suggestions": "id",
+                        "mandatory": false,
+                        "values": []
+                    }
+                ],
+                "subGroups": []
+            }, 
+            {
+                "name": "Assay Group",
+                "descr": "",
+                "groupURI": "http://rdf.pistoia.com/bae#PA_000047",
+                "assignments": 
+                [
+                    {
+                        "name": "group ID",
+                        "descr": "",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000048",
+                        "suggestions": "string",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "group protocol / source document",
+                        "descr": "",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000049",
+                        "suggestions": "url",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "number of targets",
+                        "descr": "",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000050",
+                        "suggestions": "number",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "group assays",
+                        "descr": "",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000051",
+                        "suggestions": "id",
+                        "mandatory": false,
+                        "values": []
+                    }
+                ],
+                "subGroups": []
+            }, 
+            {
+                "name": "Assay Method",
+                "descr": "",
+                "groupURI": "http://rdf.pistoia.com/bae#PA_000042",
+                "assignments": 
+                [
+                    {
+                        "name": "bioassay type",
+                        "descr": "Categorization of bioassays based on the property or process that the assay is interrogating, e.g. ADMET, functional, etc.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002854",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000008",
+                                "name": "bioassay type",
+                                "descr": "Categorization of bioassays based on the property or process that the assay is interrogating, e.g. ADMET, functional, etc.",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "bioassay",
+                        "descr": "Categorization of the general class of bioassay (enyzme activity, gene expression...)",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002855",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000015",
+                                "name": "bioassay",
+                                "descr": "A set of instructions, methodology, operations, required reagents, instruments to carrie out experiments for the purpose of testing the effect of a perturbing agent in a biological model system, measuring one or multiple effect(s) of the agent facilitated by an assay design method translate the perturbation into a detectable signal to arrive at one or multiple endpoint(s) that quantify or qualify the extent of the perturbation.  Bioassay is described by multiple bioassay components: assay format, biology (biological participants in various role and processes), design method, physical detection method / technology, screened entity, and endpoint. Bioassay includes one or multiple measure groups to describe panel, profiling, multiparametric (or multiplexed) assays (assays that measure more than one effect of the perturbagen on the system that is screened).",
+                                "spec": "container"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000248",
+                                "name": "assay kit",
+                                "descr": "The title of the kit/biologicals used in the assay.",
+                                "spec": "exclude"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0002933",
+                                "name": "experimental specification",
+                                "descr": "",
+                                "spec": "exclude"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000026",
+                                "name": "bioassay specification",
+                                "descr": "Description of an experiment carried out for the purpose of screening a perturbing agent in a biological system, measuring the effect of the agents using specified technology, and arriving at endpoints that satisfy particular criteria.",
+                                "spec": "exclude"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000040",
+                                "name": "measure group",
+                                "descr": "Measure group is used to group and link multiple (different) sets of experimental results to one bioassay. Measure groups thus facilitate the description of multiparametric (or multiplexed) assays, that measure more than one effect of the perturbagen on the system that is screened. It also facilitate the definition of panel and profiling assays, e.g. assays that test compounds against multiple (protein) targets.\r\nCompare definition of bioassay.\r\nMeasure group links to those classes that can vary among different measurements of a panel assay, profiling assay, multiparametric assay, e.g. target, assay design method, physical detection method, endpoint. Measure group is also used to define derived endpoints, for example concentration-response endpoints obtained by curve fitting a set of results from the same compound tested in the same assay at different concentrations.",
+                                "spec": "exclude"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0002185",
+                                "name": "measure group specification",
+                                "descr": "An abstract concept to group one or more assay readout and allow description of an assay that measures one or more effect of a perturbagen on the biological entity.  This does not define the physical readout method itself, which is captured in assay design, but rather classifies the data being generated by those readouts.",
+                                "spec": "exclude"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "assay format",
+                        "descr": "Assay format is a conceptualization of assays based on the biological and / or chemical features of the experimental system. For example assay formats include biochemical assays - referring to assays with purified protein, cell-based - referring to assays in whole cells, or organism-based - referring to assays performed in an organism.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0000205",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000019",
+                                "name": "assay format",
+                                "descr": "Assay format is a conceptualization of assays based on the biological and / or chemical features of the experimental system. For example assay formats include biochemical assays - referring to assays with purified protein, cell-based - referring to assays in whole cells, or organism-based - referring to assays performed in an organism.",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "assay readout content parametricity",
+                        "descr": "",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002851",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000562",
+                                "name": "assay readout content parametricity",
+                                "descr": "This describes the throughput and information content generated. Categorizing multiplexed (i.e. mutiple targets measured simultaneously) and multiparametric assays and high content (image-based) and regular (plate reader) assays.",
+                                "spec": "wholebranch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "assay cell line",
+                        "descr": "An assay cell line refers to the source of the cells or cell line used in the assay. This may be from primary cells (as annotated) or, more frequently, from an immortal cell line. Due to the continued passaging of immortal cell lines, users must be aware that spontaneous mutations can, and often do, arise in sub-populations, such that the actual cells used in the individual assay may differ from the original source.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002800",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://dto.org/DTO/DTO_000",
+                                "name": "BRENDA tissues and cell lines",
+                                "descr": "",
+                                "spec": "container"
+                            }, 
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/CLO_0000001",
+                                "name": "cell line cell",
+                                "descr": "",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "assay medium",
+                        "descr": "The cell culture broth used while performing an assay on cells, which is optimized for each assay type. Some interfering additives such as serum, growth factors, buffers, amino acids, antibiotics, etc. might be eliminated in this medium.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002922",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000596",
+                                "name": "assay medium",
+                                "descr": "The cell culture broth used while performing an assay on cells, which is optimized for each assay type. Some interfering additives such as serum, growth factors, buffers, amino acids, antibiotics, etc. might be eliminated in this medium.",
+                                "spec": "item"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "assay design method",
+                        "descr": "The assay design method describes how a biological or physical process screened / investigated in the model system is translated into a detectable signal. This relates to the technology / technologies used to make the assay system work, i.e. enable that the screened process can be detected.  It typically involves some manipulation of the (biological) model system to detect the process of interest.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0095009",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0002202",
+                                "name": "assay design method",
+                                "descr": "The assay design method describes how a biological or physical process screened / investigated in the model system is translated into a detectable signal. This relates to the technology / technologies used to make the assay system work, i.e. enable that the screened process can be detected.  It typically involves some manipulation of the (biological) model system to detect the process of interest.",
+                                "spec": "container"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0002429",
+                                "name": "assay supporting method",
+                                "descr": "Assay supporting methods describe the methods to prepare, generate or post-process the assay system or assay screening process.  Such methods include the sample preparation, labeling, data processing, etc., which are required to performing the assay, but do not constitute the actual assay (design method).",
+                                "spec": "exclude"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "concentration throughput",
+                        "descr": "",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002863",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0002177",
+                                "name": "concentration throughput",
+                                "descr": "",
+                                "spec": "wholebranch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "perturbagen type",
+                        "descr": "Compounds or other perturbagens that modulate diverse biological targets.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0000185",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000661",
+                                "name": "perturbagen library",
+                                "descr": "It is a collection of perturbagens, e.g., compound, siRNA, miRNA, etc, which are sold by different vendors, or generated in academic institutions.",
+                                "spec": "container"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000076",
+                                "name": "screened entity",
+                                "descr": "",
+                                "spec": "container"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bat#Absence",
+                                "name": "absence",
+                                "descr": "A group of annotations that explain why an annotation is missing, when it should not be.",
+                                "spec": "container"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bat#NotDetermined",
+                                "name": "not determined",
+                                "descr": "The measurement was not made.",
+                                "spec": "exclude"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bat#SeeGeneID",
+                                "name": "see Gene ID",
+                                "descr": "The target is present in the Gene ID section, but needs to be mapped to a formal ontology.",
+                                "spec": "exclude"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "perturbagen max concentration",
+                        "descr": "The maximum concentration of the perturbagen in the assay.  If the perturbagen is only tested at a single concentration, the maximum and minimum concentration values will be the same.  ",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000024",
+                        "suggestions": "number",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "perturbagen max concentration units",
+                        "descr": "The units related to the maximum concentration of the perturbagen in the assay.",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000025",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000051",
+                                "name": "concentration unit",
+                                "descr": "A unit which represents a standard measurement of how much of a given substance there is mixed with another substance.",
+                                "spec": "wholebranch"
+                            }, 
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000052",
+                                "name": "mass density unit",
+                                "descr": "A density unit which is a standard measure of the mass of a substance in a given volume.",
+                                "spec": "wholebranch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "perturbagen min concentration",
+                        "descr": "The minimum concentration of the perturbagen in the assay. If the perturbagen is only tested at a single concentration, the maximum and minimum concentration values will be the same.  ",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000022",
+                        "suggestions": "number",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "perturbagen min concentration units",
+                        "descr": "The units related to the minimum concentration of the perturbagen in the assay.",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000026",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000051",
+                                "name": "concentration unit",
+                                "descr": "A unit which represents a standard measurement of how much of a given substance there is mixed with another substance.",
+                                "spec": "wholebranch"
+                            }, 
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000052",
+                                "name": "mass density unit",
+                                "descr": "A density unit which is a standard measure of the mass of a substance in a given volume.",
+                                "spec": "wholebranch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "incubation time",
+                        "descr": "It is the interval of time between the addition of a perturbagen and the measurement of change, as observed by a detection method in the bioassay.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002837",
+                        "suggestions": "number",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "incubation time unit",
+                        "descr": "Time units related to the incubation length of the assay.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002668",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000003",
+                                "name": "time unit",
+                                "descr": "",
+                                "spec": "wholebranch"
+                            }, 
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000151",
+                                "name": "century",
+                                "descr": "",
+                                "spec": "exclude"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "assay mode of action",
+                        "descr": "Assay mode of action refers both to the mechanism (binding vs. functional) and the effect of the perturbagen on the target - whether it brings about inhibition, activation, cytotoxicity, etc.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0000196",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000074",
+                                "name": "mode of action",
+                                "descr": "This refers to the effect of the perturbagen on the target of an assay, whether it brings about inhibition, activation, cytotoxicity, etc. ",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "assay kit",
+                        "descr": "The title of the kit/biologicals used in the assay.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002663",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000248",
+                                "name": "assay kit",
+                                "descr": "The title of the kit/biologicals used in the assay.",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "detection agent",
+                        "descr": "The reagent or entity that produces or leads to a detectable assay signal. It may include (but is not limited to) fluorophores, dyes, or proprietary assay kit reagents.",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000008",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0003043",
+                                "name": "molecular entity",
+                                "descr": "",
+                                "spec": "wholebranch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "endpoint",
+                        "descr": "The endpoint is a quantitive or qualitative interpretable standardized representation of a perturbation (a change from a defined reference state of a \"closed\" model system) that is measured by the bioassay.  An endpoint consists of a series of data points, one for each perturbing agent (screened entity) tested the assay.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0000208",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000179",
+                                "name": "endpoint",
+                                "descr": "The endpoint is a quantitive or qualitative interpretable standardized representation of a perturbation (a change from a defined reference state of a \"closed\" model system) that is measured by the bioassay.  An endpoint consists of a series of data points, one for each perturbing agent (screened entity) tested the assay.",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "assay screening campaign stage",
+                        "descr": "",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000052",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000029",
+                                "name": "assay screening campaign stage",
+                                "descr": "The assay stage describes the purpose of the assay in an assay campaign.  Assay stage also relates to the order of assays in a screening campaign.  For example the primary assay, which is performed first, identifies hits. The primary hits are then confirmed in a confirmatory assay.  Subsequent secondary assays are run to eliminate compounds that are not of interest or to confirm hits using an alternate design / technology, or to further characterize compounds.\nWhether an assay is run in single concentration or concentration response is defined in the class 'assay measurement throughput quality'.  For example primary assays are typically run in single concentration with single measurements. However, the NCGC runs qHTS primary assays as concentration-response assays.",
+                                "spec": "wholebranch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "measure group",
+                        "descr": "Measure group is used to group and link multiple (different) sets of experimental results to one bioassay. Measure groups thus facilitate the description of multiparametric (or multiplexed) assays, that measure more than one effect of the perturbagen on the system that is screened. It also facilitate the definition of panel and profiling assays, e.g. assays that test compounds against multiple (protein) targets.\r\nCompare definition of bioassay.\r\nMeasure group links to those classes that can vary among different measurements of a panel assay, profiling assay, multiparametric assay, e.g. target, assay design method, physical detection method, endpoint. Measure group is also used to define derived endpoints, for example concentration-response endpoints obtained by curve fitting a set of results from the same compound tested in the same assay at different concentrations.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0000209",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000040",
+                                "name": "measure group",
+                                "descr": "Measure group is used to group and link multiple (different) sets of experimental results to one bioassay. Measure groups thus facilitate the description of multiparametric (or multiplexed) assays, that measure more than one effect of the perturbagen on the system that is screened. It also facilitate the definition of panel and profiling assays, e.g. assays that test compounds against multiple (protein) targets.\r\nCompare definition of bioassay.\r\nMeasure group links to those classes that can vary among different measurements of a panel assay, profiling assay, multiparametric assay, e.g. target, assay design method, physical detection method, endpoint. Measure group is also used to define derived endpoints, for example concentration-response endpoints obtained by curve fitting a set of results from the same compound tested in the same assay at different concentrations.",
+                                "spec": "container"
+                            }
+                        ]
+                    }
+                ],
+                "subGroups": []
+            }, 
+            {
+                "name": "Detection Details",
+                "descr": "",
+                "groupURI": "http://rdf.pistoia.com/bae#PA_000043",
+                "assignments": 
+                [
+                    {
+                        "name": "physical detection method",
+                        "descr": "The physical method (technology) used to measure / readout the effect caused by a perturbagen in the assay environment.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0000207",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000035",
+                                "name": "physical detection method",
+                                "descr": "The physical method (technology) used to measure / readout the effect caused by a perturbagen in the assay environment.",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "detection instrument",
+                        "descr": "The names of equipment used for measurement/readout from an assay, e.g. FLIPR, ViewLux plate reader, PHERAstar, etc.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002865",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000697",
+                                "name": "detection instrument",
+                                "descr": "The names of equipment used for measurement/readout from an assay, e.g. FLIPR, ViewLux plate reader, PHERAstar, etc.",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "emission wavelength",
+                        "descr": "For fluorescence measurements, it is the wavelength at which an excited fluorophore emits fluorescence.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002918",
+                        "suggestions": "number",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "excitation wavelength",
+                        "descr": "For fluorescence measurements, it is the wavelength at which a fluorophore is excited",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002919",
+                        "suggestions": "number",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "signal direction",
+                        "descr": "t is the trend of measured readout signal, whether it increases or decreases in perturbagen treated wells, as compared to the untreated or carrier-treated wells and the endpoint mode of action of an assay. For example, an ADP-Glo assay seeking target inhibitors has a signal direction of signal decrease corresponding to inhibition.\n\n>>>For the Pistoia BioAssay Annotation project please use the following guidelines:\n\n(1) If physical detection method = fluorescence intensity AND a quencher of the emission wavelength would give false positive (perturbagen is active) readout: signal decrease. \n(2) If physical detection method = fluorescence intensity AND an autofluorescent compound at the emission wavelength would give false positive (perturbagen is active) readout: signal increase. \n(3) If physical detection method = luminescence AND a quencher would give false positive readout: signal decrease\n(4) For proximity assays: If a decrease in FRET signal/singlet oxygen transfer corresponds to an active perturbagen: signal decrease. \n(5) If a increase in FRET signal/singlet oxygen transfer corresponds to an active perturbagen: signal increase \n(6) For fluorescence polarization: If physical detection method = fluorescence polarization and low polarization would give false positive readout: signal decrease ",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002857",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000519",
+                                "name": "signal direction",
+                                "descr": "It is the trend of measured readout signal, whether it increases or decreases in perturbagen treated wells, as compared to the untreated or carrier-treated wells and the endpoint mode of action of an assay. For example, an ADP-Glo assay seeking target inhibitors has a signal direction of signal decrease corresponding to inhibition.\n",
+                                "spec": "wholebranch"
+                            }
+                        ]
+                    }
+                ],
+                "subGroups": []
+            }, 
+            {
+                "name": "Target Information",
+                "descr": "",
+                "groupURI": "http://rdf.pistoia.com/bae#PA_000044",
+                "assignments": 
+                [
+                    {
+                        "name": "target type",
+                        "descr": "The general category for the type of target that is the presumed subject of the assay and whose activity is being affected by an entity with a perturbagen role in the assay. It can include the broad biological macromolecule category (e.g., enzyme, protein complex), or indicate if the target is a biological process or phenotypic response. ",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0000211",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0003111",
+                                "name": "biological macromolecule",
+                                "descr": "",
+                                "spec": "container"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0003114",
+                                "name": "target type",
+                                "descr": "",
+                                "spec": "container"
+                            }, 
+                            {
+                                "uri": "http://www.drugtargetontology.org/dto/DTO_00200000",
+                                "name": "Gene",
+                                "descr": "",
+                                "spec": "excludebranch"
+                            }, 
+                            {
+                                "uri": "http://www.drugtargetontology.org/dto/DTO_00100000",
+                                "name": "Protein",
+                                "descr": "",
+                                "spec": "container"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bat#SeeGeneID",
+                                "name": "see Gene ID",
+                                "descr": "The target is present in the Gene ID section, but needs to be mapped to a formal ontology.",
+                                "spec": "item"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bat#SeeAlso",
+                                "name": "see also",
+                                "descr": "Concepts that are defined elsewhere.",
+                                "spec": "wholebranch"
+                            }, 
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/PR_000000001",
+                                "name": "protein",
+                                "descr": "An amino acid chain that is produced de novo by ribosome-mediated translation of a genetically-encoded mRNA.",
+                                "spec": "excludebranch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "target organism",
+                        "descr": "The organism related to the target / meta-target of the bioassay. It includes both bacterium and eukaryote.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002921",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000551",
+                                "name": "organism",
+                                "descr": "The organism related to the target / meta-target of the bioassay. It includes both bacterium and eukaryote.",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "target protein name",
+                        "descr": "The name of the protein (or protein complex) that is the presumed subject of an assay and whose activity is being regulated by an entity with a perturbagen role in that assay. This field represents the Protein Ontology and uses Uniprot identifiers.",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000033",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/PR_000000001",
+                                "name": "protein",
+                                "descr": "An amino acid chain that is produced de novo by ribosome-mediated translation of a genetically-encoded mRNA.",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "NCBI gene identity",
+                        "descr": "The name of the gene that is the presumed subject of an assay, or whose protein product is the presumed subject of the assay. This field represents the NCBI reference set and uses NCBI gene identifiers.  ",
+                        "propURI": "http://www.bioassayontology.org/bao#BAX_0000011",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/geneid#Root",
+                                "name": "Faux GeneID",
+                                "descr": "Temporary ontology terms for NCBI Gene ID",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "NCBI  protein identity",
+                        "descr": "The name of the protein (or protein complex) that is the presumed subject of an assay and whose activity is being regulated by an entity with a perturbagen role in that assay. This field represents the NCBI reference set and uses NCBI protein identifiers.  ",
+                        "propURI": "http://www.bioassayontology.org/bao#BAX_0000012",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/taxon#Root",
+                                "name": "Faux ProteinID",
+                                "descr": "Temporary ontology terms for NCBI Protein GI",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "target mutation",
+                        "descr": "Any mutation or variation in the assay target that is a change in a sequence or structure in comparison to a reference entity; mutations could be due to an insertion, deletion or substitution event. Mutations should be represented by both the target symbol and the mutation, e.g.: ABL1 E255K.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002662",
+                        "suggestions": "string",
+                        "mandatory": false,
+                        "values": []
+                    }
+                ],
+                "subGroups": []
+            }, 
+            {
+                "name": "Molecular Assay Details",
+                "descr": "",
+                "groupURI": "http://rdf.pistoia.com/bae#PA_000045",
+                "assignments": 
+                [
+                    {
+                        "name": "target concentration",
+                        "descr": "The concentration of the target used the assay. ",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000009",
+                        "suggestions": "number",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "target  concentration units",
+                        "descr": "The units related to the concentration of the target used in the assay.",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000010",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000052",
+                                "name": "mass density unit",
+                                "descr": "A density unit which is a standard measure of the mass of a substance in a given volume.",
+                                "spec": "wholebranch"
+                            }, 
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000067",
+                                "name": "unit of molality",
+                                "descr": "A concentration unit which is a standard measure of the number of moles of a given substance per kilogram of solvent.",
+                                "spec": "wholebranch"
+                            }, 
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000061",
+                                "name": "unit of molarity",
+                                "descr": "A concentration unit which is a standard measure of the number of moles of a given substance per liter of solution.",
+                                "spec": "wholebranch"
+                            }, 
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000002",
+                                "name": "mass unit",
+                                "descr": "A unit which is a standard measure of the amount of matter/energy of a physical object.",
+                                "spec": "item"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "substrate",
+                        "descr": "The role of a molecular entity to serve as the input for an enzymatic reaction that generates a product. ",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0002739",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0003063",
+                                "name": "substrate",
+                                "descr": "The role of a molecular entity to serve as the input for an enzymatic reaction that generates a product, e.g. ATP has the role of a substrate for ATPase, which hydrolyzes it to produce ADP and Pi.",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "substrate concentration",
+                        "descr": "The concentration of the substrate used the assay. ",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000011",
+                        "suggestions": "number",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "substrate concentration units",
+                        "descr": "The units related to the concentration of the substrate used in the assay.",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000012",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000051",
+                                "name": "concentration unit",
+                                "descr": "A unit which represents a standard measurement of how much of a given substance there is mixed with another substance.",
+                                "spec": "wholebranch"
+                            }, 
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000052",
+                                "name": "mass density unit",
+                                "descr": "A density unit which is a standard measure of the mass of a substance in a given volume.",
+                                "spec": "wholebranch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "additional assay component",
+                        "descr": "Any additional molecular component that is essential for the assay. This could include coupled substrate components like ATP.  ",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000034",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0003043",
+                                "name": "molecular entity",
+                                "descr": "",
+                                "spec": "item"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000011",
+                                "name": "nucleic acid",
+                                "descr": "",
+                                "spec": "item"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0002010",
+                                "name": "nucleotide",
+                                "descr": "",
+                                "spec": "item"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000325",
+                                "name": "peptide",
+                                "descr": "Peptide is a short polymer of amino acids, which is generally <50 amino acids long.",
+                                "spec": "item"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0002015",
+                                "name": "carbohydrate",
+                                "descr": "",
+                                "spec": "item"
+                            }, 
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000171",
+                                "name": "lipid",
+                                "descr": "Lipids are a group of naturally occurring organic compounds that are soluble in nonpolar organic solvents, but insoluble in water. Examples include fatty acids, triglycerides, phospholipids, etc. Lipids function to store energy, form a component of cell membrane and as signaling molecules.",
+                                "spec": "item"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "component concentration",
+                        "descr": "The concentration of the additional components used in the assay.",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000014",
+                        "suggestions": "number",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "component concentration units",
+                        "descr": "The units related to the concentration of the additional components used in the assay.",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000015",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000051",
+                                "name": "concentration unit",
+                                "descr": "A unit which represents a standard measurement of how much of a given substance there is mixed with another substance.",
+                                "spec": "wholebranch"
+                            }, 
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000052",
+                                "name": "mass density unit",
+                                "descr": "A density unit which is a standard measure of the mass of a substance in a given volume.",
+                                "spec": "wholebranch"
+                            }
+                        ]
+                    }
+                ],
+                "subGroups": []
+            }, 
+            {
+                "name": "Controls",
+                "descr": "",
+                "groupURI": "http://rdf.pistoia.com/bae#PA_000046",
+                "assignments": 
+                [
+                    {
+                        "name": "inhibitor/stimulator control",
+                        "descr": "The role of a chemical compound or reagent used in each plate of an assay to normalize the response of the test perturbagens (by plate). Compounds that can have a positive control role are known from previous experiments or is a previously established standard. It is usually highly active resulting in a strong response of the intended effect. In an inhibition assay the positive control would usually result in the complete inhibition, which is then used for normalization (i.e. set as 100%). In an activation assay it would be activator used to normalize activity. Using controls provides an external reference and reduces the number of false negatives and false positives.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0000080",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000080",
+                                "name": "inhibitor/stimulator control",
+                                "descr": "The role of a chemical compound or reagent used in each plate of an assay to normalize the response of the test perturbagens (by plate). Compounds that can have a positive control role are known from previous experiments or is a previously established standard.  It is usually highly active resulting in a strong response of the intended effect.  In an inhibition assay the positive control would usually result in the complete inhibition, which is then used for normalization (i.e. set as 100%). In an activation assay it would be activator used to normalize activity. Using controls provides an external reference and reduces the number of false negatives and false positives.",
+                                "spec": "container"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "inhibitor/stimulator concentration",
+                        "descr": "The concentration of the inhibitor/stimulator control used in the assay.",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000016",
+                        "suggestions": "number",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "inhibitor/stimulator concentration units",
+                        "descr": "The units related to the concentration of the inhibitor/stimulator control used in the assay.",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000017",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000051",
+                                "name": "concentration unit",
+                                "descr": "A unit which represents a standard measurement of how much of a given substance there is mixed with another substance.",
+                                "spec": "wholebranch"
+                            }, 
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000052",
+                                "name": "mass density unit",
+                                "descr": "A density unit which is a standard measure of the mass of a substance in a given volume.",
+                                "spec": "wholebranch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "neutral control",
+                        "descr": "The role played by the reading obtained from wells to which the sample or one of the reagents was not added. This may be subtracted from all the experimental readings prior to further analysis.",
+                        "propURI": "http://www.bioassayontology.org/bao#BAO_0000079",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://www.bioassayontology.org/bao#BAO_0000079",
+                                "name": "neutral control",
+                                "descr": " It is the role played by the solvent (e.g. DMSO) in which the perturbagen was dissolved. The negative control is used to determine the base-line to compare the effect of the test perturbagen.",
+                                "spec": "item"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "neutral concentration",
+                        "descr": "The concentration of the neutral control used in the assay.",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000018",
+                        "suggestions": "number",
+                        "mandatory": false,
+                        "values": []
+                    }, 
+                    {
+                        "name": "neutral  concentration units",
+                        "descr": "The units related to the concentration of the neutral control used in the assay",
+                        "propURI": "http://rdf.pistoia.com/bae#PA_000019",
+                        "suggestions": "full",
+                        "mandatory": false,
+                        "values": 
+                        [
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000051",
+                                "name": "concentration unit",
+                                "descr": "A unit which represents a standard measurement of how much of a given substance there is mixed with another substance.",
+                                "spec": "wholebranch"
+                            }, 
+                            {
+                                "uri": "http://purl.obolibrary.org/obo/UO_0000052",
+                                "name": "mass density unit",
+                                "descr": "A density unit which is a standard measure of the mass of a substance in a given volume.",
+                                "spec": "wholebranch"
+                            }
+                        ]
+                    }
+                ],
+                "subGroups": []
+            }
+        ]
+    }
+}

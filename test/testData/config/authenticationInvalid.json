@@ -1,0 +1,45 @@
+
+[
+	{
+		"name": "Trusted",
+		"type": "Trusted",
+		"prefix": "trusted:"
+	},
+	{
+		"prefix": "orcid:",
+		"type": "OAuth",
+		"authURL": "http://orcid.org/oauth/authorize",
+		"tokenURL": "https://orcid.org/oauth/token",
+		"scope": "/authenticate",
+		"responseType": "code",
+		"clientID": "<client-id>",
+		"clientSecret": "<client-secret>",
+		"userID": "orcid",
+		"userName": "name"
+	},
+	{
+		"name": "ORCID Sandbox",
+		"prefix": "orcid_sandbox:",
+		"type": "OAuth",
+		"authURL": "invalidURL",
+		"tokenURL": "https://sandbox.orcid.org/oauth/token",
+		"scope": "/read-limited",
+		"responseType": "code",
+		"clientID": "<client-id>",
+		"clientSecret": "<client-secret>",
+		"userID": "orcid",
+		"userName": "name"
+	},
+	{
+		"name": "Google",
+		"prefix": "no-colon",
+		"type": "OAuth",
+		"authURL": "https://accounts.google.com/o/oauth2/auth",
+		"tokenURL": "https://accounts.google.com/o/oauth2/token",
+		"scope": "profile email",
+		"responseType": "code",
+		"clientID": "<client-id>",
+		"clientSecret": "<client-secret>"
+	}
+]
+

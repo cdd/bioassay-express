@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://Java.sun.com/xml/ns/javaee"
+	xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+	 http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+	id="WebApp_ID" version="3.0">
+
+	<display-name>BioAssay Express</display-name>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+
+	<session-config>
+		<cookie-config>
+			<http-only>true</http-only>
+			<secure>true</secure>
+		</cookie-config>
+	</session-config>
+
+	<!-- initialisation parameters -->
+
+	<context-param>
+		<param-name>config-file</param-name>
+		<param-value>/opt/bae/config.json</param-value>
+	</context-param>
+	<!--CharsetFilter start--> 
+	<filter>
+		<filter-name>charsetFilter</filter-name>
+		<filter-class>com.cdd.bae.web.CharsetFilter</filter-class>
+		<init-param>
+			<param-name>requestEncoding</param-name>
+			<param-value>UTF-8</param-value>
+		</init-param>
+	</filter>
+	<filter-mapping>
+		<filter-name>charsetFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+
+	<!--<filter> <filter-name>CorsFilter</filter-name> <filter-class>org.apache.catalina.filters.CorsFilter</filter-class> 
+		<init-param> <param-name>cors.allowed.origins</param-name> <param-value>*</param-value> 
+		</init-param> </filter> <filter-mapping> <filter-name>CorsFilter</filter-name> 
+		<url-pattern>/REST/*</url-pattern> </filter-mapping> -->
+
+	<filter>
+		<filter-name>headerFilter</filter-name>
+		<filter-class>com.cdd.bae.web.HeaderFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>headerFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+
+	<filter>
+		<filter-name>adminFilter</filter-name>
+		<filter-class>com.cdd.bae.web.AdminFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>adminFilter</filter-name>
+		<url-pattern>/admin/*</url-pattern>
+	</filter-mapping>
+
+	<error-page>
+		<exception-type>java.lang.Throwable</exception-type>
+		<location>/error.jsp</location>
+	</error-page>
+
+	<!-- interactive servlets -->
+
+	<servlet>
+		<servlet-name>Resource</servlet-name>
+		<servlet-class>com.cdd.bae.web.CustomResource</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Resource</servlet-name>
+		<url-pattern>/resource/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>SchemaEntry</servlet-name>
+		<servlet-class>com.cdd.bae.web.SchemaEntry</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>SchemaEntry</servlet-name>
+		<url-pattern>/servlet/SchemaEntry</url-pattern>
+	</servlet-mapping>
+
+	<!-- not used anymore <servlet> <servlet-name>Download</servlet-name> <servlet-class>com.cdd.bae.web.Download</servlet-class> 
+		</servlet> <servlet-mapping> <servlet-name>Download</servlet-name> <url-pattern>/servlet/Download/*</url-pattern> 
+		</servlet-mapping> -->
+
+	<servlet>
+		<servlet-name>DownloadCompounds</servlet-name>
+		<servlet-class>com.cdd.bae.web.DownloadCompounds</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>DownloadCompounds</servlet-name>
+		<url-pattern>/servlet/DownloadCompounds/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>DownloadAnnotations</servlet-name>
+		<servlet-class>com.cdd.bae.web.DownloadAnnotations</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>DownloadAnnotations</servlet-name>
+		<url-pattern>/servlet/DownloadAnnotations/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>DownloadQuery</servlet-name>
+		<servlet-class>com.cdd.bae.web.DownloadQuery</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>DownloadQuery</servlet-name>
+		<url-pattern>/servlet/DownloadQuery/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>DownloadSchema</servlet-name>
+		<servlet-class>com.cdd.bae.web.DownloadSchema</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>DownloadSchema</servlet-name>
+		<url-pattern>/servlet/DownloadSchema/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>DownloadProvisional</servlet-name>
+		<servlet-class>com.cdd.bae.web.DownloadProvisional</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>DownloadProvisional</servlet-name>
+		<url-pattern>/servlet/DownloadProvisional/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>DownloadEverything</servlet-name>
+		<servlet-class>com.cdd.bae.web.DownloadEverything</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>DownloadEverything</servlet-name>
+		<url-pattern>/servlet/DownloadEverything/*</url-pattern>
+	</servlet-mapping>
+
+	<!-- REST-style servlets -->
+
+	<servlet>
+		<servlet-name>Suggest</servlet-name>
+		<servlet-class>com.cdd.bae.rest.Suggest</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Suggest</servlet-name>
+		<url-pattern>/REST/Suggest</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>SelfSuggest</servlet-name>
+		<servlet-class>com.cdd.bae.rest.SelfSuggest</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>SelfSuggest</servlet-name>
+		<url-pattern>/REST/SelfSuggest</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>Search</servlet-name>
+		<servlet-class>com.cdd.bae.rest.Search</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Search</servlet-name>
+		<url-pattern>/REST/Search</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>TextMine</servlet-name>
+		<servlet-class>com.cdd.bae.rest.TextMine</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>TextMine</servlet-name>
+		<url-pattern>/REST/TextMine</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>SchemaCheck</servlet-name>
+		<servlet-class>com.cdd.bae.rest.SchemaCheck</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>SchemaCheck</servlet-name>
+		<url-pattern>/REST/SchemaCheck</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>KeywordMatch</servlet-name>
+		<servlet-class>com.cdd.bae.rest.KeywordMatch</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>KeywordMatch</servlet-name>
+		<url-pattern>/REST/KeywordMatch</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>GetAssay</servlet-name>
+		<servlet-class>com.cdd.bae.rest.GetAssay</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>GetAssay</servlet-name>
+		<url-pattern>/REST/GetAssay</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>GetRecentCuration</servlet-name>
+		<servlet-class>com.cdd.bae.rest.GetRecentCuration</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>GetRecentCuration</servlet-name>
+		<url-pattern>/REST/GetRecentCuration</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>FindIdentifier</servlet-name>
+		<servlet-class>com.cdd.bae.rest.FindIdentifier</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>FindIdentifier</servlet-name>
+		<url-pattern>/REST/FindIdentifier</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>SummariseAssays</servlet-name>
+		<servlet-class>com.cdd.bae.rest.SummariseAssays</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>SummariseAssays</servlet-name>
+		<url-pattern>/REST/SummariseAssays</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>SummariseAnnotations</servlet-name>
+		<servlet-class>com.cdd.bae.rest.SummariseAnnotations</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>SummariseAnnotations</servlet-name>
+		<url-pattern>/REST/SummariseAnnotations</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>GetPropertyTree</servlet-name>
+		<servlet-class>com.cdd.bae.rest.GetPropertyTree</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>GetPropertyTree</servlet-name>
+		<url-pattern>/REST/GetPropertyTree</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>GetPropertyList</servlet-name>
+		<servlet-class>com.cdd.bae.rest.GetPropertyList</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>GetPropertyList</servlet-name>
+		<url-pattern>/REST/GetPropertyList</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>GetLiteralValues</servlet-name>
+		<servlet-class>com.cdd.bae.rest.GetLiteralValues</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>GetLiteralValues</servlet-name>
+		<url-pattern>/REST/GetLiteralValues</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>GetIdentifiers</servlet-name>
+		<servlet-class>com.cdd.bae.rest.GetIdentifiers</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>GetIdentifiers</servlet-name>
+		<url-pattern>/REST/GetIdentifiers</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>PickRandomAssay</servlet-name>
+		<servlet-class>com.cdd.bae.rest.PickRandomAssay</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>PickRandomAssay</servlet-name>
+		<url-pattern>/REST/PickRandomAssay</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>ListCuratedAssays</servlet-name>
+		<servlet-class>com.cdd.bae.rest.ListCuratedAssays</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ListCuratedAssays</servlet-name>
+		<url-pattern>/REST/ListCuratedAssays</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>DescribeSchema</servlet-name>
+		<servlet-class>com.cdd.bae.rest.DescribeSchema</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>DescribeSchema</servlet-name>
+		<url-pattern>/REST/DescribeSchema</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>ListCompounds</servlet-name>
+		<servlet-class>com.cdd.bae.rest.ListCompounds</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ListCompounds</servlet-name>
+		<url-pattern>/REST/ListCompounds</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>SelectionTree</servlet-name>
+		<servlet-class>com.cdd.bae.rest.SelectionTree</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>SelectionTree</servlet-name>
+		<url-pattern>/REST/SelectionTree</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>ListQueryAssays</servlet-name>
+		<servlet-class>com.cdd.bae.rest.ListQueryAssays</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ListQueryAssays</servlet-name>
+		<url-pattern>/REST/ListQueryAssays</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>BuildBayesian</servlet-name>
+		<servlet-class>com.cdd.bae.rest.BuildBayesian</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>BuildBayesian</servlet-name>
+		<url-pattern>/REST/BuildBayesian</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>GetHoldingBay</servlet-name>
+		<servlet-class>com.cdd.bae.rest.GetHoldingBay</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>GetHoldingBay</servlet-name>
+		<url-pattern>/REST/GetHoldingBay</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>UpdateUserProfile</servlet-name>
+		<servlet-class>com.cdd.bae.rest.UpdateUserProfile</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>UpdateUserProfile</servlet-name>
+		<url-pattern>/REST/UpdateUserProfile</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>SubTreeSchema</servlet-name>
+		<servlet-class>com.cdd.bae.rest.SubTreeSchema</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>SubTreeSchema</servlet-name>
+		<url-pattern>/REST/SubTreeSchema</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>TallyStats</servlet-name>
+		<servlet-class>com.cdd.bae.rest.TallyStats</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>TallyStats</servlet-name>
+		<url-pattern>/REST/TallyStats</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>TallyCompletion</servlet-name>
+		<servlet-class>com.cdd.bae.rest.TallyCompletion</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>TallyCompletion</servlet-name>
+		<url-pattern>/REST/TallyCompletion</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>InterpretAssay</servlet-name>
+		<servlet-class>com.cdd.bae.rest.InterpretAssay</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>InterpretAssay</servlet-name>
+		<url-pattern>/REST/InterpretAssay</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>SubmitAssay</servlet-name>
+		<servlet-class>com.cdd.bae.rest.SubmitAssay</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>SubmitAssay</servlet-name>
+		<url-pattern>/REST/SubmitAssay</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>SubmitBulkMap</servlet-name>
+		<servlet-class>com.cdd.bae.rest.SubmitBulkMap</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>SubmitBulkMap</servlet-name>
+		<url-pattern>/REST/SubmitBulkMap</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>ApplyHoldingBay</servlet-name>
+		<servlet-class>com.cdd.bae.rest.ApplyHoldingBay</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ApplyHoldingBay</servlet-name>
+		<url-pattern>/REST/ApplyHoldingBay</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>DeleteAssay</servlet-name>
+		<servlet-class>com.cdd.bae.rest.DeleteAssay</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>DeleteAssay</servlet-name>
+		<url-pattern>/REST/DeleteAssay</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>TransliterateAssay</servlet-name>
+		<servlet-class>com.cdd.bae.rest.TransliterateAssay</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>TransliterateAssay</servlet-name>
+		<url-pattern>/REST/TransliterateAssay</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>BranchInfo</servlet-name>
+		<servlet-class>com.cdd.bae.rest.BranchInfo</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>BranchInfo</servlet-name>
+		<url-pattern>/REST/BranchInfo</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>DownloadAssociationRules</servlet-name>
+		<servlet-class>com.cdd.bae.rest.DownloadAssociationRules</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>DownloadAssociationRules</servlet-name>
+		<url-pattern>/REST/DownloadAssociationRules</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>RDF</servlet-name>
+		<servlet-class>com.cdd.bae.rest.RDF</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>RDF</servlet-name>
+		<url-pattern>/REST/RDF/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>CSPReport</servlet-name>
+		<servlet-class>com.cdd.bae.rest.CSPReport</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>CSPReport</servlet-name>
+		<url-pattern>/REST/cspReport</url-pattern>
+	</servlet-mapping>
+
+	<!-- REST services related to OntoloBridge requests -->
+
+	<servlet>
+		<servlet-name>GetTermRequests</servlet-name>
+		<servlet-class>com.cdd.bae.rest.GetTermRequests</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>GetTermRequests</servlet-name>
+		<url-pattern>/REST/GetTermRequests</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>DeleteProvisionalTerm</servlet-name>
+		<servlet-class>com.cdd.bae.rest.DeleteProvisionalTerm</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>DeleteProvisionalTerm</servlet-name>
+		<url-pattern>/REST/DeleteProvisionalTerm</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>RequestProvisional</servlet-name>
+		<servlet-class>com.cdd.bae.rest.RequestProvisional</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>RequestProvisional</servlet-name>
+		<url-pattern>/REST/RequestProvisional</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>OntoloBridgeRequest</servlet-name>
+		<servlet-class>com.cdd.bae.rest.OntoloBridgeRequest</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>OntoloBridgeRequest</servlet-name>
+		<url-pattern>/REST/OntoloBridgeRequest</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>CheckAxioms</servlet-name>
+		<servlet-class>com.cdd.bae.rest.CheckAxioms</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>CheckAxioms</servlet-name>
+		<url-pattern>/REST/CheckAxioms</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>AutomapDefine</servlet-name>
+		<servlet-class>com.cdd.bae.rest.AutomapDefine</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>AutomapDefine</servlet-name>
+		<url-pattern>/REST/AutomapDefine</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>AutomapKeywords</servlet-name>
+		<servlet-class>com.cdd.bae.rest.AutomapKeywords</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>AutomapKeywords</servlet-name>
+		<url-pattern>/REST/AutomapKeywords</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>OntologyBranch</servlet-name>
+		<servlet-class>com.cdd.bae.rest.OntologyBranch</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>OntologyBranch</servlet-name>
+		<url-pattern>/REST/OntologyBranch</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>OntologySearch</servlet-name>
+		<servlet-class>com.cdd.bae.rest.OntologySearch</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>OntologySearch</servlet-name>
+		<url-pattern>/REST/OntologySearch</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>SchemaBranch</servlet-name>
+		<servlet-class>com.cdd.bae.rest.SchemaBranch</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>SchemaBranch</servlet-name>
+		<url-pattern>/REST/SchemaBranch</url-pattern>
+	</servlet-mapping>
+
+	<!-- REST services for admin interface -->
+
+	<servlet>
+		<servlet-name>Status</servlet-name>
+		<servlet-class>com.cdd.bae.rest.eln.Status</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Status</servlet-name>
+		<url-pattern>/REST/eln/Status</url-pattern>
+	</servlet-mapping>
+
+	<!-- REST services for ELN interface -->
+
+	<servlet>
+		<servlet-name>AdminResetPassword</servlet-name>
+		<servlet-class>com.cdd.bae.rest.AdminResetPassword</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>AdminResetPassword</servlet-name>
+		<url-pattern>/REST/admin/ResetPassword</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>AdminChangeStatus</servlet-name>
+		<servlet-class>com.cdd.bae.rest.AdminChangeStatus</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>AdminChangeStatus</servlet-name>
+		<url-pattern>/REST/admin/ChangeStatus</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>AdminEnumerateTransliteration</servlet-name>
+		<servlet-class>com.cdd.bae.rest.AdminEnumerateTransliteration</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>AdminEnumerateTransliteration</servlet-name>
+		<url-pattern>/REST/admin/EnumerateTransliteration</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>AnnotationSearch</servlet-name>
+		<servlet-class>com.cdd.bae.rest.eln.AnnotationSearch</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>AnnotationSearch</servlet-name>
+		<url-pattern>/REST/eln/AnnotationSearch</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>AnnotationRules</servlet-name>
+		<servlet-class>com.cdd.bae.rest.eln.AnnotationRules</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>AnnotationRules</servlet-name>
+		<url-pattern>/REST/eln/AnnotationRules</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>AutogeneratedText</servlet-name>
+		<servlet-class>com.cdd.bae.rest.eln.AutogeneratedText</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>AutogeneratedText</servlet-name>
+		<url-pattern>/REST/eln/AutogeneratedText</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>OntologySearch</servlet-name>
+		<servlet-class>com.cdd.bae.rest.eln.OntologySearch</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>OntologySearch</servlet-name>
+		<url-pattern>/REST/eln/OntologySearch</url-pattern>
+	</servlet-mapping>
+
+	<!-- REST services for external integration -->
+	
+	<servlet>
+		<servlet-name>RequestPubChemAssay</servlet-name>
+		<servlet-class>com.cdd.bae.rest.extern.RequestPubChemAssay</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>RequestPubChemAssay</servlet-name>
+		<url-pattern>/REST/extern/RequestPubChemAssay</url-pattern>
+	</servlet-mapping>
+
+	<!-- define special "listener" tasks that run in the background -->
+
+	<listener>
+		<listener-class>com.cdd.bae.tasks.ConfigMonitor</listener-class>
+	</listener>
+
+	<listener>
+		<listener-class>com.cdd.bae.tasks.SystemMonitor</listener-class>
+	</listener>
+
+	<listener>
+		<listener-class>com.cdd.bae.tasks.FingerprintCalculator</listener-class>
+	</listener>
+
+	<listener>
+		<listener-class>com.cdd.bae.tasks.ModelBuilder</listener-class>
+	</listener>
+
+	<listener>
+		<listener-class>com.cdd.bae.tasks.CorrelationBuilder</listener-class>
+	</listener>
+
+	<listener>
+		<listener-class>com.cdd.bae.tasks.PubChemAssays</listener-class>
+	</listener>
+
+	<listener>
+		<listener-class>com.cdd.bae.tasks.VaultProtocols</listener-class>
+	</listener>
+
+	<listener>
+		<listener-class>com.cdd.bae.tasks.OntoloBridgeMonitor</listener-class>
+	</listener>
+</web-app>
+
+

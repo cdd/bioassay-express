@@ -1,0 +1,51 @@
+{
+	"message":
+	{
+		"message": "Docker BAE",
+		"style": "warning",
+		"show": true
+	},
+	"database":
+	{
+		"host": null,
+		"port": 0,
+		"name": "bae"
+	},
+	"templates":
+	{
+		"directory": "template",
+		"files": 
+		[
+				"schema.json",
+				"schema_PistoiaAlliance.json"
+		]
+	},
+	"schema":
+	{
+		"filename": "vocab.dump.gz"
+	},
+	"identifier":
+	{
+		"filename": "identifier.json"
+	},
+	"authentication":
+	{
+		"filename": "authentication.json"
+	},
+	"provisional": 
+	{
+		"baseURI": "http://www.bioassayexpress.com/bao_provisional#PROV_"
+	},
+	"transliterate":
+	{
+		"directory": "transliterate",
+		"files": ["transliterate_cat.json"]
+	},	
+	"prefixes":
+	[
+		{
+			"abbreviation": "pistoia:",
+			"baseURI": "http://rdf.pistoia.com/bae#"
+		}
+	]
+}

@@ -1,0 +1,191 @@
+{
+  "PC_AssayContainer": [
+    {
+      "assay": {
+        "descr": {
+          "aid": {
+            "id": 1811,
+            "version": 3
+          },
+          "aid_source": {
+            "db": {
+              "name": "Shanghai Institute of Organic Chemistry",
+              "source_id": {
+                "str": "PDBBind Data 1"
+              }
+            }
+          },
+          "name": "Experimentally measured binding affinity data derived from PDB",
+          "description": [
+            "This data entry provides a collection of experimentally measured binding affinity data (Kd, Ki, and IC50), which are exclusively for the protein-ligand complexes available in the Protein Data Bank (PDB).  All of the binding affinity data compiled in this data entry are cited from original references. This work is contributed by the PDBbind database.  "
+          ],
+          "xref": [
+            {
+              "xref": {
+                "dburl": "http://www.sioc.ac.cn/esioc/1.htm"
+              }
+            },
+            {
+              "xref": {
+                "asurl": "http://www.pdbbind.org.cn"
+              }
+            },
+            {
+              "xref": {
+                "pmid": 15943484
+              },
+              "comment": "Wang, R.; Fang, X.; Lu, Y.; Yang, C.-Y.; Wang, S. \"The PDBbind Database: Methodologies and updates\", J. Med. Chem., 2005; 48(12); 4111-4119"
+            },
+            {
+              "xref": {
+                "pmid": 15163179
+              },
+              "comment": "Wang, R.; Fang, X.; Lu, Y.; Wang, S. \"The PDBbind Database: Collection of Binding Affinities for Protein-Ligand Complexes with Known Three-Dimensional Structures\", J. Med. Chem., 2004; 47(12); 2977-2980"
+            }
+          ],
+          "results": [
+            {
+              "tid": 1,
+              "name": "Affinity_Quilifier",
+              "type": 4
+            },
+            {
+              "tid": 2,
+              "name": "Ki",
+              "type": 1,
+              "unit": 5
+            },
+            {
+              "tid": 3,
+              "name": "Kd",
+              "type": 1,
+              "unit": 5
+            },
+            {
+              "tid": 4,
+              "name": "IC50",
+              "type": 1,
+              "unit": 5
+            },
+            {
+              "tid": 5,
+              "name": "pKipKdpIC50",
+              "type": 1,
+              "unit": 254
+            },
+            {
+              "tid": 6,
+              "name": "PubMed",
+              "type": 4,
+              "annot": 1
+            },
+            {
+              "tid": 7,
+              "name": "Protein Target",
+              "type": 4,
+              "annot": 13
+            },
+            {
+              "tid": 8,
+              "name": "Protein Name",
+              "type": 4,
+              "annot": 15
+            },
+            {
+              "tid": 9,
+              "name": "MMDB",
+              "type": 4,
+              "annot": 2
+            },
+            {
+              "tid": 10,
+              "name": "PDB",
+              "type": 4
+            }
+          ],
+          "revision": 2,
+          "activity_outcome_method": 0,
+          "project_category": 7
+        }
+      },
+      "data": [
+        {
+          "sid": 46392494,
+          "version": 1,
+          "outcome": 2,
+          "data": [
+            {
+              "tid": 1,
+              "value": {
+                "sval": "="
+              }
+            },
+            {
+              "tid": 2,
+              "value": {
+                "fval": 0
+              }
+            },
+            {
+              "tid": 3,
+              "value": {
+                "fval": 0.1
+              }
+            },
+            {
+              "tid": 4,
+              "value": {
+                "fval": 0
+              }
+            },
+            {
+              "tid": 5,
+              "value": {
+                "fval": 7
+              }
+            },
+            {
+              "tid": 6,
+              "value": {
+                "sval": "12242434"
+              }
+            },
+            {
+              "tid": 7,
+              "value": {
+                "sval": "24158967"
+              }
+            },
+            {
+              "tid": 8,
+              "value": {
+                "sval": "preprotein translocase seca"
+              }
+            },
+            {
+              "tid": 9,
+              "value": {
+                "sval": "20704"
+              }
+            },
+            {
+              "tid": 10,
+              "value": {
+                "sval": "1M74"
+              }
+            }
+          ],
+          "url": "http://www.pdbbind.org.cn/quickpdb.asp?quickpdb=1m74",
+          "date": {
+            "std": {
+              "year": 2009,
+              "month": 8,
+              "day": 11
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
+

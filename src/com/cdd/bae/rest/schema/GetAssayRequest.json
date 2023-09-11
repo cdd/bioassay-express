@@ -1,0 +1,26 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"description": "Return information about an assay",
+	"type": "object",
+	"required": [],
+	"properties":
+	{
+		"assayID":
+		{
+			"description": "Assay identifier",
+			"type": "integer",
+			"minimum": 1
+		},
+		"uniqueID":
+		{
+			"description": "Application instance assay identifier",
+			"type": "string"
+		},
+		"countCompounds":
+		{
+			"description": "For each assay, return the number of screened compounds",
+			"type": "boolean",
+			"default": false
+		}
+	}
+}

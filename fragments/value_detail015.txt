@@ -1,0 +1,1260 @@
+obo:CLO_0000442
+  D "An immortal neck-derived fibroblast cell line cell that derives from human."
+obo:CLO_0009815
+  D "An immortal nose structure-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000999
+  D "An immortal organism part-derived fibroblast cell line cell that derives from cat."
+obo:CLO_0000397
+  D "An immortal organism part-derived fibroblast cell line cell that derives from cattle."
+obo:CLO_0000402
+  D "An immortal organism part-derived fibroblast cell line cell that derives from chimpanzee."
+obo:CLO_0000779
+  D "An immortal organism part-derived fibroblast cell line cell that derives from Chinese hamster."
+obo:CLO_0000838
+  D "An immortal organism part-derived fibroblast cell line cell that derives from dog."
+obo:CLO_0000396
+  D "An immortal organism part-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000439
+  D "An immortal organism part-derived fibroblast cell line cell that derives from Indian muntjac."
+obo:CLO_0000420
+  D "An immortal organism part-derived fibroblast cell line cell that derives from mouse."
+obo:CLO_0000625
+  D "An immortal organism part-derived fibroblast cell line cell that derives from sheep."
+obo:CLO_0009795
+  D "An immortal organism part-derived fibroblast cell line cell that derives from Syrian golden hamster."
+obo:CLO_0000480
+  D "An immortal pericardium-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000801
+  D "An immortal placenta-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000752
+  D "An immortal pronephros-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000786
+  D "An immortal sacrum-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000781
+  D "An immortal scalp-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000996
+  D "An immortal shoulder-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000797
+  D "An immortal shoulder-derived fibroblast cell line cell that derives from Midas tamarin."
+obo:CLO_0000793
+  D "An immortal skin-derived fibroblast cell line cell that derives from agile mangabey."
+obo:CLO_0000423
+  D "An immortal skin-derived fibroblast cell line cell that derives from Allen's swamp monkey."
+obo:CLO_0000419
+  D "An immortal skin-derived fibroblast cell line cell that derives from Angolan colobus."
+obo:CLO_0000833
+  D "An immortal skin-derived fibroblast cell line cell that derives from aye-aye."
+obo:CLO_0009799
+  D "An immortal skin-derived fibroblast cell line cell that derives from Azara's night monkey."
+obo:CLO_0000834
+  D "An immortal skin-derived fibroblast cell line cell that derives from bamboo lemur."
+obo:CLO_0000414
+  D "An immortal skin-derived fibroblast cell line cell that derives from black lemur."
+obo:CLO_0000796
+  D "An immortal skin-derived fibroblast cell line cell that derives from black-cheeked white-nosed monkey."
+obo:CLO_0000429
+  D "An immortal skin-derived fibroblast cell line cell that derives from black-handed spider monkey."
+obo:CLO_0000862
+  D "An immortal skin-derived fibroblast cell line cell that derives from blue monkey."
+obo:CLO_0000839
+  D "An immortal skin-derived fibroblast cell line cell that derives from Bolivian red howler monkey."
+obo:CLO_0000822
+  D "An immortal skin-derived fibroblast cell line cell that derives from Bolivian squirrel monkey."
+obo:CLO_0000404
+  D "An immortal skin-derived fibroblast cell line cell that derives from Bornean orangutan."
+obo:CLO_0000817
+  D "An immortal skin-derived fibroblast cell line cell that derives from brown lemur."
+obo:CLO_0000824
+  D "An immortal skin-derived fibroblast cell line cell that derives from brown woolly monkey."
+obo:CLO_0000863
+  D "An immortal skin-derived fibroblast cell line cell that derives from Celebes crested macaque."
+obo:CLO_0000432
+  D "An immortal skin-derived fibroblast cell line cell that derives from Charles Island giant tortoise."
+obo:CLO_0000427
+  D "An immortal skin-derived fibroblast cell line cell that derives from chimpanzee."
+obo:CLO_0000421
+  D "An immortal skin-derived fibroblast cell line cell that derives from Colobus guereza."
+obo:CLO_0000867
+  D "An immortal skin-derived fibroblast cell line cell that derives from coppery titi."
+obo:CLO_0000857
+  D "An immortal skin-derived fibroblast cell line cell that derives from Coquerel's mouse lemur."
+obo:CLO_0000795
+  D "An immortal skin-derived fibroblast cell line cell that derives from cotton-top tamarin."
+obo:CLO_0000829
+  D "An immortal skin-derived fibroblast cell line cell that derives from crowned lemur."
+obo:CLO_0009800
+  D "An immortal skin-derived fibroblast cell line cell that derives from De Brazza's monkey."
+obo:CLO_0000792
+  D "An immortal skin-derived fibroblast cell line cell that derives from Francois's langur."
+obo:CLO_0000866
+  D "An immortal skin-derived fibroblast cell line cell that derives from Geoffroy's marmoset."
+obo:CLO_0000835
+  D "An immortal skin-derived fibroblast cell line cell that derives from Goeldi's monkey."
+obo:CLO_0000794
+  D "An immortal skin-derived fibroblast cell line cell that derives from gray-cheeked mangabey."
+obo:CLO_0000787
+  D "An immortal skin-derived fibroblast cell line cell that derives from hamadryas baboon."
+obo:CLO_0000865
+  D "An immortal skin-derived fibroblast cell line cell that derives from Hanuman langur."
+obo:CLO_0000437
+  D "An immortal skin-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000406
+  D "An immortal skin-derived fibroblast cell line cell that derives from Kenya baboon."
+obo:CLO_0000790
+  D "An immortal skin-derived fibroblast cell line cell that derives from king colobus."
+obo:CLO_0000844
+  D "An immortal skin-derived fibroblast cell line cell that derives from L'Hoest's monkey."
+obo:CLO_0000850
+  D "An immortal skin-derived fibroblast cell line cell that derives from Lesser dwarf lemur."
+obo:CLO_0000444
+  D "An immortal skin-derived fibroblast cell line cell that derives from lesser panda."
+obo:CLO_0000858
+  D "An immortal skin-derived fibroblast cell line cell that derives from lesser white-nosed monkey."
+obo:CLO_0000869
+  D "An immortal skin-derived fibroblast cell line cell that derives from liontail macaque."
+obo:CLO_0000819
+  D "An immortal skin-derived fibroblast cell line cell that derives from mandrill."
+obo:CLO_0000840
+  D "An immortal skin-derived fibroblast cell line cell that derives from Miopithecus talapoin."
+obo:CLO_0000826
+  D "An immortal skin-derived fibroblast cell line cell that derives from Moholi bushbaby."
+obo:CLO_0000425
+  D "An immortal skin-derived fibroblast cell line cell that derives from mongoose lemur."
+obo:CLO_0000825
+  D "An immortal skin-derived fibroblast cell line cell that derives from moustached monkey."
+obo:CLO_0000848
+  D "An immortal skin-derived fibroblast cell line cell that derives from Nancy Ma's night monkey."
+obo:CLO_0000841
+  D "An immortal skin-derived fibroblast cell line cell that derives from Pere David's macaque."
+obo:CLO_0000777
+  D "An immortal skin-derived fibroblast cell line cell that derives from pig."
+obo:CLO_0000405
+  D "An immortal skin-derived fibroblast cell line cell that derives from pig-tailed macaque."
+obo:CLO_0000845
+  D "An immortal skin-derived fibroblast cell line cell that derives from proboscis monkey."
+obo:CLO_0000411
+  D "An immortal skin-derived fibroblast cell line cell that derives from pygmy chimpanzee."
+obo:CLO_0000846
+  D "An immortal skin-derived fibroblast cell line cell that derives from pygmy marmoset."
+obo:CLO_0000413
+  D "An immortal skin-derived fibroblast cell line cell that derives from red-bellied lemur."
+obo:CLO_0000852
+  D "An immortal skin-derived fibroblast cell line cell that derives from Red-bellied titi."
+obo:CLO_0000821
+  D "An immortal skin-derived fibroblast cell line cell that derives from red-crowned mangabey."
+obo:CLO_0000428
+  D "An immortal skin-derived fibroblast cell line cell that derives from rhesus macaque."
+obo:CLO_0000426
+  D "An immortal skin-derived fibroblast cell line cell that derives from Ring-tailed lemur."
+obo:CLO_0000843
+  D "An immortal skin-derived fibroblast cell line cell that derives from saddlebacked tamarin."
+obo:CLO_0000868
+  D "An immortal skin-derived fibroblast cell line cell that derives from slender loris."
+obo:CLO_0000849
+  D "An immortal skin-derived fibroblast cell line cell that derives from slow loris."
+obo:CLO_0000417
+  D "An immortal skin-derived fibroblast cell line cell that derives from small-eared galago."
+obo:CLO_0000791
+  D "An immortal skin-derived fibroblast cell line cell that derives from South American squirrel monkey."
+obo:CLO_0000847
+  D "An immortal skin-derived fibroblast cell line cell that derives from Spix's night monkey."
+obo:CLO_0000416
+  D "An immortal skin-derived fibroblast cell line cell that derives from variegated lemur."
+obo:CLO_0000788
+  D "An immortal skin-derived fibroblast cell line cell that derives from vervet monkey."
+obo:CLO_0000418
+  D "An immortal skin-derived fibroblast cell line cell that derives from western gorilla."
+obo:CLO_0000830
+  D "An immortal skin-derived fibroblast cell line cell that derives from white sifaka."
+obo:CLO_0000842
+  D "An immortal skin-derived fibroblast cell line cell that derives from White-cheeked Gibbon."
+obo:CLO_0000832
+  D "An immortal skin-derived fibroblast cell line cell that derives from white-faced saki."
+obo:CLO_0009792
+  D "An immortal skin-derived fibroblast cell line cell that derives from white-handed gibbon."
+obo:CLO_0000818
+  D "An immortal skin-derived fibroblast cell line cell that derives from Wolf's monkey."
+obo:CLO_0000860
+  D "An immortal skin-derived fibroblast cell line cell that derives from Yellow baboon."
+obo:CLO_0000410
+  D "An immortal testis-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000433
+  D "An immortal testis-derived fibroblast cell line cell that derives from rat."
+obo:CLO_0009811
+  D "An immortal thigh-derived fibroblast cell line cell that derives from brown woolly monkey."
+obo:CLO_0000508
+  D "An immortal thigh-derived fibroblast cell line cell that derives from cattle."
+obo:CLO_0000827
+  D "An immortal thigh-derived fibroblast cell line cell that derives from Celebes crested macaque."
+obo:CLO_0000799
+  D "An immortal thigh-derived fibroblast cell line cell that derives from golden-crowned sifaka."
+obo:CLO_0000553
+  D "An immortal thigh-derived fibroblast cell line cell that derives from horse."
+obo:CLO_0000451
+  D "An immortal thigh-derived fibroblast cell line cell that derives from human."
+obo:CLO_0009809
+  D "An immortal thigh-derived fibroblast cell line cell that derives from patas monkey."
+obo:CLO_0000902
+  D "An immortal thigh-derived fibroblast cell line cell that derives from pig."
+obo:CLO_0009808
+  D "An immortal thigh-derived fibroblast cell line cell that derives from Red-bellied titi."
+obo:CLO_0009812
+  D "An immortal thigh-derived fibroblast cell line cell that derives from red-chested mustached tamarin."
+obo:CLO_0009814
+  D "An immortal thigh-derived fibroblast cell line cell that derives from saddlebacked tamarin."
+obo:CLO_0009813
+  D "An immortal thigh-derived fibroblast cell line cell that derives from South American squirrel monkey."
+obo:CLO_0000431
+  D "An immortal thoracic aorta-derived fibroblast cell line cell that derives from rat."
+obo:CLO_0000937
+  D "An immortal thorax-derived fibroblast cell line cell that derives from dog."
+obo:CLO_0000831
+  D "An immortal thorax-derived fibroblast cell line cell that derives from drill."
+obo:CLO_0000621
+  D "An immortal thorax-derived fibroblast cell line cell that derives from human."
+obo:CLO_0009798
+  D "An immortal thorax-derived fibroblast cell line cell that derives from northern lesser bushbaby."
+obo:CLO_0000398
+  D "An immortal tunica albuginea of testis-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000443
+  D "An immortal umbilical cord-derived fibroblast cell line cell that derives from human."
+obo:CLO_0050430
+  D "A immortal human umbilical cord-derived fibroblast cell line cell that has the characteristics: Normal umbilical cord fibroblast, female"
+obo:CLO_0050431
+  D "A immortal human umbilical cord-derived fibroblast cell line cell that has the characteristics: Normal umbilical cord fibroblast, male"
+obo:CLO_0050429
+  D "A immortal human umbilical cord-derived fibroblast cell line cell that has the characteristics: Normal umbilical card fibroblast, female"
+obo:CLO_0050432
+  D "A immortal human umbilical cord-derived fibroblast cell line cell that has the characteristics: Normal umbilical cord fibroblast, male"
+obo:CLO_0050433
+  D "A immortal human umbilical cord-derived fibroblast cell line cell that has the characteristics: Human mesenchymal cell line derived from umbilical cord blood. Immortalized by hTERT."
+obo:CLO_0050434
+  D "A immortal human umbilical cord-derived fibroblast cell line cell that has the characteristics: Human mesenchymal cell line derived from umbilical cord blood. Immortalized by HPV E6, E7, and hTERT."
+obo:CLO_0000452
+  D "An immortal umbilical vein-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000687
+  D "An immortal umbilicus-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000730
+  D "An immortal uterus-derived fibroblast cell line cell that derives from human."
+obo:CLO_0000146
+  D "a immortal extraembryonic cell line that is derived from trophoblast cell"
+obo:CLO_0000518
+  D "An immortal trophoblast cell line cell that derives from human."
+obo:CLO_0050641
+  D "A immortal human trophoblast cell line cell that has the characteristics: Trophoblastic cell. Producing chorionic gonadotropin, estrogen, progesterone. Cell growth is slow."
+obo:CLO_0000149
+  D "a immortal hematopoietic cell line that is derived from blood cell"
+obo:CLO_0000152
+  D "a immortal hematopoietic cell line that is derived from hematopoietic lineage restricted progenitor cell"
+obo:CLO_0000102
+  D "a immortal motile cell line that is derived from leukocyte"
+obo:CLO_0000148
+  D "a immortal hematopoietic cell line that is derived from megakaryocyte-erythroid progenitor cell"
+obo:CLO_0000966
+  D "An immortal hematopoietic cell line cell that derives from mouse."
+obo:CLO_0000150
+  D "a immortal hematopoietic cell line that is derived from myeloid cell"
+obo:CLO_0000970
+  D "An immortal blood cell line cell that derives from chimpanzee."
+obo:CLO_0000968
+  D "An immortal blood cell line cell that derives from Gorilla."
+obo:CLO_0000617
+  D "An immortal blood cell line cell that derives from human."
+obo:CLO_0000856
+  D "An immortal blood cell line cell that derives from marmoset."
+obo:CLO_0000701
+  D "An immortal blood cell line cell that derives from mouse."
+obo:CLO_0009765
+  D "An immortal blood cell line cell that derives from pig."
+obo:CLO_0000971
+  D "An immortal blood cell line cell that derives from Sumatran orangutan."
+obo:CLO_0050228
+  D "A immortal blood cell line cell that has the characteristics: Susceptible to nuclear polyhedrosis virus"
+obo:CLO_0050229
+  D "A immortal blood cell line cell that has the characteristics: larval hemocyte"
+obo:CLO_0050230
+  D "A immortal blood cell line cell that has the characteristics: Spont. transformant from choroid retina. Only slightly reactive to Factor VIII."
+obo:CLO_0002335
+  D "Human acute lymphoblastic leukemia cell line."
+obo:CLO_0009853
+  D "Human acute myeloid leukemia cell line; established from the peripheral blood of a 57-year-old man with acute myeloid leukemia."
+obo:CLO_0009854
+  D "Human acute myeloid leukemia cell line; established from erythroleukemia blasts, AML M6, of a 62-year-old patient following a 7-year chlorambucil treatment for chronic lymphocytic leukemia."
+obo:CLO_0050971
+  D "A immortal human blood cell line cell that has the characteristics: T cell leukemia"
+obo:CLO_0050972
+  D "A immortal human blood cell line cell that has the characteristics: Differentiate to granulocytes and monocytes"
+obo:CLO_0050992
+  D "A immortal human blood cell line cell that has the characteristics: T cell leukemia, the same patient as RCB1164 MOLT-3."
+obo:CLO_0050969
+  D "A immortal human blood cell line cell that has the characteristics: Bovine derived lymphocyte."
+obo:CLO_0050973
+  D "A immortal human blood cell line cell that has the characteristics: IL-2 dependent ATL cell line. HTLV-1 pro-virus DNA(+)."
+obo:CLO_0050989
+  D "A immortal human blood cell line cell that has the characteristics: Chronic myelogeneous leukemia, Ph1 chromosome (+),basophi-like cells."
+obo:CLO_0051000
+  D "A immortal human blood cell line cell that has the characteristics: Chronic myelogenous leukemia , subclone of RCB0495 KU812."
+obo:CLO_0050974
+  D "A immortal human blood cell line cell that has the characteristics: Chronic myelogeneous leukemia, subclone of RCB0495 KU812."
+obo:CLO_0050975
+  D "A immortal human blood cell line cell that has the characteristics: APRT(-) EB transformed B cell line"
+obo:CLO_0050993
+  D "A immortal human blood cell line cell that has the characteristics: Buck-up culture of ECA86010201. Human T cell line with the ability to grow HIV, the same patient as Jurkat."
+obo:CLO_0050976
+  D "A immortal human blood cell line cell that has the characteristics: Acute lymphatic leukemia"
+obo:CLO_0050996
+  D "A immortal human blood cell line cell that has the characteristics: Eosinophilic leukemia. Differenciate by n-butylate treatment.  The same patient as RCB2142 EoL-3."
+obo:CLO_0050977
+  D "A immortal human blood cell line cell that has the characteristics: Hydrogen peroxide resistant HL60-derived clone."
+obo:CLO_0050987
+  D "A immortal human blood cell line cell that has the characteristics: Hydrogen peroxide resistant HL60-derived clone. More resistant than HP50-2."
+obo:CLO_0050978
+  D "A immortal human blood cell line cell that has the characteristics: Human T cell line, the same patient as JM. IL-2 productivity of this line was undetermined."
+obo:CLO_0051008
+  D "A immortal human blood cell line cell that has the characteristics: Human T cell leukemia, the same patient as RCB0206 MOLT-4."
+obo:CLO_0051007
+  D "A immortal human blood cell line cell that has the characteristics: Human  T cell leukemia (derivative of KE-37) . originally described to be established from the peripheral blood of a 61-year-old man with T cell chronic lymphocytic leukemia (CLL) in 1977; ; KE-37 was established from a 27-year-old man with acute lymphoblastic leukemia (ALL) in 1979"
+obo:CLO_0050979
+  D "A immortal human blood cell line cell that has the characteristics: B-lineage acute lymphoblastic leukemia."
+obo:CLO_0050980
+  D "A immortal human blood cell line cell that has the characteristics: A subclone of RCB1180 Tanoue."
+obo:CLO_0050981
+  D "A immortal human blood cell line cell that has the characteristics: RCB1181 ST cells transformed with human G-CSF receptor cDNA. Responds to G-CSF."
+obo:CLO_0050999
+  D "A immortal human blood cell line cell that has the characteristics: Differentates to macrophage-like cells after treatment with phorbol ester. The variant subline (RCB2128 A-THP-1)."
+obo:CLO_0050990
+  D "A immortal human blood cell line cell that has the characteristics: Human myeloid leukemia cell line with chromosome 18 trisomy and mutation in DCC gene. Cell growth is slow."
+obo:CLO_0050982
+  D "A immortal human blood cell line cell that has the characteristics: AML with Ph' chromosome and t(3;3)(q21;q26). Expressing EVI-1 and BCR/ABL mRNA."
+obo:CLO_0050983
+  D "A immortal human blood cell line cell that has the characteristics: Acute myeloid leukemia with dek/can chimera mRNA expression. Responding to G-CSF and differentiate."
+obo:CLO_0051003
+  D "A immortal human blood cell line cell that has the characteristics: B95-8 EB virus transformed leukemia cell line."
+obo:CLO_0050984
+  D "A immortal human blood cell line cell that has the characteristics: B95-8 EB virus transformed (originally normal) B cell line."
+obo:CLO_0050985
+  D "A immortal human blood cell line cell that has the characteristics: Adult T-cell leukemia. HTLV-1 pro-virus DNA(+)."
+obo:CLO_0051009
+  D "A immortal human blood cell line cell that has the characteristics: Human myeloma cell."
+obo:CLO_0050986
+  D "A immortal human blood cell line cell that has the characteristics: B95-8 EB virus transformed (originally normal) B cell line."
+obo:CLO_0051006
+  D "A immortal human blood cell line cell that has the characteristics: Variant of HL60. Resistant to retinoic acid and active Vit. D derivatives."
+obo:CLO_0050991
+  D "A immortal human blood cell line cell that has the characteristics: Burkitt's lymphoma. Sensitive to lymphokine-activated killer cells but resistant to natural killer cells. Back up culture of ECA3011."
+obo:CLO_0050995
+  D "A immortal human blood cell line cell that has the characteristics: Burkitt's lymphoma. Sensitive to LAK cells but resistant to NK cells. Back up of culture ECA2673. Resistant to VSV. This cell line carries the latent Epstein-Barr Virus (EBV) genome and is positive for EBNA. RAJI is sometimes referred to as a 'non-producer'; the EBV genome carries deletions attributed to preventing the formation of virus particles."
+obo:CLO_0051018
+  D "A immortal human blood cell line cell that has the characteristics: Human cell line derived from Bloom syndrome patient. Transformed by EBV. Can express certain antigen on the cell surface, such as cancer-specific antigen."
+obo:CLO_0051019
+  D "A immortal human blood cell line cell that has the characteristics: EBV-transformed cell line from a patient (male) with p53 germ line mutation. Mutation was noted at codon 242 (TGC→TAC) by FASAY.TKG0506 (Deposited from Tohoku Univ.)."
+obo:CLO_0051022
+  D "A immortal human blood cell line cell that has the characteristics: IgM (lambda) secreting B cell line. Established from peripheral blood lymphocytes  of apparently normal 33-y-o male. HLA profile: A2, Aw33, B7, B14.TKG0464(Deposited from Tohoku Univ.)"
+obo:CLO_0050970
+  D "A immortal human blood cell line cell that has the characteristics: Human cell line derived from B cell leukemia. TKG0413(Deposited from Tohoku Univ.)."
+obo:CLO_0051010
+  D "A immortal human blood cell line cell that has the characteristics: Human cell line derived from T cell of a patient with Sezary syndrome. Producing IL-2. TKG0375(Deposited from Tohoku Univ.)."
+obo:CLO_0050988
+  D "A immortal human blood cell line cell that has the characteristics: Human cell line derived from T cell leukemia. TKG0199(Deposited from Tohoku Univ.)."
+obo:CLO_0050994
+  D "A immortal human blood cell line cell that has the characteristics: Human T leukemic cell line (CD4+). CR2 receptor (+). TKG0229(Deposited from Tohoku Univ.)."
+obo:CLO_0051011
+  D "A immortal human blood cell line cell that has the characteristics: Human cell line derived from T cell leukemia. TKG0463(Deposited from Tohoku Univ.)."
+obo:CLO_0051012
+  D "A immortal human blood cell line cell that has the characteristics: Human cell line derived from T cell leukemia. TKG0385(Deposited from Tohoku Univ.)."
+obo:CLO_0051013
+  D "A immortal human blood cell line cell that has the characteristics: Human B cells transformed by Epstein-Barr virus. RCB2541 is derived from the same patient. TKG0611(Deposited from Tohoku Univ.)."
+obo:CLO_0050998
+  D "A immortal human blood cell line cell that has the characteristics: Human cell line derived from acute monocytic leukemia. Activeated macrophage activity (+), obtained from long passage of THP-1 (RCB1189 THP-1) cell line. TKG0296(Deposited from Tohoku Univ.)."
+obo:CLO_0050997
+  D "A immortal human blood cell line cell that has the characteristics: Human cell line derived from eosinophilic leukemia. The same patient as RCB0641 EoL-1 cell."
+obo:CLO_0051015
+  D "A immortal human blood cell line cell that has the characteristics: Human cell line derived from B cells of healthy volunteer. Transformed by EB virus. TKG0610(Deposited from Tohoku Univ.)."
+obo:CLO_0051016
+  D "A immortal human blood cell line cell that has the characteristics: Human B cells transformed by Epstein-Barr virus. TKG0609(Deposited from Tohoku Univ.)."
+obo:CLO_0051020
+  D "A immortal human blood cell line cell that has the characteristics: Human B cells derived from a patient of xeroderma pigmentosum. Transformed by Epstein-Barr virus. TKG0311(Deposited from Tohoku Univ.)."
+obo:CLO_0051017
+  D "A immortal human blood cell line cell that has the characteristics: Human cell line derived from B cells of healthy volunteer. Transformed by EB virus. TKG0616(Deposited from Tohoku Univ.)."
+obo:CLO_0051023
+  D "A immortal human blood cell line cell that has the characteristics: Human cell line derived from erythroblastic leukemia."
+obo:CLO_0051021
+  D "A immortal human blood cell line cell that has the characteristics: Human cell line derived from B cells of Xeroderma pigmentosum (XP) patient. Transformed by EB virus. TKG0314(Deposited from Tohoku Univ.)."
+obo:CLO_0051014
+  D "A immortal human blood cell line cell that has the characteristics: Human cell line derived from B cells of healthy volunteer. Transformed by EB virus. RCB2083 is derived from the same patient. TKG0634(TKG0499)(Deposited from Tohoku Univ.)."
+obo:CLO_0051024
+  D "A immortal human blood cell line cell that has the characteristics: Rat cell line derived from basophilic leukemia cells. TKG0321 (Deposited from Tohoku Univ.)."
+obo:CLO_0051001
+  D "A immortal human blood cell line cell that has the characteristics: Human T cell leukemia. IL-2 receptor (-). Progeny were cured by Treatments with BM Cycline and MC210. TKG0209 (Deposited from Tohoku Univ.)."
+obo:CLO_0051002
+  D "A immortal human blood cell line cell that has the characteristics: Human cell line derived from basophilic leukemia cells. Progeny were cured by Treatments with BM Cycline and MC210. KG0304 (Deposited from Tohoku Univ.)."
+obo:CLO_0008321
+  D "An experimental lymphocytic leukemia originally induced in DBA/2 mice by painting with methylcholanthrene."
+obo:CLO_0051420
+  D "A immortal mouse blood cell line cell that has the characteristics: Secrete growth factors for hemopoietic stem cells"
+obo:CLO_0051422
+  D "A immortal mouse blood cell line cell that has the characteristics: Spontaneouly differentiated cell line derived from M1. Non-tumorigenic."
+obo:CLO_0051421
+  D "A immortal mouse blood cell line cell that has the characteristics: IL-3 dependent pro B cell line.　<a href='http://www.brc.riken.go.jp/lab/cell/english/rcb0805_announce.shtml'>Information<\/a>"
+obo:CLO_0000153
+  D "a immortal hematopoietic lineage restricted progenitor cell line that is derived from pro-B cell"
+obo:CLO_0000932
+  D "An immortal leukocyte cell line cell that derives from carp."
+obo:CLO_0000103
+  D "a immortal leukocyte cell line that is derived from dendritic cell"
+obo:CLO_0000666
+  D "An immortal leukocyte cell line cell that derives from marmoset."
+obo:CLO_0000107
+  D "a immortal leukocyte cell line that is derived from nongranular leukocyte"
+obo:CLO_0000104
+  D "a immortal dendritic cell line that is derived from Langerhans cell"
+obo:CLO_0050227
+  D "A immortal dendritic cell line cell that has the characteristics: Folicular dendritic cells derived from pituitary gland of temperature-sensitive T antigen transgenic mouse."
+obo:CLO_0000108
+  D "a immortal nongranular leukocyte cell line that is derived from lymphocyte"
+obo:CLO_0000106
+  D "a immortal myeloid leukocyte cell line that is derived from monocyte"
+obo:CLO_0000119
+  D "a immortal lymphocyte cell line that is derived from B cell"
+obo:CLO_0000468
+  D "An immortal lymphocyte cell line cell that derives from human."
+obo:CLO_0000492
+  D "An immortal lymphocyte cell line cell that derives from mouse."
+obo:CLO_0000121
+  D "a immortal lymphocyte cell line that is derived from natural killer cell"
+obo:CLO_0000109
+  D "a immortal lymphocyte cell line that is derived from T cell"
+obo:CLO_0000577
+  D "An immortal lymphocyte cell line cell that derives from turkey."
+obo:CLO_0000737
+  D "An immortal B cell line cell that derives from chicken."
+obo:CLO_0000652
+  D "An immortal B cell line cell that derives from human."
+obo:CLO_0000933
+  D "An immortal B cell line cell that derives from human."
+obo:CLO_0000180
+  D "An immortal B cell line cell that derives from peripheral vein."
+obo:CLO_0000120
+  D "a immortal B cell line that is derived from precursor B cell"
+obo:CLO_0051533
+  D "A immortal chicken B cell line cell that has the characteristics: IL-5 dependent early B-cell line. Also grows on IL-3. The population contain non-IL-5-dependent cell"
+obo:CLO_0051524
+  D "A immortal chicken B cell line cell that has the characteristics: Chicken B cell line transformed by avian leukosis virus. c-myc and IgM expressing."
+obo:CLO_0051472
+  D "A immortal chicken B cell line cell that has the characteristics: SHIP deficient DT40 cells"
+obo:CLO_0051460
+  D "A immortal chicken B cell line cell that has the characteristics: SHP1 deficient DT40 cells"
+obo:CLO_0051504
+  D "A immortal chicken B cell line cell that has the characteristics: IP3R(type1,type2,type3) deficient DT40 cells"
+obo:CLO_0051476
+  D "A immortal chicken B cell line cell that has the characteristics: Btk deficient DT40 cells"
+obo:CLO_0051477
+  D "A immortal chicken B cell line cell that has the characteristics: PLC-γ2 deficient DT40 cells"
+obo:CLO_0051478
+  D "A immortal chicken B cell line cell that has the characteristics: Syk deficient DT40 cells"
+obo:CLO_0051479
+  D "A immortal chicken B cell line cell that has the characteristics: Lyn deficient DT40 cells"
+obo:CLO_0051480
+  D "A immortal chicken B cell line cell that has the characteristics: Grap deficient DT40 cells"
+obo:CLO_0051473
+  D "A immortal chicken B cell line cell that has the characteristics: Grb2 deficient DT40 cells"
+obo:CLO_0051497
+  D "A immortal chicken B cell line cell that has the characteristics: Lyn and Sky deficient DT40 cells"
+obo:CLO_0051474
+  D "A immortal chicken B cell line cell that has the characteristics: SHP1 and SHP2 deficient DT40 cells"
+obo:CLO_0051485
+  D "A immortal chicken B cell line cell that has the characteristics: SHP2 deficient DT40 cells"
+obo:CLO_0051486
+  D "A immortal chicken B cell line cell that has the characteristics: Shc deficient DT40 cells"
+obo:CLO_0051487
+  D "A immortal chicken B cell line cell that has the characteristics: BLNK deficient DT40 cells"
+obo:CLO_0051498
+  D "A immortal chicken B cell line cell that has the characteristics: DNA PK gene deleted DT40 (chicken B cell line)."
+obo:CLO_0051461
+  D "A immortal chicken B cell line cell that has the characteristics: Ku70 gene deleted DT40 (chicken B cell line)."
+obo:CLO_0051462
+  D "A immortal chicken B cell line cell that has the characteristics: Rad51B gene deleted DT40 (chicken B cell line)."
+obo:CLO_0051463
+  D "A immortal chicken B cell line cell that has the characteristics: Rad51C gene deleted DT40 (chicken B cell line)."
+obo:CLO_0051464
+  D "A immortal chicken B cell line cell that has the characteristics: Rad51D gene deleted DT40 (chicken B cell line)."
+obo:CLO_0051465
+  D "A immortal chicken B cell line cell that has the characteristics: XRCC2 gene deleted DT40 (chicken B cell line)."
+obo:CLO_0051470
+  D "A immortal chicken B cell line cell that has the characteristics: XRCC3 gene deleted DT40 (chicken B cell line)."
+obo:CLO_0051466
+  D "A immortal chicken B cell line cell that has the characteristics: Rad52 gene deleted DT40 (chicken B cell line)."
+obo:CLO_0051468
+  D "A immortal chicken B cell line cell that has the characteristics: Rad54 gene deleted DT40 (chicken B cell line)."
+obo:CLO_0051502
+  D "A immortal chicken B cell line cell that has the characteristics: Mre11 gene deleted DT40 (chicken B cell line), subclone of RCB1630."
+obo:CLO_0051503
+  D "A immortal chicken B cell line cell that has the characteristics: Mre11 gene deleted DT40 (chicken B cell line), subclone of RCB1629."
+obo:CLO_0051499
+  D "A immortal chicken B cell line cell that has the characteristics: Rad51 gene deleted and human Rad51 gene inserted DT40 (chicken B cell line)."
+obo:CLO_0051469
+  D "A immortal chicken B cell line cell that has the characteristics: Ku70 and Rad54B gene double-deleted DT40 (chicken B cells)."
+obo:CLO_0051530
+  D "A immortal chicken B cell line cell that has the characteristics: Mre11 and Ku70 gene double-deleted DT40 (chicken B cells)."
+obo:CLO_0051467
+  D "A immortal chicken B cell line cell that has the characteristics: Rad54 and Rad54B gene double-deleted DT40 (chicken B cells)."
+obo:CLO_0051493
+  D "A immortal chicken B cell line cell that has the characteristics: ATM gene deleted DT40 (chicken B cells)."
+obo:CLO_0051500
+  D "A immortal chicken B cell line cell that has the characteristics: ATM and Ku70 gene double-deleted DT40 (chicken B cells)."
+obo:CLO_0051494
+  D "A immortal chicken B cell line cell that has the characteristics: ATM and Rad54 gene double-deleted DT40 (chicken B cells). Inducible expression of human Rad54 is possible."
+obo:CLO_0051492
+  D "A immortal chicken B cell line cell that has the characteristics: Rad54 gene deleted DT40 (chicken B cells). Inducible expression of human Rad54 is possible."
+obo:CLO_0051488
+  D "A immortal chicken B cell line cell that has the characteristics: Cbl deficient DT40 cells"
+obo:CLO_0051508
+  D "A immortal chicken B cell line cell that has the characteristics: Rad54 and Ku70 gene double-deleted DT40 (chicken B cells)."
+obo:CLO_0051475
+  D "A immortal chicken B cell line cell that has the characteristics: BLNK and Syk deficient DT40 cells"
+obo:CLO_0051489
+  D "A immortal chicken B cell line cell that has the characteristics: BCAP deficient DT40 cells"
+obo:CLO_0051501
+  D "A immortal chicken B cell line cell that has the characteristics: IP3R type1 and IP3R type2 deficient DT40 cells"
+obo:CLO_0051481
+  D "A immortal chicken B cell line cell that has the characteristics: IP3R type1 and IP3R type3 deficient DT40 cells"
+obo:CLO_0051482
+  D "A immortal chicken B cell line cell that has the characteristics: IP3R type2and IP3R type3 deficient DT40"
+obo:CLO_0051505
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 (chicken B cell line), lacking Nbs1 expression."
+obo:CLO_0051506
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking DinB expression."
+obo:CLO_0051507
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking Rad18 expression."
+obo:CLO_0051516
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking both of DNAPK and Ku70 expression."
+obo:CLO_0051509
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking Rev3 expression."
+obo:CLO_0051528
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking ligase IV expression."
+obo:CLO_0051510
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking both of Rad52 and XRCC3 expression."
+obo:CLO_0051531
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, which lacks XRCC3 inducibly by tamoxifen."
+obo:CLO_0051532
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, which lacks XRCC3 inducibly by tamoxifen."
+obo:CLO_0051517
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking XRCC3 only in one allele."
+obo:CLO_0051519
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking both of Rad18 and XPA expression."
+obo:CLO_0051520
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking both of Rad18 and DinB expression."
+obo:CLO_0051490
+  D "A immortal chicken B cell line cell that has the characteristics: Vav3 deficient DT40 cells"
+obo:CLO_0051491
+  D "A immortal chicken B cell line cell that has the characteristics: PI3Kp110α deficient DT40 cells"
+obo:CLO_0051518
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking BLM (Bloom syndrome gene) expression."
+obo:CLO_0051523
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking WRN (Werner syndrome gene) expression."
+obo:CLO_0051521
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking both of WRN (Werner syndrome gene) and BLM (Bloom syndrome gene) expression."
+obo:CLO_0051522
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking both of DinB and XPA expression."
+obo:CLO_0051484
+  D "A immortal chicken B cell line cell that has the characteristics: TRP1 deficient DT40"
+obo:CLO_0051483
+  D "A immortal chicken B cell line cell that has the characteristics: Grb2and Grap deficient DT40 cells"
+obo:CLO_0051495
+  D "A immortal chicken B cell line cell that has the characteristics: Endogenous Ubc9 deficient DT40 cells but expressing Ubc9 exogenously"
+obo:CLO_0051471
+  D "A immortal chicken B cell line cell that has the characteristics: BLNK and Grb2 deficient DT40 cells"
+obo:CLO_0051496
+  D "A immortal chicken B cell line cell that has the characteristics: Ras GRP1 deficient DT40 cells"
+obo:CLO_0051512
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking RasGRP3 expression."
+obo:CLO_0051511
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking both of RasGRP1 and RasGRP3 expression."
+obo:CLO_0051513
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking Sos1 expression."
+obo:CLO_0051514
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking Sos2 expression."
+obo:CLO_0051515
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking both Sos1 and Sos2 expression."
+obo:CLO_0051525
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking CARMA1 expression."
+obo:CLO_0051526
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking PKC-β expression."
+obo:CLO_0051527
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking TAK1 expression."
+obo:CLO_0051529
+  D "A immortal chicken B cell line cell that has the characteristics: Subline of DT40 cell line, lacking STIM1 expression."
+obo:CLO_0051212
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06, B*39:01 B*40:02, C*03:04  C*07:02, DRB1*08:02 DRB1*14:06, DQB1*03:01 DQB1*03:02, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051213
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*31:01 A*33:03, B*40:03 B*44:03, C*03:04 C*14:03, DRB1*04:05 DRB1*08:03, DQB1*04:01 DQB1*06:01, DPB1*05:01"
+obo:CLO_0051214
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*11:01 A*26:03, B*40:01 B*55:02, C*01:02 C*03:03, DRB1*04:05 DRB1*11:01, DQB1*03:01 DQB1*04:01, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051215
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*26:02, B*07:02 B*13:01, C*03:04 C*07:02, DRB1*01:01 DRB1*12:02, DQB1*03:01 DQB1*05:01, DPB1*02:02 DPB1*04:02"
+obo:CLO_0051216
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*26:01, B*48:01 B*52:01, C*08:03 C*12:02, DRB1*14:07 DRB1*15:02, DQB1*05:02 DQB1*06:01, DPB1*09:01 DPB1*14:01"
+obo:CLO_0051217
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*26:03, B*15:01 B*59:01, C*01:02 C*03:03, DRB1*04:05 DRB1*15:01, DQB1*04:01 DQB1*06:02, DPB1*02:01 DPB1*04:02"
+obo:CLO_0051218
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02, B*13:01 B*40:02, C*03:04 , DRB1*04:10 DRB1*12:02, DQB1*03:01 DQB1*04:02, DPB1*05:01 DPB1*13:01"
+obo:CLO_0051219
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*02:10, B*39:01 B*40:06, C*07:02 C*08:01, DRB1*14:03 DRB1*15:01, DQB1*03:01 DQB1*06:02, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051220
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02, B*52:01, C*12:02, DRB1*15:01 DRB1*15:02, DQB1*06:01 DQB1*06:02, DPB1*02:01 DPB1*14:01"
+obo:CLO_0051221
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*26:01, B*07:02 B*15:01, C*03:04 C*07:02, DRB1*04:05 DRB1*14:01, DQB1*04:01 DQB1*05:02, DPB1*05:01"
+obo:CLO_0051222
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*11:01 A*24:02, B*54:01 B*67:01, C*01:02 C*07:02, DRB1*04:05 DRB1*15:02, DQB1*04:01 DQB1*06:01, DPB1*05:01 DPB1*09:01"
+obo:CLO_0051223
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*26:03, B*15:01 B*40:06, C*03:03 C*15:02, DRB1*08:02 DRB1*09:01, DQB1*03:03 DQB1*04:02, DPB1*02:01"
+obo:CLO_0051224
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*11:01 A*24:02, B*54:01, C*01:02, DRB1*04:05, DQB1*04:01, DPB1*05:01"
+obo:CLO_0051225
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*24:02, B*13:01 B*51:01, C*03:04 C*15:02, DRB1*04:01 DRB1*12:02, DQB1*03:01, DPB1*04:01 DPB1*05:01"
+obo:CLO_0051226
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*26:03, B*15:01 B*51:01, C*03:03 C*14:02, DRB1*11:01 DRB1*15:02, DQB1*03:01 DQB1*06:01, DPB1*09:01 DPB1*13:01"
+obo:CLO_0051227
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02, B*35:01 B*51:01, C*04:01 C*14:02, DRB1*04:05 DRB1*09:01, DQB1*03:03 DQB1*04:01, DPB1*02:01 DPB1*04:02"
+obo:CLO_0051228
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*24:02, B*07:02 B*35:01, C*03:03 C*07:02, DRB1*01:01 DRB1*08:02, DQB1*04:02 DQB1*05:01, DPB1*02:01 DPB1*04:02"
+obo:CLO_0051229
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*26:01, B*40:01 B*40:03, C*03:04, DRB1*04:05 DRB1*13:01, DQB1*04:01 DQB1*06:03, DPB1*05:01"
+obo:CLO_0051230
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*02:07, B*07:02 B*46:01, C*01:02 C*07:02, DRB1*01:01 DRB1*09:01, DQB1*03:03 DQB1*05:01, DPB1*03:01 DPB1*05:01"
+obo:CLO_0051231
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*02:07, B*40:01, B*46:01, C*01:02 C*03:04, DRB1*08:03 DRB1*15:01, DQB1*06:01 DQB1*06:02, DPB1*02:02 DPB1*05:01"
+obo:CLO_0051232
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02, B*40:02 B*59:01, C*01:02  C*03:03, DRB1*04:01 DRB1*13:02, DQB1*03:01 DQB1*06:04, DPB1*04:01 DPB1*05:01"
+obo:CLO_0051233
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*24:02, B*46:01 B*55:02, C*01:02, DRB1*08:03, DRB1*15:01, DQB1*06:01 DQB1*06:02, DPB1*02:01 DPB1*02:02"
+obo:CLO_0051234
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*33:03, B*44:03 B*59:01, C*01:02 C*14:03, DRB1*04:05  DRB1*13:02, DQB1*04:01 DQB1*06:04, DPB1*04:01 DPB1*05:01"
+obo:CLO_0051235
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02, B*51:01 B*52:01, C*12:02 C*14:02, DRB1*14:03 DRB1*15:02, DQB1*03:01 DQB1*06:01, DPB1*05:01 DPB1*09:01"
+obo:CLO_0051236
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02, B*35:01 B*54:01, C*01:02  C*08:01, DRB1*04:05 DRB1*15:02, DQB1*04:01 DQB1*06:01, DPB1*03:01 DPB1*09:01"
+obo:CLO_0051237
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*26:02 A*33:03, B*40:06 B*44:03, C*08:01 C*14:03, DRB1*08:02  DRB1*09:01, DQB1*03:02 DQB1*03:03, DPB1*03:01 DPB1*05:01"
+obo:CLO_0051238
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*31:01, B*40:02 B*51:01, C*03:04 C*14:02, DRB1*08:02 DRB1*14:03, DQB1*03:01 DQB1*03:02, DPB1*05:01"
+obo:CLO_0051343
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*33:03, B*35:01 B*44:03, C*03:03 C*14:03, DRB1*04:05 DRB1*13:02, DQB1*04:01 DQB1*06:04, DPB1*02:01 DPB1*04:01"
+obo:CLO_0051342
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*11:01 A*33:03, B*35:01 B*44:03, C*03:03 C*14:03, DRB1*04:05  DRB1*13:02, DQB1*03:02 DQB1*06:04, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051239
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*11:01 A*24:02, B*39:01 B*48:01, C*03:03 C*07:02, DRB1*08:03 DRB1*14:01, DQB1*05:03 DQB1*06:01, DPB1*04:02 DPB1*05:01"
+obo:CLO_0051240
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*31:01, B*15:11, C*03:03, DRB1*09:01, DQB1*03:03, DPB1*02:01 DPB1*09:01"
+obo:CLO_0051241
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*26:03 A*33:03, B*15:01 B*44:03, C*03:03 C*14:03, DRB1*13:02 DRB1*14:06, DQB1*03:01 DQB1*06:04, DPB1*04:01 DPB1*05:01"
+obo:CLO_0051242
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*24:02, B*35:01 B*52:01, C*08:01 C*12:02, DRB1*04:05 DRB1*15:02, DQB1*04:01 DQB1*06:01, DPB1*04:02 DPB1*09:01"
+obo:CLO_0051243
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*33:03, B*39:01 B*44:03, C*07:02 C*14:03, DRB1*04:05 DRB1*13:02, DQB1*04:01 DQB1*06:04, DPB1*03:01 DPB1*04:01"
+obo:CLO_0051190
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Breast cancer patient."
+obo:CLO_0051244
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02, B*35:01 B*52:01, C*03:03  C*12:02, DRB1*12:01 DRB1*15:02, DQB1*03:01 DQB1*06:01 , DPB1*05:01 DPB1*06:01"
+obo:CLO_0051245
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*31:01, B*40:01 B*52:01, C*03:04 C*12:02, DRB1*04:05 DRB1*15:02, DQB1*04:01 DQB1*06:01, DPB1*05:01 DPB1*09:01"
+obo:CLO_0051246
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*24:02, B*07:02 B*56:01, C*04:01 C*07:02, DRB1*01:01 DRB1*09:01, DQB1*03:03 DQB1*05:01, DPB1*04:02 DPB1*05:01"
+obo:CLO_0051247
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*26:01, B*39:04 B*54:01, C*01:02 C*07:02, DRB1*04:03 DRB1*04:05, DQB1*03:02 DQB1*04:01, DPB1*05:01"
+obo:CLO_0051248
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*24:02, B*39:01 B*52:01, C*07:02 C*12:02, DRB1*08:02 DRB1*15:02, DQB1*04:02 DQB1*06:01, DPB1*02:01 DPB1*09:01"
+obo:CLO_0051249
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*31:01, B*07:02 B*51:01, C*07:02 C*14:02, DRB1*01:01 DRB1*09:01, DQB1*03:03 DQB1*05:01, DPB1*04:02 DPB1*05:01"
+obo:CLO_0051191
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Breast cancer patient."
+obo:CLO_0051257
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*11:01 A*24:02, B*07:02 B*48:01, C*07:02 C*08:01, DRB1*01:01 DRB1*09:01, DQB1*03:01 DQB1*05:01, DPB1*04:02 DPB1*13:01"
+obo:CLO_0051192
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Breast cancer patient."
+obo:CLO_0051250
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*33:03, B*40:02 B*44:03, C*03:04 C*14:03, DRB1*08:03 DRB1*13:02, DQB1*06:01 DQB1*06:04, DPB1*04:01 DPB1*05:01"
+obo:CLO_0051251
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*33:03, B*44:03 B*52:01, C*12:02 C*14:03, DRB1*13:02 DRB1*15:01, DQB1*06:02 DQB1*06:04, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051353
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Breast cancer patient."
+obo:CLO_0051252
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*31:01, B*07:02 B*55:02, C*03:03 C*07:02, DRB1*01:01  DRB1*09:01, DQB1*03:03 DQB1*05:01, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051253
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02, B*52:01 B*54:01, C*01:02  C*12:02, DRB1*04:05 DRB1*15:02, DQB1*04:01 DQB1*06:01, DPB1*05:01 DPB1*09:01"
+obo:CLO_0051254
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*02:07, B*15:18 B*46:01, C*01:03 C*08:01, DRB1*09:01 DRB1*12:01, DQB1*03:01 DQB1*03:03, DPB1*05:01"
+obo:CLO_0051255
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*02:07, B*15:18 B*46:01, C*01:03 C*08:01, DRB1*09:01 DRB1*12:01, DQB1*03:01 DQB1*03:03, DPB1*05:01"
+obo:CLO_0051347
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02, B*07:02 B*13:01, C*03:03  C*07:02, DRB1*01:01 DRB1*12:02, DQB1*03:01 DQB1*05:01 , DPB1*02:01 DPB1*04:02"
+obo:CLO_0051354
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051256
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*31:01, B*54:01, C*01:02 C*03:04, DRB1*04:05 DRB1*14:01, DQB1*04:01 DQB1*05:02,  DPB1*02:01 DPB1*05:01"
+obo:CLO_0051204
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051258
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*11:01 B*15:01 B*54:01, C*01:02 C*04:01, DRB1*04:05 DRB1*04:06, DQB1*03:02 DQB1*04:01, DPB1*02:01 DPB1*03:01"
+obo:CLO_0051259
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*26:01, B*48:01 B*59:01, C*01:02 C*08:03, DRB1*04:05 DRB1*09:01, DQB1*03:03 DQB1*04:01, DPB1*02:01 DPB1*19:01"
+obo:CLO_0051367
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051260
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*24:02, B*51:01 B*54:01, C*01:02 C*14:02, DRB1*04:05 DRB1*11:01, DQB1*03:01 DQB1*04:01, DPB1*02:01DPB1*05:01"
+obo:CLO_0051261
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*33:03, B*44:03 B*54:01, C*01:02 C*14:03, DRB1*04:05 DRB1*08:03, DQB1*04:01 DQB1*06:01, DPB1*05:01"
+obo:CLO_0051193
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Breast cancer patient."
+obo:CLO_0051339
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02, B*15:07 B*15:18, C*03:03  C*07:0401, DRB1*04:01 DRB1*04:03, DQB1*03:01  DQB1*03:02, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051262
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02, B*35:01 B*52:01, C*12:02 C*15:02, DRB1*14:06 DRB1*15:02, DQB1*03:01 DQB1*06:01, DPB1*05:01 DPB1*09:01"
+obo:CLO_0051265
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:10 A*24:02, B*40:06 B*52:01, C*08:01 C*12:02, DRB1*14:05 DRB1*15:02, DQB1*05:03 DQB1*06:01, DPB1*02:02 DPB1*09:01"
+obo:CLO_0051263
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*33:03, B*44:03 B*56:01, C*04:01 C*14:03, DRB1*04:05 DRB1*09:01, DQB1*03:03 DQB1*04:01, DPB1*02:02 DPB1*05:01"
+obo:CLO_0051264
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*01:01 A*26:01, B*37:01 B*39:01, C*06:02 C*07:02, DRB1*01:01 DRB1*10:01, DQB1*05:01, DPB1*02:01 DPB1*04:02"
+obo:CLO_0051364
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051266
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*26:01, B*35:01 B*40:02, C*03:04 C*08:01, DRB1*04:10 DRB1*09:01, DQB1*03:03 DQB1*04:02, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051205
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051355
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Breast cancer patient."
+obo:CLO_0051267
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*31:01, B*07:02 B*56:01, C*04:01 C*07:02, DRB1*01:01 DRB1*04:05, DQB1*04:01 DQB1*05:01, DPB1*04:02 DPB1*05:01"
+obo:CLO_0051194
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Breast cancer patient."
+obo:CLO_0051268
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*33:03, B*07:02 B*44:03, C*07:02 C*14:03, DRB1*01:01 DRB1*13:02, DQB1*05:01  DQB1*06:04, DPB1*04:01 DPB1*04:02"
+obo:CLO_0051269
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*24:02, B*46:01 B*67:01, C*01:02 C*07:02, DRB1*08:03 DRB1*09:01, DQB1*03:03 DQB1*06:01, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051270
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*26:01, B*40:02 B*54:01, C*01:02 C*03:04, DRB1*09:01  DRB1*15:01, DQB1*03:03 DQB1*06:02, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051271
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*31:01 A*33:03, B*48:01 B*58:01, C*03:02 C*08:01, DRB1*09:01  DRB1*13:02, DQB1*03:03 DQB1*06:09, DPB1*03:01 DPB1*04:02"
+obo:CLO_0051272
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*26:02, B*07:02 B*52:01, C*07:02 C*12:02, DRB1*01:01 DRB1*15:02, DQB1*05:01 DQB1*06:01, DPB1*04:02 DPB1*09:01"
+obo:CLO_0051273
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*24:02, B*40:01 B*40:06, C*07:02 C*08:01, DRB1*04:06  DRB1*09:01, DQB1*03:02 DQB1*03:03, DPB1*02:01"
+obo:CLO_0051274
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA"
+obo:CLO_0051275
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02, B*15:18 B*52:01, C*08:01  C*12:02, DRB1*04:05 DRB1*15:02, DQB1*04:01 DQB1*06:01, DPB1*02:01 DPB1*09:01"
+obo:CLO_0051335
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus"
+obo:CLO_0051276
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*26:01, B*15:01 B*52:01, C*12:02 C*15:02, DRB1*09:01 DRB1*15:02, DQB1*03:03 DQB1*06:01, DPB1*03:01 DPB1*09:01"
+obo:CLO_0051344
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Cell growth is slow. HLA A*24:02 A*26:01, B*15:01 B*51:01, C*03:04 C*04:01, DRB1*04:06  DRB1*14:54, DQB1*03:02 DQB1*05:03, DPB1*02:01"
+obo:CLO_0051366
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051277
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*11:01 A*24:02, B*40:01 B*67:01, C*03:04 C*07:02, DRB1*12:01 DRB1*15:01, DQB1*03:01 DQB1*06:02, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051278
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*33:03, B*15:18 B*44:03, C*08:01 C*14:03, DRB1*04:03 DRB1*13:02, DQB1*03:02 DQB1*06:04, DPB1*04:01 DPB1*05:01"
+obo:CLO_0051279
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*11:01 A*24:02, B*39:01 B*55:02, C*01:02 C*07:02, DRB1*04:05 DRB1*08:03, DQB1*04:01 DQB1*06:01, DPB1*05:01"
+obo:CLO_0051280
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*24:02, B*40:02 B*59:01, C*01:02 C*03:04, DRB1*04:05 DRB1*09:01, DQB1*03:03 DQB1*04:01, DPB1*04:02 DPB1*05:01"
+obo:CLO_0051281
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*33:03, B*35:01 B*44:03, C*03:03 C*14:03, DRB1*04:05 DRB1*15:01, DQB1*04:01 DQB1*06:02, DPB1*05:01"
+obo:CLO_0051282
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*11:01 A*24:02, B*54:01 B*59:01, C*01:02, DRB1*04:05 DQB1*04:01, DPB1*04:02 DPB1*05:01"
+obo:CLO_0051332
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051283
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*24:02, B*39:04 B*40:02, C*03:04 C*07:02, DRB1*04:06 DRB1*09:01, DQB1*03:02 DQB1*03:03, DPB1*02:01"
+obo:CLO_0051284
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:20 A*33:03, B*44:03 B*51:01, C*14:02 C*14:03, DRB1*09:01  DRB1*12:01, DQB1*03:02 DQB1*03:03, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051285
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*24:02, B*15:28 B*52:01, C*03:03 C*12:02, DRB1*04:05  DRB1*15:02, DQB1*04:01 DQB1*06:01, DPB1*05:01 DPB1*09:01"
+obo:CLO_0051348
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:07 A*24:02, B*46:01 B*52:01, C*01:02 C*12:02, DRB1*08:03 DRB1*15:02, DQB1*06:01, DPB1*02:01 DPB1*09:01"
+obo:CLO_0051286
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*24:02, B*15:01 B*52:01, C*07:02 C*12:02, DRB1*15:01 DRB1*15:02, DQB1*06:01 DQB1*06:02, DPB1*02:01 DPB1*09:01"
+obo:CLO_0051338
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*31:01, B*52:01 B*59:01, C*01:02 C*12:02, DRB1*04:05 DRB1*15:02, DQB1*04:01 DQB1*06:01, DPB1*04:02 DPB1*09:01"
+obo:CLO_0051287
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*01:01 A*11:01, B*07:02 B*54:01, C*01:02 C*07:02, DRB1*01:01 DRB1*04:05, DQB1*03:03 DQB1*05:01, DPB1*04:02 DPB1*05:01"
+obo:CLO_0051195
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Breast cancer patient."
+obo:CLO_0051288
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*24:02, B*07:02 X, C*03:03 C*07:02, DRB1*01:01 DRB1*09:01, DQB1*03:03 DQB1*05:01, DPB1*04:02 DPB1*05:01"
+obo:CLO_0051289
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:18 A*33:03, B*44:03 B*46:01, C*01:02 C*14:03, DRB1*04:05 DRB1*08:03, DQB1*04:01 DQB1*06:01, DPB1*02:01 DPB1*02:02"
+obo:CLO_0051290
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*11:01, B*15:01 B*35:01, C*03:03 C*04:01, DRB1*04:06 DRB1*15:01, DQB1*03:02 DQB1*06:02, DPB1*03:01 DPB1*05:01"
+obo:CLO_0051363
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051291
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*24:02, B*54:01 B*55:02, C*01:02, DRB1*09:01 DRB1*11:01, DQB1*03:01 DQB1*03:03, DPB1*05:01 DPB1*13:01"
+obo:CLO_0051292
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*24:02, B*39:02 B*40:06, C*07:02 C*08:01, DRB1*09:01  DRB1*12:01, DQB1*03:01 DQB1*03:03, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051346
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*02:07. B*40:01 B*46:01, C*01:02 C*15:02, DRB1*08:03 DRB1*14:05, DQB1*05:03 DQB1*06:01, DPB1*05:01"
+obo:CLO_0051293
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*26:03 A*31:01, B*35:01 B*51:01, C*03:03 C*14:02, DRB1*04:03 DRB1*15:02, DQB1*03:02 DQB1*06:01, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051294
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*02:06 B*07:02 B*40:01, C*03:03 C*07:02, DRB1*01:01 DRB1*08:03, DQB1*05:01  DQB1*06:01, DPB1*03:01 DPB1*05:01"
+obo:CLO_0051295
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*31:01, B*15:01 B*54:01, C*01:02 C*03:03, DRB1*04:05 DRB1*15:02, DQB1*04:01 DQB1*06:01, DPB1*05:01 DPB1*09:01"
+obo:CLO_0051296
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*11:01 A*33:03, B*40:01 B*44:03, C*03:04 C*14:03, DRB1*13:02 DRB1*14:01, DQB1*05:03 DQB1*06:04, DPB1*04:01 DPB1*05:01"
+obo:CLO_0051297
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*24:02, B*15:01 B*39:01, C*04:01 C*07:02, DRB1*04:06 DRB1*12:01, DQB1*03:01 DQB1*03:02, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051298
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02, B*35:01 B*44:02, C*05:01 C*08:01, DRB1*04:10 DRB1*12:01, DQB1*03:03 DQB1*04:02, DPB1*02:01 DPB1*09:01"
+obo:CLO_0051299
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*31:01, B*40:06 B*44:03, C*03:04 C*14:03, DRB1*09:01 DRB1*13:02, DQB1*03:03 DQB1*06:04, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051300
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*33:03, B*15:01 B*44:03, C*03:03 C*14:03, DRB1*08:03 DRB1*14:06, DQB1*03:01 DQB1*06:01, DPB1*03:01 DPB1*05:01"
+obo:CLO_0051301
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*11:01 A*24:02, B*52:01 B*54:01, C*01:02 C*12:02, DRB1*08:03 DRB1*15:01, DQB1*06:01 DQB1*06:02, DPB1*05:01 DPB1*14:01"
+obo:CLO_0051196
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Breast cancer patient."
+obo:CLO_0051356
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051302
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*11:01, B*48:01 B*51:01, C*08:01 C*15:02, DRB1*09:01, DQB1*03:03 , DPB1*04:02 DPB1*05:01"
+obo:CLO_0051303
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*31:01 A*33:03, B*44:03 B*51:01, C*14:02 C*14:03, DRB1*13:02 DRB1*14:03, DQB1*03:01 DQB1*06:04, DPB1*02:01 DPB1*04:01"
+obo:CLO_0051206
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051304
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*33:03, B*07:02 B*44:03, C*07:02 C*14:03, DRB1*01:01 DRB1*13:02, DQB1*05:01 DQB1*06:04, DPB1*04:02 DPB1*05:01"
+obo:CLO_0051305
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02, B*52:01, C*12:02, DRB1*15:02, DQB1*06:01, DPB1*02:01 DPB1*04:02"
+obo:CLO_0051306
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*24:02, B*44:03 B*52:01, C*12:02 C*14:03, DRB1*04:06 DRB1*13:02, DQB1*03:02 DQB1*06:04, DPB1*04:01 DPB1*05:01"
+obo:CLO_0051350
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*24:02, B*15:27 B*35:01, C*03:03 C*04:01, DRB1*04:03 DRB1*12:01, DQB1*03:01 DQB1*03:02, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051307
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*02:06, B*35:01 B*39:01, C*03:03 C*07:02, DRB1*09:01 DRB1*14:06, DQB1*03:01 DQB1*03:03, DPB1*05:01"
+obo:CLO_0051308
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*31:01, B*40:02 B*44:03, C*03:04 C*14:03, DRB1*09:01 DRB1*13:02, DQB1*03:03 DQB1*06:04, DPB1*04:01 DPB1*05:01"
+obo:CLO_0051309
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02, B*46:01 B*54:01, C*01:02 , DRB1*04:05 DRB1*08:03, DQB1*04:01 DQB1*06:01, DPB1*05:01"
+obo:CLO_0051310
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*26:01, B*35:01 B*52:01, C*03:03  C*12:02, DRB1*15:01 DRB1*15:02, DQB1*06:01 DQB1*06:02, DPB1*02:01 DPB1*09:01"
+obo:CLO_0051197
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Breast cancer patient."
+obo:CLO_0051311
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*26:01 A*33:03, B*44:03 B*52:01, C*12:02 C*14:03, DRB1*13:02 DRB1*15:02, DQB1*06:01 DQB1*06:04, DPB1*04:01 DPB1*09:01"
+obo:CLO_0051312
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*31:01, B*51:01 B*52:01, C*12:02 C*14:02, DRB1*08:02 DRB1*15:02, DQB1*04:02 DQB1*06:01, DPB1*04:02 DPB1*09:01"
+obo:CLO_0051313
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*24:02, B*07:02 B*46:01, C*03:04 C*07:02, DRB1*01:01 DRB1*08:03, DQB1*05:01 DQB1*06:01, DPB1*04:02 DPB1*05:01"
+obo:CLO_0051207
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051208
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051314
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02, B*15:07 B*52:01, C*01:02  C*12:02, DRB1*04:03 DRB1*15:01, DQB1*03:02  DQB1*06:02, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051315
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*24:02, B*38:0201 B*51:01, C*07:02 C*14:02, DRB1*08:03 DRB1*09:01 , DQB1*03:01 DQB1*03:03, DPB1*05:01 DPB1*14:01"
+obo:CLO_0051198
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Breast cancer patient."
+obo:CLO_0051316
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*11:01 A*24:02, B*07:02 B*39:01, C*07:02, DRB1*01:01 DRB1*04:05, DQB1*04:01 DQB1*05:01, DPB1*05:01"
+obo:CLO_0051357
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Breast cancer patient."
+obo:CLO_0051351
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:53N A*26:01, B*39:01 B*54:01, C*01:02 C*07:02, DRB1*14:05 DRB1*15:01, DQB1*05:03 DQB1*06:02, DPB1*04:02 DPB1*05:01"
+obo:CLO_0051317
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*11:01  A*24:02, B*13:01 B*48:01, C*03:04 C*08:01, DRB1*09:01 DRB1*12:02, DQB1*03:01 DQB1*03:03, DPB1*02:01 DPB1*04:02"
+obo:CLO_0051345
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:07 A*24:20, B*46:01 B*55:02, C*01:02 C*07:02, DRB1*08:03 , DQB1*06:01, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051318
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*26:02, B*40:01 B*40:06, C*03:04 C*08:01, DRB1*04:05 DRB1*09:01, DQB1*03:03 DQB1*04:01, DPB1*04:01 DPB1*05:01"
+obo:CLO_0051209
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051319
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*26:01, B*40:02 B*51:02, C*03:04 C*08:01, DRB1*09:01 , DQB1*03:03, DPB1*02:01 DPB1*03:01"
+obo:CLO_0051320
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*01:01 A*02:01, B*15:01 B*40:06, C*06:02 C*08:01, DRB1*04:05 DRB1*09:01, DQB1*03:03 DQB1*04:01, DPB1*04:01 DPB1*04:02"
+obo:CLO_0051321
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*24:02, B*39:01 B*55:02, C*01:02 C*07:02, DRB1*04:10 DRB1*15:01, DQB1*04:02 DQB1*06:02, DPB1*02:02 DPB1*03:01"
+obo:CLO_0051199
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Breast cancer patient."
+obo:CLO_0051330
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*26:01 A*33:03, B*35:01 B*44:03, C*03:03 C*14:03, DRB1*04:01 DRB1*12:01, DQB1*03:01 DQB1*03:03, DPB1*05:01DPB1*14:01"
+obo:CLO_0051210
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051331
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*24:02, B*15:01 B*40:06, C*04:01 C*08:01, DRB1*04:06 DRB1*09:01, DQB1*03:02 DQB1*03:03, DPB1*05:01 X"
+obo:CLO_0051358
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051322
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*26:01, B*40:02 B*52:01, C*03:04 C*12:02, DRB1*08:02 DRB1*15:02, DQB1*03:02 DQB1*06:01, DPB1*02:01 DPB1*09:01"
+obo:CLO_0051359
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Breast cancer patient."
+obo:CLO_0051323
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*26:01, B*40:02 B*54:01, C*01:02 C*03:04, DRB1*01:01 DRB1*09:01, DQB1*03:03 DQB1*05:01, DPB1*05:01"
+obo:CLO_0051349
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:06 A*24:02, B*15:11 B*59:01, C*01:02 C*03:03, DRB1*04:05 DRB1*12:01, DQB1*03:01 DQB1*04:01, DPB1*02:02 DPB1*04:02"
+obo:CLO_0051360
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Breast cancer patient."
+obo:CLO_0051324
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*26:01, B*40:01 B*40:02, C*03:04 C*15:02, DRB1*08:03 DRB1*09:01, DQB1*03:03 DQB1*06:01, DPB1*04:01 DPB1*13:01"
+obo:CLO_0051361
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Breast cancer patient."
+obo:CLO_0051325
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*11:01, B*13:01 B*48:01 C*03:04 C*08:03, DRB1*12:02 DRB1*15:01, DQB1*03:01 , DPB1*02:01"
+obo:CLO_0051326
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*33:03, B*15:11 B*52:01, C*03:03 C*12:02, DRB1*09:01 DRB1*15:02, DQB1*03:03 DQB1*06:01, DPB1*05:01DPB1*09:01"
+obo:CLO_0051211
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051365
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051327
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*24:02, B*15:11 B*52:01, C*03:03 C*12:02, DRB1*14:54 DRB1*15:02, DQB1*03:01 DQB1*06:01, DPB1*05:01 DPB1*13:01"
+obo:CLO_0051352
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*24:02, B*39:01 B*48:01, C*07:02 C*08:01, DRB1*04:05 DRB1*11:01, DQB1*03:01 DQB1*04:01, DPB1*02:01 DPB1*02:02"
+obo:CLO_0051362
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. Breast cancer patient."
+obo:CLO_0051328
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*24:02 A*31:01, B*35:01 B*52:01, C*04:01 C*12:02, DRB1*09:01  DRB1*15:02, DQB1*03:03 DQB1*06:01, DPB1*02:01 DPB1*05:01"
+obo:CLO_0051329
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. HLA A*02:01 A*24:02, B*40:01 B*52:01, C*03:04 C*12:02, DRB1*04:05 DRB1*15:02, DQB1*04:01 DQB1*06:01, DPB1*02:01"
+obo:CLO_0051136
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051137
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051138
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051133
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051050
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051139
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051140
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051051
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051141
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051052
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051053
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051054
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051142
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051055
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051056
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051143
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051057
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051144
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051058
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051059
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051060
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051061
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051062
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051063
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051064
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051145
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051146
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051065
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051147
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus."
+obo:CLO_0051066
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051067
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051068
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051069
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051070
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051071
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051072
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051073
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051131
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051074
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051075
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051076
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051077
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051152
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051078
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051079
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051080
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051081
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051082
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051083
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051084
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051085
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051086
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051087
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051088
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051089
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051090
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051336
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051091
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051337
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051092
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051093
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051094
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051095
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051096
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051097
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051098
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051099
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051100
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051101
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051102
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051103
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051104
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051105
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051106
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051107
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051108
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051109
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051132
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051110
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051129
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051111
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051179
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America.　The two B cell lines HSC0087 (WY077) and HSC0091 (WYO071) have identical  similar STR patterns."
+obo:CLO_0051112
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051113
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051114
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051180
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America. The two B cell lines HSC0087 (WY077) and HSC0091 (WYO071) have identical  similar STR patterns."
+obo:CLO_0051115
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051116
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051117
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051118
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051119
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051123
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051122
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051120
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051121
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051130
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051124
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051125
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051126
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051127
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051135
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051333
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051334
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051134
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051128
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051157
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051148
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051149
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051150
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051151
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051153
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051154
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051155
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051156
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051158
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051159
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051160
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051164
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051161
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051162
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051163
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051166
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051165
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051167
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051168
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051169
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051170
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051171
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051175
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051172
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051173
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051340
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051174
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051341
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051176
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051178
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051182
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051177
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051183
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051184
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051181
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051185
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051186
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051200
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051201
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051187
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051188
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051202
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051189
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051203
+  D "A immortal human B cell line cell that has the characteristics: Human B lymphocytes transformed by Epstein-Barr Virus. This B cell lines derived from Mongoloid Minority Groups in South America."
+obo:CLO_0051048
+  D "A immortal human B cell line cell that has the characteristics: B lymphocytes isolated from a colon adenocarcinoma."
+obo:CLO_0051047
+  D "A immortal human B cell line cell that has the characteristics: B lymphocyte isolated from Japanese adenosquamous carcinoma."
+obo:CLO_0051049
+  D "A immortal human B cell line cell that has the characteristics: Human B cell-like cell line derived from colon adenocarcinoma tisuue."
+obo:CLO_0051004
+  D "A BALL-1 cell line that is stored in Japan RIKEN cell bank."
+obo:CLO_0051005
+  D "A BALL-1 cell line that is stored in Japan RIKEN cell bank. TKG0467 (Deposited from Tohoku Univ.)."
+obo:CLO_0051571
+  D "A immortal mouse B cell line cell that has the characteristics: Mouse cell line derived from B cell leukemia. TKG0435 (Deposited from Tohoku Univ.)."
+obo:CLO_0051570
+  D "A immortal mouse B cell line cell that has the characteristics: Mouse cell line derived from B cell lymphoma."
+obo:CLO_0000864
+  D "An immortal peripheral vein-derived B cell line cell that derives from agile gibbon."
+obo:CLO_0000836
+  D "An immortal peripheral vein-derived B cell line cell that derives from Bornean orangutan."
+obo:CLO_0000394
+  D "An immortal peripheral vein-derived B cell line cell that derives from chimpanzee."
+obo:CLO_0009796
+  D "An immortal peripheral vein-derived B cell line cell that derives from Geoffroy's marmoset."
+obo:CLO_0000374
+  D "An immortal peripheral vein-derived B cell line cell that derives from human."
+obo:CLO_0000894
+  D "An immortal peripheral vein-derived B cell line cell that derives from Kenya baboon."
+obo:CLO_0000837
+  D "An immortal peripheral vein-derived B cell line cell that derives from pileated gibbon."
+obo:CLO_0000422
+  D "An immortal peripheral vein-derived B cell line cell that derives from pygmy chimpanzee."
+obo:CLO_0000820
+  D "An immortal peripheral vein-derived B cell line cell that derives from Red-cheeked gibbon."
+obo:CLO_0000789
+  D "An immortal peripheral vein-derived B cell line cell that derives from siamang."
+obo:CLO_0009801
+  D "An immortal peripheral vein-derived B cell line cell that derives from vervet monkey."
+obo:CLO_0009797
+  D "An immortal peripheral vein-derived B cell line cell that derives from White-cheeked Gibbon."

@@ -1,0 +1,59 @@
+
+[
+	{
+		"name": "Trusted",
+		"type": "Trusted",
+		"prefix": "trusted:",
+		"status": "admin"
+	},
+	{
+		"type": "LDAP",
+		"name": "ldap",
+		"prefix": "ldap:",
+		"server": "localhost",
+		"userOU": "ou=user,ou=system"
+	},
+	{
+		"name": "ORCID",
+		"prefix": "orcid:",
+		"type": "OAuth",
+		"authURL": "http://orcid.org/oauth/authorize",
+		"tokenURL": "https://orcid.org/oauth/token",
+		"scope": "/authenticate",
+		"responseType": "code",
+		"clientID": "<client-id>",
+		"clientSecret": "<client-secret>",
+		"userID": "orcid",
+		"userName": "name"
+	},
+	{
+		"name": "ORCID Sandbox",
+		"prefix": "orcid_sandbox:",
+		"type": "OAuth",
+		"authURL": "http://sandbox.orcid.org/oauth/authorize",
+		"tokenURL": "https://sandbox.orcid.org/oauth/token",
+		"scope": "/read-limited",
+		"responseType": "code",
+		"clientID": "<client-id>",
+		"clientSecret": "<client-secret>",
+		"userID": "orcid",
+		"userName": "name"
+	},
+	{
+		"name": "Google",
+		"prefix": "google:",
+		"type": "OAuth",
+		"authURL": "https://accounts.google.com/o/oauth2/auth",
+		"tokenURL": "https://accounts.google.com/o/oauth2/token",
+		"scope": "profile email",
+		"responseType": "code",
+		"clientID": "<client-id>",
+		"clientSecret": "<client-secret>"
+	},
+	{
+		"name": "Basic",
+		"type": "Basic",
+		"prefix": "basic:"
+	}
+]
+

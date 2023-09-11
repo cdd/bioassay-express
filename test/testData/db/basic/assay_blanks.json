@@ -1,0 +1,88 @@
+[
+	{
+		"text" : "Uncurated",
+		"annotations" : 
+		[ 
+			["http://www.bioassayontology.org/bao#BAO_0000205", "http://www.bioassayontology.org/bao#BAO_0000357"]
+		], 
+		"textLabels" : 
+		[ 
+			["http://www.bioassayontology.org/bao#BAO_0000211", "Glucose-6-phosphate dehydrogenase G6PDH"]
+		], 
+		"isCurated" : false, 
+		"fplist" : null,
+		"schemaURI" : "http://www.bioassayontology.org/bas#", 
+		"assayID" : NumberLong(101),
+		"uniqueID" : "pubchemAID:101", 
+		"history" : []
+	},
+	{
+		"text" : "Text labels only",
+		"annotations" : 
+		[ 
+		], 
+		"textLabels" : 
+		[ 
+			["http://www.bioassayontology.org/bao#BAO_0000211", "Glucose-6-phosphate dehydrogenase G6PDH"]
+		], 
+		"isCurated" : true, 
+		"fplist" : null,
+		"schemaURI" : "http://www.bioassayontology.org/bas#", 
+		"assayID" : NumberLong(102),
+		"uniqueID" : "pubchemAID:102", 
+		"curationTime" : NumberLong(1464345154002), 
+		"history" : [
+			{
+				"curationTime" : NumberLong(1444345154002), 
+				"curatorID" : "dronf", 
+				"annotsAdded" : [], 
+				"annotsRemoved" : [], 
+				"labelsAdded" : [], 
+				"labelsRemoved" : [], 
+				"notesModified" : {}
+			}, 
+			{
+				"curationTime" : NumberLong(1444345153999), 
+				"curatorID" : "fnord", 
+				"annotsAdded" : [], 
+				"annotsRemoved" : [], 
+				"labelsAdded" : [], 
+				"labelsRemoved" : [], 
+				"notesModified" : {}
+			} 
+		]
+	},
+	{
+		"text" : "No annotations",
+		"annotations" : 
+		[ 
+		], 
+		"textLabels" : 
+		[ 
+		], 
+		"isCurated" : true, 
+		"fplist" : null,
+		"schemaURI" : "http://www.bioassayontology.org/bas#", 
+		"assayID" : NumberLong(103),
+		"uniqueID" : "pubchemAID:103", 
+		"curationTime" : NumberLong(1464345153998), 
+		"history" : []
+	},
+	{
+		"text" : "Out of schema",
+		"annotations" : 
+		[ 
+			["http://www.bioassayontology.org/bao#BAO_0000205", "http://www.bioassayontology.org/bao#BAO_INVALID"]
+		], 
+		"textLabels" : 
+		[ 
+		], 
+		"isCurated" : true, 
+		"fplist" : null,
+		"schemaURI" : "http://www.bioassayontology.org/bas#", 
+		"assayID" : NumberLong(104),
+		"uniqueID" : "pubchemAID:104", 
+		"curationTime" : NumberLong(1464345154003), 
+		"history" : []
+	}
+]

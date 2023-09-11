@@ -1,0 +1,15 @@
+[
+	{
+		"terms": 
+		[
+			"bao:BAO_0002854"
+		],
+		"sep": "/",
+		"style": "bold",
+		"empty": "?",
+		"article": "indefinite"
+	},
+	{
+		"include": "bblock2.json" 
+	}
+]

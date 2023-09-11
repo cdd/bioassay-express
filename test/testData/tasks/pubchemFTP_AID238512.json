@@ -1,0 +1,250 @@
+{"PC_AssaySubmit": 
+{
+  "assay": {"descr": 
+  {
+    "aid": 
+    {
+      "id": 238512,
+      "version": 10
+    },
+    "aid_source": {"db": 
+    {
+      "name": "ChEMBL",
+      "source_id": {"str": "302606"}
+    }},
+    "name": "Inhibition constant of anion against human carbonic anhydrase isozyme hCA I",
+    "description": ["Title: Carbonic anhydrase inhibitors. Interaction of isozymes I, II, IV, V, and IX with phosphates, carbamoyl phosphate, and the phosphonate antiviral drug foscarnet.", "", "Abstract: A detailed inhibition study of five carbonic anhydrase (CA, EC 4.2.1.1) isozymes with inorganic phosphates, carbamoyl phosphate, the antiviral phosphonate foscarnet as well as formate is reported. The cytosolic isozyme hCA I was weakly inhibited by neutral phosphate, strongly inhibited by carbamoyl phosphate (K(I) of 9.4 microM), and activated by hydrogen- and dihydrogenphosphate, foscarnet and formate (best activator foscarnet, K(A)=12 microM). The cytosolic isozyme hCA II was weakly inhibited by all the investigated anions, with carbamoyl phosphate showing a K(I) of 0.31 mM. The membrane-associated isozyme hCA IV was the most sensitive to inhibition by phosphates/phosphonates, showing a K(I) of 84 nM for PO(4)(3-), of 9.8 microM for HPO(4)(2-), and of 9.9 microM for carbamoyl phosphate. Foscarnet was the best inhibitor of this isozyme (K(I) of 0.82 mM) highly abundant in the kidneys, which may explain some of the renal side effects of the drug. The mitochondrial isozyme hCA V was weakly inhibited by all phosphates/phosphonates, except carbamoyl phosphate, which showed a K(I) of 8.5 microM. Thus, CA V cannot be the isozyme involved in the carbamoyl phosphate synthetase I biosynthetic reaction, as hypothesized earlier. Furthermore, the relative resistance of CA V to inhibition by inorganic phosphates suggests an evolutionary adaptation of this mitochondrial isozyme to the presence of high concentrations of such anions in these energy-converting organelles, where high amounts of ATP are produced by ATP synthetase, from ADP and inorganic phosphates. The transmembrane, tumor-associated isozyme hCA IX was on the other hand slightly inhibited by all these anions."],
+    "comment": ["Compounds with activity <= 50uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.", "", "Journal: Bioorg. Med. Chem. Lett.", "Year: 2004", "Volume: 14", "Issue: 23", "First Page: 5763", "Last Page: 5767", "DOI: 10.1016/j.bmcl.2004.09.064", "", "Target ChEMBL ID: CHEMBL261", "ChEMBL Target Name: Carbonic anhydrase I", "ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain", "Relationship Type: D - Direct protein target assigned", "Confidence: Direct single protein target assigned"],
+    "xref": 
+    [
+      {
+        "xref": {"taxonomy": 9606},
+        "comment": "Homo sapiens"
+      }, 
+      {
+        "xref": {"pmid": 15501037},
+        "type": "pcit"
+      }, 
+      {"xref": {"dburl": "http://www.ebi.ac.uk/chembldb/"}}, 
+      {"xref": {"asurl": "http://www.ebi.ac.uk/chembldb/index.php/assay/inspect/302606"}}, 
+      {"xref": {"protein_gi": 115449}}
+    ],
+    "results": 
+    [
+      {
+        "tid": 1,
+        "name": "PubChem Standard Value",
+        "description": ["PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar"],
+        "type": "float",
+        "unit": "um",
+        "ac": true
+      }, 
+      {
+        "tid": 2,
+        "name": "Standard Type",
+        "description": ["Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50)"],
+        "type": "string"
+      }, 
+      {
+        "tid": 3,
+        "name": "Standard Relation",
+        "description": ["Qualifier (e.g. >, <, =) for 'Standard Value'"],
+        "type": "string"
+      }, 
+      {
+        "tid": 4,
+        "name": "Standard Value",
+        "description": ["Standardized activity value transformed to common units: e.g. mM concentrations converted to nM"],
+        "type": "float"
+      }, 
+      {
+        "tid": 5,
+        "name": "Standard Units",
+        "description": ["Selected units for 'Standard Type': e.g. concentrations are in nM"],
+        "type": "string"
+      }, 
+      {
+        "tid": 6,
+        "name": "Data Validity Comment",
+        "description": ["Comment reflecting whether the values for this activity measurement are likely to be correct"],
+        "type": "string"
+      }
+    ],
+    "revision": 1,
+    "target": 
+    [
+      {
+        "name": "Carbonic anhydrase 1",
+        "mol_id": 115449,
+        "molecule_type": "protein",
+        "organism": {"org": 
+        {
+          "db": 
+          [
+            {
+              "db": "taxon",
+              "tag": {"id": 9606}
+            }
+          ],
+          "orgname": {"name": {"binomial": {"genus": "Homo sapiens"}}}
+        }},
+        "descr": "Carbonic anhydrase I",
+        "comment": ["Protein Accession: P00915"]
+      }
+    ],
+    "activity_outcome_method": "confirmatory",
+    "project_category": "literature-extracted",
+    "assay_group": ["PMID: 15501037"]
+  }},
+  "data": 
+  [
+    {
+      "sid": 103446806,
+      "version": 1,
+      "outcome": "unspecified",
+      "data": 
+      [
+        {
+          "tid": 1,
+          "value": {"fval": 12000}
+        }, 
+        {
+          "tid": 2,
+          "value": {"sval": "Ki"}
+        }, 
+        {
+          "tid": 3,
+          "value": {"sval": "="}
+        }, 
+        {
+          "tid": 4,
+          "value": {"fval": 12000000}
+        }, 
+        {
+          "tid": 5,
+          "value": {"sval": "nM"}
+        }, 
+        {
+          "tid": 6,
+          "value": {"sval": "Outside typical range"}
+        }
+      ],
+      "date": {"std": 
+      {
+        "year": 2018,
+        "month": 10,
+        "day": 18
+      }}
+    }, 
+    {
+      "sid": 103453412,
+      "version": 1,
+      "outcome": "active",
+      "data": 
+      [
+        {
+          "tid": 1,
+          "value": {"fval": 9.4}
+        }, 
+        {
+          "tid": 2,
+          "value": {"sval": "Ki"}
+        }, 
+        {
+          "tid": 3,
+          "value": {"sval": "="}
+        }, 
+        {
+          "tid": 4,
+          "value": {"fval": 9400}
+        }, 
+        {
+          "tid": 5,
+          "value": {"sval": "nM"}
+        }
+      ],
+      "date": {"std": 
+      {
+        "year": 2018,
+        "month": 10,
+        "day": 18
+      }}
+    }, 
+    {
+      "sid": 103453459,
+      "version": 1,
+      "outcome": "unspecified",
+      "data": 
+      [
+        {
+          "tid": 1,
+          "value": {"fval": 780}
+        }, 
+        {
+          "tid": 2,
+          "value": {"sval": "Ki"}
+        }, 
+        {
+          "tid": 3,
+          "value": {"sval": "="}
+        }, 
+        {
+          "tid": 4,
+          "value": {"fval": 780000}
+        }, 
+        {
+          "tid": 5,
+          "value": {"sval": "nM"}
+        }, 
+        {
+          "tid": 6,
+          "value": {"sval": "Outside typical range"}
+        }
+      ],
+      "date": {"std": 
+      {
+        "year": 2018,
+        "month": 10,
+        "day": 18
+      }}
+    }, 
+    {
+      "sid": 103453665,
+      "version": 1,
+      "outcome": "unspecified",
+      "data": 
+      [
+        {
+          "tid": 1,
+          "value": {"fval": 15000}
+        }, 
+        {
+          "tid": 2,
+          "value": {"sval": "Ki"}
+        }, 
+        {
+          "tid": 3,
+          "value": {"sval": "="}
+        }, 
+        {
+          "tid": 4,
+          "value": {"fval": 15000000}
+        }, 
+        {
+          "tid": 5,
+          "value": {"sval": "nM"}
+        }, 
+        {
+          "tid": 6,
+          "value": {"sval": "Outside typical range"}
+        }
+      ],
+      "date": {"std": 
+      {
+        "year": 2018,
+        "month": 10,
+        "day": 18
+      }}
+    }
+  ]
+}}

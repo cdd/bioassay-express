@@ -1,0 +1,95 @@
+[
+	{
+		"schemaURI": ["http://www.bioassayontology.org/bas#"],
+		"boilerplate":
+		[
+			"<p>",
+			"Auto Annotation to Text for PubChem Assay ",
+			{"field": "uniqueID"},
+			"</p>",
+
+			"<p>",
+			"This is ",
+			{
+				"ifany": "bao:BAO_0000210",
+				"then": {"term": "bao:BAO_0000210", "article": "indefinite", "style": "italic"},
+				"else": "an <i>unknown stage assay</i>"
+			},
+			" to identify potential treatments for ",
+			{"term": "bao:BAO_0002848", "style": "bold", "empty": "an unknown disease"},
+			", by investigating the biological process of ",
+			{"term": "bao:BAO_0002009", "style": "bold", "empty": "unknown"},
+			", specifically targeting ",
+			{"term": "bao:BAO_0000211", "style": "bold", "empty": "unknown target"},
+			" from ",
+			{"term": "bao:BAO_0002921", "style": "bold", "empty": "unknown organism"},
+			".</p>",
+
+			"<p>",
+
+			"This is a ",
+			{"terms": [["bao:BAO_0002854"], ["bao:BAO_0002855"]], "sep": "/", "style": "bold", "empty": "?"},
+			" in ",
+			{"term": "bao:BAO_0000205", "style": "italic", "article": "indefinite"},
+			", using ",
+			{"term": "bao:BAO_0095009", "style": "italic", "article": "indefinite"},
+
+			{
+				"ifany": "bao:BAO_0002663",
+				"then":
+				{
+					"ifbranch": ["bat:Absence", "bao:BAO_0002663"],
+					"else":
+					[
+						", with the assay kit ",
+						{"term": "bao:BAO_0002663", "style": "italic"}
+					]
+				},
+				"else": ", without an assay kit"
+			},
+
+			". ",
+			{
+				"ifany": "bao:BAO_0002800",
+				"then":
+				[
+					"The cell line ",
+					{"term": "bao:BAO_0002800", "style": "italic"},
+					" was used. "
+				]
+			},
+			"It was conducted in ",
+			{"term": "bao:BAO_0002867", "style": "italic", "plural": true},
+			", with ",
+			{
+				"ifany": "bao:BAO_0000207",
+				"then":
+				[
+					"the detection method of ",
+					{"term": "bao:BAO_0000207", "style": "italic"}
+				],
+				"else": "an unknown physical detection method"
+			},
+			", using ",
+			{
+				"ifany": "bao:BAO_0002865",
+				"then":
+				[
+					{"term": "bao:BAO_0002865", "style": "italic", "article": "indefinite"}
+				],
+				"else": "an unknown detection instrument"
+			},
+			". Results are reported as ",
+			{"term": "bao:BAO_0000208", "style": "italic", "empty": "unknown"},
+			", in units of ",
+			{"term": "bao:BAO_0002874", "style": "italic", "empty": "unknown"},
+			".",
+			"  This assay tested the mode of action of ",
+			{"term": "bao:BAO_0000196", "style": "italic", "empty": "unknown"},
+			" by ",
+			{"term": "bao:BAO_0000185", "style": "italic", "empty": "unknown"},
+			" perturbagens.",
+			"</p>"
+		]
+	}
+]

@@ -1,0 +1,354 @@
+obo:CLO_0009451
+  D "Human neuronal glioblastoma (grade III) cell line."
+obo:BTO_0002389
+  D "Small cell carcinoma of the lung (SCC). The U-1285 line was derived from the classical small cell type of SCC."
+obo:BTO_0002391
+  D "Doxorubicin-resistant cell line, U-1285dox, derived from human small cell carcinoma of the lung."
+obo:CLO_0009457
+  D "Human multiple myeloma cell line; established from the peripheral blood of a 53-year-old man with IgE-secreting myeloma (refractory, terminal) in 1968."
+obo:CLO_0009459
+  D "Human glioma cell line."
+obo:CLO_0009464
+  D "Human, Caucasian, brain, glioblastoma-astrocytoma cell line Morphology: epithelial-like; Species: human, Caucasian female 44 years old; Tissue: brain; Tumor: glioblastoma-astrocytoma."
+obo:BTO_0005060
+  D "Human melanoma cell line."
+obo:BTO_0004570
+  D "A lesion of the skin or of a mucous membrane, such as the one lining the stomach or duodenum, that is accompanied by formation of pus and necrosis of surrounding tissue, usually resulting from inflammation or ischemia."
+obo:BTO_0002714
+  D "Human neck squamous cell carcinoma cell line."
+obo:BTO_0000841
+  D "Either of a pair of arteries that arise from the hypogastric arteries of the mammalian fetus and pass through the umbilical cord to the placenta to which they carry the deoxygenated blood from the fetus."
+obo:BTO_0001415
+  D "A cord arising from the navel that connects the fetus with the placenta."
+obo:BTO_0004053
+  D "Blood from the umbilical cord of a newborn baby. This blood contains high concentrations of stem cells."
+obo:BTO_0004054
+  D "The blood from the umbilical cord of a newborn baby contains high concentrations of stem cells (cells from which all blood cells develop)."
+obo:BTO_0001509
+  D "A vein that passes through the umbilical cord to the fetus and returns the oxygenated and nutrient blood from the placenta to the fetus."
+obo:CLO_0009485
+  D "The UMR-106 cell line is a clonal derivative of a transplantable rat osteosarcoma that had been induced by injection of radiophosphorous (32P)."
+obo:BTO_0000105
+  D "The epidermal layer directed towards the axis."
+obo:BTO_0001409
+  D "The tube that carries urine from the kidney to the bladder."
+obo:BTO_0001646
+  D "An outgrowth of the mesonephric duct that gives rise to all but the nephrons of the permanent kidney."
+obo:BTO_0001426
+  D "The tube through which urine leaves the body. It empties urine from the bladder."
+obo:BTO_0001418
+  D "A membranous sac in many vertebrates that serves for the temporary retention of urine and discharges by the urethra."
+obo:BTO_0000362
+  D "Cancer cell of the organ responsible for temporarily holding urine after it leaves the kidneys."
+obo:BTO_0003092
+  D "The organs and passageways concerned with the production and excretion of urine, including the kidneys, ureters, urinary bladder, and urethra."
+obo:BTO_0001244
+  D "The organs of the body that produce and discharge urine. These include the kidneys, ureters, bladder, and urethra."
+obo:BTO_0001419
+  D "Waste material that is secreted by the kidney in vertebrates, is rich in end products of protein metabolism together with salts and pigments, and forms a clear amber and usually slightly acid fluid in mammals but is semisolid in birds and reptiles."
+obo:BTO_0001402
+  D "A pair of dorsolateral mesodermal ridges in the vertebrate embryo out of which the urogenital organs are developed."
+obo:BTO_0003091
+  D "The urinary system and genital system considered together."
+obo:BTO_0001848
+  D "This is a neurosecretory organ found on the ventral aspect of the distal end of the spinal cord in fishes. These bodies are composed of unmyelinated axons terminating on a capillary wall. The function of the urophysis is unknown."
+obo:BTO_0001420
+  D "A large gland at the base of a bird's tail that secretes an oil used in preening."
+obo:BTO_0005004
+  D "The UROtsa cell line was isolated from a primary culture of normal human urothelium through immortalization with a construct containing the SV40 large T antigen."
+obo:CLO_0009490
+  D "Human acute myeloid leukemia established from the bone marrow of a 64-year-old man with acute myeloid leukemia (AML M7) at diagnosis in 1988; cells are constitutively cytokine-dependent and responsive to various cytokines."
+obo:BTO_0000658
+  D "The most common form of endometrial carcinoma, containing tumor cells differentiated into glandular tissue with little or no stroma."
+obo:BTO_0003085
+  D "In Caenorhabditis elegans, uterine-vulval connection is established by the activity of a single cell, the anchor cell (AC), that lies at the interface between the ectodermal vulva and the mesodermal uterus."
+obo:BTO_0001421
+  D "A constricted portion of an organ or part; especially: the narrow outer end of the uterus."
+obo:BTO_0003871
+  D "More than 95% of uterine cancers arise in the endometrium. Endometrial cancer develops when the cells that make up the endometrium become abnormal and grow uncontrollably."
+obo:BTO_0001422
+  D "The mucous membrane lining the uterus."
+obo:BTO_0004518
+  D "Simple or branched, tubular gland extending into the lamina propria-submucosa, secreting mucus, lipids, glycogen, protein."
+obo:BTO_0004235
+  D "The portion of the uterus to which the intramural section of the uterine tube enters on either the right or left."
+obo:BTO_0001423
+  D "A uterine lavage is a aseptic procedure whereby a sterile solution, usually physiologic saline is infused into the uterus and then allowed to flow out via a sterile catheter placed through the mare's cervix."
+obo:BTO_0002695
+  D "A benign tumor of the smooth muscle fibers of the uterus."
+obo:BTO_0003596
+  D "A rare type of uterine cancer that forms in muscle or other tissues of the uterus. It usually occurs after menopause. The two main types are leiomyosarcoma (cancer that begins in smooth muscle cells) and endometrial stromal sarcoma (cancer that begins in connective tissue cells)."
+obo:BTO_0001424
+  D "An organ of the female mammal for containing and usually for nourishing the young during development previous to birth."
+obo:BTO_0001807
+  D "The part of the membranous labyrinth of the inner ear into which the semicircular canals open."
+obo:BTO_0004980
+  D "Ocular melanoma consisting of overgrowth of uveal melanocytes."
+obo:CLO_0009500
+  D "Chinese hamster lung fibroblast cell line, established from the lung tissue of a Chinese hamster in 1958."
+obo:BTO_0000243
+  D "A canal in a female mammal that leads from the uterus to the external orifice of the genital canal."
+obo:BTO_0000422
+  D "Vaginal epithelium is stratified squamous epithelium having a thickness of 15-200 microns."
+obo:BTO_0003084
+  D "The lubrication fluid contains water, pyridine, squalene, urea, acetic acid, lactic acid, complex alcohols and glycols, ketones, and aldehydes. The fluid is typically clear and more resembling of male pre-ejaculate than male ejaculate. The normal pH of vaginal fluid is between 3.8 and 4.5, whereas male semen is typically between 7.1 and 8."
+obo:BTO_0003472
+  D "Either of the 10th pair of cranial nerves that arise from the medulla and supply chiefly the viscera especially with autonomic sensory and motor fibers."
+obo:BTO_0001705
+  D "The largest papilla of the tongue, 8 to 12 in number, arranged in the form of a V anterior to the sulcus terminalis of the tongue."
+obo:BTO_0001427
+  D "A spermatic duct especially of a higher vertebrate that in the human male is a thick-walled tube about two feet (0.61 meters) long that begins at and is continuous with the tail of the epididymis and eventually joins the duct of the seminal vesicle to form the ejaculatory duct."
+obo:BTO_0002254
+  D "Any of a number of small ducts that carry semen from the testis to the epididymis."
+obo:BTO_0001429
+  D "A strand of primary conductive plant tissue consisting essentially of xylem and phloem."
+obo:BTO_0004502
+  D "Cambium that produces secondary phloem on its outer side and secondary xylem on its inner side."
+obo:BTO_0002688
+  D "A cell of the vascular system."
+obo:BTO_0001853
+  D "The innermost lining of a blood vessel."
+obo:BTO_0001085
+  D "The vessels of the body, especially the blood vessels."
+obo:BTO_0001432
+  D "The supportive and conductive tissue in plants, consisting of xylem and phloem."
+obo:BTO_0003718
+  D "The blood vessels or arrangement of blood vessels in an organ or part."
+obo:BTO_0004913
+  D "One of the four muscles of the quadriceps femoris group, situated in the medial part of the thigh. The muscle functions in combination with other parts of the quadriceps femoris to extend the leg."
+obo:CLO_0037117
+  D "Human prostate cancer cell line."
+obo:BTO_0000234
+  D "Any of the tubular branching vessels that carry blood from the capillaries toward the heart."
+obo:BTO_0005405
+  D "The locomotory and feeding organ, found in the larval veliger stage of bivalves."
+obo:BTO_0001438
+  D "Any of the large veins by which in air-breathing vertebrates the blood is returned to the right atrium of the heart."
+obo:BTO_0001439
+  D "Poisonous matter normally secreted by some animals (as snakes, scorpions, or bees) and transmitted to prey or an enemy chiefly by biting or stinging; broadly: material that is poisonous."
+obo:BTO_0002065
+  D "The traumagenic device (spine, tooth, etc.), Venom gland, and accessory organs directly concerned with the introduction and transmission of a venom."
+obo:BTO_0001855
+  D "One of the paired, internal tubes leading from the venom glands to the paired openings near the tip of the aculeus."
+obo:BTO_0002066
+  D "Bee venom is synthesized in the venom glands of worker and queen bees and stored in their venom sacs."
+obo:BTO_0004692
+  D "A system of interconnected blood vessels that returns blood to the heart from the tissue and capillary bed through progressively larger vessels."
+obo:BTO_0004674
+  D "The artery in vertebrate embryos that carries blood from the ventricle of the heart to the aortic arches. In adult fish it branches into afferent branchial arteries supplying the gills. In adult tetrapods it is represented by the ascending part of the aorta."
+obo:BTO_0002328
+  D "The pair of closely united ventral longitudinal nerves with their segmental ganglia that is characteristic of many elongate invertebrates (as earthworms)."
+obo:BTO_0004373
+  D "The region traditionally described as the ventroposterior nucleus (VP) is a composite of VP proper and parts of the ventroposterior inferior nucleus."
+obo:BTO_0004702
+  D "Those portions of the striatum located generally inferior to a plane representing the anterior commissure; includes the nucleus accumbens and some nuclei of the olfactory tubercle; may function in motor activities with emotional or motivational origins."
+obo:BTO_0003654
+  D "There are two primary regions that are thought to give rise to neurons that make up the cerebellum. The first region is the ventricular zone (the roof of the fourth ventricle). This area produces Purkinje cells and deep cerebellar nuclear neurons."
+obo:BTO_0002626
+  D "A small vein, especially one joining capillaries to larger veins."
+obo:BTO_0000084
+  D "A narrow blind tube usually about three or four inches (7.6 to 10.2 centimeters) long that extends from the cecum in the lower right-hand part of the abdomen, has much lymphoid wall tissue, normally communicates with the cavity of the cecum, and represents an atrophied terminal part of the cecum."
+obo:BTO_0001835
+  D "Any of a group of sympathetic ganglia which form two chains extending from the base of the skull to the coccyx along the sides of the spinal column."
+obo:BTO_0003717
+  D "The vesicular gland is part of the male reproductive system. The vesicular gland contributes fluids, energy substrates, and buffers to semen. It can be found near the Coagulating gland, which also belongs to the reproductive system."
+obo:BTO_0001856
+  D "The part of the membranous labyrinth that includes the utricle and saccule lodged within the vestibule and the semicircular ducts lodged eccentrically in the corresponding canals."
+obo:BTO_0004368
+  D "Any of four nuclei in the medulla oblongata on each side of the floor of the fourth ventricle of the brain in which fibers of the vestibular nerve terminate."
+obo:BTO_0003381
+  D "The organ of the inner ear containing several three semicircular ducts at right angles to one another, helps keep the body balanced."
+obo:BTO_0003490
+  D "The vestibulocochlear nerve is responsible for the sense of hearing and balance (body position sense). Lesions of the eighth nerve can result in deafness, tinnitus, dizziness, vertigo and vomiting."
+obo:BTO_0003145
+  D "The space posterior to the glans clitoridis and between the labia minora, containing the openings of the vagina, urethra, and ducts of the greater vestibular glands."
+obo:BTO_0002492
+  D "The vestimentum is a muscle that the tubeworm uses to position itself in the tube. It is sequestered within the Riftia tube."
+obo:BTO_0003121
+  D "Any of the small, slender, vascular projections that increase the surface area of a membrane. Important villous membranes include the placenta and the mucous-membrane coating of the small intestine. Each villus has a central core composed of one artery and one vein, a strand of muscle, a centrally located lymphatic capillary, and connective tissue that adds support to the structures. Covering the core of a villus is the surface mucous-membrane layer. This is mainly composed of two cell types: tall, narrow, columnar cells and goblet cells."
+obo:BTO_0003487
+  D "Visceral endoderm, a population of extraembyonic endoderm, is an extraembryonic tissue that functions in a regulatory capacity but does not contribute directly to the formation of any adult organs."
+obo:BTO_0001448
+  D "Mollusks have three distinct divisions of their body. The head contains the sensory equipment (eyes, antennae, etc) and the primitive brain. The visceral hump, which is the main body, contains most of the organs, including a complete digestive and excretory tract as well as the reproductive organs. The visceral hump also includes the two external flaps of tissue, which are known as the mantle."
+obo:BTO_0002780
+  D "Muscle fibers associated chiefly with the hollow viscera and largely of splanchnic mesodermal origin; except for the striated fibers in the wall of the heart, they are smooth muscle fibers bound together by reticular fibers."
+obo:BTO_0001491
+  D "An internal organ of the body; especially: one (as the heart, liver, or intestine) located in the great cavity of the trunk proper."
+obo:BTO_0001857
+  D "The area of the occipital lobe of the cerebral cortex concerned with vision; it consists of the first visual area or striate cortex (Brodmann's area 17) and two other areas, the second visual area or parastriate area (Brodmann's area 18) and the third visual area or peristriate area (Brodmann's area 19)."
+obo:BTO_0004242
+  D "The female system is unusual in that it is separated into two structures: the ovaries and the vitellaria, often known as the vitelline glands or yolk glands. The cells of the vitellaria form yolk and eggshell components."
+obo:BTO_0001450
+  D "The cytoplasmic, noncellular membrane surrounding the eggs of various animals, especially the membrane enveloping the yolk of telolecithal eggs."
+obo:BTO_0002087
+  D "The space in the eyeball enclosing the vitreous humor, bounded anteriorly by the lens and ciliary body and posteriorly by the posterior wall of the eyeball."
+obo:BTO_0001451
+  D "The clear colorless transparent jelly that fills the eyeball posterior to the lens."
+obo:BTO_0003714
+  D "Human renal carcinoma cell line."
+obo:BTO_0005084
+  D "Either of two pairs of folds of mucous membrane projecting into the larynx."
+obo:BTO_0001351
+  D "A nerve that exists in the human fetus but disappears before birth, that originates in the olfactory epithelial cells of Jacobson's organ, and that passes through the submucous tissue of the nasal septum and the cribriform plate of the ethmoid bone to the olfactory bulb."
+obo:BTO_0002608
+  D "A specialized part of the olfactory system located anteriorly in the nasal cavity within the nasal septum. Chemosensitive cells of the vomeronasal organ project via the vomeronasal nerve to the accessory olfactory bulb. The primary function of this organ appears to be in sensing pheromones which regulate reproductive and other social behaviors. While the structure has been thought absent in higher primate adults, data now suggests it may be present in adult humans."
+obo:BTO_0001859
+  D "A horny projection on the skin usually of the extremities produced by proliferation of the skin papillae and caused by a papillomavirus."
+obo:BTO_0002125
+  D "The water vascular system is a hydraulic system used by Echinoderms for locomotion, food and waste transportation, and respiration. Composed of water filled tube feet and ampulla, Echinoderms move by contracting the muscles around the ampulla forcing water in the tube feet, which causes the foot to extend propelling the animal forward."
+obo:BTO_0002069
+  D "Any gland which secretes a wax product in a scale, string or powder. Coccidae: the circumgenital and parastigmatic glands. Hymenoptera: Apoidea, abdominal glands that produce beeswax. Neuroptera (Coniopterygidae): glands on head, thorax and abdomen which produce a meal-like wax. Wax glands have been identified on all tagmata and appendages."
+obo:CLO_0009575
+  D "Mouse, BALB/cxNZB F1, lymphoblastic lymphoma cell line. Morphology: Lymphoblast Mouse B cell lymphoma."
+obo:CLO_0009579
+  D "Mouse, BALB/c, monocyte, monocytic leukemia cell line."
+obo:BTO_0003181
+  D "Glucocorticoid sensitive murine T cell lymphoma cell line."
+obo:BTO_0001456
+  D "The adipose tissue comprising the bulk of the body fat."
+obo:BTO_0001489
+  D "The main part of an animal body especially as distinguished from limbs and head."
+obo:BTO_0001461
+  D "The main part of a plant."
+obo:CLO_0009600
+  D "Human, colon, adenocarcinoma cell line."
+obo:BTO_0001523
+  D "Lymphoblastoid B-cell line."
+obo:CLO_0009604
+  D "Spleen; B lymphocyte; hereditary spherocytosis cell line, established from a caucasion 5 year old male. The line was derived from the WIL-2 B cell line."
+obo:BTO_0001645
+  D "A swelling on the trunk of an avian embryo that gives rise to a wing."
+obo:BTO_0001464
+  D "The entire dorsal mesothoracic disc (wing, notal, and pleural parts), in the larval stage of Drosophila."
+obo:CLO_0009609
+  D "Human amnion cell line with HeLa markers."
+obo:BTO_0003474
+  D "Human melanoma cell line, derived from skin metastasis."
+obo:BTO_0003713
+  D "Primary human melanoma cell line; derived from a vertical growth phase primary melanoma in a patient who did not have a recurrence during 10-year clinical follow-up."
+obo:BTO_0003438
+  D "Human melanoma cell line, derived from lymph node metastasis."
+obo:BTO_0004248
+  D "Kidney cell line of Xenopus laevis."
+obo:BTO_0001468
+  D "A complex tissue in the vascular system of higher plants that consists of vessels, tracheids, or both usually together with wood fibers and parenchyma cells, functions chiefly in conduction of water and dissolved minerals but also in support and food storage, and typically constitutes the woody element."
+obo:CLO_0009709
+  D "Human retinoblastoma cell line; established from the primary tumor (right eye) of a 2-year-old Caucasian girl in 1971."
+obo:BTO_0004236
+  D "A sub-clone of Y1 mouse adrenocortical cells."
+obo:BTO_0000635
+  D "Ordinary bone marrow of the kind in which the fat cells predominate."
+obo:BTO_0004624
+  D "Human erythroleukemia cell line."
+obo:BTO_0001471
+  D "A membranous sac that is attached to an embryo and encloses food yolk, that is continuous in most forms through the yolk stalk with the intestinal cavity of the embryo, that being abundantly supplied with blood vessels is throughout embryonic life and in some forms later the chief organ of nutrition, and that in placental mammals is nearly vestigial and functions chiefly prior to the elaboration of the placenta."
+obo:BTO_0001860
+  D "Malignant germ cell tumour commonly found in the ovary. The tumour arises from primitive germ cells and develops into extra-embryonic tissue resembling the yolk sac."
+obo:BTO_0000050
+  D "The middle of the three layers of the adrenal cortex that consists of radially arranged columnar epithelial cells."
+obo:BTO_0000048
+  D "The outermost of the three layers of the adrenal cortex that consists of round masses of granular epithelial cells that stain deeply."
+obo:BTO_0003146
+  D "A narrow layer of gray matter extending throughout most of the diencephalon, ventral to and separated from the thalamus by the thalamic fasciculus and laterally continuous with the reticular nucleus of the thalamus."
+obo:BTO_0003135
+  D "A thick, transparent, noncellular layer or envelope of uniform thickness surrounding an oocyte. Under the light microscope it appears as a radially striated layer; under the electron microscope this can be seen to be microvillous."
+obo:BTO_0004919
+  D "Human non-invasive mammary gland breast cancer cell line."
+obo:CLO_0009728
+  D "Human mammary gland ductal carcinoma cell line; derived from malignant ascites fluid from a 47-year-old premenopausal Black woman with infiltrating ductal carcinoma."
+obo:BTO_0000854
+  D "Diploid cell resulting from the fusion of male and female gametes at fertilization."
+obo:BTO_0001478
+  D "A cell in the stage of meiotic prophase which immediately follows the leptotene and during which synapsis of homologous chromosomes occurs."
+obo:CLO_0001297
+  D "Mouse bone marrow cell line."
+obo:BTO_0000417
+  D "The irregularly shaped proliferating bile ducts are lined by normal cuboidal epithelium."
+obo:BTO_0003741
+  D "Human breast carcinoma cell line."
+obo:BTO_0004815
+  D "The ER-1 weakly malignant clonal cell line was derived from a mammary adenocarcinoma that developed spontaneously in a female SHR rat."
+obo:BTO_0001430
+  D "The human breast epithelium is a branching ductal system composed of an inner layer of polarized luminal epithelial cells and an outer layer of myoepithelial cells that terminate in distally located terminal duct lobular units (TDLUs)."
+obo:BTO_0003379
+  D "Meristematic tissue in plants, giving rise to cork (phellem) and phelloderm cells."
+obo:BTO_0002853
+  D "An envelope of condensed connective tissue surrounding a vesicular ovarian follicle, comprising an internal vascular layer (tunica interna) and an external fibrous layer (tunica externa)."
+obo:BTO_0000808
+  D "Structures in fishes homologous to the cortical tissue of the mammalian adrenal gland; they are in close proximity to or imbedded in the kidney."
+obo:BTO_0002296
+  D "The outer, or parietal, layer of the renal glomerular capsule, composed of simple squamous epithelium, and separated from the inner, or visceral, layer by the capsular space."
+obo:BTO_0001979
+  D "A gland that secretes a slimy, chemically inert material."
+obo:BTO_0000252
+  D "The outer membrane of the two membranes enclosing the embryo in reptiles, birds, and mammals. In placental mammals it contributes to the development of the placenta."
+obo:BTO_0001435
+  D "A human upper limb; especially: the part between the shoulder and the wrist."
+obo:BTO_0000235
+  D "Any of four deeply placed masses of gray matter (as the amygdala) in each cerebral hemisphere. Location: The basal ganglion is located deep within the cerebral hemispheres in the telencephalon region of the brain. It consists of the corpus stratium, subthalamic nucleus and the substantia nigra."
+obo:CLO_0050910
+  D "A immortal human uterine cervix-derived cell line cell that has the characteristics: Just like ATCC CCL 2, HeLa"
+obo:BTO_0001678
+  D "Subset of helper-inducer T-lymphocytes which synthesize and secrete interleukin-2, gamma-interferon, and interleukin-12. Due to their ability to kill antigen-presenting cells and their lymphokine-mediated effector activity, Th1 cells are associated with vigorous delayed-type hypersensitivity reactions."
+obo:CLO_0050799
+  D "A immortal human stomach-derived cell line cell that has the characteristics: Gastric cancer undifferentiated, mucin producing"
+obo:BTO_0001600
+  D "A layer of more or less solid substance which covers the free surface of an epithelial cell."
+obo:CLO_0037231
+  D "An established epithelial cell line derived from an adenocarcinoma of human endometrial lining."
+obo:BTO_0000744
+  D "Leukemia cell of either of two types marked by an abnormal increase in the number of white blood cells (as lymphocytes) which accumulate in bone marrow, lymphoid tissue (as of the lymph nodes and spleen), and circulating blood."
+obo:BTO_0002394
+  D "Chinese hamster lung fibroblast cell line."
+obo:BTO_0000164
+  D "Malignant tumour cell of lymphoblasts derived from B-lymphocytes. Most commonly affects children in tropical Africa: both Epstein-Barr virus and immunosuppression due to malarial infection are involved."
+obo:CLO_0009619
+  D "The WM793B line was established from skin taken from the primary melanoma of a vertical growth phase lesion taken from the sternum of a patient."
+obo:BTO_0005007
+  D "A firm fibrous neoplasm of meninges of the brain and spinal cord characterized by psammona bodies."
+obo:BTO_0000411
+  D "Lining of the head of the uterus (cervix); contains large branched glands; does not undergo sloughing."
+obo:BTO_0000642
+  D "The surface lining of the intestines where the cells absorb nutrients."
+obo:BTO_0005490
+  D "Parent cell line, established from peripheral blood of a multiple myeloma patient who had become resistant to steroid-based therapy."
+obo:BTO_0000098
+  D "An embryonic astrocyte."
+obo:BTO_0000410
+  D "Primary ovarian follicles: immature ovarian follicles, each comprising an immature ovum and the specialized epithelial cells (follicle cells) that surround it."
+obo:BTO_0000389
+  D "A liquid-filled cavity in a mammalian ovary containing a mature egg before ovulation."
+obo:BTO_0004594
+  D "Androgen-dependent human prostate cancer cell line."
+obo:BTO_0000273
+  D "The ink gland and ink sac are specializations of the rectal gland."
+obo:BTO_0000082
+  D "The internal and external reproductive organs in the male."
+obo:BTO_0004401
+  D "Smooth muscle that is present continuously around the bronchi."
+obo:CLO_0050268
+  D "A immortal somatic nervous system-derived cell line cell that has the characteristics: Neuroblastoma, a target in CTL assay"
+obo:CLO_0037234
+  D "a SK-N-SH cell that is treated with retinoic acid to make the cell differentiated."
+obo:BTO_0001806
+  D "The visceral mass consists of the gonad, digestive gland, heart, and excretory organs."
+obo:BTO_0000024
+  D "The fourth compartment of the ruminant stomach that follows the omasum and has a true digestive function."
+obo:CLO_0050636
+  D "A immortal human brain-derived cell line cell that has the characteristics: Human cell line derived from glioblastoma multiforme (Caucasian). Hyperpentaploid chromosome count. TKG0471(Deposited from Tohoku Univ.)."
+obo:BTO_0003399
+  D "In the anatomy of animals, an avian pallium is the dorsal telencephalon of a bird's brain. Pallium of avian species tend to be relatively large, comprising ~75% of the telencephalic volume."
+obo:BTO_0000042
+  D "Any of a kingdom (Animalia) of living things including many-celled organisms and often many of the single-celled ones (as protozoans) that typically differ from plants in having cells without cellulose walls, in lacking chlorophyll and the capacity for photosynthesis, in requiring more complex food materials (as proteins), in being organized to a greater degree of complexity, and in having the capacity for spontaneous movement and rapid motor responses to stimulation."
+obo:BTO_0001494
+  D "Any of a major group (Fungi) of saprophytic and parasitic spore-producing organisms including molds, rusts, mildews, smuts, mushrooms, and yeasts."
+obo:BTO_0002503
+  D "Any individual of the Protozoa."
+obo:BTO_0000092
+  D "Any of a genus (Trypanosoma) of parasitic flagellate protozoans that infest the blood of various vertebrates including humans, are usually transmitted by the bite of an insect, and include some that cause serious disease (as sleeping sickness)."
+obo:BTO_0001021
+  D "The tissues that invest or help to invest and support the teeth, including the periodontal ligament, gingivae, cementum, and alveolar and supporting bone."
+obo:BTO_0001722
+  D "A circumscribed knoblike mass of ectodermal cells arising from the dental lamina; it produces the enamel cap from which the dental enamel develops."
+obo:BTO_0001143
+  D "An intermediate usually quiescent stage of a metamorphic insect as a bee, moth, or beetle that occurs between the larva and the imago, is usually enclosed in a cocoon or protective covering, and undergoes internal changes by which larval structures are replaced by those typical of the imago."

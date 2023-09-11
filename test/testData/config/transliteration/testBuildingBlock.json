@@ -1,0 +1,15 @@
+[
+	{
+		"schemaURI": 
+		[
+			"http://www.bioassayontology.org/bas#"
+		],
+		"boilerplate": 
+		[
+			"Text",
+			{
+				"include": "bblock1.json" 
+			}
+		]
+	}
+]
