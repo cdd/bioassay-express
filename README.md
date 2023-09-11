@@ -15,8 +15,10 @@ Probably the easiest way to get running with a local instance of _BioAssay Expre
 * download the contents of [BioAssay Template](https://github.com/cdd/bioassay-template) into a directory with the name `bax` (the name is important), which we will refer to as `${GIT}/bax`: this is a dependency that is referenced by relative paths
 * download the contents of [BioAssay Express](https://github.com/cdd/bioassay-express) into a directory with the name `bae`, which we will refer to as `${GIT}/bae`
 * make sure that `docker` is installed on your computer
+* make sure that Java JDK 16 or later is installed, as well as Node Package Manager: to update the npm libraries, change to `${BAE}/bae/docker` and run `npm i`
 * change to the _docker_ directory `${BAE}/bae/docker`
 * run `fetch_apache.sh` to make sure a local copy of the Apache Tomcat bundle is available
+* ensure that Apache Ant is installed and executable on the command line as `ant`
 * run `make pkg` to compile the whole _BioAssay Express_ project, and prepare a customized bundle for this purpose
 * run `make build` to setup the docker container and copy over all the necessary files
 * start the docker container with `make start`

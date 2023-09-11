@@ -6,8 +6,8 @@
 
 setenv LIB lib
 
-#setenv CLASSPATH web/WEB-INF/classes
-setenv CLASSPATH build/classes
+setenv CLASSPATH web/WEB-INF/classes
+# setenv CLASSPATH build/classes
 setenv CLASSPATH ${CLASSPATH}:../bax/bin
 
 setenv CLASSPATH ${CLASSPATH}:${LIB}/cdk-core-2.2-SNAPSHOT.jar
@@ -102,7 +102,7 @@ setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/tomcat-util.jar
 setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/tomcat-websocket.jar
 setenv CLASSPATH ${CLASSPATH}:${TOMCATLIB}/websocket-api.jar
 
-# echo $CLASSPATH
+echo $CLASSPATH
 
 setenv PROPS ""
 setenv PROPS "${PROPS} -Dlog4j.configuration=file:cfg/log4j.properties"
