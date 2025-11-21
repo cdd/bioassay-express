@@ -1,8 +1,8 @@
 # BioAssay Express
 
-The _BioAssay Express_ (BAE) project allows bioassay protocols to be conveniently annotated using semantic web terminology, from a variety of ontologies (e.g. BAO, DTO, CLO, GO, etc). It provides a web-based interface that makes selection of terms straightforward, and leverages natural language models to try and propose the most likely options. Also provides hosting of data from PubChem assays, and features for searching the assays.
+**Status notice:** this project is no longer maintained. The codebase is not receiving security updates, so deploying it to public environments is not advised.
 
-See the [Production Server](https://www.bioassayexpress.com) for an example of it running in real life.
+The _BioAssay Express_ (BAE) project allows bioassay protocols to be conveniently annotated using semantic web terminology, from a variety of ontologies (e.g. BAO, DTO, CLO, GO, etc). It provides a web-based interface that makes selection of terms straightforward, and leverages natural language models to try and propose the most likely options. Also provides hosting of data from PubChem assays, and features for searching the assays.
 
 The project has been open source (Apache) since 11 September 2023.
 
@@ -24,8 +24,6 @@ Probably the easiest way to get running with a local instance of _BioAssay Expre
 * run `make pkg` to compile the whole _BioAssay Express_ project, and prepare a customized bundle for this purpose
 * run `make build` to setup the docker container and copy over all the necessary files
 * start the docker container with `make start`
-
-Note that the docker container contains templates, vocabulary and assays: the assay data that is uploaded into the BAE instance on starting is the publicly available curated content from the active [public server](https://beta.bioassayexpress.com), and can be browsed and manipulated locally.
 
 ## Setup
 
